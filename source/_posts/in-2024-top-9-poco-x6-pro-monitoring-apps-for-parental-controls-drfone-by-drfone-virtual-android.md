@@ -1,7 +1,7 @@
 ---
 title: In 2024, Top 9 Poco X6 Pro Monitoring Apps for Parental Controls | Dr.fone
-date: 2024-04-01T11:40:33.145Z
-updated: 2024-04-02T11:40:33.145Z
+date: 2024-04-01T12:22:27.976Z
+updated: 2024-04-02T12:22:27.976Z
 tags: 
   - virtual location change
   - location track
