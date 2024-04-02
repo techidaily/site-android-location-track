@@ -1,7 +1,7 @@
 ---
 title: In 2024, Ways to stop parent tracking your Poco X6 Pro | Dr.fone
-date: 2024-04-01T06:22:12.000Z
-updated: 2024-04-02T06:22:12.000Z
+date: 2024-04-01T11:40:33.143Z
+updated: 2024-04-02T11:40:33.143Z
 tags: 
   - virtual location change
   - location track
