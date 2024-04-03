@@ -1,7 +1,7 @@
 ---
 title: How to Spy on Text Messages from Computer & Poco X6 | Dr.fone
-date: 2024-04-01T12:22:28.003Z
-updated: 2024-04-02T12:22:28.003Z
+date: 2024-04-02T00:08:41.195Z
+updated: 2024-04-03T00:08:41.195Z
 tags: 
   - virtual location change
   - location track

@@ -1,7 +1,7 @@
 ---
 title: In 2024, 2 Ways to Monitor Poco X6 Pro Activity | Dr.fone
-date: 2024-04-01T12:22:27.977Z
-updated: 2024-04-02T12:22:27.977Z
+date: 2024-04-02T00:08:41.170Z
+updated: 2024-04-03T00:08:41.170Z
 tags: 
   - virtual location change
   - location track
