@@ -1,7 +1,7 @@
 ---
 title: Ways to stop parent tracking your Sony Xperia 5 V | Dr.fone
-date: 2024-04-12T12:55:18.785Z
-updated: 2024-04-13T12:55:18.785Z
+date: 2024-04-30T06:31:03.574Z
+updated: 2024-05-01T06:31:03.574Z
 tags: 
   - virtual location change
   - location track
@@ -330,3 +330,4 @@ device will however make it easier for the Sony Xperia 5 V device’s owner to f
 <li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-data-from-11-pro-by-fonelab-android-recover-data/" ><u>Easy steps to recover deleted data from 11 Pro</u></a></li>
 <li><a href="https://review-topics.techidaily.com/mov-playback-issues-on-xiaomi-redmi-12-5g-by-aiseesoft-video-converter-play-mov-on-android/" ><u>MOV playback issues on Xiaomi Redmi 12 5G</u></a></li>
 </ul></div>
+

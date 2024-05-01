@@ -364,3 +364,4 @@ device will however make it easier for the Samsung Galaxy XCover 6 Pro Tactical 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+

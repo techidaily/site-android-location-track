@@ -1,7 +1,7 @@
 ---
 title: How to Track a Lost Sony Xperia 5 V for Free? | Dr.fone
-date: 2024-04-12T12:55:18.901Z
-updated: 2024-04-13T12:55:18.901Z
+date: 2024-04-30T06:31:03.591Z
+updated: 2024-05-01T06:31:03.591Z
 tags: 
   - virtual location change
   - location track
@@ -404,3 +404,4 @@ There are several instances such as in the excitement of getting a new phone tha
 <li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-vivo-s17e-hard-reset-drfone-by-drfone-reset-android-reset-android/" ><u>4 Easy Ways for Your Vivo S17e Hard Reset | Dr.fone</u></a></li>
 <li><a href="https://change-location.techidaily.com/how-to-deal-with-the-samsung-galaxy-s24plus-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/" ><u>How To Deal With the Samsung Galaxy S24+ Screen Black But Still Works? | Dr.fone</u></a></li>
 </ul></div>
+

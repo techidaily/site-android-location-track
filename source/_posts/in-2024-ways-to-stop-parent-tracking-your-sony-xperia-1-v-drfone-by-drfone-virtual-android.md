@@ -1,7 +1,7 @@
 ---
 title: In 2024, Ways to stop parent tracking your Sony Xperia 1 V | Dr.fone
-date: 2024-04-12T12:55:18.010Z
-updated: 2024-04-13T12:55:18.010Z
+date: 2024-04-30T06:31:03.474Z
+updated: 2024-05-01T06:31:03.474Z
 tags: 
   - virtual location change
   - location track
@@ -366,3 +366,4 @@ AR game tricks
 <li><a href="https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-vivo-s17e-drfone-by-drfone-virtual-android/" ><u>In 2024, Top 10 Best Spy Watches For your Vivo S17e | Dr.fone</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-vivo-t2-5g-for-free-drfone-by-drfone-virtual-android/" ><u>In 2024, How to Track a Lost Vivo T2 5G for Free? | Dr.fone</u></a></li>
 </ul></div>
+

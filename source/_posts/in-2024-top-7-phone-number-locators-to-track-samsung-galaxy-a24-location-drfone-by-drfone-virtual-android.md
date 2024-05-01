@@ -392,3 +392,4 @@ Since KidsGuard Pro is compatible with all the leading Android and iOS devices, 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+

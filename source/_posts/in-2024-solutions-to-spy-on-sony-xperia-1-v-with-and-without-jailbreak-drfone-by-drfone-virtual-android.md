@@ -1,7 +1,7 @@
 ---
 title: In 2024, Solutions to Spy on Sony Xperia 1 V with and without jailbreak | Dr.fone
-date: 2024-04-12T12:55:17.992Z
-updated: 2024-04-13T12:55:17.992Z
+date: 2024-04-30T06:31:03.472Z
+updated: 2024-05-01T06:31:03.472Z
 tags: 
   - virtual location change
   - location track
@@ -274,3 +274,4 @@ AR game tricks
 <li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-oneplus-nord-n30-se-drfone-by-drfone-virtual-android/" ><u>Top 10 Best Spy Watches For your OnePlus Nord N30 SE | Dr.fone</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-htc-u23-without-them-knowing-drfone-by-drfone-virtual-android/" ><u>In 2024, Top 5 Tracking Apps to Track HTC U23 without Them Knowing | Dr.fone</u></a></li>
 </ul></div>
+

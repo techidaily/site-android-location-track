@@ -1,7 +1,7 @@
 ---
 title: How to Turn Off Google Location to Stop Tracking You on Sony Xperia 10 V | Dr.fone
-date: 2024-04-12T12:55:18.432Z
-updated: 2024-04-13T12:55:18.432Z
+date: 2024-04-30T06:31:03.537Z
+updated: 2024-05-01T06:31:03.537Z
 tags: 
   - virtual location change
   - location track
@@ -445,3 +445,4 @@ AR game tricks
 <li><a href="https://howto.techidaily.com/calls-on-samsung-galaxy-a54-5g-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/" ><u>Calls on Samsung Galaxy A54 5G Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-play-an-mp4-on-moto-g34-5g-by-aiseesoft-video-converter-play-mp4-on-android/" ><u>How to play an MP4 on Moto G34 5G?</u></a></li>
 </ul></div>
+

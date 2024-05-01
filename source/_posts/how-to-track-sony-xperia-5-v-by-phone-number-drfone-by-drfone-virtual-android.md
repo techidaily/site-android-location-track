@@ -1,7 +1,7 @@
 ---
 title: How to Track Sony Xperia 5 V by Phone Number | Dr.fone
-date: 2024-04-12T12:55:18.815Z
-updated: 2024-04-13T12:55:18.815Z
+date: 2024-04-30T06:31:03.576Z
+updated: 2024-05-01T06:31:03.576Z
 tags: 
   - virtual location change
   - location track
@@ -408,3 +408,4 @@ At some point, we cannot deny that Google location services make our lives a lot
 <li><a href="https://techidaily.com/how-to-reset-xiaomi-13t-pro-without-the-home-button-drfone-by-drfone-reset-android-reset-android/" ><u>How to Reset Xiaomi 13T Pro Without the Home Button | Dr.fone</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-14-plus-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-by-drfone-ios/" ><u>In 2024, How to Unlock Apple iPhone 14 Plus With an Apple Watch & What to Do if It Doesnt Work</u></a></li>
 </ul></div>
+

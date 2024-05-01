@@ -1,7 +1,7 @@
 ---
 title: Ways to stop parent tracking your Sony Xperia 10 V | Dr.fone
-date: 2024-04-12T12:55:18.259Z
-updated: 2024-04-13T12:55:18.259Z
+date: 2024-04-30T06:31:03.508Z
+updated: 2024-05-01T06:31:03.508Z
 tags: 
   - virtual location change
   - location track
@@ -473,3 +473,4 @@ Considering how easy it is for someone to spy on you, the best thing you can do 
 <li><a href="https://sim-unlock.techidaily.com/in-2024-ways-to-find-unlocking-codes-for-sony-xperia-10-v-phones-by-drfone-android/" ><u>In 2024, Ways To Find Unlocking Codes For Sony Xperia 10 V Phones</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-apple-iphone-se-mirror-to-pc-top-apps-you-must-know-drfone-by-drfone-ios/" ><u>In 2024, Apple iPhone SE Mirror to PC? Top Apps You Must Know | Dr.fone</u></a></li>
 </ul></div>
+

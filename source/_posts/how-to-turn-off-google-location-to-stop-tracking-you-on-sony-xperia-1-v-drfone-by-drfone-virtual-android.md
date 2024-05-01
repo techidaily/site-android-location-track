@@ -1,7 +1,7 @@
 ---
 title: How to Turn Off Google Location to Stop Tracking You on Sony Xperia 1 V | Dr.fone
-date: 2024-04-12T12:55:17.915Z
-updated: 2024-04-13T12:55:17.915Z
+date: 2024-04-30T06:31:03.461Z
+updated: 2024-05-01T06:31:03.461Z
 tags: 
   - virtual location change
   - location track
@@ -581,3 +581,4 @@ The 9 Apps/software listed above are the best to monitor Android and iPhones. Ev
 <li><a href="https://android-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-motorola-moto-g-stylus-2023-drfone-by-drfone-virtual-android/" ><u>How to Detect and Remove Spyware on Motorola Moto G Stylus (2023)? | Dr.fone</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/in-2024-top-9-oppo-find-x6-pro-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/" ><u>In 2024, Top 9 Oppo Find X6 Pro Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
 </ul></div>
+

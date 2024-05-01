@@ -1,7 +1,7 @@
 ---
 title: Ways to stop parent tracking your Sony Xperia 1 V | Dr.fone
-date: 2024-04-12T12:55:17.742Z
-updated: 2024-04-13T12:55:17.742Z
+date: 2024-04-30T06:31:03.425Z
+updated: 2024-05-01T06:31:03.425Z
 tags: 
   - virtual location change
   - location track
@@ -459,3 +459,4 @@ Now when you know about some of the best tracking apps out there, you can easily
 <li><a href="https://android-location-track.techidaily.com/3-ways-to-track-oppo-reno-8t-without-them-knowing-drfone-by-drfone-virtual-android/" ><u>3 Ways to Track Oppo Reno 8T without Them Knowing | Dr.fone</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-oppo-a2-location-without-installing-software-drfone-by-drfone-virtual-android/" ><u>In 2024, How to Track Oppo A2 Location without Installing Software? | Dr.fone</u></a></li>
 </ul></div>
+

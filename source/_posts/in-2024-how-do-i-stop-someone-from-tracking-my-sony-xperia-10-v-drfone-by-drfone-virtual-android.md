@@ -1,7 +1,7 @@
 ---
 title: In 2024, How Do I Stop Someone From Tracking My Sony Xperia 10 V? | Dr.fone
-date: 2024-04-12T12:55:18.496Z
-updated: 2024-04-13T12:55:18.496Z
+date: 2024-04-30T06:31:03.544Z
+updated: 2024-05-01T06:31:03.544Z
 tags: 
   - virtual location change
   - location track
@@ -378,3 +378,4 @@ Considering how easy it is for someone to spy on you, the best thing you can do 
 <li><a href="https://howto.techidaily.com/what-to-do-if-your-lava-blaze-pro-5g-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/" ><u>What To Do if Your Lava Blaze Pro 5G Auto Does Not Work | Dr.fone</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-lava-storm-5g-pictures-an-easy-method-explained-by-fonelab-android-recover-pictures/" ><u>How to Restore Deleted Lava Storm 5G Pictures  An Easy Method Explained.</u></a></li>
 </ul></div>
+
