@@ -1,7 +1,7 @@
 ---
 title: How to Intercept Text Messages on Lava Agni 2 5G | Dr.fone
-date: 2024-04-30T06:31:36.423Z
-updated: 2024-05-01T06:31:36.423Z
+date: 2024-05-20T01:22:27.164Z
+updated: 2024-05-21T01:22:27.164Z
 tags: 
   - virtual location change
   - location track
@@ -319,4 +319,5 @@ AR game tricks
 <li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-a24-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Samsung Galaxy A24 Phone Password Without Factory Reset?</u></a></li>
 <li><a href="https://change-location.techidaily.com/in-2024-how-to-use-ispoofer-on-samsung-galaxy-xcover-7-drfone-by-drfone-virtual-android/"><u>In 2024, How to use iSpoofer on Samsung Galaxy XCover 7? | Dr.fone</u></a></li>
 </ul></div>
+
 

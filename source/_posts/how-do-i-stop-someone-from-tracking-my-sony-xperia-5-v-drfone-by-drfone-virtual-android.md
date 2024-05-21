@@ -1,7 +1,7 @@
 ---
 title: How Do I Stop Someone From Tracking My Sony Xperia 5 V? | Dr.fone
-date: 2024-04-30T06:31:03.571Z
-updated: 2024-05-01T06:31:03.571Z
+date: 2024-05-20T01:22:17.236Z
+updated: 2024-05-21T01:22:17.236Z
 tags: 
   - virtual location change
   - location track
@@ -469,4 +469,5 @@ We have solid proof that the above methods are successful. Now it’s easy to tr
 <li><a href="https://unlock-android.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-xiaomi-redmi-12-by-drfone-android/" ><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Xiaomi Redmi 12</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-mov-files-of-realme-narzo-60x-5g-using-video-repair-utility-on-windows-by-stellar-video-repair-mobile-video-repair/" ><u>How to Repair corrupt MP4 and MOV files of Realme Narzo 60x 5G using Video Repair Utility on Windows? </u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How Do I Stop Someone From Tracking My Lava Blaze 2? | Dr.fone
-date: 2024-04-30T06:31:21.910Z
-updated: 2024-05-01T06:31:21.910Z
+date: 2024-05-20T01:22:26.390Z
+updated: 2024-05-21T01:22:26.390Z
 tags: 
   - virtual location change
   - location track
@@ -477,4 +477,5 @@ Now when you know about some of the best tracking apps out there, you can easily
 <li><a href="https://phone-solutions.techidaily.com/3-easy-solutions-to-hard-reset-tecno-spark-go-2024-drfone-by-drfone-reset-android-reset-android/"><u>3 Easy Solutions to Hard Reset Tecno Spark Go (2024) | Dr.fone</u></a></li>
 <li><a href="https://review-topics.techidaily.com/recover-your-photos-after-samsung-galaxy-s24-ultra-has-been-deleted-by-fonelab-android-recover-photos/"><u>Recover your photos after Samsung Galaxy S24 Ultra has been deleted.</u></a></li>
 </ul></div>
+
 

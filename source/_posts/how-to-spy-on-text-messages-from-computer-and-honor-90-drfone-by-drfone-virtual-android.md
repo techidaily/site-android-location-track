@@ -340,3 +340,4 @@ We hope you find this guide and instructions herein useful. We recommend you to 
 <li><a href="https://fix-guide.techidaily.com/itel-p55t-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Itel P55T Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
 </ul></div>
 
+

@@ -1,7 +1,7 @@
 ---
 title: How Do I Stop Someone From Tracking My Sony Xperia 1 V? | Dr.fone
-date: 2024-04-30T06:31:03.412Z
-updated: 2024-05-01T06:31:03.412Z
+date: 2024-05-20T01:22:15.685Z
+updated: 2024-05-21T01:22:15.685Z
 tags: 
   - virtual location change
   - location track
@@ -390,4 +390,5 @@ When it comes to finding a solution to locating your cell phone in the event it 
 <li><a href="https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-oneplus-ace-2v-drfone-by-drfone-virtual-android/" ><u>In 2024, How Do I Stop Someone From Tracking My OnePlus Ace 2V? | Dr.fone</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/in-2024-top-6-appsservices-to-trace-any-oneplus-ace-2-location-by-mobile-number-drfone-by-drfone-virtual-android/" ><u>In 2024, Top 6 Apps/Services to Trace Any OnePlus Ace 2 Location By Mobile Number | Dr.fone</u></a></li>
 </ul></div>
+
 

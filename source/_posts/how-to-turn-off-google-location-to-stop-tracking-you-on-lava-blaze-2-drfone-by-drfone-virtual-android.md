@@ -1,7 +1,7 @@
 ---
 title: How to Turn Off Google Location to Stop Tracking You on Lava Blaze 2 | Dr.fone
-date: 2024-04-30T06:31:26.434Z
-updated: 2024-05-01T06:31:26.434Z
+date: 2024-05-20T01:22:26.663Z
+updated: 2024-05-21T01:22:26.663Z
 tags: 
   - virtual location change
   - location track
@@ -468,4 +468,5 @@ AR game tricks
 <li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-from-vivo-y100-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Vivo Y100 FRP Bypass</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/in-2024-unlock-your-boost-mobile-iphone-6s-plus-before-the-plan-expires-by-drfone-ios/"><u>In 2024, Unlock Your Boost Mobile iPhone 6s Plus Before the Plan Expires</u></a></li>
 </ul></div>
+
 

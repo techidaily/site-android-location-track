@@ -673,3 +673,4 @@ Since KidsGuard Pro is compatible with all the leading Android and iOS devices, 
 <li><a href="https://change-location.techidaily.com/how-to-deal-with-the-infinix-note-30-5g-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the Infinix Note 30 5G Screen Black But Still Works? | Dr.fone</u></a></li>
 </ul></div>
 
+

@@ -1,7 +1,7 @@
 ---
 title: Solutions to Spy on Sony Xperia 1 V with and without jailbreak | Dr.fone
-date: 2024-04-30T06:31:03.415Z
-updated: 2024-05-01T06:31:03.415Z
+date: 2024-05-20T01:22:15.717Z
+updated: 2024-05-21T01:22:15.717Z
 tags: 
   - virtual location change
   - location track
@@ -429,4 +429,5 @@ The 9 Apps/software listed above are the best to monitor Android and iPhones. Ev
 <li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-htc-u23-pro-by-phone-number-drfone-by-drfone-virtual-android/" ><u>In 2024, How to Track HTC U23 Pro by Phone Number | Dr.fone</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-htc-u23-drfone-by-drfone-virtual-android/" ><u>In 2024, How to Detect and Remove Spyware on HTC U23? | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -384,3 +384,4 @@ There are different methods of knowing where is the mobile you are looking for a
 <li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-tecno-spark-20c-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Tecno Spark 20C? | Dr.fone</u></a></li>
 </ul></div>
 
+

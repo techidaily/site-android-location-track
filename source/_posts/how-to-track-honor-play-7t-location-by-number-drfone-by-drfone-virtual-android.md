@@ -406,3 +406,4 @@ Considering how easy it is for someone to spy on you, the best thing you can do 
 <li><a href="https://ai-editing-video.techidaily.com/updated-how-to-apply-gaussian-blur-effect-to-videos-in-premiere-pro/"><u>Updated How to Apply Gaussian Blur Effect to Videos In Premiere Pro?</u></a></li>
 </ul></div>
 
+

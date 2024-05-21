@@ -1,7 +1,7 @@
 ---
 title: How to Intercept Text Messages on Lava Blaze Curve 5G | Dr.fone
-date: 2024-04-30T06:33:10.877Z
-updated: 2024-05-01T06:33:10.877Z
+date: 2024-05-20T01:22:32.900Z
+updated: 2024-05-21T01:22:32.900Z
 tags: 
   - virtual location change
   - location track
@@ -328,4 +328,5 @@ AR game tricks
 <li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-poco-x5-pro-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Poco X5 Pro? 7 Ways to Resolve | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/how-to-recover-lost-data-of-apple-iphone-8-plus-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Lost Data of Apple iPhone 8 Plus? | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: Top 9 Lava Yuva 3 Pro Monitoring Apps for Parental Controls | Dr.fone
-date: 2024-04-30T06:32:35.827Z
-updated: 2024-05-01T06:32:35.827Z
+date: 2024-05-20T01:22:30.830Z
+updated: 2024-05-21T01:22:30.830Z
 tags: 
   - virtual location change
   - location track
@@ -611,4 +611,5 @@ AR game tricks
 <li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-expert-review-videopad-video-editor-the-good-the-bad-and-the-ugly/"><u>2024 Approved Expert Review Videopad Video Editor - The Good, the Bad, and the Ugly</u></a></li>
 <li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-nokia-g22-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Nokia G22 | Dr.fone</u></a></li>
 </ul></div>
+
 

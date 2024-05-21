@@ -306,3 +306,4 @@ When it comes to finding a solution to locating your cell phone in the event it 
 <li><a href="https://howto.techidaily.com/why-does-my-vivo-y78plus-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Vivo Y78+ Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
 </ul></div>
 
+

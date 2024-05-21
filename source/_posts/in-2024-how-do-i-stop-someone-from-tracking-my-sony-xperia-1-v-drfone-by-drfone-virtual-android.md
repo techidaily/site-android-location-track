@@ -1,7 +1,7 @@
 ---
 title: In 2024, How Do I Stop Someone From Tracking My Sony Xperia 1 V? | Dr.fone
-date: 2024-04-30T06:31:03.470Z
-updated: 2024-05-01T06:31:03.470Z
+date: 2024-05-20T01:22:16.123Z
+updated: 2024-05-21T01:22:16.123Z
 tags: 
   - virtual location change
   - location track
@@ -371,4 +371,5 @@ The above three solutions enable users to monitor more than just text messages. 
 <li><a href="https://android-location-track.techidaily.com/in-2024-top-9-huawei-p60-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/" ><u>In 2024, Top 9 Huawei P60 Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-huawei-nova-y91-drfone-by-drfone-virtual-android/" ><u>How Do I Stop Someone From Tracking My Huawei Nova Y91? | Dr.fone</u></a></li>
 </ul></div>
+
 

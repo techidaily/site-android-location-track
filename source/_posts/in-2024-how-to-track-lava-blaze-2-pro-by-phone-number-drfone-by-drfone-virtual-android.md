@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Track Lava Blaze 2 Pro by Phone Number | Dr.fone
-date: 2024-04-30T06:32:06.286Z
-updated: 2024-05-01T06:32:06.286Z
+date: 2024-05-20T01:22:29.127Z
+updated: 2024-05-21T01:22:29.127Z
 tags: 
   - virtual location change
   - location track
@@ -307,4 +307,5 @@ We hope you find this guide and instructions herein useful. We recommend you to 
 <li><a href="https://howto.techidaily.com/why-your-realme-11-proplus-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Realme 11 Pro+ Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-poco-m6-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Poco M6 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

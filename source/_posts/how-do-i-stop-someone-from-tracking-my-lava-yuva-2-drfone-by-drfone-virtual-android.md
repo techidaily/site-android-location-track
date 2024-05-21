@@ -1,7 +1,7 @@
 ---
 title: How Do I Stop Someone From Tracking My Lava Yuva 2? | Dr.fone
-date: 2024-04-30T06:31:47.361Z
-updated: 2024-05-01T06:31:47.361Z
+date: 2024-05-20T01:22:27.758Z
+updated: 2024-05-21T01:22:27.758Z
 tags: 
   - virtual location change
   - location track
@@ -388,4 +388,5 @@ Tracking a lost phone can be fun and at the same time a daunting task. The outco
 <li><a href="https://android-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-oppo-a78-5g-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Oppo A78 5G FRP</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/how-can-we-bypass-tecno-pova-5-pro-frp-by-drfone-android/"><u>How Can We Bypass Tecno Pova 5 Pro FRP?</u></a></li>
 </ul></div>
+
 

@@ -476,3 +476,4 @@ There are several instances such as in the excitement of getting a new phone tha
 <li><a href="https://techidaily.com/different-methods-for-resetting-lava-blaze-curve-5g-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Lava Blaze Curve 5G Phones with Screen Locked and Not | Dr.fone</u></a></li>
 </ul></div>
 
+

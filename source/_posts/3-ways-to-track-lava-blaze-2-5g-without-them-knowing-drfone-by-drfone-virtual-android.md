@@ -1,7 +1,7 @@
 ---
 title: 3 Ways to Track Lava Blaze 2 5G without Them Knowing | Dr.fone
-date: 2024-04-30T06:32:26.156Z
-updated: 2024-05-01T06:32:26.156Z
+date: 2024-05-20T01:22:30.275Z
+updated: 2024-05-21T01:22:30.275Z
 tags: 
   - virtual location change
   - location track
@@ -415,4 +415,5 @@ AR game tricks
 <li><a href="https://unlock-android.techidaily.com/in-2024-still-using-pattern-locks-with-xiaomi-redmi-12-5g-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Xiaomi Redmi 12 5G? Tips, Tricks and Helpful Advice</u></a></li>
 <li><a href="https://animation-videos.techidaily.com/new-what-wikipedia-cant-tell-you-about-the-10-best-batman-cartoons-for-2024/"><u>New What Wikipedia Cant Tell You About the 10 Best Batman Cartoons for 2024</u></a></li>
 </ul></div>
+
 

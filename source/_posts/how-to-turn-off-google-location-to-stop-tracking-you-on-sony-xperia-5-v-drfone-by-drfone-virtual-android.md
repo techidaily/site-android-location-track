@@ -1,7 +1,7 @@
 ---
 title: How to Turn Off Google Location to Stop Tracking You on Sony Xperia 5 V | Dr.fone
-date: 2024-04-30T06:31:03.600Z
-updated: 2024-05-01T06:31:03.600Z
+date: 2024-05-20T01:22:17.529Z
+updated: 2024-05-21T01:22:17.529Z
 tags: 
   - virtual location change
   - location track
@@ -458,4 +458,5 @@ It’s true that a part of you is out in the open once you go online and surf th
 <li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-tecno-spark-go-2023-here-is-the-answer-drfone-by-drfone-virtual-android/" ><u>Wondering the Best Alternative to Hola On Tecno Spark Go (2023)? Here Is the Answer | Dr.fone</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-14-plus-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-drfone-by-drfone-ios/" ><u>How to Unlock iPhone 14 Plus With an Apple Watch & What to Do if It Doesnt Work | Dr.fone</u></a></li>
 </ul></div>
+
 

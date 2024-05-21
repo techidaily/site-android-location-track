@@ -1,7 +1,7 @@
 ---
 title: Ways to stop parent tracking your Lava Yuva 2 Pro | Dr.fone
-date: 2024-04-30T06:31:10.055Z
-updated: 2024-05-01T06:31:10.055Z
+date: 2024-05-20T01:22:25.722Z
+updated: 2024-05-21T01:22:25.722Z
 tags: 
   - virtual location change
   - location track
@@ -373,4 +373,5 @@ AR game tricks
 <li><a href="https://unlock-android.techidaily.com/how-to-unlock-xiaomi-redmi-note-12-pro-5g-phone-without-password-by-drfone-android/"><u>How To Unlock Xiaomi Redmi Note 12 Pro 5G Phone Without Password?</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-samsung-galaxy-z-flip-5-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Samsung Galaxy Z Flip 5 Phone</u></a></li>
 </ul></div>
+
 

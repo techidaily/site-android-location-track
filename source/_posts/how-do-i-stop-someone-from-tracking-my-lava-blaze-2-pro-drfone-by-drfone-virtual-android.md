@@ -1,7 +1,7 @@
 ---
 title: How Do I Stop Someone From Tracking My Lava Blaze 2 Pro? | Dr.fone
-date: 2024-04-30T06:31:59.244Z
-updated: 2024-05-01T06:31:59.244Z
+date: 2024-05-20T01:22:28.658Z
+updated: 2024-05-21T01:22:28.658Z
 tags: 
   - virtual location change
   - location track
@@ -412,4 +412,5 @@ We hope you find this guide and instructions herein useful. We recommend you to 
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-infinix-hot-40-pro-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Infinix Hot 40 Pro? | Dr.fone</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-guide-on-how-to-change-your-apple-id-email-address-on-iphone-se-2020-drfone-by-drfone-ios/"><u>In 2024, Guide on How To Change Your Apple ID Email Address On iPhone SE (2020) | Dr.fone</u></a></li>
 </ul></div>
+
 

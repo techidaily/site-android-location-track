@@ -1,7 +1,7 @@
 ---
 title: How to Intercept Text Messages on Lava Yuva 2 | Dr.fone
-date: 2024-04-30T06:31:49.010Z
-updated: 2024-05-01T06:31:49.010Z
+date: 2024-05-20T01:22:27.849Z
+updated: 2024-05-21T01:22:27.849Z
 tags: 
   - virtual location change
   - location track
@@ -459,4 +459,5 @@ It’s true that a part of you is out in the open once you go online and surf th
 <li><a href="https://screen-mirror.techidaily.com/how-to-stream-anything-from-tecno-pova-5-pro-to-apple-tv-drfone-by-drfone-android/"><u>How To Stream Anything From Tecno Pova 5 Pro to Apple TV | Dr.fone</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-lock-from-iphone-6s-plus-by-drfone-ios/"><u>How to Bypass iCloud Lock from iPhone 6s Plus</u></a></li>
 </ul></div>
+
 

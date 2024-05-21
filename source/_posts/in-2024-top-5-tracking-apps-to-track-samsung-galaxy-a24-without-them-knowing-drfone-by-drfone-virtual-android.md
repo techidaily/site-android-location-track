@@ -380,3 +380,4 @@ device will however make it easier for the Samsung Galaxy A24 device’s owner t
      data-full-width-responsive="true"></ins>
 
 
+

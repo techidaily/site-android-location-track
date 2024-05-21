@@ -1,7 +1,7 @@
 ---
 title: How to Intercept Text Messages on Lava Yuva 2 Pro | Dr.fone
-date: 2024-04-30T06:31:10.818Z
-updated: 2024-05-01T06:31:10.818Z
+date: 2024-05-20T01:22:25.757Z
+updated: 2024-05-21T01:22:25.757Z
 tags: 
   - virtual location change
   - location track
@@ -280,4 +280,5 @@ The above three solutions enable users to monitor more than just text messages. 
 <li><a href="https://screen-mirror.techidaily.com/how-to-cast-infinix-gt-10-pro-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast Infinix GT 10 Pro to Computer for iPhone and Android? | Dr.fone</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-windows-10s-best-kept-secrets-free-video-trimming-software/"><u>New 2024 Approved Windows 10S Best Kept Secrets Free Video Trimming Software</u></a></li>
 </ul></div>
+
 

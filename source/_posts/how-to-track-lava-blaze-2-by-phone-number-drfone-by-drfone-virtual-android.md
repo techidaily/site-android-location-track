@@ -1,7 +1,7 @@
 ---
 title: How to Track Lava Blaze 2 by Phone Number | Dr.fone
-date: 2024-04-30T06:31:23.357Z
-updated: 2024-05-01T06:31:23.357Z
+date: 2024-05-20T01:22:26.472Z
+updated: 2024-05-21T01:22:26.472Z
 tags: 
   - virtual location change
   - location track
@@ -420,4 +420,5 @@ The 9 Apps/software listed above are the best to monitor Android and iPhones. Ev
 <li><a href="https://iphone-unlock.techidaily.com/complete-guide-on-unlocking-apple-iphone-14-pro-max-with-a-broken-screen-drfone-by-drfone-ios/"><u>Complete Guide on Unlocking Apple iPhone 14 Pro Max with a Broken Screen? | Dr.fone</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/how-to-unlock-t-mobile-apple-iphone-12-mini-online-without-sim-card-by-drfone-ios/"><u>How to Unlock T-Mobile Apple iPhone 12 mini online without SIM Card?</u></a></li>
 </ul></div>
+
 

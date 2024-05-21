@@ -283,3 +283,4 @@ Since KidsGuard Pro is compatible with all the leading Android and iOS devices, 
 <li><a href="https://screen-mirror.techidaily.com/how-to-cast-lava-blaze-2-5g-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Lava Blaze 2 5G Screen to PC Using WiFi | Dr.fone</u></a></li>
 </ul></div>
 
+

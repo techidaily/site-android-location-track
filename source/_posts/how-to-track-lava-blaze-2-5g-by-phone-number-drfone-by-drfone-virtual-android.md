@@ -1,7 +1,7 @@
 ---
 title: How to Track Lava Blaze 2 5G by Phone Number | Dr.fone
-date: 2024-04-30T06:32:23.878Z
-updated: 2024-05-01T06:32:23.878Z
+date: 2024-05-20T01:22:30.131Z
+updated: 2024-05-21T01:22:30.131Z
 tags: 
   - virtual location change
   - location track
@@ -392,4 +392,5 @@ Since KidsGuard Pro is compatible with all the leading Android and iOS devices, 
 <li><a href="https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-realme-11x-5g-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Realme 11X 5G | Dr.fone</u></a></li>
 <li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlock-apple-id-from-your-iphone-8-without-security-questions-by-drfone-ios/"><u>In 2024, How to Unlock Apple ID From your iPhone 8 without Security Questions?</u></a></li>
 </ul></div>
+
 

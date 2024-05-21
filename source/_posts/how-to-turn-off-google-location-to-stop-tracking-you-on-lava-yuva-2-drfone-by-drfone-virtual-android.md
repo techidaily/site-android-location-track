@@ -1,7 +1,7 @@
 ---
 title: How to Turn Off Google Location to Stop Tracking You on Lava Yuva 2 | Dr.fone
-date: 2024-04-30T06:31:51.958Z
-updated: 2024-05-01T06:31:51.958Z
+date: 2024-05-20T01:22:28.031Z
+updated: 2024-05-21T01:22:28.031Z
 tags: 
   - virtual location change
   - location track
@@ -491,4 +491,5 @@ When it comes to spoofing your WhatsApp location to avoid being tracked by other
 <li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-itel-a70-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On Itel A70? | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-apple-iphone-11-drfone-by-drfone-virtual-ios/"><u>What is Geo-Blocking and How to Bypass it On Apple iPhone 11? | Dr.fone</u></a></li>
 </ul></div>
+
 

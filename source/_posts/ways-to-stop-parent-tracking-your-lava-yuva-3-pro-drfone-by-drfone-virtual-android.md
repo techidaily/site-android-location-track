@@ -1,7 +1,7 @@
 ---
 title: Ways to stop parent tracking your Lava Yuva 3 Pro | Dr.fone
-date: 2024-04-30T06:32:34.999Z
-updated: 2024-05-01T06:32:34.999Z
+date: 2024-05-20T01:22:30.782Z
+updated: 2024-05-21T01:22:30.782Z
 tags: 
   - virtual location change
   - location track
@@ -463,4 +463,5 @@ At some point, we cannot deny that Google location services make our lives a lot
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-tecno-phantom-v-fold-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Tecno Phantom V Fold to Mac? | Dr.fone</u></a></li>
 <li><a href="https://change-location.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-samsung-galaxy-f15-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On Samsung Galaxy F15 5G? | Dr.fone</u></a></li>
 </ul></div>
+
 
