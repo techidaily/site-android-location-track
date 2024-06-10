@@ -1,7 +1,7 @@
 ---
 title: How to Track a Lost Motorola Edge 40 Pro for Free? | Dr.fone
-date: 2024-05-20T01:22:39.499Z
-updated: 2024-05-21T01:22:39.499Z
+date: 2024-06-09T18:34:02.623Z
+updated: 2024-06-10T18:34:02.623Z
 tags: 
   - virtual location change
   - location track
@@ -10,7 +10,7 @@ categories:
 description: This article describes How to Track a Lost Motorola Edge 40 Pro for Free?
 excerpt: This article describes How to Track a Lost Motorola Edge 40 Pro for Free?
 keywords: Location Track for Edge 40 Pro,track location
-thumbnail: https://www.lifewire.com/thmb/KQEPD1j8h_qKr2PB3tJ6qZQQ508=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-104626001-5c34f065c9e77c00010b8cd5.jpg
+thumbnail: https://thmb.techidaily.com/ffa6265ad1a6a848473605e7aedcfa3ec46ffbe39326ff49e8d4fafd11fa0e00.jpg
 ---
 
 ## How to Track a Lost Motorola Edge 40 Pro for Free?

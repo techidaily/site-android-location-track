@@ -1,7 +1,7 @@
 ---
 title: How Do I Stop Someone From Tracking My Oppo A79 5G? | Dr.fone
-date: 2024-05-20T01:23:26.647Z
-updated: 2024-05-21T01:23:26.647Z
+date: 2024-06-09T18:32:19.575Z
+updated: 2024-06-10T18:32:19.575Z
 tags: 
   - virtual location change
   - location track
@@ -10,7 +10,7 @@ categories:
 description: This article describes How Do I Stop Someone From Tracking My Oppo A79 5G?
 excerpt: This article describes How Do I Stop Someone From Tracking My Oppo A79 5G?
 keywords: Location Track for A79 5G,track location
-thumbnail: https://www.lifewire.com/thmb/OhMYY4yKeVVtP9XO0SmqFIVtLJg=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/dualsenseedge-749ef030e3c84376926d817913be924b.jpg
+thumbnail: https://thmb.techidaily.com/2738dcb65655ca3023848f9ec7026a9cce211e70815a31f4f65d2f9ea9ded629.jpg
 ---
 
 ## How Do I Stop Someone From Tracking My Oppo A79 5G?

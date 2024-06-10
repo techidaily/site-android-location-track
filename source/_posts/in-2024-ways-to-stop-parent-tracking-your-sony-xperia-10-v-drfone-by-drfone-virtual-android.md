@@ -1,7 +1,7 @@
 ---
 title: In 2024, Ways to stop parent tracking your Sony Xperia 10 V | Dr.fone
-date: 2024-05-20T01:22:16.937Z
-updated: 2024-05-21T01:22:16.937Z
+date: 2024-06-09T18:32:41.893Z
+updated: 2024-06-10T18:32:41.893Z
 tags: 
   - virtual location change
   - location track
@@ -10,7 +10,7 @@ categories:
 description: This article describes Ways to stop parent tracking your Sony Xperia 10 V
 excerpt: This article describes Ways to stop parent tracking your Sony Xperia 10 V
 keywords: Location Track for Xperia 10 V,track location
-thumbnail: https://www.lifewire.com/thmb/vyzcJX9d4xPRDFBKmvNTGXpael0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-944229620-9cff560054804b72a431e9492c7445b4.jpg
+thumbnail: https://thmb.techidaily.com/e271cbb6eb6a65ff2648f6dddd1fc0c078a843660eba98a715724fa951b431ee.jpg
 ---
 
 ## Ways to stop parent tracking your Sony Xperia 10 V

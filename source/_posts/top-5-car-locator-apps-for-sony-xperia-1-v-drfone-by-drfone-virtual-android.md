@@ -1,7 +1,7 @@
 ---
 title: Top 5 Car Locator Apps for Sony Xperia 1 V | Dr.fone
-date: 2024-05-20T01:22:15.615Z
-updated: 2024-05-21T01:22:15.615Z
+date: 2024-06-09T18:32:55.933Z
+updated: 2024-06-10T18:32:55.933Z
 tags: 
   - virtual location change
   - location track
@@ -10,7 +10,7 @@ categories:
 description: This article describes Top 5 Car Locator Apps for Sony Xperia 1 V
 excerpt: This article describes Top 5 Car Locator Apps for Sony Xperia 1 V
 keywords: track location,Location Track for Xperia 1 V
-thumbnail: https://www.lifewire.com/thmb/YPMhKL59WGdTUpxCrpaB_OS--cc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-set-up-speech-to-text-on-android-0-928c48ab121248f9aa543a136d971f9a.jpg
+thumbnail: https://thmb.techidaily.com/2e5cadcabaa5bc146e9286cd6ccf5e30c43742afdff538e1080a5add013b39bf.jpg
 ---
 
 ## Top 5 Car Locator Apps for Sony Xperia 1 V

@@ -1,7 +1,7 @@
 ---
 title: How to Track a Lost Infinix Note 30 VIP for Free? | Dr.fone
-date: 2024-04-30T06:52:05.108Z
-updated: 2024-05-01T06:52:05.108Z
+date: 2024-06-09T18:34:39.836Z
+updated: 2024-06-10T18:34:39.836Z
 tags: 
   - virtual location change
   - location track
@@ -10,7 +10,7 @@ categories:
 description: This article describes How to Track a Lost Infinix Note 30 VIP for Free?
 excerpt: This article describes How to Track a Lost Infinix Note 30 VIP for Free?
 keywords: track location,Location Track for Note 30 VIP
-thumbnail: https://www.lifewire.com/thmb/kq2_pYjL3lBcvd_iWUGjf8TYdhc=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Sony-PS5-PlayStation-5-Gaming-Console-7-1434c073922c4bf59bca47a33013a6dd.jpg
+thumbnail: https://thmb.techidaily.com/778dacc021ae6d569afd3e62fa61bf15ba6fe429d937373bba78e772659986e3.jpg
 ---
 
 ## How to Track a Lost Infinix Note 30 VIP for Free?

@@ -1,7 +1,7 @@
 ---
 title: Top 4 Ways to Trace Lava Yuva 2 Pro Location | Dr.fone
-date: 2024-05-20T01:22:25.731Z
-updated: 2024-05-21T01:22:25.731Z
+date: 2024-06-09T18:31:58.611Z
+updated: 2024-06-10T18:31:58.611Z
 tags: 
   - virtual location change
   - location track
@@ -10,7 +10,7 @@ categories:
 description: This article describes Top 4 Ways to Trace Lava Yuva 2 Pro Location
 excerpt: This article describes Top 4 Ways to Trace Lava Yuva 2 Pro Location
 keywords: track location,Location Track for Yuva 2 Pro
-thumbnail: https://www.lifewire.com/thmb/-_m0G8vbbxxIlkvVQDjlQ1eCN-4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-541916248-593842a43df78c537be2cf44.jpg
+thumbnail: https://thmb.techidaily.com/69a1f779573ffb1d9703aa1f0c2a82407b77bc35052e19faef90f3eeabcd3dc4.jpg
 ---
 
 ## Top 4 Ways to Trace Lava Yuva 2 Pro Location

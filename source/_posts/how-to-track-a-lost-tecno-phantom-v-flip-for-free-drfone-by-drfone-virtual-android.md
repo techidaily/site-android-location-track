@@ -1,7 +1,7 @@
 ---
 title: How to Track a Lost Tecno Phantom V Flip for Free? | Dr.fone
-date: 2024-04-30T06:52:13.795Z
-updated: 2024-05-01T06:52:13.795Z
+date: 2024-06-09T18:34:20.070Z
+updated: 2024-06-10T18:34:20.070Z
 tags: 
   - virtual location change
   - location track
@@ -10,7 +10,7 @@ categories:
 description: This article describes How to Track a Lost Tecno Phantom V Flip for Free?
 excerpt: This article describes How to Track a Lost Tecno Phantom V Flip for Free?
 keywords: track location,Location Track for Phantom V Flip
-thumbnail: https://www.lifewire.com/thmb/kaKmEcJ4wgeshIkJ4JE3bp3u-NU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1369568023-c596ac8d6b5a4f3682bda2fa0feb12bd.jpg
+thumbnail: https://thmb.techidaily.com/bdaef56e02cc4aa00f3e70ad3df4b912e80b691b8ee44c6197adf88943656c52.jpg
 ---
 
 ## How to Track a Lost Tecno Phantom V Flip for Free?

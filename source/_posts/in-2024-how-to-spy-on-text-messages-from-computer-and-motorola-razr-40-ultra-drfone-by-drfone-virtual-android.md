@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Spy on Text Messages from Computer & Motorola Razr 40 Ultra | Dr.fone
-date: 2024-05-20T01:22:43.080Z
-updated: 2024-05-21T01:22:43.080Z
+date: 2024-06-09T18:33:58.032Z
+updated: 2024-06-10T18:33:58.032Z
 tags: 
   - virtual location change
   - location track
@@ -10,7 +10,7 @@ categories:
 description: This article describes How to Spy on Text Messages from Computer & Motorola Razr 40 Ultra
 excerpt: This article describes How to Spy on Text Messages from Computer & Motorola Razr 40 Ultra
 keywords: Location Track for Razr 40 Ultra,track location
-thumbnail: https://www.lifewire.com/thmb/9P6TB9sqO-6Yq23O2BOj91c-Cvg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-541365354-5c8ad42246e0fb00014a9687.jpg
+thumbnail: https://thmb.techidaily.com/bfe8f97d519484170998bced830c25ea7c96c9f9fefb2b304db02c765d66484d.jpg
 ---
 
 ## How to Spy on Text Messages from Computer & Motorola Razr 40 Ultra

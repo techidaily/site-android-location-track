@@ -1,7 +1,7 @@
 ---
 title: How to Intercept Text Messages on Infinix Note 30 Pro | Dr.fone
-date: 2024-04-12T12:57:41.638Z
-updated: 2024-04-13T12:57:41.638Z
+date: 2024-06-09T18:33:10.909Z
+updated: 2024-06-10T18:33:10.909Z
 tags: 
   - virtual location change
   - location track
@@ -10,7 +10,7 @@ categories:
 description: This article describes How to Intercept Text Messages on Infinix Note 30 Pro
 excerpt: This article describes How to Intercept Text Messages on Infinix Note 30 Pro
 keywords: Location Track for Note 30 Pro,track location
-thumbnail: https://www.lifewire.com/thmb/NJLgSOS-_Qq21qgfdWY713OPYzI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-527803604-ad6f389c89ff4be1b953a3c2cdc64c09.jpg
+thumbnail: https://thmb.techidaily.com/a362218194355c666b0860326aa79761dfe27d2518f12f424f4610cd1ffe517b.jpg
 ---
 
 ## How to Intercept Text Messages on Infinix Note 30 Pro

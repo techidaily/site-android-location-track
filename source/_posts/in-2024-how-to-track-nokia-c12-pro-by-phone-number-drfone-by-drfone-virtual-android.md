@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Track Nokia C12 Pro by Phone Number | Dr.fone
-date: 2024-05-20T01:22:54.174Z
-updated: 2024-05-21T01:22:54.174Z
+date: 2024-06-09T18:32:27.827Z
+updated: 2024-06-10T18:32:27.827Z
 tags: 
   - virtual location change
   - location track
@@ -10,7 +10,7 @@ categories:
 description: This article describes How to Track Nokia C12 Pro by Phone Number
 excerpt: This article describes How to Track Nokia C12 Pro by Phone Number
 keywords: Location Track for C12 Pro,track location
-thumbnail: https://www.lifewire.com/thmb/RZ6a_Dm3h0STkAi4OwMdfZPBurY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/DTS-Virtual-X-logo-w-illustration-xxbb-59403d7b3df78c537b1ef6b2.jpg
+thumbnail: https://thmb.techidaily.com/73ab3c04255810df2615a2a01c8a14174dd9b221f2d60ec5b3831dd32989cbba.jpg
 ---
 
 ## How to Track Nokia C12 Pro by Phone Number

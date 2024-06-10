@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Spy on Text Messages from Computer & Nokia G42 5G | Dr.fone
-date: 2024-05-20T01:22:57.577Z
-updated: 2024-05-21T01:22:57.577Z
+date: 2024-06-09T18:33:42.057Z
+updated: 2024-06-10T18:33:42.057Z
 tags: 
   - virtual location change
   - location track
@@ -10,7 +10,7 @@ categories:
 description: This article describes How to Spy on Text Messages from Computer & Nokia G42 5G
 excerpt: This article describes How to Spy on Text Messages from Computer & Nokia G42 5G
 keywords: Location Track for G42 5G,track location
-thumbnail: https://www.lifewire.com/thmb/HEBDZLC1jMr1OKZ2CcKnILwP_lk=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Sonyplaystation5-dc53869451d7416cbb32881a35c3fc32.jpg
+thumbnail: https://thmb.techidaily.com/c3ecdd732aca091f9e06be3caec567f3fcd17c056bf2dd14982465e8c7b5b6a1.jpg
 ---
 
 ## How to Spy on Text Messages from Computer & Nokia G42 5G

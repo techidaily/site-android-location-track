@@ -1,7 +1,7 @@
 ---
 title: How Do I Stop Someone From Tracking My Oppo F25 Pro 5G? | Dr.fone
-date: 2024-05-20T01:23:33.132Z
-updated: 2024-05-21T01:23:33.132Z
+date: 2024-06-09T18:31:58.653Z
+updated: 2024-06-10T18:31:58.653Z
 tags: 
   - virtual location change
   - location track
@@ -10,7 +10,7 @@ categories:
 description: This article describes How Do I Stop Someone From Tracking My Oppo F25 Pro 5G?
 excerpt: This article describes How Do I Stop Someone From Tracking My Oppo F25 Pro 5G?
 keywords: Location Track for F25 Pro 5G,track location
-thumbnail: https://www.lifewire.com/thmb/s_49EdazIwlAKelLWFU8LSaOlMk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-585151372-a659baf0c7b441b9b7e7896716b12784.jpg
+thumbnail: https://thmb.techidaily.com/97d650cd0f6e07d2facd0c86f96f609a10afc326cf6eb9f144fb267795cd5a9a.jpg
 ---
 
 ## How Do I Stop Someone From Tracking My Oppo F25 Pro 5G?

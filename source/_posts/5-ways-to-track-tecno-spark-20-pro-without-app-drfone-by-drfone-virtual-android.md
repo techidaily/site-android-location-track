@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Track Tecno Spark 20 Pro without App | Dr.fone
-date: 2024-04-07T18:00:29.369Z
-updated: 2024-04-08T18:00:29.369Z
+date: 2024-06-09T18:33:58.963Z
+updated: 2024-06-10T18:33:58.963Z
 tags: 
   - virtual location change
   - location track
@@ -10,7 +10,7 @@ categories:
 description: This article describes 5 Ways to Track Tecno Spark 20 Pro without App
 excerpt: This article describes 5 Ways to Track Tecno Spark 20 Pro without App
 keywords: Location Track for Spark 20 Pro,track location
-thumbnail: https://www.lifewire.com/thmb/hfQflvBCf7d-XN3Ks-apahbRORg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/is-audible-worth-it-00616437e29b4d108264ba36057bbdde.jpg
+thumbnail: https://thmb.techidaily.com/99bd3a8517ed5c451f9f836179e6586efe05dbc59db5ea292ed9c7e8afff15a8.jpg
 ---
 
 ## 5 Ways to Track Tecno Spark 20 Pro without App

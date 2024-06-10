@@ -1,7 +1,7 @@
 ---
 title: Solutions to Spy on Nokia C12 Pro with and without jailbreak | Dr.fone
-date: 2024-05-20T01:22:53.777Z
-updated: 2024-05-21T01:22:53.777Z
+date: 2024-06-09T18:33:39.113Z
+updated: 2024-06-10T18:33:39.113Z
 tags: 
   - virtual location change
   - location track
@@ -10,7 +10,7 @@ categories:
 description: This article describes Solutions to Spy on Nokia C12 Pro with and without jailbreak
 excerpt: This article describes Solutions to Spy on Nokia C12 Pro with and without jailbreak
 keywords: Location Track for C12 Pro,track location
-thumbnail: https://www.lifewire.com/thmb/Dl9yEfjLblLLqaUBxpcE0bOUpF4=/540x405/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_2654847-5b99b903c9e77c005077d0d8.jpg
+thumbnail: https://thmb.techidaily.com/e1e53d68e6a8bd97bb49ce774576b58cc661b7caf15fc6fdb1157408db40b882.jpg
 ---
 
 ## Solutions to Spy on Nokia C12 Pro with and without jailbreak

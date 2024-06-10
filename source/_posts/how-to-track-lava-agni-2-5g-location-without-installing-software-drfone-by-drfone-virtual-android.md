@@ -1,7 +1,7 @@
 ---
 title: How to Track Lava Agni 2 5G Location without Installing Software? | Dr.fone
-date: 2024-05-20T01:22:27.290Z
-updated: 2024-05-21T01:22:27.290Z
+date: 2024-06-09T18:34:07.227Z
+updated: 2024-06-10T18:34:07.227Z
 tags: 
   - virtual location change
   - location track
@@ -10,7 +10,7 @@ categories:
 description: This article describes How to Track Lava Agni 2 5G Location without Installing Software?
 excerpt: This article describes How to Track Lava Agni 2 5G Location without Installing Software?
 keywords: Location Track for Agni 2 5G,track location
-thumbnail: https://www.lifewire.com/thmb/is45Yw-eZ0hbBH1GVSPPw-e8Duo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/samsung-smart-tv-lifestyle-alt-5c89160046e0fb00013365c2.jpg
+thumbnail: https://thmb.techidaily.com/a7150b4ff2ea7550c12f390526178357d28d5879ccd1eca0b9ed1b9c559e12d9.jpg
 ---
 
 ## How to Track Lava Agni 2 5G Location without Installing Software?

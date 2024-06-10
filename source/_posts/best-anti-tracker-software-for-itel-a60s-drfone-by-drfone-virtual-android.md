@@ -1,7 +1,7 @@
 ---
 title: Best Anti Tracker Software For Itel A60s | Dr.fone
-date: 2024-04-09T03:07:04.369Z
-updated: 2024-04-10T03:07:04.369Z
+date: 2024-06-09T18:34:16.425Z
+updated: 2024-06-10T18:34:16.425Z
 tags: 
   - virtual location change
   - location track
@@ -10,7 +10,7 @@ categories:
 description: This article describes Best Anti Tracker Software For Itel A60s
 excerpt: This article describes Best Anti Tracker Software For Itel A60s
 keywords: Location Track for A60s,track location
-thumbnail: https://www.lifewire.com/thmb/85rwStNr21lvFIjCfmY8ErdogYI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/wimbledonlivestream-c22d5eefbf8f40e9b25ba4cab1734ece.jpg
+thumbnail: https://thmb.techidaily.com/e1c4df4174fbb7e774640c12444893c833b651d1c12bd8c02f2b01f747786c25.jpg
 ---
 
 ## Best Anti Tracker Software For Itel A60s

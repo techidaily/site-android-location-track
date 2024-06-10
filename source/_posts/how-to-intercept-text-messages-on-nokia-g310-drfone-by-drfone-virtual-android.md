@@ -1,7 +1,7 @@
 ---
 title: How to Intercept Text Messages on Nokia G310 | Dr.fone
-date: 2024-05-20T01:23:00.222Z
-updated: 2024-05-21T01:23:00.222Z
+date: 2024-06-09T18:32:44.838Z
+updated: 2024-06-10T18:32:44.838Z
 tags: 
   - virtual location change
   - location track
@@ -10,7 +10,7 @@ categories:
 description: This article describes How to Intercept Text Messages on Nokia G310
 excerpt: This article describes How to Intercept Text Messages on Nokia G310
 keywords: Location Track for G310,track location
-thumbnail: https://www.lifewire.com/thmb/AN-vaCH0aY3tX6ZltU1G0m3Htm0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/watch-free-movies-online-1356647-32f79b8cc3ed484ca1f9f898f503e416.png
+thumbnail: https://thmb.techidaily.com/de3aeccba8a1988fe712bc85cebc3af3bc3a21faab0414036ff801745dc15189.png
 ---
 
 ## How to Intercept Text Messages on Nokia G310

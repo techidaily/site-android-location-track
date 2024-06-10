@@ -1,7 +1,7 @@
 ---
 title: How to Turn Off Google Location to Stop Tracking You on Nokia C12 | Dr.fone
-date: 2024-05-20T01:22:53.128Z
-updated: 2024-05-21T01:22:53.128Z
+date: 2024-06-09T18:33:00.975Z
+updated: 2024-06-10T18:33:00.975Z
 tags: 
   - virtual location change
   - location track
@@ -10,7 +10,7 @@ categories:
 description: This article describes How to Turn Off Google Location to Stop Tracking You on Nokia C12
 excerpt: This article describes How to Turn Off Google Location to Stop Tracking You on Nokia C12
 keywords: track location,Location Track for C12
-thumbnail: https://www.lifewire.com/thmb/JVF5j2ixNkw6YsOsj4P4vtZrB-4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/connect-tv-to-stereo-system-3135127-83ec0f315fa54c1290555169d689ad88.jpg
+thumbnail: https://thmb.techidaily.com/6d6520e192a843298c5f3fb60d79f701e9d849b7c957109090842f5892749c79.jpg
 ---
 
 ## How to Turn Off Google Location to Stop Tracking You on Nokia C12

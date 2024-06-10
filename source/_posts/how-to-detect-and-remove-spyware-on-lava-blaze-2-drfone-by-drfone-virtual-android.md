@@ -1,7 +1,7 @@
 ---
 title: How to Detect and Remove Spyware on Lava Blaze 2? | Dr.fone
-date: 2024-05-20T01:22:26.413Z
-updated: 2024-05-21T01:22:26.413Z
+date: 2024-06-09T18:33:09.959Z
+updated: 2024-06-10T18:33:09.959Z
 tags: 
   - virtual location change
   - location track
@@ -10,7 +10,7 @@ categories:
 description: This article describes How to Detect and Remove Spyware on Lava Blaze 2?
 excerpt: This article describes How to Detect and Remove Spyware on Lava Blaze 2?
 keywords: track location,Location Track for Blaze 2
-thumbnail: https://www.lifewire.com/thmb/hlshSPtDf3zsXAhW4UAOkuNWyQM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-Macys-59e6c3699abed500118af858.jpg
+thumbnail: https://thmb.techidaily.com/a6ef7d238dd7bb214a3984e4799089ad86b5e4b6f433cd32ec9f580258b7206c.jpg
 ---
 
 ## How to Detect and Remove Spyware on Lava Blaze 2?

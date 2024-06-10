@@ -1,7 +1,7 @@
 ---
 title: How to Track a Lost Infinix Smart 7 for Free? | Dr.fone
-date: 2024-04-30T06:52:05.712Z
-updated: 2024-05-01T06:52:05.712Z
+date: 2024-06-09T18:32:07.441Z
+updated: 2024-06-10T18:32:07.441Z
 tags: 
   - virtual location change
   - location track
@@ -10,7 +10,7 @@ categories:
 description: This article describes How to Track a Lost Infinix Smart 7 for Free?
 excerpt: This article describes How to Track a Lost Infinix Smart 7 for Free?
 keywords: Location Track for Smart 7,track location
-thumbnail: https://www.lifewire.com/thmb/wAMAGSxPA1Fx2QobaiyABiSggJ4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-753288077-5bb0f9b2cff47e00261aa8fc.jpg
+thumbnail: https://thmb.techidaily.com/0004bab4ed76fb3b0e7b5e78faee5c8cd34739a5594338591ba06831ec971383.jpg
 ---
 
 ## How to Track a Lost Infinix Smart 7 for Free?

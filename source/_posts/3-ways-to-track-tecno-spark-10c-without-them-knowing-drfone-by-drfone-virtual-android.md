@@ -1,7 +1,7 @@
 ---
 title: 3 Ways to Track Tecno Spark 10C without Them Knowing | Dr.fone
-date: 2024-04-07T02:04:06.376Z
-updated: 2024-04-08T02:04:06.376Z
+date: 2024-06-09T18:34:25.918Z
+updated: 2024-06-10T18:34:25.918Z
 tags: 
   - virtual location change
   - location track
@@ -10,7 +10,7 @@ categories:
 description: This article describes 3 Ways to Track Tecno Spark 10C without Them Knowing
 excerpt: This article describes 3 Ways to Track Tecno Spark 10C without Them Knowing
 keywords: track location,Location Track for Spark 10C
-thumbnail: https://www.lifewire.com/thmb/-JO-0dyylsxj3szzMyduNG-Qvig=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-919006240-ee5ef631cb6f4e4997bce403b8bafa77.jpg
+thumbnail: https://thmb.techidaily.com/84ba87eddab3e368851899b58852311f605514d50db5d45ec6de18d3ab0b6cd6.jpg
 ---
 
 ## 3 Ways to Track Tecno Spark 10C without Them Knowing

@@ -1,7 +1,7 @@
 ---
 title: How to Spy on Text Messages from Computer & Honor X50i+ | Dr.fone
-date: 2024-04-30T06:51:40.946Z
-updated: 2024-05-01T06:51:40.946Z
+date: 2024-06-09T18:32:52.129Z
+updated: 2024-06-10T18:32:52.129Z
 tags: 
   - virtual location change
   - location track
@@ -10,7 +10,7 @@ categories:
 description: This article describes How to Spy on Text Messages from Computer & Honor X50i+
 excerpt: This article describes How to Spy on Text Messages from Computer & Honor X50i+
 keywords: Location Track for X50i+,track location
-thumbnail: https://www.lifewire.com/thmb/8JZwZGtr8caBDhoilBDj6iOR2TI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/samsungappstore-c0194a478ba54e90a798b3bb5ff4f6d5.jpg
+thumbnail: https://thmb.techidaily.com/4615a0815eaaaa9b22c58e4b20231144a4af2f1f5af9f2c94189c8d2595dadf6.jpg
 ---
 
 ## How to Spy on Text Messages from Computer & Honor X50i+

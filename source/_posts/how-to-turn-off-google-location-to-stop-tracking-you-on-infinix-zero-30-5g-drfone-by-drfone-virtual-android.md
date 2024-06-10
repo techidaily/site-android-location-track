@@ -1,7 +1,7 @@
 ---
 title: How to Turn Off Google Location to Stop Tracking You on Infinix Zero 30 5G | Dr.fone
-date: 2024-05-20T01:24:50.477Z
-updated: 2024-05-21T01:24:50.477Z
+date: 2024-06-09T18:32:07.397Z
+updated: 2024-06-10T18:32:07.397Z
 tags: 
   - virtual location change
   - location track
@@ -10,7 +10,7 @@ categories:
 description: This article describes How to Turn Off Google Location to Stop Tracking You on Infinix Zero 30 5G
 excerpt: This article describes How to Turn Off Google Location to Stop Tracking You on Infinix Zero 30 5G
 keywords: track location,Location Track for Zero 30 5G
-thumbnail: https://www.lifewire.com/thmb/XTn22vUEhR1g5hO3UkHHYfR8z14=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/tesla-bot-f6353f76ae214924916445da1da620ca.png
+thumbnail: https://thmb.techidaily.com/13887af25c31ebc0af7fa01bee84ac625b343ea776763c2dea469f5e646eb4f7.png
 ---
 
 ## How to Turn Off Google Location to Stop Tracking You on Infinix Zero 30 5G

@@ -1,7 +1,7 @@
 ---
 title: In 2024, Solutions to Spy on Sony Xperia 10 V with and without jailbreak | Dr.fone
-date: 2024-05-20T01:22:16.917Z
-updated: 2024-05-21T01:22:16.917Z
+date: 2024-06-09T18:34:41.685Z
+updated: 2024-06-10T18:34:41.685Z
 tags: 
   - virtual location change
   - location track
@@ -10,7 +10,7 @@ categories:
 description: This article describes Solutions to Spy on Sony Xperia 10 V with and without jailbreak
 excerpt: This article describes Solutions to Spy on Sony Xperia 10 V with and without jailbreak
 keywords: track location,Location Track for Xperia 10 V
-thumbnail: https://www.lifewire.com/thmb/kaKmEcJ4wgeshIkJ4JE3bp3u-NU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1369568023-c596ac8d6b5a4f3682bda2fa0feb12bd.jpg
+thumbnail: https://thmb.techidaily.com/bdaef56e02cc4aa00f3e70ad3df4b912e80b691b8ee44c6197adf88943656c52.jpg
 ---
 
 ## Solutions to Spy on Sony Xperia 10 V with and without jailbreak

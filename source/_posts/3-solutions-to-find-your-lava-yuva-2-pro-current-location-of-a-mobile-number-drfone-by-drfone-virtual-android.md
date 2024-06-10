@@ -1,7 +1,7 @@
 ---
 title: 3 Solutions to Find Your Lava Yuva 2 Pro Current Location of a Mobile Number | Dr.fone
-date: 2024-05-20T01:22:25.648Z
-updated: 2024-05-21T01:22:25.648Z
+date: 2024-06-09T18:31:58.700Z
+updated: 2024-06-10T18:31:58.700Z
 tags: 
   - virtual location change
   - location track
@@ -10,7 +10,7 @@ categories:
 description: This article describes 3 Solutions to Find Your Lava Yuva 2 Pro Current Location of a Mobile Number
 excerpt: This article describes 3 Solutions to Find Your Lava Yuva 2 Pro Current Location of a Mobile Number
 keywords: track location,Location Track for Yuva 2 Pro
-thumbnail: https://www.lifewire.com/thmb/tPZQXZ5f5-0L_L7obmLf1Q98jIY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/laptop-569944733df78cafda90169f.jpg
+thumbnail: https://thmb.techidaily.com/1ee4d598dddce3a6246087c27cdd3992445e17b0d9a8038ff04440aee38e00e3.jpg
 ---
 
 ## 3 Solutions to Find Your Lava Yuva 2 Pro Current Location of a Mobile Number

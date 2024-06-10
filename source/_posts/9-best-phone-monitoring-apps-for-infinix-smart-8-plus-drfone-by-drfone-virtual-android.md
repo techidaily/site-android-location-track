@@ -1,7 +1,7 @@
 ---
 title: 9 Best Phone Monitoring Apps for Infinix Smart 8 Plus | Dr.fone
-date: 2024-04-07T23:03:04.036Z
-updated: 2024-04-08T23:03:04.036Z
+date: 2024-06-09T18:34:19.121Z
+updated: 2024-06-10T18:34:19.121Z
 tags: 
   - virtual location change
   - location track
@@ -10,7 +10,7 @@ categories:
 description: This article describes 9 Best Phone Monitoring Apps for Infinix Smart 8 Plus
 excerpt: This article describes 9 Best Phone Monitoring Apps for Infinix Smart 8 Plus
 keywords: Location Track for Smart 8 Plus,track location
-thumbnail: https://www.lifewire.com/thmb/jNpQ-FANgbEnW9RjbyV2cn6aRhs=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/the-10-best-password-managers-of-2022-6543213-7650bf3ab2eb41a08dbee8713ce811e3.jpg
+thumbnail: https://thmb.techidaily.com/0f5fc285546b265c973fbaa96cd3591b73387ac3a0f71577bc77fa3f28f478c0.jpg
 ---
 
 ## 9 Best Phone Monitoring Apps for Infinix Smart 8 Plus

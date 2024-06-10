@@ -1,7 +1,7 @@
 ---
 title: How Do I Stop Someone From Tracking My Poco F5 Pro 5G? | Dr.fone
-date: 2024-04-12T12:56:59.514Z
-updated: 2024-04-13T12:56:59.514Z
+date: 2024-06-09T18:32:26.906Z
+updated: 2024-06-10T18:32:26.906Z
 tags: 
   - virtual location change
   - location track
@@ -10,7 +10,7 @@ categories:
 description: This article describes How Do I Stop Someone From Tracking My Poco F5 Pro 5G?
 excerpt: This article describes How Do I Stop Someone From Tracking My Poco F5 Pro 5G?
 keywords: track location,Location Track for F5 Pro 5G
-thumbnail: https://www.lifewire.com/thmb/tJAkAFLn8PgYLDdSxKT4QReLsyg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/macOS-Sonoma-Banner-fe4ffda2caaf4040b81ae0b66f2d6dc0.jpg
+thumbnail: https://thmb.techidaily.com/a6603b4c8e64882a75258ea91034b33184d3edc319264524a7b728bfe67ef7f7.jpg
 ---
 
 ## How Do I Stop Someone From Tracking My Poco F5 Pro 5G?

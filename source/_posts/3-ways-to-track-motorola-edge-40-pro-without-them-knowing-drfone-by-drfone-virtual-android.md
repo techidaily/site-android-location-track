@@ -1,7 +1,7 @@
 ---
 title: 3 Ways to Track Motorola Edge 40 Pro without Them Knowing | Dr.fone
-date: 2024-05-20T01:22:39.538Z
-updated: 2024-05-21T01:22:39.538Z
+date: 2024-06-09T18:34:20.106Z
+updated: 2024-06-10T18:34:20.106Z
 tags: 
   - virtual location change
   - location track
@@ -10,7 +10,7 @@ categories:
 description: This article describes 3 Ways to Track Motorola Edge 40 Pro without Them Knowing
 excerpt: This article describes 3 Ways to Track Motorola Edge 40 Pro without Them Knowing
 keywords: Location Track for Edge 40 Pro,track location
-thumbnail: https://www.lifewire.com/thmb/-bcmaokZfvwTgJE1q3LjnihDbBY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-678913139-58a4ece73df78c345bcd781b.jpg
+thumbnail: https://thmb.techidaily.com/7f8f4d19272d4759318cbc88d919ca0c7c48f620077177c71b194a7d51d8ecab.jpg
 ---
 
 ## 3 Ways to Track Motorola Edge 40 Pro without Them Knowing
