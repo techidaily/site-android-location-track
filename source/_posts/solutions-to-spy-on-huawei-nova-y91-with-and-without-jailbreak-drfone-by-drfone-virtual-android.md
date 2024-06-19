@@ -1,7 +1,7 @@
 ---
 title: Solutions to Spy on Huawei Nova Y91 with and without jailbreak | Dr.fone
-date: 2024-05-20T01:22:24.305Z
-updated: 2024-05-21T01:22:24.305Z
+date: 2024-06-18T17:14:18.955Z
+updated: 2024-06-19T17:14:18.955Z
 tags: 
   - virtual location change
   - location track
@@ -10,7 +10,7 @@ categories:
 description: This article describes Solutions to Spy on Huawei Nova Y91 with and without jailbreak
 excerpt: This article describes Solutions to Spy on Huawei Nova Y91 with and without jailbreak
 keywords: track location,Location Track for Nova Y91
-thumbnail: https://www.lifewire.com/thmb/EVPMwUvvJxpJdiKeU4q7SREScME=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/mothersday_NataliaCampbell_Getty-5a4baef6c7822d00371e56cd.jpg
+thumbnail: https://thmb.techidaily.com/c367633b9f9ef727c06fd08d3dd4d78a496570d920b7ae31f5d249d448106c6d.jpg
 ---
 
 ## Solutions to Spy on Huawei Nova Y91 with and without jailbreak

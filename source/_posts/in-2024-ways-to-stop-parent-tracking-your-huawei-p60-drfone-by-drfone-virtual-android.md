@@ -1,7 +1,7 @@
 ---
 title: In 2024, Ways to stop parent tracking your Huawei P60 | Dr.fone
-date: 2024-05-20T01:22:24.005Z
-updated: 2024-05-21T01:22:24.005Z
+date: 2024-06-18T17:14:25.771Z
+updated: 2024-06-19T17:14:25.771Z
 tags: 
   - virtual location change
   - location track
@@ -10,7 +10,7 @@ categories:
 description: This article describes Ways to stop parent tracking your Huawei P60
 excerpt: This article describes Ways to stop parent tracking your Huawei P60
 keywords: track location,Location Track for P60
-thumbnail: https://www.lifewire.com/thmb/efwW06nbzdIi0kzLWEWTbso7lT8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/best-instagram-captions-4171697-ae21b04e6866470c80a50c9bef1cc26e.png
+thumbnail: https://thmb.techidaily.com/ac86b0aa564fee722115c20830e542db073002bfbdd584be2acd66419238b8a6.png
 ---
 
 ## Ways to stop parent tracking your Huawei P60
@@ -398,7 +398,7 @@ Google recently has implemented some of the ADM features right into the web brow
 
 Step 1. Open the main Google search page and type in "find My Huawei P60", and you should be presented with results showing your cell phone’s location.
 
-![track a cell phone-type in ](https://images.wondershare.com/drfone/article/2017/10/15082098089360.jpg)
+![track a cell phone-type in](https://images.wondershare.com/drfone/article/2017/10/15082098089360.jpg)
 
 ## Part 3: How to Track a Cell Phone Location via mSpy?
 

@@ -1,7 +1,7 @@
 ---
 title: How to Track Sony Xperia 1 V Location by Number | Dr.fone
-date: 2024-05-20T01:22:15.957Z
-updated: 2024-05-21T01:22:15.957Z
+date: 2024-06-18T17:15:15.830Z
+updated: 2024-06-19T17:15:15.830Z
 tags: 
   - virtual location change
   - location track
@@ -10,7 +10,7 @@ categories:
 description: This article describes How to Track Sony Xperia 1 V Location by Number
 excerpt: This article describes How to Track Sony Xperia 1 V Location by Number
 keywords: Location Track for Xperia 1 V,track location
-thumbnail: https://www.lifewire.com/thmb/A1hfnW-9b0eVXXkLwD_6ei9mr2I=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/AE-lock-572ece975f9b58c34c0a2492.jpg
+thumbnail: https://thmb.techidaily.com/e086106512b2e9d753e081998408f58f33739fa1f0e7070951ebc50a7e45bfdb.jpg
 ---
 
 ## How to Track Sony Xperia 1 V Location by Number

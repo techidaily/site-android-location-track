@@ -1,7 +1,7 @@
 ---
 title: How to Track Motorola Moto G13 Location by Number | Dr.fone
-date: 2024-05-20T01:22:36.686Z
-updated: 2024-05-21T01:22:36.686Z
+date: 2024-06-18T17:16:07.806Z
+updated: 2024-06-19T17:16:07.806Z
 tags: 
   - virtual location change
   - location track
@@ -10,7 +10,7 @@ categories:
 description: This article describes How to Track Motorola Moto G13 Location by Number
 excerpt: This article describes How to Track Motorola Moto G13 Location by Number
 keywords: Location Track for Moto G13,track location
-thumbnail: https://www.lifewire.com/thmb/P9BLOm818Wmv2RgfhK_jtXxf4Rk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/178665671_HighRes-56a532a83df78cf77286de1b.jpg
+thumbnail: https://thmb.techidaily.com/b5dfde40e2a9ad5275b840b5f0fbb161aac4de7d7745911720b5a34076945390.jpg
 ---
 
 ## How to Track Motorola Moto G13 Location by Number

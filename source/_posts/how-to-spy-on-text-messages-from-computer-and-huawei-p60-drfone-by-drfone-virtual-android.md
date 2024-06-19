@@ -1,7 +1,7 @@
 ---
 title: How to Spy on Text Messages from Computer & Huawei P60 | Dr.fone
-date: 2024-05-20T01:22:23.590Z
-updated: 2024-05-21T01:22:23.590Z
+date: 2024-06-18T17:14:43.303Z
+updated: 2024-06-19T17:14:43.303Z
 tags: 
   - virtual location change
   - location track
@@ -10,7 +10,7 @@ categories:
 description: This article describes How to Spy on Text Messages from Computer & Huawei P60
 excerpt: This article describes How to Spy on Text Messages from Computer & Huawei P60
 keywords: Location Track for P60,track location
-thumbnail: https://www.lifewire.com/thmb/CJ67ETb2O4uuEo78S2gUHwX4efQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TheWolfAmongUsBigby-793544cded2749488ae1d20113d8d73a.jpg
+thumbnail: https://thmb.techidaily.com/b50fe0cbd9cbb19ed8809a46e26fef3c1e35eecf8f5029c9276b28fff4f6f7be.jpg
 ---
 
 ## How to Spy on Text Messages from Computer & Huawei P60
@@ -185,7 +185,7 @@ Since it runs in stealth mode, it allowed me to track my boyfriend’s phone wit
 
 1\. Firstly, visit KidsGuard Pro’s official website right [here](https://panel.clevguard.com/sign-up?dev_tp=android) and create your new account. You need to sign-up with your email id and set up a strong password.
 
-![track my boyfriend’s phone-sign up KidsGuard Pro ](https://images.wondershare.com/drfone/article/2022/03/create-an-account-for-clevguard.jpg)
+![track my boyfriend’s phone-sign up KidsGuard Pro](https://images.wondershare.com/drfone/article/2022/03/create-an-account-for-clevguard.jpg)
 
 2\. Secondly, after buying the product, you need to download the KidsGuard Pro app on your target device. Please go to the My Products and Orders Management page and click "Setup Guide" to follow the instructions carefully and complete all settings on the target device.
 

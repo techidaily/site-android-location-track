@@ -1,7 +1,7 @@
 ---
 title: How to Spy on Text Messages from Computer & Honor 100 Pro | Dr.fone
-date: 2024-04-12T12:57:51.979Z
-updated: 2024-04-13T12:57:51.979Z
+date: 2024-06-18T17:16:25.546Z
+updated: 2024-06-19T17:16:25.546Z
 tags: 
   - virtual location change
   - location track
@@ -10,7 +10,7 @@ categories:
 description: This article describes How to Spy on Text Messages from Computer & Honor 100 Pro
 excerpt: This article describes How to Spy on Text Messages from Computer & Honor 100 Pro
 keywords: track location,Location Track for 100 Pro
-thumbnail: https://www.lifewire.com/thmb/9P6TB9sqO-6Yq23O2BOj91c-Cvg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-541365354-5c8ad42246e0fb00014a9687.jpg
+thumbnail: https://thmb.techidaily.com/bfe8f97d519484170998bced830c25ea7c96c9f9fefb2b304db02c765d66484d.jpg
 ---
 
 ## How to Spy on Text Messages from Computer & Honor 100 Pro

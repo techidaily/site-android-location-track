@@ -1,7 +1,7 @@
 ---
 title: How to Intercept Text Messages on Google Pixel Fold | Dr.fone
-date: 2024-04-12T12:57:36.067Z
-updated: 2024-04-13T12:57:36.067Z
+date: 2024-06-18T17:15:05.254Z
+updated: 2024-06-19T17:15:05.254Z
 tags: 
   - virtual location change
   - location track
@@ -10,7 +10,7 @@ categories:
 description: This article describes How to Intercept Text Messages on Google Pixel Fold
 excerpt: This article describes How to Intercept Text Messages on Google Pixel Fold
 keywords: Location Track for Pixel Fold,track location
-thumbnail: https://www.lifewire.com/thmb/YPMhKL59WGdTUpxCrpaB_OS--cc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-set-up-speech-to-text-on-android-0-928c48ab121248f9aa543a136d971f9a.jpg
+thumbnail: https://thmb.techidaily.com/2e5cadcabaa5bc146e9286cd6ccf5e30c43742afdff538e1080a5add013b39bf.jpg
 ---
 
 ## How to Intercept Text Messages on Google Pixel Fold

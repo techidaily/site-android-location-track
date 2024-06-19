@@ -1,7 +1,7 @@
 ---
 title: How to Track Motorola Defy 2 by Phone Number | Dr.fone
-date: 2024-05-20T01:22:37.885Z
-updated: 2024-05-21T01:22:37.885Z
+date: 2024-06-18T17:14:51.152Z
+updated: 2024-06-19T17:14:51.152Z
 tags: 
   - virtual location change
   - location track
@@ -10,7 +10,7 @@ categories:
 description: This article describes How to Track Motorola Defy 2 by Phone Number
 excerpt: This article describes How to Track Motorola Defy 2 by Phone Number
 keywords: track location,Location Track for Defy 2
-thumbnail: https://www.lifewire.com/thmb/BEu1dTImTgj-gj19IMN4njOxWDE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/set-top-dvr-1130767-f2aa7f11e3d2442b966d53b8aa2d25fd.png
+thumbnail: https://thmb.techidaily.com/70a221261e83ff3179ef93192d51afbff1f7257579ffa960f9e7a085032e4b04.png
 ---
 
 ## How to Track Motorola Defy 2 by Phone Number
