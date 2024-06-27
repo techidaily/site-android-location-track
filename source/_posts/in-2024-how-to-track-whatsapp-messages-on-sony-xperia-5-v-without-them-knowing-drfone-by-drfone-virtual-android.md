@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Track WhatsApp Messages on Sony Xperia 5 V Without Them Knowing? | Dr.fone
-date: 2024-05-20T01:22:17.866Z
-updated: 2024-05-21T01:22:17.866Z
+date: 2024-06-26T11:15:35.299Z
+updated: 2024-06-27T11:15:35.299Z
 tags: 
   - virtual location change
   - location track
@@ -10,7 +10,7 @@ categories:
 description: This article describes How to Track WhatsApp Messages on Sony Xperia 5 V Without Them Knowing?
 excerpt: This article describes How to Track WhatsApp Messages on Sony Xperia 5 V Without Them Knowing?
 keywords: Location Track for Xperia 5 V,track location
-thumbnail: https://www.lifewire.com/thmb/8WNeD74C3OD4Hr-lVFvg4bLBeLA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-140173628BetsieVanDerMeer-5927117e5f9b5859509a476c.jpg
+thumbnail: https://thmb.techidaily.com/7ba02d2067d54837e1bd869f645984fb69141a6a34b2694ff1529f9b0220b04e.jpg
 ---
 
 ## How to Track WhatsApp Messages on Sony Xperia 5 V Without Them Knowing?
@@ -159,7 +159,7 @@ Now, use the search box on the top left to enter your desired location. Once the
 
 ![press the move here button](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 ## Part 5: How To See Deleted Messages on WhatsApp?
 

@@ -1,7 +1,7 @@
 ---
 title: How Do I Stop Someone From Tracking My HTC U23? | Dr.fone
-date: 2024-05-20T01:22:21.896Z
-updated: 2024-05-21T01:22:21.896Z
+date: 2024-06-26T11:16:12.496Z
+updated: 2024-06-27T11:16:12.496Z
 tags: 
   - virtual location change
   - location track
@@ -10,7 +10,7 @@ categories:
 description: This article describes How Do I Stop Someone From Tracking My HTC U23?
 excerpt: This article describes How Do I Stop Someone From Tracking My HTC U23?
 keywords: track location,Location Track for U23
-thumbnail: https://www.lifewire.com/thmb/V0mVc7hXHyanE76GvodfwiaKNvE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-966273172-fbc5e7e0e68a48f69a1a5ddc0d6df827.jpg
+thumbnail: https://thmb.techidaily.com/94266fd2abffa49379e11298094d126f869b761cee72b14ccd455aec2a0df5c4.jpg
 ---
 
 ## How Do I Stop Someone From Tracking My HTC U23?
@@ -35,13 +35,13 @@ The sections below will show you how to stop someone from tracking your iPhone w
 
 If you have an iPhone, the following methods can be used to stop someone from tracking your device
 
-### 1) Use [Dr.Fone - Virtual Location(iOS/Android)](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+### 1) Use Dr.Fone - Virtual Location(iOS/Android)
 
 This is a tool that you can use to change the virtual location of your device(iOS or Android). The tool comes with powerful features that enable you to teleport to any part of the world within an instant, and even start to move around a map as if you were physically in the area.
 
 
 
-### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both iOS and Android
 
@@ -92,9 +92,7 @@ You may turn off location tracking for specific apps that you feel might be used
 - Access the "settings" app from your Home Screen
 - Go down the list and then tap on "Privacy"
 - Scroll down and go to the "Locations Services"
-- Now choose the "Share My Location" option
-
-![Disable Share My Location on iPhone](https://images.wondershare.com/drfone/2020/disable-location-tracking-iphone-4.jpg)
+- Now choose the "Share My Location" option ![Disable Share My Location on iPhone](https://images.wondershare.com/drfone/2020/disable-location-tracking-iphone-4.jpg)
 
 - Now toggle the button to the right to turn it into the "OFF" position
 
@@ -106,13 +104,9 @@ Scroll down the list until you get to the "Privacy" option; tap on it
 
 At the top of the screen, tap on "Location Services" as you did before
 
-Now scroll down the list and click on the "System services" option
+Now scroll down the list and click on the "System services" option ![select System Services option](https://images.wondershare.com/drfone/2020/disable-location-tracking-iphone-5.jpg)
 
-![select System Services option](https://images.wondershare.com/drfone/2020/disable-location-tracking-iphone-5.jpg)
-
-Toggle the button on the right side of "Location-Based Alerts" into the "OFF" position
-
-![Toggle Location-Based Alerts to the “Off” position](https://images.wondershare.com/drfone/2020/iphone-disable-location-based-alerts-6.jpg)
+Toggle the button on the right side of "Location-Based Alerts" into the "OFF" position ![Toggle Location-Based Alerts to the “Off” position](https://images.wondershare.com/drfone/2020/iphone-disable-location-based-alerts-6.jpg)
 
 ## Part 3:How to stop my android from being tracked
 
@@ -311,7 +305,7 @@ Since it runs in stealth mode, it allowed me to track my boyfriend’s phone wit
 
 1\. Firstly, visit KidsGuard Pro’s official website right [here](https://panel.clevguard.com/sign-up?dev_tp=android) and create your new account. You need to sign-up with your email id and set up a strong password.
 
-![track my boyfriend’s phone-sign up KidsGuard Pro ](https://images.wondershare.com/drfone/article/2022/03/create-an-account-for-clevguard.jpg)
+![track my boyfriend’s phone-sign up KidsGuard Pro](https://images.wondershare.com/drfone/article/2022/03/create-an-account-for-clevguard.jpg)
 
 2\. Secondly, after buying the product, you need to download the KidsGuard Pro app on your target device. Please go to the My Products and Orders Management page and click "Setup Guide" to follow the instructions carefully and complete all settings on the target device.
 

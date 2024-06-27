@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Spy on Text Messages from Computer & Nokia XR21 | Dr.fone
-date: 2024-05-20T01:22:55.518Z
-updated: 2024-05-21T01:22:55.518Z
+date: 2024-06-26T11:14:46.755Z
+updated: 2024-06-27T11:14:46.755Z
 tags: 
   - virtual location change
   - location track
@@ -10,7 +10,7 @@ categories:
 description: This article describes How to Spy on Text Messages from Computer & Nokia XR21
 excerpt: This article describes How to Spy on Text Messages from Computer & Nokia XR21
 keywords: Location Track for XR21,track location
-thumbnail: https://www.lifewire.com/thmb/jU4B8oA_UfiJeCU8cLXdnDK6sCU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-choose-a-wireless-charger-5191283-cb27ceee3fea4547b5720b4934713a93.jpg
+thumbnail: https://thmb.techidaily.com/ac6fcc85e0fde61250c72c7455cdeba283035fd7fed1fa3496121c2d71b4b3d4.jpg
 ---
 
 ## How to Spy on Text Messages from Computer & Nokia XR21
@@ -115,7 +115,7 @@ Google recently has implemented some of the ADM features right into the web brow
 
 Step 1. Open the main Google search page and type in "find My Nokia XR21", and you should be presented with results showing your cell phone’s location.
 
-![track a cell phone-type in ](https://images.wondershare.com/drfone/article/2017/10/15082098089360.jpg)
+![track a cell phone-type in](https://images.wondershare.com/drfone/article/2017/10/15082098089360.jpg)
 
 ## Part 3: How to Track a Cell Phone Location via mSpy?
 

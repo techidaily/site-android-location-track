@@ -1,7 +1,7 @@
 ---
 title: Top 6 Apps/Services to Trace Any Xiaomi Redmi Note 12T Pro Location By Mobile Number | Dr.fone
-date: 2024-06-18T17:14:03.447Z
-updated: 2024-06-19T17:14:03.447Z
+date: 2024-06-26T11:14:18.280Z
+updated: 2024-06-27T11:14:18.280Z
 tags: 
   - virtual location change
   - location track
@@ -195,9 +195,7 @@ You may turn off location tracking for specific apps that you feel might be used
 - Access the "settings" app from your Home Screen
 - Go down the list and then tap on "Privacy"
 - Scroll down and go to the "Locations Services"
-- Now choose the "Share My Location" option
-
-![Disable Share My Location on iPhone](https://images.wondershare.com/drfone/2020/disable-location-tracking-iphone-4.jpg)
+- Now choose the "Share My Location" option ![Disable Share My Location on iPhone](https://images.wondershare.com/drfone/2020/disable-location-tracking-iphone-4.jpg)
 
 - Now toggle the button to the right to turn it into the "OFF" position
 
@@ -209,13 +207,9 @@ Scroll down the list until you get to the "Privacy" option; tap on it
 
 At the top of the screen, tap on "Location Services" as you did before
 
-Now scroll down the list and click on the "System services" option
+Now scroll down the list and click on the "System services" option ![select System Services option](https://images.wondershare.com/drfone/2020/disable-location-tracking-iphone-5.jpg)
 
-![select System Services option](https://images.wondershare.com/drfone/2020/disable-location-tracking-iphone-5.jpg)
-
-Toggle the button on the right side of "Location-Based Alerts" into the "OFF" position
-
-![Toggle Location-Based Alerts to the “Off” position](https://images.wondershare.com/drfone/2020/iphone-disable-location-based-alerts-6.jpg)
+Toggle the button on the right side of "Location-Based Alerts" into the "OFF" position ![Toggle Location-Based Alerts to the “Off” position](https://images.wondershare.com/drfone/2020/iphone-disable-location-based-alerts-6.jpg)
 
 ## Part 3:How to stop my android from being tracked
 

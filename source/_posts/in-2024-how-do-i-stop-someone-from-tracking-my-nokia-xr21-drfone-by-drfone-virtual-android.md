@@ -1,7 +1,7 @@
 ---
 title: In 2024, How Do I Stop Someone From Tracking My Nokia XR21? | Dr.fone
-date: 2024-05-20T01:22:55.473Z
-updated: 2024-05-21T01:22:55.473Z
+date: 2024-06-26T11:13:53.727Z
+updated: 2024-06-27T11:13:53.727Z
 tags: 
   - virtual location change
   - location track
@@ -10,7 +10,7 @@ categories:
 description: This article describes How Do I Stop Someone From Tracking My Nokia XR21?
 excerpt: This article describes How Do I Stop Someone From Tracking My Nokia XR21?
 keywords: Location Track for XR21,track location
-thumbnail: https://www.lifewire.com/thmb/QlJ49L63E9oyywyXJAGv3C_qUuE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/switcheshero-4f3b792cb7014baf919e7c68b91e96ab.jpg
+thumbnail: https://thmb.techidaily.com/e82fc931c219f7513127b179f23a3c2e354e06d4a6b22046a96709ecae17c234.jpg
 ---
 
 ## How Do I Stop Someone From Tracking My Nokia XR21?
@@ -35,13 +35,13 @@ The sections below will show you how to stop someone from tracking your iPhone w
 
 If you have an iPhone, the following methods can be used to stop someone from tracking your device
 
-### 1) Use [Dr.Fone - Virtual Location(iOS/Android)](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+### 1) Use Dr.Fone - Virtual Location(iOS/Android)
 
 This is a tool that you can use to change the virtual location of your device(iOS or Android). The tool comes with powerful features that enable you to teleport to any part of the world within an instant, and even start to move around a map as if you were physically in the area.
 
 
 
-### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both iOS and Android
 
@@ -92,9 +92,7 @@ You may turn off location tracking for specific apps that you feel might be used
 - Access the "settings" app from your Home Screen
 - Go down the list and then tap on "Privacy"
 - Scroll down and go to the "Locations Services"
-- Now choose the "Share My Location" option
-
-![Disable Share My Location on iPhone](https://images.wondershare.com/drfone/2020/disable-location-tracking-iphone-4.jpg)
+- Now choose the "Share My Location" option ![Disable Share My Location on iPhone](https://images.wondershare.com/drfone/2020/disable-location-tracking-iphone-4.jpg)
 
 - Now toggle the button to the right to turn it into the "OFF" position
 
@@ -106,13 +104,9 @@ Scroll down the list until you get to the "Privacy" option; tap on it
 
 At the top of the screen, tap on "Location Services" as you did before
 
-Now scroll down the list and click on the "System services" option
+Now scroll down the list and click on the "System services" option ![select System Services option](https://images.wondershare.com/drfone/2020/disable-location-tracking-iphone-5.jpg)
 
-![select System Services option](https://images.wondershare.com/drfone/2020/disable-location-tracking-iphone-5.jpg)
-
-Toggle the button on the right side of "Location-Based Alerts" into the "OFF" position
-
-![Toggle Location-Based Alerts to the “Off” position](https://images.wondershare.com/drfone/2020/iphone-disable-location-based-alerts-6.jpg)
+Toggle the button on the right side of "Location-Based Alerts" into the "OFF" position ![Toggle Location-Based Alerts to the “Off” position](https://images.wondershare.com/drfone/2020/iphone-disable-location-based-alerts-6.jpg)
 
 ## Part 3:How to stop my android from being tracked
 
@@ -252,9 +246,7 @@ Can store all the positions that you want.
 
 Take photos from the parking location.
 
-It is a free application
-
-![Car Locator Apps-find my car](https://images.wondershare.com/drfone/article/2017/10/15082184344228.jpg)
+It is a free application ![Car Locator Apps-find my car](https://images.wondershare.com/drfone/article/2017/10/15082184344228.jpg)
 
 URL for iPhone:
 
@@ -306,9 +298,7 @@ Available in English.
 
 Compatible with iPad, iPhone, and iPod Touch
 
-Control if you need gasoline through Bluetooth
-
-![Car Locator Apps-Automatic](https://images.wondershare.com/drfone/article/2017/10/15081723208344.jpg)
+Control if you need gasoline through Bluetooth ![Car Locator Apps-Automatic](https://images.wondershare.com/drfone/article/2017/10/15081723208344.jpg)
 
 URL:
 

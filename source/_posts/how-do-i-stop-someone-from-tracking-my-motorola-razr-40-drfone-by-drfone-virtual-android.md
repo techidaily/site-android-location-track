@@ -1,7 +1,7 @@
 ---
 title: How Do I Stop Someone From Tracking My Motorola Razr 40? | Dr.fone
-date: 2024-05-20T01:22:42.030Z
-updated: 2024-05-21T01:22:42.030Z
+date: 2024-06-26T11:13:51.338Z
+updated: 2024-06-27T11:13:51.338Z
 tags: 
   - virtual location change
   - location track
@@ -10,7 +10,7 @@ categories:
 description: This article describes How Do I Stop Someone From Tracking My Motorola Razr 40?
 excerpt: This article describes How Do I Stop Someone From Tracking My Motorola Razr 40?
 keywords: Location Track for Razr 40,track location
-thumbnail: https://www.lifewire.com/thmb/bUgwWBmVwo2R1WJT-qkM52ppdCc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ipad-pro-pencil-56a533763df78cf77286e0e0.png
+thumbnail: https://thmb.techidaily.com/ef69c6cfc05813b51fd415fbeca882846dc473b99199e876bd020898984fe0d1.png
 ---
 
 ## How Do I Stop Someone From Tracking My Motorola Razr 40?
@@ -35,13 +35,13 @@ The sections below will show you how to stop someone from tracking your iPhone w
 
 If you have an iPhone, the following methods can be used to stop someone from tracking your device
 
-### 1) Use [Dr.Fone - Virtual Location(iOS/Android)](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+### 1) Use Dr.Fone - Virtual Location(iOS/Android)
 
 This is a tool that you can use to change the virtual location of your device(iOS or Android). The tool comes with powerful features that enable you to teleport to any part of the world within an instant, and even start to move around a map as if you were physically in the area.
 
 
 
-### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both iOS and Android
 
@@ -92,9 +92,7 @@ You may turn off location tracking for specific apps that you feel might be used
 - Access the "settings" app from your Home Screen
 - Go down the list and then tap on "Privacy"
 - Scroll down and go to the "Locations Services"
-- Now choose the "Share My Location" option
-
-![Disable Share My Location on iPhone](https://images.wondershare.com/drfone/2020/disable-location-tracking-iphone-4.jpg)
+- Now choose the "Share My Location" option ![Disable Share My Location on iPhone](https://images.wondershare.com/drfone/2020/disable-location-tracking-iphone-4.jpg)
 
 - Now toggle the button to the right to turn it into the "OFF" position
 
@@ -106,13 +104,9 @@ Scroll down the list until you get to the "Privacy" option; tap on it
 
 At the top of the screen, tap on "Location Services" as you did before
 
-Now scroll down the list and click on the "System services" option
+Now scroll down the list and click on the "System services" option ![select System Services option](https://images.wondershare.com/drfone/2020/disable-location-tracking-iphone-5.jpg)
 
-![select System Services option](https://images.wondershare.com/drfone/2020/disable-location-tracking-iphone-5.jpg)
-
-Toggle the button on the right side of "Location-Based Alerts" into the "OFF" position
-
-![Toggle Location-Based Alerts to the “Off” position](https://images.wondershare.com/drfone/2020/iphone-disable-location-based-alerts-6.jpg)
+Toggle the button on the right side of "Location-Based Alerts" into the "OFF" position ![Toggle Location-Based Alerts to the “Off” position](https://images.wondershare.com/drfone/2020/iphone-disable-location-based-alerts-6.jpg)
 
 ## Part 3:How to stop my android from being tracked
 
@@ -233,13 +227,9 @@ After you have received the installation procedures, install [mSpy](http://mspy.
 
 ![intercept text messages-Install the application](https://images.wondershare.com/drfone/article/2016/11/14781234928456.jpg)
 
-Installing in Android
+Installing in Android ![intercept text messages-Installing in Android](https://images.wondershare.com/drfone/article/2016/11/14781239566126.jpg)
 
-![intercept text messages-Installing in Android](https://images.wondershare.com/drfone/article/2016/11/14781239566126.jpg)
-
-Installing on iOS
-
-![intercept text messages-Installing on iOS](https://images.wondershare.com/drfone/article/2016/11/14781241065208.jpg)
+Installing on iOS ![intercept text messages-Installing on iOS](https://images.wondershare.com/drfone/article/2016/11/14781241065208.jpg)
 
 **3\. Start monitoring**
 

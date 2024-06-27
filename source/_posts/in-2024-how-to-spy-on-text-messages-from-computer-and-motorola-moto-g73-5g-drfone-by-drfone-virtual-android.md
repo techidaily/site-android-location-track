@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Spy on Text Messages from Computer & Motorola Moto G73 5G | Dr.fone
-date: 2024-05-20T01:22:39.054Z
-updated: 2024-05-21T01:22:39.054Z
+date: 2024-06-26T11:13:37.625Z
+updated: 2024-06-27T11:13:37.625Z
 tags: 
   - virtual location change
   - location track
@@ -10,7 +10,7 @@ categories:
 description: This article describes How to Spy on Text Messages from Computer & Motorola Moto G73 5G
 excerpt: This article describes How to Spy on Text Messages from Computer & Motorola Moto G73 5G
 keywords: track location,Location Track for Moto G73 5G
-thumbnail: https://www.lifewire.com/thmb/zS1KzodK4IykQGo2jxig8PQhqso=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/apps-like-tiktok-the-best-alternatives-in-2020-9f3611f635da4198956585133eaf01cb.jpg
+thumbnail: https://thmb.techidaily.com/4f556f53b702be059c5baaa605e55372122aad0cd1b5268a8b5026540ff9ee16.jpg
 ---
 
 ## How to Spy on Text Messages from Computer & Motorola Moto G73 5G
@@ -177,7 +177,7 @@ Google recently has implemented some of the ADM features right into the web brow
 
 Step 1. Open the main Google search page and type in "find My Motorola Moto G73 5G", and you should be presented with results showing your cell phone’s location.
 
-![track a cell phone-type in ](https://images.wondershare.com/drfone/article/2017/10/15082098089360.jpg)
+![track a cell phone-type in](https://images.wondershare.com/drfone/article/2017/10/15082098089360.jpg)
 
 ## Part 3: How to Track a Cell Phone Location via mSpy?
 

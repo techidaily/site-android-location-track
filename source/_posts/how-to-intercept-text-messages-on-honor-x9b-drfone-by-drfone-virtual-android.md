@@ -1,7 +1,7 @@
 ---
 title: How to Intercept Text Messages on Honor X9b | Dr.fone
-date: 2024-04-12T12:57:40.323Z
-updated: 2024-04-13T12:57:40.323Z
+date: 2024-06-26T11:15:33.148Z
+updated: 2024-06-27T11:15:33.148Z
 tags: 
   - virtual location change
   - location track
@@ -10,7 +10,7 @@ categories:
 description: This article describes How to Intercept Text Messages on Honor X9b
 excerpt: This article describes How to Intercept Text Messages on Honor X9b
 keywords: track location,Location Track for X9b
-thumbnail: https://www.lifewire.com/thmb/_atXbVpqt-bBP3NhxI9aFSkiOqU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1305200685-e977d0ca4e9a47e2b006e5b32a9922fd.jpg
+thumbnail: https://thmb.techidaily.com/d0c9b7047797b18daa1e1aa41be92c363eb13ba8f8bfa2b570a90a8bfa430bd1.jpg
 ---
 
 ## How to Intercept Text Messages on Honor X9b
@@ -59,13 +59,9 @@ After you have received the installation procedures, install [mSpy](http://mspy.
 
 ![intercept text messages-Install the application](https://images.wondershare.com/drfone/article/2016/11/14781234928456.jpg)
 
-Installing in Android
+Installing in Android ![intercept text messages-Installing in Android](https://images.wondershare.com/drfone/article/2016/11/14781239566126.jpg)
 
-![intercept text messages-Installing in Android](https://images.wondershare.com/drfone/article/2016/11/14781239566126.jpg)
-
-Installing on iOS
-
-![intercept text messages-Installing on iOS](https://images.wondershare.com/drfone/article/2016/11/14781241065208.jpg)
+Installing on iOS ![intercept text messages-Installing on iOS](https://images.wondershare.com/drfone/article/2016/11/14781241065208.jpg)
 
 **3\. Start monitoring**
 

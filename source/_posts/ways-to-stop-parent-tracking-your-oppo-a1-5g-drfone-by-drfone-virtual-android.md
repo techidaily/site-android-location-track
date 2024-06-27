@@ -1,7 +1,7 @@
 ---
 title: Ways to stop parent tracking your Oppo A1 5G | Dr.fone
-date: 2024-05-20T01:23:16.978Z
-updated: 2024-05-21T01:23:16.978Z
+date: 2024-06-26T11:15:14.919Z
+updated: 2024-06-27T11:15:14.919Z
 tags: 
   - virtual location change
   - location track
@@ -10,7 +10,7 @@ categories:
 description: This article describes Ways to stop parent tracking your Oppo A1 5G
 excerpt: This article describes Ways to stop parent tracking your Oppo A1 5G
 keywords: Location Track for A1 5G,track location
-thumbnail: https://www.lifewire.com/thmb/xLyhmkxw8rwSLNhzfV0GfYs8tZc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-watch-tiktok-without-the-app-63a4562e4c4b4bd69477425853809a35.jpg
+thumbnail: https://thmb.techidaily.com/3ce7ce4cef66cdb03e7ac7e019dea8d112e1795f84ca632563f78a12990cc533.jpg
 ---
 
 ## Ways to stop parent tracking your Oppo A1 5G
@@ -218,13 +218,13 @@ The sections below will show you how to stop someone from tracking your iPhone w
 
 If you have an iPhone, the following methods can be used to stop someone from tracking your device
 
-### 1) Use [Dr.Fone - Virtual Location(iOS/Android)](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+### 1) Use Dr.Fone - Virtual Location(iOS/Android)
 
 This is a tool that you can use to change the virtual location of your device(iOS or Android). The tool comes with powerful features that enable you to teleport to any part of the world within an instant, and even start to move around a map as if you were physically in the area.
 
 
 
-### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both iOS and Android
 
@@ -275,9 +275,7 @@ You may turn off location tracking for specific apps that you feel might be used
 - Access the "settings" app from your Home Screen
 - Go down the list and then tap on "Privacy"
 - Scroll down and go to the "Locations Services"
-- Now choose the "Share My Location" option
-
-![Disable Share My Location on iPhone](https://images.wondershare.com/drfone/2020/disable-location-tracking-iphone-4.jpg)
+- Now choose the "Share My Location" option ![Disable Share My Location on iPhone](https://images.wondershare.com/drfone/2020/disable-location-tracking-iphone-4.jpg)
 
 - Now toggle the button to the right to turn it into the "OFF" position
 
@@ -289,13 +287,9 @@ Scroll down the list until you get to the "Privacy" option; tap on it
 
 At the top of the screen, tap on "Location Services" as you did before
 
-Now scroll down the list and click on the "System services" option
+Now scroll down the list and click on the "System services" option ![select System Services option](https://images.wondershare.com/drfone/2020/disable-location-tracking-iphone-5.jpg)
 
-![select System Services option](https://images.wondershare.com/drfone/2020/disable-location-tracking-iphone-5.jpg)
-
-Toggle the button on the right side of "Location-Based Alerts" into the "OFF" position
-
-![Toggle Location-Based Alerts to the “Off” position](https://images.wondershare.com/drfone/2020/iphone-disable-location-based-alerts-6.jpg)
+Toggle the button on the right side of "Location-Based Alerts" into the "OFF" position ![Toggle Location-Based Alerts to the “Off” position](https://images.wondershare.com/drfone/2020/iphone-disable-location-based-alerts-6.jpg)
 
 ## Part 3:How to stop my android from being tracked
 

@@ -1,7 +1,7 @@
 ---
 title: 2 Ways to Monitor Infinix Note 30 VIP Activity | Dr.fone
-date: 2024-06-18T17:15:49.351Z
-updated: 2024-06-19T17:15:49.352Z
+date: 2024-06-26T11:13:52.452Z
+updated: 2024-06-27T11:13:52.452Z
 tags: 
   - virtual location change
   - location track
@@ -241,9 +241,7 @@ GPS spoof for social apps
 
 Pokemon Go on PC
 
-AR game tricks
-
-![virtual location](https://images.wondershare.com/drfone/article/2023/06/virtual-location-horizontal.png)
+AR game tricks ![virtual location](https://images.wondershare.com/drfone/article/2023/06/virtual-location-horizontal.png)
 
 **Change Phone GPS Location Easily**
 

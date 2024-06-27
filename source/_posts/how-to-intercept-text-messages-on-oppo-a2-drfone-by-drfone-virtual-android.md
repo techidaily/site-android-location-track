@@ -1,7 +1,7 @@
 ---
 title: How to Intercept Text Messages on Oppo A2 | Dr.fone
-date: 2024-05-20T01:23:28.158Z
-updated: 2024-05-21T01:23:28.158Z
+date: 2024-06-26T11:14:07.745Z
+updated: 2024-06-27T11:14:07.745Z
 tags: 
   - virtual location change
   - location track
@@ -10,7 +10,7 @@ categories:
 description: This article describes How to Intercept Text Messages on Oppo A2
 excerpt: This article describes How to Intercept Text Messages on Oppo A2
 keywords: Location Track for A2,track location
-thumbnail: https://www.lifewire.com/thmb/fZAyW_q2RrCH4bIuVh-tO15AFts=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/patch-tuesday-2625783-d6bcf232b3c64fc5958037ad31299bd9.png
+thumbnail: https://thmb.techidaily.com/3322edcb2b3700ce4baa5c0677a8f300e23dbf74c5228f8bd6ca0d33294791ed.png
 ---
 
 ## How to Intercept Text Messages on Oppo A2
@@ -59,13 +59,9 @@ After you have received the installation procedures, install [mSpy](http://mspy.
 
 ![intercept text messages-Install the application](https://images.wondershare.com/drfone/article/2016/11/14781234928456.jpg)
 
-Installing in Android
+Installing in Android ![intercept text messages-Installing in Android](https://images.wondershare.com/drfone/article/2016/11/14781239566126.jpg)
 
-![intercept text messages-Installing in Android](https://images.wondershare.com/drfone/article/2016/11/14781239566126.jpg)
-
-Installing on iOS
-
-![intercept text messages-Installing on iOS](https://images.wondershare.com/drfone/article/2016/11/14781241065208.jpg)
+Installing on iOS ![intercept text messages-Installing on iOS](https://images.wondershare.com/drfone/article/2016/11/14781241065208.jpg)
 
 **3\. Start monitoring**
 
