@@ -1,7 +1,7 @@
 ---
 title: How to Track WhatsApp Messages on Nokia G42 5G Without Them Knowing? | Dr.fone
-date: 2024-05-20T01:22:57.422Z
-updated: 2024-05-21T01:22:57.422Z
+date: 2024-07-05T15:38:34.660Z
+updated: 2024-07-06T15:38:34.660Z
 tags: 
   - virtual location change
   - location track
@@ -10,7 +10,7 @@ categories:
 description: This article describes How to Track WhatsApp Messages on Nokia G42 5G Without Them Knowing?
 excerpt: This article describes How to Track WhatsApp Messages on Nokia G42 5G Without Them Knowing?
 keywords: Location Track for G42 5G,track location
-thumbnail: https://www.lifewire.com/thmb/OhMYY4yKeVVtP9XO0SmqFIVtLJg=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/dualsenseedge-749ef030e3c84376926d817913be924b.jpg
+thumbnail: https://thmb.techidaily.com/2738dcb65655ca3023848f9ec7026a9cce211e70815a31f4f65d2f9ea9ded629.jpg
 ---
 
 ## How to Track WhatsApp Messages on Nokia G42 5G Without Them Knowing?
@@ -159,7 +159,7 @@ Now, use the search box on the top left to enter your desired location. Once the
 
 ![press the move here button](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 ## Part 5: How To See Deleted Messages on WhatsApp?
 

@@ -1,7 +1,7 @@
 ---
 title: How to Track a Lost Nokia G42 5G for Free? | Dr.fone
-date: 2024-05-20T01:22:57.349Z
-updated: 2024-05-21T01:22:57.349Z
+date: 2024-07-05T15:39:17.422Z
+updated: 2024-07-06T15:39:17.422Z
 tags: 
   - virtual location change
   - location track
@@ -10,7 +10,7 @@ categories:
 description: This article describes How to Track a Lost Nokia G42 5G for Free?
 excerpt: This article describes How to Track a Lost Nokia G42 5G for Free?
 keywords: track location,Location Track for G42 5G
-thumbnail: https://www.lifewire.com/thmb/P9BLOm818Wmv2RgfhK_jtXxf4Rk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/178665671_HighRes-56a532a83df78cf77286de1b.jpg
+thumbnail: https://thmb.techidaily.com/b5dfde40e2a9ad5275b840b5f0fbb161aac4de7d7745911720b5a34076945390.jpg
 ---
 
 ## How to Track a Lost Nokia G42 5G for Free?

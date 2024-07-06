@@ -1,7 +1,7 @@
 ---
 title: Solutions to Spy on Huawei P60 with and without jailbreak | Dr.fone
-date: 2024-05-20T01:22:23.580Z
-updated: 2024-05-21T01:22:23.580Z
+date: 2024-07-05T15:38:34.465Z
+updated: 2024-07-06T15:38:34.465Z
 tags: 
   - virtual location change
   - location track
@@ -10,7 +10,7 @@ categories:
 description: This article describes Solutions to Spy on Huawei P60 with and without jailbreak
 excerpt: This article describes Solutions to Spy on Huawei P60 with and without jailbreak
 keywords: Location Track for P60,track location
-thumbnail: https://www.lifewire.com/thmb/jkTzGxTQj6GZdoRByOnef64Ubf0=/540x405/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/windows_search-56aa11bd3df78cf772ac3ea5.jpg
+thumbnail: https://thmb.techidaily.com/650f46c8db195bf984ecb592d4a15814bfd7afa085c1775706e382ffb2952424.jpg
 ---
 
 ## Solutions to Spy on Huawei P60 with and without jailbreak

@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Spy on Text Messages from Computer & Motorola Moto G23 | Dr.fone
-date: 2024-05-20T01:22:37.520Z
-updated: 2024-05-21T01:22:37.520Z
+date: 2024-07-05T15:38:20.080Z
+updated: 2024-07-06T15:38:20.080Z
 tags: 
   - virtual location change
   - location track
@@ -10,7 +10,7 @@ categories:
 description: This article describes How to Spy on Text Messages from Computer & Motorola Moto G23
 excerpt: This article describes How to Spy on Text Messages from Computer & Motorola Moto G23
 keywords: Location Track for Moto G23,track location
-thumbnail: https://www.lifewire.com/thmb/QSOkVMBCO__10c9yExi2xlfXUGg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-626970032-497800518dac4d6cafa0dc19b953f1ff.jpg
+thumbnail: https://thmb.techidaily.com/5996397f505d52b0f60ffe77c36fd8859621590a57dd0707f44eeaa06c560dbc.jpg
 ---
 
 ## How to Spy on Text Messages from Computer & Motorola Moto G23

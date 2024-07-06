@@ -1,7 +1,7 @@
 ---
 title: How to Spy on Text Messages from Computer & ZTE Nubia Z60 Ultra | Dr.fone
-date: 2024-04-30T06:51:56.373Z
-updated: 2024-05-01T06:51:56.373Z
+date: 2024-07-05T15:36:22.406Z
+updated: 2024-07-06T15:36:22.406Z
 tags: 
   - virtual location change
   - location track
@@ -10,7 +10,7 @@ categories:
 description: This article describes How to Spy on Text Messages from Computer & ZTE Nubia Z60 Ultra
 excerpt: This article describes How to Spy on Text Messages from Computer & ZTE Nubia Z60 Ultra
 keywords: Location Track for Nubia Z60 Ultra,track location
-thumbnail: https://www.lifewire.com/thmb/bOmeScOWFc7_QUmHNXKw7Hqwkm0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/bestfirestickapps-5bcba08546e0fb005177a983-0591296fac8241ccb8497f9f29901acd.jpg
+thumbnail: https://thmb.techidaily.com/4ac54b51c1cafa3a284440c31d27701c82afd968d6a73268fe3b019a529c7811.jpg
 ---
 
 ## How to Spy on Text Messages from Computer & ZTE Nubia Z60 Ultra

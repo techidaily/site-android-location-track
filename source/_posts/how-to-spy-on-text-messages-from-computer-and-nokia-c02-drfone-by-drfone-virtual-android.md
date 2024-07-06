@@ -1,7 +1,7 @@
 ---
 title: How to Spy on Text Messages from Computer & Nokia C02 | Dr.fone
-date: 2024-05-20T01:22:50.131Z
-updated: 2024-05-21T01:22:50.131Z
+date: 2024-07-05T15:37:32.257Z
+updated: 2024-07-06T15:37:32.257Z
 tags: 
   - virtual location change
   - location track
@@ -10,7 +10,7 @@ categories:
 description: This article describes How to Spy on Text Messages from Computer & Nokia C02
 excerpt: This article describes How to Spy on Text Messages from Computer & Nokia C02
 keywords: Location Track for C02,track location
-thumbnail: https://www.lifewire.com/thmb/iVAserBnC6bUM-CQ2W6IX-_Wms0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-watch-taylor-swift-movies-in-order-a8e26851d3d94bf183a144766801c16c.jpg
+thumbnail: https://thmb.techidaily.com/e05f2d33f2fefb8dc7c06028c76750542668dde0166f66e5a57d5c818d2809aa.jpg
 ---
 
 ## How to Spy on Text Messages from Computer & Nokia C02

@@ -1,7 +1,7 @@
 ---
 title: How to Track WhatsApp Messages on Itel P40 Without Them Knowing? | Dr.fone
-date: 2024-05-20T01:24:22.153Z
-updated: 2024-05-21T01:24:22.153Z
+date: 2024-07-05T15:38:43.263Z
+updated: 2024-07-06T15:38:43.263Z
 tags: 
   - virtual location change
   - location track
@@ -10,7 +10,7 @@ categories:
 description: This article describes How to Track WhatsApp Messages on Itel P40 Without Them Knowing?
 excerpt: This article describes How to Track WhatsApp Messages on Itel P40 Without Them Knowing?
 keywords: Location Track for P40,track location
-thumbnail: https://www.lifewire.com/thmb/q3inw24-h4v92CyIU7_fxjPM1JU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/tiktok-messages-889fef4cdfac41babb84770288f32cf2.jpg
+thumbnail: https://thmb.techidaily.com/90ad0e184ba79f95e662dd6bac421c2714531f47a3dc9eccb9055a4b28f7166a.jpg
 ---
 
 ## How to Track WhatsApp Messages on Itel P40 Without Them Knowing?
@@ -159,7 +159,7 @@ Now, use the search box on the top left to enter your desired location. Once the
 
 ![press the move here button](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 ## Part 5: How To See Deleted Messages on WhatsApp?
 

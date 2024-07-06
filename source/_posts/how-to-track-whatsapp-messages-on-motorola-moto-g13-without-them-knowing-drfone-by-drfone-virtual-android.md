@@ -1,7 +1,7 @@
 ---
 title: How to Track WhatsApp Messages on Motorola Moto G13 Without Them Knowing? | Dr.fone
-date: 2024-05-20T01:22:36.733Z
-updated: 2024-05-21T01:22:36.733Z
+date: 2024-07-05T15:37:23.540Z
+updated: 2024-07-06T15:37:23.540Z
 tags: 
   - virtual location change
   - location track
@@ -10,7 +10,7 @@ categories:
 description: This article describes How to Track WhatsApp Messages on Motorola Moto G13 Without Them Knowing?
 excerpt: This article describes How to Track WhatsApp Messages on Motorola Moto G13 Without Them Knowing?
 keywords: Location Track for Moto G13,track location
-thumbnail: https://www.lifewire.com/thmb/iQjRSYdl3d8RlM-9oprGSEgt6gU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-667603173-fac0b8f4b1d9453c866d332dc73821f8.jpg
+thumbnail: https://thmb.techidaily.com/f47c079fa1fce90a8221b9c2c003a393b4231e2fbb42dbd4e99eb8971ba63ab6.jpg
 ---
 
 ## How to Track WhatsApp Messages on Motorola Moto G13 Without Them Knowing?
@@ -159,7 +159,7 @@ Now, use the search box on the top left to enter your desired location. Once the
 
 ![press the move here button](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 ## Part 5: How To See Deleted Messages on WhatsApp?
 

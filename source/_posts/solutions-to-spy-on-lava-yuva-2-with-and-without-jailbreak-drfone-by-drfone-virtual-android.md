@@ -1,7 +1,7 @@
 ---
 title: Solutions to Spy on Lava Yuva 2 with and without jailbreak | Dr.fone
-date: 2024-05-20T01:22:27.791Z
-updated: 2024-05-21T01:22:27.791Z
+date: 2024-07-05T15:37:39.376Z
+updated: 2024-07-06T15:37:39.376Z
 tags: 
   - virtual location change
   - location track
@@ -10,7 +10,7 @@ categories:
 description: This article describes Solutions to Spy on Lava Yuva 2 with and without jailbreak
 excerpt: This article describes Solutions to Spy on Lava Yuva 2 with and without jailbreak
 keywords: Location Track for Yuva 2,track location
-thumbnail: https://www.lifewire.com/thmb/DkM9pHd1hq5V02UbKX94h0TfJkQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/duetinslides-fd2c11f1a91a4d7388cc25f2f4719cca.jpg
+thumbnail: https://thmb.techidaily.com/c097990fd37784ce6293a6224fb832fd4d9a7841c40f79ad9e48ab602a74cd56.jpg
 ---
 
 ## Solutions to Spy on Lava Yuva 2 with and without jailbreak

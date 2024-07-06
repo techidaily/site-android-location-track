@@ -1,7 +1,7 @@
 ---
 title: How to Track Honor 90 Pro Location by Number | Dr.fone
-date: 2024-04-30T06:52:24.315Z
-updated: 2024-05-01T06:52:24.315Z
+date: 2024-07-05T15:38:00.192Z
+updated: 2024-07-06T15:38:00.192Z
 tags: 
   - virtual location change
   - location track
@@ -10,7 +10,7 @@ categories:
 description: This article describes How to Track Honor 90 Pro Location by Number
 excerpt: This article describes How to Track Honor 90 Pro Location by Number
 keywords: Location Track for 90 Pro,track location
-thumbnail: https://www.lifewire.com/thmb/oixs9Iru3DkbJ5qQpMfNaiErF04=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/woman-with-remote-cropped-getty-169707531-5b2ebd5943a1030036b1eb56.jpg
+thumbnail: https://thmb.techidaily.com/48dc7fa7b04b0f7445d8755963cdda5ac93794a2c8dd3de60bc0fcf279454931.jpg
 ---
 
 ## How to Track Honor 90 Pro Location by Number
@@ -168,7 +168,7 @@ Since it runs in stealth mode, it allowed me to track my boyfriend’s phone wit
 
 1\. Firstly, visit KidsGuard Pro’s official website right [here](https://panel.clevguard.com/sign-up?dev_tp=android) and create your new account. You need to sign-up with your email id and set up a strong password.
 
-![track my boyfriend’s phone-sign up KidsGuard Pro ](https://images.wondershare.com/drfone/article/2022/03/create-an-account-for-clevguard.jpg)
+![track my boyfriend’s phone-sign up KidsGuard Pro](https://images.wondershare.com/drfone/article/2022/03/create-an-account-for-clevguard.jpg)
 
 2\. Secondly, after buying the product, you need to download the KidsGuard Pro app on your target device. Please go to the My Products and Orders Management page and click "Setup Guide" to follow the instructions carefully and complete all settings on the target device.
 

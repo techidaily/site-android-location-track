@@ -1,7 +1,7 @@
 ---
 title: In 2024, Ways to stop parent tracking your Motorola Moto G14 | Dr.fone
-date: 2024-05-20T01:22:44.189Z
-updated: 2024-05-21T01:22:44.189Z
+date: 2024-07-05T15:38:55.449Z
+updated: 2024-07-06T15:38:55.449Z
 tags: 
   - virtual location change
   - location track
@@ -10,7 +10,7 @@ categories:
 description: This article describes Ways to stop parent tracking your Motorola Moto G14
 excerpt: This article describes Ways to stop parent tracking your Motorola Moto G14
 keywords: track location,Location Track for Moto G14
-thumbnail: https://www.lifewire.com/thmb/ZDnyMd5y1TI-4l8Th58f2C_oJzA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/F8conferencelogo-7ec4475dc6624114aea076c2611df199.jpg
+thumbnail: https://thmb.techidaily.com/7c8eb4a6751ebbb720d8baa15eb6264cc6e760acb0b1ed4fef37387dcca189b5.jpg
 ---
 
 ## Ways to stop parent tracking your Motorola Moto G14

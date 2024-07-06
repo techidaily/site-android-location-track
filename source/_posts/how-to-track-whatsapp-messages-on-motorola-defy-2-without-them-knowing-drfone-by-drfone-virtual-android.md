@@ -1,7 +1,7 @@
 ---
 title: How to Track WhatsApp Messages on Motorola Defy 2 Without Them Knowing? | Dr.fone
-date: 2024-05-20T01:22:38.056Z
-updated: 2024-05-21T01:22:38.056Z
+date: 2024-07-05T15:38:05.265Z
+updated: 2024-07-06T15:38:05.265Z
 tags: 
   - virtual location change
   - location track
@@ -10,7 +10,7 @@ categories:
 description: This article describes How to Track WhatsApp Messages on Motorola Defy 2 Without Them Knowing?
 excerpt: This article describes How to Track WhatsApp Messages on Motorola Defy 2 Without Them Knowing?
 keywords: Location Track for Defy 2,track location
-thumbnail: https://www.lifewire.com/thmb/paxenpSCdfx6iq9NSGAW8vCuNEc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Nightbooks-93aa15da6f37406fa34e8c155b1067b3.jpg
+thumbnail: https://thmb.techidaily.com/4e54d2ee69e2d3cc5b62664f281e174d4bc506ec5c304888c5062a8c04d6107f.jpg
 ---
 
 ## How to Track WhatsApp Messages on Motorola Defy 2 Without Them Knowing?
@@ -159,7 +159,7 @@ Now, use the search box on the top left to enter your desired location. Once the
 
 ![press the move here button](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 ## Part 5: How To See Deleted Messages on WhatsApp?
 
@@ -275,7 +275,7 @@ Speaking of GPS locations, here’s how to get started with tracking your iPhone
 
 Step 1. You first need to choose between one of three plans, and your login credentials will be emailed to you upon successful completion of purchase.
 
-![choose the plan and get the login credentials ](https://images.wondershare.com/drfone/article/2017/10/15075194573263.jpg)
+![choose the plan and get the login credentials](https://images.wondershare.com/drfone/article/2017/10/15075194573263.jpg)
 
 Step 2. Next open the confirmation email from your computer and click the link to go to the mSpy control panel aka dashboard.
 

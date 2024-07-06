@@ -1,7 +1,7 @@
 ---
 title: Top 5 Car Locator Apps for Lava Blaze Curve 5G | Dr.fone
-date: 2024-05-20T01:22:32.761Z
-updated: 2024-05-21T01:22:32.761Z
+date: 2024-07-05T15:38:16.947Z
+updated: 2024-07-06T15:38:16.947Z
 tags: 
   - virtual location change
   - location track
@@ -10,7 +10,7 @@ categories:
 description: This article describes Top 5 Car Locator Apps for Lava Blaze Curve 5G
 excerpt: This article describes Top 5 Car Locator Apps for Lava Blaze Curve 5G
 keywords: Location Track for Blaze Curve 5G,track location
-thumbnail: https://www.lifewire.com/thmb/is45Yw-eZ0hbBH1GVSPPw-e8Duo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/samsung-smart-tv-lifestyle-alt-5c89160046e0fb00013365c2.jpg
+thumbnail: https://thmb.techidaily.com/a7150b4ff2ea7550c12f390526178357d28d5879ccd1eca0b9ed1b9c559e12d9.jpg
 ---
 
 ## Top 5 Car Locator Apps for Lava Blaze Curve 5G

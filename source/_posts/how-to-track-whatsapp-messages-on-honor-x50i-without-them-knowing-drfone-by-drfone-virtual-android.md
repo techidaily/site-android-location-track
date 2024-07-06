@@ -1,7 +1,7 @@
 ---
 title: How to Track WhatsApp Messages on Honor X50i Without Them Knowing? | Dr.fone
-date: 2024-05-20T01:24:13.951Z
-updated: 2024-05-21T01:24:13.951Z
+date: 2024-07-05T15:38:28.285Z
+updated: 2024-07-06T15:38:28.285Z
 tags: 
   - virtual location change
   - location track
@@ -10,7 +10,7 @@ categories:
 description: This article describes How to Track WhatsApp Messages on Honor X50i Without Them Knowing?
 excerpt: This article describes How to Track WhatsApp Messages on Honor X50i Without Them Knowing?
 keywords: track location,Location Track for X50i
-thumbnail: https://www.lifewire.com/thmb/zWxNYaUUEWKWwcCxwdQ9gx8_XCw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-safely-use-airport-charging-stations-4690583-01-6085c56e46b34f84b5f5d2d976e20677.jpg
+thumbnail: https://thmb.techidaily.com/3fbb28fdd30ab5cd77a4baca2551c9d92b27e18215ac7c02404eb389cacb68b2.jpg
 ---
 
 ## How to Track WhatsApp Messages on Honor X50i Without Them Knowing?
@@ -159,7 +159,7 @@ Now, use the search box on the top left to enter your desired location. Once the
 
 ![press the move here button](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 ## Part 5: How To See Deleted Messages on WhatsApp?
 
