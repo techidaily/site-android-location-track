@@ -1,0 +1,487 @@
+---
+title: How Do I Stop Someone From Tracking My Poco X5 Pro? | Dr.fone
+date: 2024-04-12T12:57:00.107Z
+updated: 2024-04-13T12:57:00.107Z
+tags: 
+  - virtual location change
+  - location track
+categories:
+  - android
+description: This article describes How Do I Stop Someone From Tracking My Poco X5 Pro?
+excerpt: This article describes How Do I Stop Someone From Tracking My Poco X5 Pro?
+keywords: track location,Location Track for X5 Pro
+thumbnail: https://www.lifewire.com/thmb/tog6m8Yd2L1pQ_0Pktyl-fbgcRs=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/camera-56e0976d3df78c5ba0566b37.jpg
+---
+
+## How Do I Stop Someone From Tracking My Poco X5 Pro?
+
+It has now become very easy to track a Smartphone using the GPS features of the phone. This can be done by tracking the phone number based on information derived from mobile carriers and also from the GPS chip on the phone which is used by certain apps in order to function well.
+
+You may not want your GPS location tracked by anyone or by apps on your device. When playing games like Pokémon Go, the geo-location data on your device is used to pinpoint where you are for purposes of gameplay. In the same manner, malicious people can track you same way. Here you will learn how to stop someone from tracking your phone in simple and easy ways.
+
+## Part 1: How do people track your phone?
+
+There are several ways in which people can track the location of your phone. This can be risky at times, especially if you have a stalker. These are the common ways in which people track phones:
+
+GPS location: all Smartphones come with a GPS chip, which continually gives the GPS location of your device. This is great for several features to work on the phone, but it can also be exploited by malicious people. The GPS location is also used to find lost devices or persons who are challenged in finding directions and may get lost. Therefore the GPS chip function is a double-edged sword.
+
+IMEI information: This is information that can be tracked using data that is found on your mobile provider's servers. This is the information that law enforcers use to track crooks, and rescue teams use to track people lost in disaster zones. The IMEI gets recorded when your mobile device pings off mobile transmission towers that are nearby
+
+The apps that are used by people to track mobile devices will track one of these two features. If you do not want to be tracked, then you have to find ways in which to disable these functions.
+
+The sections below will show you how to stop someone from tracking your iPhone with ease.
+
+## Part 2: How to stop my iPhone from being tracked?
+
+If you have an iPhone, the following methods can be used to stop someone from tracking your device
+
+### 1) Use [Dr.Fone - Virtual Location(iOS/Android)](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+
+This is a tool that you can use to change the virtual location of your device(iOS or Android). The tool comes with powerful features that enable you to teleport to any part of the world within an instant, and even start to move around a map as if you were physically in the area.
+
+
+
+### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+
+1-Click Location Changer for both iOS and Android
+
+- Teleport from one location to another across the world from the comfort of your home.
+- With just a few selections on your computer, you can make members of your circle believe you’re anywhere you want.
+- Stimulate and imitate movement and set the speed and stops you take along the way.
+- Compatible with both iOS and Android systems.
+- Work with location-based apps, like [Pokemon Go](https://drfone.wondershare.com/virtual-location/pokemon-go-spoofing-ios.html), [Snapchat](https://drfone.wondershare.com/virtual-location/fake-snapchat-location.html), [Instagram](https://drfone.wondershare.com/virtual-location/how-to-change-region-on-instagram.html), [Facebook](https://drfone.wondershare.com/virtual-location/fake-location-on-facebook.html), etc.
+
+**3981454** people have downloaded it
+
+This could be especially useful when you want to trick the people tracking your device that you are actually in the teleport location. The beauty of the app is that you can permanently teleport to another place and stay there for as long as you like.
+
+In order to see how to use dr. fone to teleport your device to another location, you can view the following video guide and click the button below to have a try, [more user tutorials on this page](https://drfone.wondershare.com/guide/teleport-mode.html).
+
+[Try It Free](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/)[Try It Free](https://download.wondershare.com/drfone_virtual_location_full7585.dmg)
+
+**4,039,074** people have downloaded it
+
+<iframe allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/FfhgWxnARqo"></iframe>
+
+### 2) Disable Significant Locations on iPhone
+
+- Start by launching "Settings" from your Home screen
+- Next, tap on "Privacy"
+- At the top of the screen, tap "Location Services"
+- Now tap on "System Services" which is found at the bottom of the list
+
+- After that, tap on "Significant Locations"
+- Proceed and enter your Passcode, Touch ID or Face ID depending on the security settings on your iPhone
+
+- Finally, toggle the "Significant Locations" to the "OFF" position. The switch will turn grey, indicating that the service has been turned off.
+
+### 3) Turn off location tracking of specific apps
+
+You may turn off location tracking for specific apps that you feel might be used to track your position. This is how you go about turning them off.
+
+- Start off by entering the "settings" app from your Home Screen
+- Now go down and tap on "Privacy"
+- From here select "Location services"
+- Now go to the listing for the app and then select it. You will see three choices: "Never", "While Using the App" and "Always"
+- Make your choice and the Location Services for the app will be switched off.
+
+![how to disable location tracking for specific apps on iPhone](https://images.wondershare.com/drfone/2020/disable-location-tracking-iphone-3.jpg)
+
+### 4) Disable Share My Location service
+
+- Access the "settings" app from your Home Screen
+- Go down the list and then tap on "Privacy"
+- Scroll down and go to the "Locations Services"
+- Now choose the "Share My Location" option
+
+![Disable Share My Location on iPhone](https://images.wondershare.com/drfone/2020/disable-location-tracking-iphone-4.jpg)
+
+- Now toggle the button to the right to turn it into the "OFF" position
+
+### 5) Disable location-based notifications or alerts
+
+Navigate to the "Settings" app on your Home screen
+
+Scroll down the list until you get to the "Privacy" option; tap on it
+
+At the top of the screen, tap on "Location Services" as you did before
+
+Now scroll down the list and click on the "System services" option
+
+![select System Services option](https://images.wondershare.com/drfone/2020/disable-location-tracking-iphone-5.jpg)
+
+Toggle the button on the right side of "Location-Based Alerts" into the "OFF" position
+
+![Toggle Location-Based Alerts to the “Off” position](https://images.wondershare.com/drfone/2020/iphone-disable-location-based-alerts-6.jpg)
+
+## Part 3:How to stop my android from being tracked
+
+You also need to know how to stop Google from tracking your Poco X5 Pro. This feature can be used to track your device through other apps.
+
+### 1) Stop Google Tracking on Android device
+
+- Access the "settings" app on your Home screen
+- Now check your accounts until you find the "Google Account" option
+- Tap on it and then scroll down to the "Manage Your Data & Personalization" option and tap on it
+- You will find "Activity Controls" where you can pause or turn off the service altogether.
+- If you want tighter control of the tracking features, You can also scroll down until you get to "Manage Your Activity Controls"
+- Here you can delete all your past activity records so nobody can track you using your location history.
+
+### 2) Turn off Android Location Tracking
+
+Apart from stopping Google tracking on your device, you may also turn off Location tracking of other apps as shown below
+
+- Start by going to your "Settings" app and then choosing "Security & Location"
+- Scroll around and look for the "Use Location" option and then toggle it to the "OFF" position
+
+Many people would stop at this time and think that their location is fully turned off, but this is not the case. The Android device could still be tracked using IMEI, Wi-Fi, and many other sensors. To disable these, go to the "advanced" option and then toggle off the following features:
+
+Google Emergency Location Service. This is a service that tells emergency services where you are located when you dial the emergency service number.
+
+Google Location Accuracy. This is a GPS feature that uses the Wi-Fi address and other services to show your location.
+
+Google Location History. With this, you can switch off the collection of your location history.
+
+Google Location Sharing. This will turn off location sharing if you use it to connect with friends and family.
+
+### 3) Nord VPN
+
+Nord VPN is a great tool to fake your GPS location and stop people from tracking your phone. It works by masking your true IP address and then using servers in another location to fake your position. This tool is great for stopping people from tracking you using browser-based apps. It also does affect the GPS chip and stop it from transmitting your true location. Nord VPN has servers in countries all over the world, which means you can move your location to another continent to fool those who may be tracking you.
+
+![pokemon go spoofers iphone 8](https://images.wondershare.com/drfone/article/2019/09/pokemon-go-spoofers-iphone-8.jpg)
+
+### 4) Fake GPS Go
+
+This is an app that you can download to your android device from Google Play Store. It is safe and will not affect the normal functioning of your device. Simply get it from Google Play Store, install it, and launch it. When it is up and running, you have to use the map interface to pin the new location that you want to teleport to. Anyone who may be tracking you will instantly be fooled that you are in the new location. You may also move around using the Joystick feature just as if you are on the ground in the teleport location.
+
+**How to use Fake GPS Go**
+
+- From the "Settings" app, navigate down to "About Phone" and then tap on "Build Number" seven times in order to enable the "Developer Options".
+
+![android pokemon go spoofing 4](https://images.wondershare.com/drfone/article/2019/09/android-pokemon-go-spoofing-4.jpg)
+
+- Launch Fake GPS go and the grant it the required access. Go back to "Developer Options" and then go down until you find Fake GPS Go. Toggle it to the "ON" position.
+- Now go back to "Mock Location App" and then choose Fake GPS Go. You will now be able to fake your location and stop people from tracking your device.
+
+![android pokemon go spoofing 5](https://images.wondershare.com/drfone/article/2019/09/android-pokemon-go-spoofing-5.jpg)
+
+- To actually change the virtual location of your device, launch Fake GPs Go once more and then access the map interface. Choose a location far from your actual location and then pin it as your "real" location. This will instantly show that you have moved to this new location and throw off people who are tracking your Poco X5 Pro.
+
+![android pokemon go spoofing 6](https://images.wondershare.com/drfone/article/2019/09/android-pokemon-go-spoofing-6.jpg)
+
+### 5) Fake GPS Free
+
+This is yet another tool that you can use to fake your GPS location and fool people who may be trying to track your Poco X5 Pro. The tool is quite light and does not use up system resources making it safe and easy to use.
+
+- Begin by unlocking the developer options just like you did in the step above. Then proceed to Google Play Store and download and install Fake GPs free.
+- Go to "Settings > Developer options > Mock Location App". Here you will select Fake GPS Free and then grant it the necessary permissions on your device.
+
+![android pokemon go spoofing 7](https://images.wondershare.com/drfone/article/2019/09/android-pokemon-go-spoofing-7.jpg)
+
+- Return to your Home screen and the Launch Fake GPS free. Access the map interface and then check for a location far from your actual position. You may even zoom in and better pinpoint a new location.
+- You will get a notification once you have successfully spoofed your location. You may now close the app and it will still work in the background ensuring that your location stays permanent in the new area you selected.
+
+![android pokemon go spoofing 8](https://images.wondershare.com/drfone/article/2019/09/android-pokemon-go-spoofing-8.jpg)
+
+## In Conclusion
+
+If you want to stop Google from tracking your location, these are the methods that you should use to turn off your GPS location on both iOS and Android. You need to know that you are safe all the time and this is a step that you should take when you feel like you are being tracked for nefarious reasons. However, you should do this with caution as the information can also be used in a beneficial manner. The best option is to turn on the GPS when you need it and then turn it off when you do not, or use an iOS spoofing tool.
+
+## Solutions to Spy on Poco X5 Pro with and without jailbreak
+
+It is no secret that you can easily spy on any iPhone. Many spy or monitoring programs make it easy. All you have do is have access to the iPhone you want to spy on and have a reliable spy program. The problem is, there are some spy programs that will only work on a jailbroken device. This can be a problem when you don’t want the Poco X5 Pro device’s owner to know of your activities and the owner has no intention to jailbreak their device.
+
+In this article, we look at how you to spy on an iPhone without needing a jailbreak and how to spy on a jailbroken device or jailbreak a device to facilitate spying.
+
+
+## Part 1: How to Spy on iPhone without Jailbreak
+
+The majority of spy apps in the market will only work on a jailbroken device or require you to jailbreak an iPhone before you can use them. While a jailbroken device does have its advantages, it can be quite problematic when you want to spy on an iPhone without alerting the owner to your activities. To begin with, you must have the iPhone to jailbreak it, a factor that makes it easier to get caught trying to spy on the Poco X5 Pro device. Also, it is quite possible no matter how hard you try to hide the jailbreaking app that the owner will realize you have jailbroken their device.
+
+For the best results you want to use a monitoring program that doesn’t require a jailbroken device to work. The best is [mSpy](http://mspy.go2cloud.org/SH7G6), a monitoring program that will work on any iPhone and provide you with detailed information without the need to jailbreak the Poco X5 Pro device. Here’s how to use mSpy to spy on an iPhone.
+
+Step 1: Begin by activating iCloud Backup on the target device. Go to Settings and then select “iCloud” to do this. Using mSpy will require iCloud to be activated.
+
+![Spy on iPhone without Jailbreak-activate iCloud Backup](https://images.wondershare.com/drfone/article/2017/10/15079744896475.jpg)
+
+Step 2: The first step is to create an account with mSpy. You can then purchase a subscription based on the type of information you need from the target device and the duration you want to spend spying on the Poco X5 Pro device.
+
+![Spy on iPhone without Jailbreak-create an account with mSpy](https://images.wondershare.com/drfone/article/2017/10/15079746911961.jpg)
+
+Step 3: Once you’ve registered and purchased the subscription, you will receive an email from mSpy with all the information you need to install the program.
+
+Step 4: You can then log in to your [mSpy](http://mspy.go2cloud.org/SH7G6) control panel and add the Apple ID and password of the Poco X5 Pro device to gain access to the information you need on the Poco X5 Pro device.
+
+![Spy on iPhone without Jailbreak-log in to your mSpy control panel](https://images.wondershare.com/drfone/article/2017/10/15079748088200.jpg)
+
+## Part 2: How to Spy using Spyware that Requires a Jailbreak
+
+Being able to spy on an iPhone without a jailbreak is not something that happens often. This is because unlike mSpy, most monitoring software will require you jailbreak the Poco X5 Pro device before you can install the software. One of those apps is TruthSpy. Like mSpy, this app will allow users to see all types of data on the target device without the owner of the Poco X5 Pro device knowing they are being monitored. The only problem is, you need to have access to the Poco X5 Pro device to jailbreak it. If this is what you prefer or are unable to get access to mSpy, TruthSpy will work just fine. Here’s how to use it.
+
+Step 1: Begin by performing a jailbreak on the target device. There are several options to help you do that like Pangu software.
+
+![Spy using Spyware with jailbreak-Pangu software](https://images.wondershare.com/drfone/article/2017/10/15074779011456.jpg)
+
+Step 2: Once the Poco X5 Pro device is successfully jailbroken, create an account with TruthSpy, purchase a subscription and you will receive instructions on how to install the software on the jailbroken device.
+
+Step 3: You can then log in to TurthSpy with your log in information and access all types of data on the target iPhone from any bowser.
+
+![Spy using Spyware with jailbreak-log in to TurthSpy](https://images.wondershare.com/drfone/article/2017/10/15079742762274.jpg)
+
+Both mSpy and TruthSpy will provide you with all the information you need about the target device. The only difference is, you need to jailbreak the Poco X5 Pro device if TruthSpy will be able to access it. Jailbreaking the
+
+device will however make it easier for the Poco X5 Pro device’s owner to find the spyware and remove it before you are able to complete your activities. It is therefore preferable to use a program like mSpy that requires no jailbreak.
+
+## How to Turn Off Google Location to Stop Tracking You on Poco X5 Pro
+
+The location services that Google provides to Android smartphones are indeed useful in many ways. For instance, you can use Google Maps to check a particular place you want to visit and obtain reliable directions to help you get there. Another thing, Google can also give you the exact location of your Poco X5 Pro in case you lost it somewhere. Indeed, Google’s GPS tracking feature comes in very handy whenever you need such assistance.
+
+It’s true to say that Google's location monitoring services offer tons of benefits to us. But at some point, we cannot deny that activating this feature somehow entails a certain privacy and security risk. That’s why many users opt to **turn off Google location tracking** and keep their whereabouts private. Don’t worry. It’s totally fine. You can implement such measures, too, if you’re uncomfortable sharing your location details with Google. All it takes to turn off Google location tracking is just a few taps on your mobile device.
+
+In this article, we will discuss how Google employs location access on your mobile device. We will also provide some quick tutorials on how to turn off Google location tracking in easy steps. Continue reading below to learn more.
+
+## Part 1. Understanding How Google Uses Location Data
+
+Location data generally helps us find reliable directions and pinpoint a particular place. But apart from that, this piece of information actually serves a bigger purpose. Google, in particular, employs location data to provide high-quality services tailored to specific preferences and necessities of the users. Each Google product relies heavily on location information and utilizes it for various reasons. To understand it better, check out the list below.
+
+### It is an essential component of most Google services
+
+![google products](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-1.JPG)
+
+Of course, Google Maps and Weather will not work without access to location data. It is the main component that allows this kind of application to function exactly as it should. That’s why you should think twice before you turn off Google location tracking. Keep it activated on your mobile device if you’re in need of real-time weather updates or reliable coordinates.
+
+### It is used for targeted advertisements
+
+The majority of online advertisements scattered all over the internet are run by Google. It uses location data to ensure the ads that appear on your web browser are relevant to your personal liking. For example, Google Ads will likely flash American products on your smartphones if you’re located in that particular region. Do you want to keep it that way? If so, you should not then turn off Google location tracking on your Poco X5 Pro smartphone.
+
+### It is used by Google to provide accurate search results
+
+![google search results](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-2.JPG)
+
+The same thing goes for Google search results. This query engine uses location data to provide information relevant to the specific needs of the user. Let’s say you’re currently residing in Japan and looking for nearby coffee shops. Of course, it will be unhelpful if Google dispenses a list of coffee shops that aren’t located in your country. That’s why you shouldn’t turn off Google location tracking on your smartphone if you’re looking for precise and pertinent answers.
+
+### It is used by Google to implement certain security protocols
+
+Google uses location data to keep your accounts safe from potential attacks and security breaches. How so? Well, Google immediately sends alerts whenever your account is used from an unusual location. Another thing is that strange activities on your account are promptly detected with the aid of location information. Simply put, allowing Google to access your whereabouts is the least you can do to protect your digital assets. Hence, don’t turn off Google location tracking on your Poco X5 Pro smartphone if you need such assistance.
+
+### It is utilized for research and further improvements of Google services
+
+![google services](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-3.JPG)
+
+We all know that Google is committed to offering us new products and improving its existing services. That’s indeed beneficial to all of us, especially in today’s ever-changing world. But definitely, it’s not possible if Google doesn’t have adequate location information from the pool of its users. Why so? Simply because location data determines the latest community trends and helps specialists find the perfect basis for fresh developments. Do you want to contribute something to the advancement of Google products? If so, you can start by giving Google access to the location data on your Poco X5 Pro smartphone.
+
+## Part 2. Top 4 Techniques to Turn Off Google Location Tracking on Android
+
+There’s no denying that Google uses location information to give us the best experience possible. However, it doesn’t necessarily mean there is no risk at all. We cannot rule out the possibility of data breaches and disclosure of location information that is supposed to be private. If you’re worried about this kind of situation, you can prevent it from happening in a snap of a finger. Check out the four methods below on how to turn off Google location tracking on your Poco X5 Pro smartphone.
+
+### Method 1: Turn off the location services on your Poco X5 Pro mobile device
+
+“How to stop Google from tracking me?” Well, it’s actually very easy. You just need to deactivate the location service on your Poco X5 Pro mobile device. After that, Google and other GPS-based applications on your smartphone will immediately lose access to your location data. Do you want to try it now? Check out the tutorial below on how to turn off Google location tracking by deactivating the location services on your phone.
+
+**Step 1:** Unlock your Poco X5 Pro mobile device.
+
+**Step 2:** Hold the **Status** bar and then swipe it down to bring out the Poco X5 Pro device Control.
+
+**Step 3:** Find and click **Location.**
+
+![location services](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-4.jpg)
+
+**Step 4:** Lastly, click **Close** to confirm the changes.
+
+### Method 2: Deactivate the Google App’s location access on your Poco X5 Pro mobile device
+
+Let’s say you don’t want to cut the entire location access across your smartphone because other apps might malfunction. That’s fine. There is a way to deactivate the Google app’s location permission while the other apps remain unaffected. Are you more inclined to implement this decentralized approach? Check out the tutorial provided below.
+
+**Step 1:** Go to the **Settings** app on your Poco X5 Pro smartphone.
+
+**Step 2:** Click **Apps.**
+
+![app list](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-5.jpg)
+
+**Step 3:** Find and click **Google** on the list.
+
+![google on app list](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-6.jpg)
+
+**Step 4:** Click **Permissions.**
+
+![google app permissions](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-7.jpg)
+
+**Step 5:** Click **Location.**
+
+![location access for google](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-8.jpg)
+
+**Step 6:** Lastly, click **Don’t Allow.** Alternatively, you may instead select **Allow Only While Using the App** or **Ask Every Time** if you wish to grant Google conditional access to your location data.
+
+![disallow location access on google](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-9.jpg)
+
+### Method 3: Toggle off the Timeline feature on your Google Account
+
+Timeline is a special Google feature that keeps a record of your location check-ins and routes taken for future reference. You can review it on the Google Maps app in case you need to visit the same place again. On the other hand, you can easily toggle it off if you don’t want Google tracking down your specific whereabouts. Here’s the guide on how to do it in easy steps.
+
+#### For mobile users
+
+**Step 1:** Launch the **Google** mobile application on your Poco X5 Pro smartphone.
+
+**Step 2:** Click your **Profile** icon at the top-right corner of the screen.
+
+![google app profile icon](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-10.jpg)
+
+**Step 3:** Click **Google Account.**
+
+![google app account](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-11.jpg)
+
+**Step 4:** Click **Data Privacy.**
+
+![data and privacy settings](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-12.jpg)
+
+**Step 5:** Find and click **Timeline.**
+
+![timeline settings](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-13.jpg)
+
+**Step 6:** Scroll down and then tap the **Turn Off** button.
+
+![turn off timeline settings](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-14.jpg)
+
+#### For web users
+
+**Step 1:** Visit the [<u>official website</u>](https://myactivity.google.com/myactivity) of My Google Activity. Right after, log in to the Gmail account you particularly use on your Poco X5 Pro mobile device.
+
+**Step 2:** On the main dashboard, click **Timeline.**
+
+![my google activity settings](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-15.jpg)
+
+**Step 3:** Scroll it down and then click the **Turn Off** button.
+
+![turn off timeline](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-16.jpg)
+
+### Method 4: Remove visits on Google Maps
+
+If Timeline is previously activated on your Poco X5 Pro, chances are Google Maps has recorded all your recent visits. Don’t worry. You can easily delete them and finally turn off Google location tracking once and for all. Here’s a short guide on how to do it in easy steps.
+
+**Step 1:** Launch the **Google Maps** app on your Poco X5 Pro smartphone.
+
+**Step 2:** Click the **Profile** icon at the top-right corner of the screen.
+
+![google maps profile](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-17.jpg)
+
+**Step 3:** Then click **Your Timeline.**
+
+![google maps your timeline](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-18.jpg)
+
+**Step 4:** Click **Places.** Scroll down and then click **Visited All Places** just below the map.
+
+![google maps places](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-19.jpg)
+
+**Step 5:** Pick a location and click the **Three-dotted menu** button next to it. From there, select **Remove All Visits.**
+
+## Part 3. Keep Your Whereabouts Private With [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+
+Google surely understands that some users are uncomfortable sharing their whereabouts with the platform. That’s why you’re given the option to turn off Google location tracking on your Poco X5 Pro smartphone. However, take note that doing so might gravely affect the functionality of some Google products. If you don’t want it to happen, there’s an alternative solution you can try. Rather than denying Google access to your location, why not change it instead and register a fake one? Yes. That can absolutely help you conceal your whereabouts without compromising the quality of Google services. Don’t worry. It’s a piece of cake. Wondershare Dr.Fone can help you a lot in this regard. It has a potent Virtual Location feature capable of modifying your whereabouts and simulating GPS movements. Do you want to try it now? Here’s a short guide for you.
+
+
+
+**Step 1:** Download Wondershare Dr.Fone from its [<u>official website.</u>](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) Subsequently, install it on your computer.
+
+**Step 2:** Launch the newly installed software on your desktop. Once it fully loads up, connect your Poco X5 Pro smartphone using a data cable. Follow the on-screen instructions to make sure that the connection between the two devices is stable enough to handle the succeeding procedures.
+
+**Step 3:** Go to the left-side panel and then click **Toolbox.** On the main dashboard, click **Virtual Location.** Is it your first time accessing this feature? If so, Wondershare Dr.Fone will then download additional resources from the server. Don’t worry. The downloading process will only take a few minutes.
+
+**Step 4:** After completing the downloading process, Wondershare Dr.Fone - Virtual Location will open in a separate window. From there, navigate to the top-right menu bar and then click **Teleport Mode.**
+
+![wondershare drfone teleport mode](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
+
+**Step 5:** Head over to the search bar at the top-left corner of the screen and then enter your desired location. Choose one from the suggestions that Wondershare Dr.Fone displays on the screen. Right after, click the **Enter** icon.
+
+![enter your preferred location](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
+
+**Step 6:** The description of your chosen location will be then flashed on the screen. Read the details and make sure they are accurate. After that, click **Move Here** to proceed.
+
+![read location description](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
+
+**Step 7:** The location registered on your Poco X5 Pro mobile device will now be replaced with your modified whereabouts. Verify the changes applied on your smartphone by checking Google Maps and searching for your current location. One way or another, it must show the altered result.
+
+**NOTE:** If you want to restore your original location settings, simply disconnect your smartphone from the computer and restart it.
+
+## Conclusion
+
+At some point, we cannot deny that Google location services make our lives a lot more convenient. Imagine you can easily locate a particular place and get directions by simply browsing Google Maps. No need to borrow an Atlas from the library just to find a location you want to visit. However, in exchange for this convenience, you have to share location access with Google. Some users are not confident to access this privilege at the expense of their privacy. Don’t worry. That’s totally fine. If you’re one of them, this article can help you turn off Google location tracking on your Poco X5 Pro. Is there a more conservative approach to address this issue? Luckily, there is. Download [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) on your computer and take advantage of its Virtual Location feature. It can help modify your whereabouts and simulate GPS movements without going outdoors.
+
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-oneplus-nord-ce-3-lite-5g-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on OnePlus Nord CE 3 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-samsung-galaxy-a05-without-him-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Two Ways to Track My Boyfriends Samsung Galaxy A05 without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-vivo-t2-pro-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on Vivo T2 Pro 5G Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-vivo-y100-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Spy on Text Messages from Computer & Vivo Y100 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-7-phone-number-locators-to-track-vivo-y200-location-drfone-by-drfone-virtual-android/"><u>Top 7 Phone Number Locators To Track Vivo Y200 Location | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-realme-narzo-60-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Spy on Text Messages from Computer & Realme Narzo 60 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-vivo-y78t-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost Vivo Y78t for Free? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-samsung-galaxy-s23-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Remove Spyware on Samsung Galaxy S23 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-oppo-reno-11f-5g-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On Oppo Reno 11F 5G for Parents | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-vivo-y200-location-by-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Vivo Y200 Location by Number | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-ways-to-track-samsung-galaxy-s23-tactical-edition-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track Samsung Galaxy S23 Tactical Edition without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-zte-blade-a73-5g-drfone-by-drfone-virtual-android/"><u>How to Spy on Text Messages from Computer & ZTE Blade A73 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-oppo-a56s-5g-location-by-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Oppo A56s 5G Location by Number | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-motorola-moto-g13-drfone-by-drfone-virtual-android/"><u>In 2024, How Do I Stop Someone From Tracking My Motorola Moto G13? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-samsung-galaxy-a25-5g-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Samsung Galaxy A25 5G Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-ways-to-track-vivo-v27-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track Vivo V27 without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-oppo-a78-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on Oppo A78 Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/best-anti-tracker-software-for-oneplus-12-drfone-by-drfone-virtual-android/"><u>Best Anti Tracker Software For OnePlus 12 | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-realme-12-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Realme 12 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-huawei-nova-y71-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your Huawei Nova Y71 Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-ways-to-track-honor-magic-6-lite-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track Honor Magic 6 Lite without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-realme-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Realme 12 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-oppo-a58-4g-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track Oppo A58 4G without App | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-xiaomi-redmi-note-12-pro-5g-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Xiaomi Redmi Note 12 Pro 5G Location by Number | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-oppo-a79-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Car Locator Apps for Oppo A79 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/5-ways-to-track-xiaomi-redmi-note-12-pro-5g-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Xiaomi Redmi Note 12 Pro 5G without App | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-lava-blaze-2-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Lava Blaze 2 by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-oppo-a1x-5g-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Oppo A1x 5G Location by Number | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-oppo-a2-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Oppo A2 Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-oneplus-11r-drfone-by-drfone-virtual-android/"><u>In 2024, How Do I Stop Someone From Tracking My OnePlus 11R? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/two-ways-to-track-my-boyfriends-lava-blaze-pro-5g-without-him-knowing-drfone-by-drfone-virtual-android/"><u>Two Ways to Track My Boyfriends Lava Blaze Pro 5G without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-vivo-v27e-location-by-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Vivo V27e Location by Number | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-oppo-a1-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Oppo A1 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-xiaomi-civi-3-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Best Spy Watches For your Xiaomi Civi 3 | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-vivo-y36-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Tracking Apps to Track Vivo Y36 without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-samsung-galaxy-m34-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On Samsung Galaxy M34 for Parents | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/best-anti-tracker-software-for-honor-x50-gt-drfone-by-drfone-virtual-android/"><u>Best Anti Tracker Software For Honor X50 GT | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-vivo-y200e-5g-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Vivo Y200e 5G Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-xiaomi-13-ultra-drfone-by-drfone-virtual-android/"><u>How to Detect and Remove Spyware on Xiaomi 13 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-xiaomi-redmi-13c-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Xiaomi Redmi 13C Activity | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-motorola-edge-40-neo-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share/Fake Location on WhatsApp for Motorola Edge 40 Neo | Dr.fone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/why-is-ipogo-not-working-on-apple-iphone-13-pro-fixed-drfone-by-drfone-virtual-ios/"><u>Why is iPogo not working On Apple iPhone 13 Pro? Fixed | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-quick-guide-to-tecno-camon-20-pro-5g-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Tecno Camon 20 Pro 5G FRP Bypass Instantly</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-apple-iphone-12-mini-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 5 Car Locator Apps for Apple iPhone 12 mini | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-honor-100-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Honor 100 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-nubia-z50s-pro-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Nubia Z50S Pro | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-se-2020-official-method-to-unlock-your-apple-iphone-se-2020-by-drfone-ios/"><u>In 2024, How To Unlock Apple iPhone SE (2020) Official Method to Unlock Your Apple iPhone SE (2020)</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-where-is-the-best-place-to-catch-dratini-on-samsung-galaxy-a05s-drfone-by-drfone-virtual-android/"><u>In 2024, Where Is the Best Place to Catch Dratini On Samsung Galaxy A05s | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ultimate-guide-to-get-the-meltan-box-pokemon-go-for-sony-xperia-1-v-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate guide to get the meltan box pokemon go For Sony Xperia 1 V | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/bricked-your-huawei-nova-y71-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Huawei Nova Y71? Heres A Full Solution | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-oppo-a1-5g-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Oppo A1 5G ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-fix-oem-unlock-missing-on-xiaomi-redmi-13c-5g-by-drfone-android/"><u>How To Fix OEM Unlock Missing on Xiaomi Redmi 13C 5G?</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/iphone-15-pro-backup-password-never-set-but-still-asking-heres-the-fix-drfone-by-drfone-ios/"><u>iPhone 15 Pro Backup Password Never Set But Still Asking? Heres the Fix | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-11-best-location-changers-for-samsung-galaxy-m14-4g-drfone-by-drfone-virtual-android/"><u>In 2024, 11 Best Location Changers for Samsung Galaxy M14 4G | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/is-it-possible-to-use-miracast-with-apple-iphone-12-mini-drfone-by-drfone-ios/"><u>Is it Possible to Use Miracast with Apple iPhone 12 mini? | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-oneplus-nord-3-5g-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your OnePlus Nord 3 5G | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-most-useful-tips-for-pokemon-go-ultra-league-on-lava-yuva-3-pro-drfone-by-drfone-virtual-android/"><u>In 2024, The Most Useful Tips for Pokemon Go Ultra League On Lava Yuva 3 Pro | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-honor-x9a-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Honor X9a Devices</u></a></li>
+</ul></div>
+
+
