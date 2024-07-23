@@ -1,7 +1,7 @@
 ---
 title: How to Track WhatsApp Messages on Itel P40+ Without Them Knowing? | Dr.fone
-date: 2024-05-20T01:24:22.420Z
-updated: 2024-05-21T01:24:22.420Z
+date: 2024-07-22T00:48:44.639Z
+updated: 2024-07-23T00:48:44.639Z
 tags: 
   - virtual location change
   - location track
@@ -10,7 +10,7 @@ categories:
 description: This article describes How to Track WhatsApp Messages on Itel P40+ Without Them Knowing?
 excerpt: This article describes How to Track WhatsApp Messages on Itel P40+ Without Them Knowing?
 keywords: Location Track for P40+,track location
-thumbnail: https://www.lifewire.com/thmb/FWDwuZy1CDGbqb0qwCy_mcmpESI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/best-sports-movies-creed-michael-b-jordan-cbca95120e5243edb7eca00403eaa626.jpg
+thumbnail: https://thmb.techidaily.com/efc3f590fc068b65cc8e4c4fda82884c66683db0be7b320fd391a90a34b6fb91.jpg
 ---
 
 ## How to Track WhatsApp Messages on Itel P40+ Without Them Knowing?
@@ -29,6 +29,9 @@ That means it is unlikely that tracking could be done directly through the app's
 
 Nowadays, the demand for monitoring WhatsApp messages has increased significantly. It is mainly due to the rise of cybercrimes. However, it's important to note that the most reliable tracking solutions often come with a price tag. That being said, a few free methods are available to answer **how to spy on WhatsApp messages Android free**. In this section, we will explore these options and their limitation:
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 1. Use Online WhatsApp Web to Track WhatsApp Messages
 
 [WhatsApp Web](https://drfone.wondershare.com/whatsapp/whatsapp-web-not-working.html) is a feature provided by WhatsApp. It allows users to access their WhatsApp accounts on a web browser. That makes it a convenient way to track WhatsApp messages remotely. However, it is as long as you can access the target device for the initial setup. To set up WhatsApp Web, you will need physical access to the Itel P40+ device on which the targeted WhatsApp account is active.
@@ -39,12 +42,18 @@ Finally, point the Itel P40+ device's camera toward the QR code displayed on the
 
 ![use whatsapp web](https://images.wondershare.com/drfone/article/2023/07/track-whatsapp-messages-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Method 2. Use WhatsApp Linked Devices to Track WhatsApp Messages
 
 WhatsApp Linked Devices is a feature introduced by WhatsApp. It allows users to connect their WhatsApp accounts to multiple devices simultaneously. This feature enables seamless synchronization of messages across devices. Thus, it can be used to track WhatsApp messages. To set up WhatsApp Linked Devices, you will need physical access to the targeted device.
 
 Launch WhatsApp on the Itel P40+ device, go to the menu, and select "Linked Devices." Now tap "Link a device" and use the QR code scanner to scan the code on your device. Once devices are linked, it will allow you to track the WhatsApp messages of the targeted person. Using this method needs physical access to the targeted device along with stable internet.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![link whatsapp to another device](https://images.wondershare.com/drfone/article/2023/07/track-whatsapp-messages-2.jpg)
 
 ### Method 3. Use Google Drive Backup to Read Someone’s WhatsApp Messages
@@ -57,6 +66,9 @@ To use this method, you will need to physically access the Itel P40+ device or n
 
 Regarding tracking someone's WhatsApp messages without their knowledge, it's essential to tread carefully. This section will discuss three popular monitoring applications to answer **how to spy on someone's WhatsApp**. The apps that are often mentioned in this context: mSpy, Spyera, and MaxxSpy.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<!-- affiliate ads end -->
 ### Method 1. Track WhatsApp Messages with mSpy
 
 [mSpy](http://mspy.go2cloud.org/SH96F) is a highly acclaimed app that allows you to track WhatsApp messages without them knowing and also rings in with a plethora of highly useful features. It, too, is compatible with both iOS and Android devices and can be accessed from any web browser so that you can use this WhatsApp tracker to track WhatsApp messages remotely and with complete discretion. MSpy is also easy to install, and in the unlikely event you face any issues, you can always refer to their free online help or, better yet, get in touch with their unmatched customer support.
@@ -77,6 +89,9 @@ After purchasing the mSpy package of your choice, open the email to receive logi
 
 **Step 4:** You will need to enter a registration code from the mSpy account to complete the installation process. Afterward, move to your mSpy account, check the warning box, and click "Proceed." Once the process is done, you will need to restart the targeted device.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<!-- affiliate ads end -->
 ![install the mspy app](https://images.wondershare.com/drfone/article/2023/07/track-whatsapp-messages-4.jpg)
 
 **Step 5:** Now click “Finish” to complete the process and access the mSpy dashboard. After a while, you can see all data from the Android device. If you want to access WhatsApp data, you will need to root the targeted Android device.
@@ -85,12 +100,18 @@ After purchasing the mSpy package of your choice, open the email to receive logi
 
 **Step 6:** Afterward, choose "WhatsApp" from the left sidebar, and you can track the WhatsApp messages. It will also allow you to track WhatsApp calls, including all incoming and outgoing calls.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![access the mspy dashboard](https://images.wondershare.com/drfone/article/2023/07/track-whatsapp-messages-6.jpg)
 
 #### For iPhone
 
 **Step 1:** For iPhone, you can choose either jailbroken or non-jailbroken as the Itel P40+ device type. Since you need to read WhatsApp messages, choosing non-jailbroken is sufficient. For mSpy to work on non-jailbroken iPhones, the iCloud backup should be enabled. You will also need Apple ID credentials and physical access in case of 2FA.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![click on proceed](https://images.wondershare.com/drfone/article/2023/07/track-whatsapp-messages-7.jpg)
 
 **Step 2:** Start by clicking “Proceed” in your mSpy account and inserting the Apple ID credentials of the targeted device. Now, press "Verify," and if 2FA is enabled, you will see an option to send the verification code. Use the code received on the targeted device to complete the verification process.
@@ -103,6 +124,9 @@ After purchasing the mSpy package of your choice, open the email to receive logi
 
 **Step 4:** Once mSpy has accessed the data, select “WhatsApp” from the left side to access WhatsApp chats. Here you can track all the incoming and outgoing messages remotely.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![use mspy iphone dashboard](https://images.wondershare.com/drfone/article/2023/07/track-whatsapp-messages-10.jpg)
 
 ### Method 2. Track WhatsApp Messages with Spyera
@@ -151,12 +175,18 @@ Changing your location to anywhere in the world is a breeze with this software. 
 
 Connect your device to the computer and launch the “Virtual Location” from the Toolbox of Wondershare Dr.Fone. Following this, activate the "Teleport Mode" feature from the top right corner.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<!-- affiliate ads end -->
 ![enable the teleport mode](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
 
 **Step 2: Move to Your Desired Location**
 
 Now, use the search box on the top left to enter your desired location. Once the entered location appears on the map, tap "Move Here" to change your location.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
 ![press the move here button](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
@@ -167,8 +197,14 @@ WhatsApp allows users to delete messages they have sent within a specific time f
 
 The app is available for Android devices and can recover your lost data with a high success rate. Apart from offering data recovery features, it lets you view deleted messages on social media apps like WhatsApp and LINE. It doesn't matter if the message was a picture, video, or text. This app can remember all the incoming WhatsApp messages for you.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![dr.fone data and photo recovery app](https://images.wondershare.com/drfone/article/2023/07/track-whatsapp-messages-15.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 6: Frequently Asked Questions
 
 When it comes to **WhatsApp tracking**, you may have some questions. Here are the answers to the most frequently asked questions regarding this topic from the internet:
@@ -193,6 +229,9 @@ When it comes to spoofing your WhatsApp location to avoid being tracked by other
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Top 6 Apps/Services to Trace Any Itel P40+ Location By Mobile Number
 
 Although this may sound like invading someone’s privacy, tracing a mobile number is important in a number of situations. We carry so much of our personal information right in our pockets, every day, and it is important to know that they are safe and secure, right? Technology is reaching new heights now and tasks like tracking a phone or a mobile number are quite easy. In this article, we will be discussing some of the apps and services that will help you to trace any mobile number easily.
@@ -215,10 +254,16 @@ Following these easy steps, you can create a personal mSpy account and view all 
 - Then, view your inbox for the confirmation email with the login information. Log into the Control Panel and follow the Setup Wizard for installation.
 - After completing the installation, mSpy will start to track the activities of the targeted device.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ![trace any mobile number-start to trace](https://images.wondershare.com/drfone/article/2017/10/15089049011594.jpg)
 
 The mSpy allows you to view calls, various multimedia files, read emails, monitor internet use, and control what apps and programs the target device can access. With dedicated customer support, mSpy is definitely a must-try! To download it, visit: [https://www.mspy.com/](http://mspy.go2cloud.org/SH7G6)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ## 2\. Mobistealth
 
 Mobistealth is another great way to trace any mobile number. Mobistealth’s mobile monitoring tool helps you to track all activities of the target device and send the information back to your Mobistealth user account.
@@ -237,6 +282,9 @@ You can start using Mobistealth by downloading it from the website and installin
 
 Compatible with all major network carriers and platforms like ios, Windows, and Android, Mobistealth is a great way to keep track of mobile activities and trace any mobile number. To download it, visit: <http://www.mobistealth.com/products.php>
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## 3\. Spyera
 
 A powerful and undetectable monitoring software, Spyera helps you to trace a mobile number and monitor the Itel P40+ device’s activities as well. Spyera comes equipped with vast features to give you a great mobile-monitoring experience. All you have to do is purchase Spyera, after which you will get an email with login details for the Control Panel and then you are good to go!
@@ -272,12 +320,18 @@ If you are looking for parental monitoring software, TiSPY is the one. It is a p
 
 All you have to do is download TiSPY from its website and install it, and you can start monitoring everything!
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![trace any mobile number-TiSPY](https://images.wondershare.com/drfone/article/2017/10/15089050617108.jpg)
 
 ![trace any mobile number-start monitoring with TiSPY](https://images.wondershare.com/drfone/article/2017/10/15089050731393.jpg)
 
 To know more about TiSPY or to download it, visit: <https://tispy.net/>
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 6\. Highster Mobile Phone Tracker
 
 Still, looking for an app to trace mobile numbers? Try the Highster Mobile software that comes with an optimized web-based control panel with all the necessary indicators. You can easily download it from the website and the installation procedure is easy and straightforward. Let’s take a look at some of its features: -
@@ -310,10 +364,17 @@ Step 1: First of all you need to purchase the subscription from [www.mspy.com/](
 
 Step 2: Now access the target device, once you opt for downloading, there you will be asked to enter the unique ID you received, to authorize the access. As soon you entered the details, the monitoring process will get started.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![track a cell phone without them knowing-access the target device](https://images.wondershare.com/drfone/article/2017/11/15100180578971.jpg)
 
 Step 3: After that, you will be allowed to open Control Panel. From there you can easily go for the process of tracking the target device remotely, under which you can have access to GPS locations, Messages, Call details, and lot more. That you can access from anywhere, such as your system, mobile, laptop, etc.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
+ PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<!-- affiliate ads end -->
 ![track a cell phone without them knowing-the mSpy Control Panel](https://images.wondershare.com/drfone/article/2017/11/15100180804204.jpg)
 
 Following the above simple steps will enable you to track a Cell Phone without them Knowing.
@@ -324,6 +385,18 @@ Following the above simple steps will enable you to track a Cell Phone without t
 
 After installing the Flexispy on the Itel P40+ device you want to monitor, all the relevant information you want to monitor (GPS location, calls, texts) will upload to its server without knowing. The only thing you need to do is log in to your Flexispy account and click "Location" if you would like to track a cell phone.
 
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![track a cell phone without them knowing-the flexispy](https://images.wondershare.com/drfone/article/2022/02/track-cell-phone-with-flexispy-02.jpg)
 
 Except for viewing the Itel P40+ device location data, you can also export GPS data to use on the mapping application you like.
@@ -336,8 +409,16 @@ Step 1: Click the "Export" button on the upper right corner.
 
 Step 2: Click the "Download" button on the pop-up window that appears.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
+🎬 Nero Video:
+The powerful video editing program for your Windows PC</a>
+<!-- affiliate ads end -->
 ![download gps datay](https://images.wondershare.com/drfone/article/2022/02/track-cell-phone-with-flexispy-04.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 3: How to secretly track someone
 
 If you want to track a cell phone without them knowing secretly, then one interesting solution is the “Find my friends” app introduced by Apple though primarily not for spying purposes, but you can use it to spy on someone's iPhone secretly. This app comes with the facility to get a notification when the target person arrives or leaves a place. Here, if you have access to the target device and the “Find my friends” option then it will give you the solution on how to track a cell phone without them knowing.
@@ -346,6 +427,9 @@ Step1: Enable the option “Share my location” on the target phone. To enable 
 
 Step 2: Generally iCloud account has sharing options for all other devices. We have to ensure the sharing option is correctly viewed as the target device such as “This device”.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![track a cell phone without them knowing-share my location](https://images.wondershare.com/drfone/article/2017/11/15100182891050.jpg)
 
 Step 3: Now swipe from bottom to end, click on the “Airdrop” option from the settings. You will have two options such as “Everyone” and “Contacts only”.
@@ -360,6 +444,9 @@ Step 5: The target device location will be shared with you. You will get a pop-u
 
 Step 6: Now go to your device, open the “Find my friends” app and click the icon of the target device. You will get a notification, where they are now when they leave from the place etc.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![track a cell phone without them knowing-get a notification](https://images.wondershare.com/drfone/article/2017/11/15100183691634.jpg)
 
 Note: If you want to hide the “Find my friends” app from the target device you can use the dock method which will be easy but the folder method is very tough.
@@ -398,3 +485,61 @@ We must tell you using mSpy and FlexiSPY are both one of the best methods to tra
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-syncing-tiktok-content-with-twitter/"><u>[New] 2024 Approved  Syncing TikTok Content with Twitter</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-boost-engagement-with-effortless-youtube-thumbnail-tips-for-2024/"><u>[New] Boost Engagement with Effortless Youtube Thumbnail Tips for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-how-to-livestream-on-facebook-from-android-and-ios/"><u>[New] How to Livestream on Facebook From Android and iOS?</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-top-strategies-efficiently-saving-rocket-league-matches-for-2024/"><u>[New] Top Strategies  Efficiently Saving Rocket League Matches for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-winning-the-race-elite-video-apps-for-windows-phones/"><u>[New] Winning the Race  Elite Video Apps for Windows Phones</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-budget-friendly-tactics-to-increase-your-youtube-video-impact-for-2024/"><u>[Updated] Budget-Friendly Tactics to Increase Your YouTube Video Impact for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-elite-cgi-green-screen-tutorial-for-kinemaster-enthusiasts-for-2024/"><u>[Updated] Elite CGI  Green Screen Tutorial for Kinemaster Enthusiasts for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-mastering-screens-on-windows-with-best-no-cost-recorder-tools/"><u>[Updated] Mastering Screens on Windows with Best No-Cost Recorder Tools</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-record-your-rush-make-every-game-count-for-2024/"><u>[Updated] Record Your Rush  Make Every Game Count for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-revolutionary-tiktok-pfp-concepts-for-popularity-boost-for-2024/"><u>[Updated] Revolutionary TikTok PFP Concepts for Popularity Boost for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-elevate-video-editing-gratuitous-premiere-pro-tools/"><u>2024 Approved  Elevate Video Editing  Gratuitous Premiere Pro Tools</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/2024-approved-the-most-popular-3d-video-making-tools-among-professionals/"><u>2024 Approved The Most Popular 3D Video Making Tools Among Professionals</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-ways-to-track-motorola-moto-g73-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track Motorola Moto G73 5G without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/5-ways-to-track-motorola-moto-g73-5g-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Motorola Moto G73 5G without App | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-oppo-a2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Oppo A2 | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/7-ways-to-unlock-a-locked-huawei-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Huawei Phone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-motorola-moto-g73-5g-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Motorola Moto G73 5G | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-honor-90-lite-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Honor 90 Lite? | Dr.fone</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/clearing-up-cacophony-3-easy-steps-to-mute-audio-echoes/"><u>Clearing Up Cacophony 3 Easy Steps to Mute Audio Echoes</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-lava-blaze-2-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Lava Blaze 2 Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-motorola-moto-g73-5g-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on Motorola Moto G73 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-motorola-moto-g73-5g-drfone-by-drfone-virtual-android/"><u>How to Spy on Text Messages from Computer & Motorola Moto G73 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-motorola-moto-g73-5g-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost Motorola Moto G73 5G for Free? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-motorola-moto-g73-5g-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Motorola Moto G73 5G by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-motorola-moto-g73-5g-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Motorola Moto G73 5G Location by Number | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-motorola-moto-g73-5g-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Motorola Moto G73 5G Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-motorola-moto-g73-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on Motorola Moto G73 5G Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-motorola-moto-g73-5g-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Motorola Moto G73 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/illustrate-with-precision-prime-ipados-design-apps/"><u>Illustrate with Precision  Prime iPadOS Design Apps</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-motorola-moto-g73-5g-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your Motorola Moto G73 5G Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-motorola-moto-g73-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Best Anti Tracker Software For Motorola Moto G73 5G | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-capture-and-store-facebook-videos-in-hd/"><u>In 2024, Capture and Store Facebook Videos in HD</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-motorola-moto-g73-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How Do I Stop Someone From Tracking My Motorola Moto G73 5G? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-motorola-moto-g73-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Check Distance and Radius on Google Maps For your Motorola Moto G73 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-motorola-moto-g73-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Remove Spyware on Motorola Moto G73 5G? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-apple-iphone-x-passcode-not-working-by-drfone-ios/"><u>In 2024, How to Fix Apple iPhone X Passcode not Working?</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-markets-best-gpus-for-uhd-video-processing/"><u>In 2024, Market's Best GPUs for UHD Video Processing</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-pictorial-mosaic-construction-with-digital-photography/"><u>In 2024, Pictorial Mosaic Construction with Digital Photography</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-motorola-moto-g73-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Best Spy Watches For your Motorola Moto G73 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-motorola-moto-g73-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Car Locator Apps for Motorola Moto G73 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-motorola-moto-g73-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Tracking Apps to Track Motorola Moto G73 5G without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-samsung-galaxy-f34-5g-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Samsung Galaxy F34 5G? Fixed | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/maxed-out-visual-settings-for-windows-11/"><u>Maxed Out Visual Settings for Windows 11</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/navigating-instagrams-repost-policy/"><u>Navigating Instagram's Repost Policy</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/solutions-to-spy-on-motorola-moto-g73-5g-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>Solutions to Spy on Motorola Moto G73 5G with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-art-of-focusing-on-roblox-elements-closeup/"><u>The Art of Focusing on Roblox Elements Closeup</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-motorola-moto-g73-5g-for-parents-drfone-by-drfone-virtual-android/"><u>Top 10 Telegram Spy Tools On Motorola Moto G73 5G for Parents | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-4-ways-to-trace-motorola-moto-g73-5g-location-drfone-by-drfone-virtual-android/"><u>Top 4 Ways to Trace Motorola Moto G73 5G Location | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-6-appsservices-to-trace-any-motorola-moto-g73-5g-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>Top 6 Apps/Services to Trace Any Motorola Moto G73 5G Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-7-phone-number-locators-to-track-motorola-moto-g73-5g-location-drfone-by-drfone-virtual-android/"><u>Top 7 Phone Number Locators To Track Motorola Moto G73 5G Location | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-9-motorola-moto-g73-5g-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 Motorola Moto G73 5G Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/two-ways-to-track-my-boyfriends-motorola-moto-g73-5g-without-him-knowing-drfone-by-drfone-virtual-android/"><u>Two Ways to Track My Boyfriends Motorola Moto G73 5G without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-your-pathway-to-professional-voice-recording-top-free-software-for-pc-users-2024-edition/"><u>Updated Your Pathway to Professional Voice Recording - Top Free Software for PC Users, 2024 Edition</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-motorola-moto-g73-5g-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Motorola Moto G73 5G | Dr.fone</u></a></li>
+</ul></div>

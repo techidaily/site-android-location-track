@@ -1,7 +1,7 @@
 ---
 title: How to Detect and Remove Spyware on Infinix Smart 8? | Dr.fone
-date: 2024-04-12T12:57:26.752Z
-updated: 2024-04-13T12:57:26.752Z
+date: 2024-07-22T00:31:20.946Z
+updated: 2024-07-23T00:31:20.946Z
 tags: 
   - virtual location change
   - location track
@@ -10,13 +10,16 @@ categories:
 description: This article describes How to Detect and Remove Spyware on Infinix Smart 8?
 excerpt: This article describes How to Detect and Remove Spyware on Infinix Smart 8?
 keywords: Location Track for Smart 8,track location
-thumbnail: https://www.lifewire.com/thmb/dpIy1Vb0m2YNL1LlGPZga8opYUc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/samsungtvhomepage-58f0d708245a4140bb4bbad8ea0cfc26.jpg
+thumbnail: https://thmb.techidaily.com/749e7224dc77351db9654f3d5b625401a4538e3e09d897a36274e3de6aadbd39.jpg
 ---
 
 ## How to Detect and Remove Spyware on Infinix Smart 8?
 
 As scary as it sounds, it is actually quite possible that someone is spying on your iPhone. These hackers and sometimes amateurs make use of sophisticated spy software to infiltrate your device and have access to your information. If you have reason to suspect that someone might have access to your iPhone, it is important to take the steps to figure out just how they gained access to the Infinix Smart 8 device and how to eliminate the threat. This article will help you with both.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: Can Someone Spy on my iPhone?
 
 The biggest question most iPhone users have is; can someone spy on my iPhone? The truth is, it is actually quite easy to spy on an iPhone remotely thanks to the availability of many kinds of spy or monitoring programs. A hacker can also gain access to your device’s information through phishing websites. If you have ever seen those ads while browsing that tell you’ve won something spectacular even though you didn’t enter a competition, clicking on the ad often leads to a phishing website where your information could be severely compromised.
@@ -37,18 +40,27 @@ Most spyware will use up your data to work. That’s because they have to receiv
 
 The presence of the Cydia app on your device when you didn’t perform a jailbreak is another indicator of spyware. Do a Spotlight search for “Cydia” to see if you find it. But the Cydia app can be very difficult to detect because sometimes it can be hidden. To eliminate the possibility, enter “4433\*29342” into the spotlight search.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Detect Spyware on iPhone-via the Cydia App](https://images.wondershare.com/drfone/article/2017/10/15074740091683.jpg)
 
 #### **3\. A warm iPhone**
 
 Do you notice that your iPhone is warm even when you are not using it? If this happens, it is very likely that there is an app running in the background. Most spyware apps are designed to run in the background so this is a big indicator of spy activity.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Detect Spyware on iPhone-notice that your iPhone is warm](https://images.wondershare.com/drfone/article/2017/10/15079738897604.jpg)
 
 #### **4\. Background Noises**
 
 When you hear background noises during a call that have nothing to do with location, there may be active spyware on your device. This particularly happens when the spyware is there to monitor your phone calls.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3: How to Remove Spyware from iPhone?
 
 Having a Spyware app on your device can be dangerous on many levels. Not only is the person spying on you violating your privacy, but they are also capable of getting vital information from your device like your address or bank information. Therefore, it is imperative that you take steps to remove the spyware o your device as soon as possible. The following are just some of the things you can do.
@@ -57,6 +69,9 @@ Having a Spyware app on your device can be dangerous on many levels. Not only is
 
 The best thing you can do is to install anti-spyware software on your device. These anti-spyware programs work by scanning the iPhone for spyware and deleting the programs. There are many such programs available but we advise to choose one with a reputation for efficiency. Anti-Spyware software will detect the spyware and ask you to uninstall it.
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Remove Spyware from iPhone-Install Anti-Spyware Program](https://images.wondershare.com/drfone/article/2017/10/15079737644580.jpg)
 
 #### **2\. Update your iOS**
@@ -71,6 +86,9 @@ To do it go to Settings > General > Software Update and tap “Download and Inst
 
 Restoring your iPhone in iTunes can also be quite effective in getting rid of spyware. Like an update, a restore often eliminates the spyware by deleting all bugs affecting the system. Be advised however that a restore will often erase all data and contents on the Infinix Smart 8 device so be sure to have a backup handy before doing this.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Remove Spyware from iPhone-Restore your Device](https://images.wondershare.com/drfone/article/2017/10/15074748849333.jpg)
 
 Considering how easy it is for someone to spy on you, the best thing you can do is remain vigilant. If you notice some of the signs we’ve mentioned in Part 2 above, take the necessary steps to remove the spyware. It is also important to avoid clicking on suspicious links especially in emails from people you don’t know.
@@ -125,6 +143,9 @@ In order to see how to use dr. fone to teleport your device to another location,
 
 <iframe allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/FfhgWxnARqo"></iframe>
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 2) Disable Significant Locations on iPhone
 
 - Start by launching "Settings" from your Home screen
@@ -137,6 +158,9 @@ In order to see how to use dr. fone to teleport your device to another location,
 
 - Finally, toggle the "Significant Locations" to the "OFF" position. The switch will turn grey, indicating that the service has been turned off.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3) Turn off location tracking of specific apps
 
 You may turn off location tracking for specific apps that you feel might be used to track your position. This is how you go about turning them off.
@@ -156,10 +180,16 @@ You may turn off location tracking for specific apps that you feel might be used
 - Scroll down and go to the "Locations Services"
 - Now choose the "Share My Location" option
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Disable Share My Location on iPhone](https://images.wondershare.com/drfone/2020/disable-location-tracking-iphone-4.jpg)
 
 - Now toggle the button to the right to turn it into the "OFF" position
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ### 5) Disable location-based notifications or alerts
 
 Navigate to the "Settings" app on your Home screen
@@ -174,12 +204,19 @@ Now scroll down the list and click on the "System services" option
 
 Toggle the button on the right side of "Location-Based Alerts" into the "OFF" position
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ![Toggle Location-Based Alerts to the “Off” position](https://images.wondershare.com/drfone/2020/iphone-disable-location-based-alerts-6.jpg)
 
 ## Part 3:How to stop my android from being tracked
 
 You also need to know how to stop Google from tracking your Infinix Smart 8. This feature can be used to track your device through other apps.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 1) Stop Google Tracking on Android device
 
 - Access the "settings" app on your Home screen
@@ -220,15 +257,24 @@ This is an app that you can download to your android device from Google Play Sto
 
 - From the "Settings" app, navigate down to "About Phone" and then tap on "Build Number" seven times in order to enable the "Developer Options".
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
 ![android pokemon go spoofing 4](https://images.wondershare.com/drfone/article/2019/09/android-pokemon-go-spoofing-4.jpg)
 
 - Launch Fake GPS go and the grant it the required access. Go back to "Developer Options" and then go down until you find Fake GPS Go. Toggle it to the "ON" position.
 - Now go back to "Mock Location App" and then choose Fake GPS Go. You will now be able to fake your location and stop people from tracking your device.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![android pokemon go spoofing 5](https://images.wondershare.com/drfone/article/2019/09/android-pokemon-go-spoofing-5.jpg)
 
 - To actually change the virtual location of your device, launch Fake GPs Go once more and then access the map interface. Choose a location far from your actual location and then pin it as your "real" location. This will instantly show that you have moved to this new location and throw off people who are tracking your Infinix Smart 8.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![android pokemon go spoofing 6](https://images.wondershare.com/drfone/article/2019/09/android-pokemon-go-spoofing-6.jpg)
 
 ### 5) Fake GPS Free
@@ -249,6 +295,11 @@ This is yet another tool that you can use to fake your GPS location and fool peo
 
 If you want to stop Google from tracking your location, these are the methods that you should use to turn off your GPS location on both iOS and Android. You need to know that you are safe all the time and this is a step that you should take when you feel like you are being tracked for nefarious reasons. However, you should do this with caution as the information can also be used in a beneficial manner. The best option is to turn on the GPS when you need it and then turn it off when you do not, or use an iOS spoofing tool.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
+DEX 3 meets the demands of today’s versatile DJ, without compromise! 
+DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<!-- affiliate ads end -->
 ## How to Turn Off Google Location to Stop Tracking You on Infinix Smart 8
 
 The location services that Google provides to Android smartphones are indeed useful in many ways. For instance, you can use Google Maps to check a particular place you want to visit and obtain reliable directions to help you get there. Another thing, Google can also give you the exact location of your Infinix Smart 8 in case you lost it somewhere. Indeed, Google’s GPS tracking feature comes in very handy whenever you need such assistance.
@@ -257,6 +308,9 @@ It’s true to say that Google's location monitoring services offer tons of bene
 
 In this article, we will discuss how Google employs location access on your mobile device. We will also provide some quick tutorials on how to turn off Google location tracking in easy steps. Continue reading below to learn more.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
 ## Part 1. Understanding How Google Uses Location Data
 
 Location data generally helps us find reliable directions and pinpoint a particular place. But apart from that, this piece of information actually serves a bigger purpose. Google, in particular, employs location data to provide high-quality services tailored to specific preferences and necessities of the users. Each Google product relies heavily on location information and utilizes it for various reasons. To understand it better, check out the list below.
@@ -305,6 +359,9 @@ There’s no denying that Google uses location information to give us the best e
 
 **Step 4:** Lastly, click **Close** to confirm the changes.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 2: Deactivate the Google App’s location access on your Infinix Smart 8 mobile device
 
 Let’s say you don’t want to cut the entire location access across your smartphone because other apps might malfunction. That’s fine. There is a way to deactivate the Google app’s location permission while the other apps remain unaffected. Are you more inclined to implement this decentralized approach? Check out the tutorial provided below.
@@ -313,6 +370,9 @@ Let’s say you don’t want to cut the entire location access across your smart
 
 **Step 2:** Click **Apps.**
 
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![app list](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-5.jpg)
 
 **Step 3:** Find and click **Google** on the list.
@@ -321,16 +381,26 @@ Let’s say you don’t want to cut the entire location access across your smart
 
 **Step 4:** Click **Permissions.**
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![google app permissions](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-7.jpg)
 
 **Step 5:** Click **Location.**
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![location access for google](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-8.jpg)
 
 **Step 6:** Lastly, click **Don’t Allow.** Alternatively, you may instead select **Allow Only While Using the App** or **Ask Every Time** if you wish to grant Google conditional access to your location data.
 
 ![disallow location access on google](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-9.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->
 ### Method 3: Toggle off the Timeline feature on your Google Account
 
 Timeline is a special Google feature that keeps a record of your location check-ins and routes taken for future reference. You can review it on the Google Maps app in case you need to visit the same place again. On the other hand, you can easily toggle it off if you don’t want Google tracking down your specific whereabouts. Here’s the guide on how to do it in easy steps.
@@ -345,18 +415,30 @@ Timeline is a special Google feature that keeps a record of your location check-
 
 **Step 3:** Click **Google Account.**
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![google app account](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-11.jpg)
 
 **Step 4:** Click **Data Privacy.**
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ![data and privacy settings](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-12.jpg)
 
 **Step 5:** Find and click **Timeline.**
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ![timeline settings](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-13.jpg)
 
 **Step 6:** Scroll down and then tap the **Turn Off** button.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![turn off timeline settings](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-14.jpg)
 
 #### For web users
@@ -369,8 +451,14 @@ Timeline is a special Google feature that keeps a record of your location check-
 
 **Step 3:** Scroll it down and then click the **Turn Off** button.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![turn off timeline](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-16.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ### Method 4: Remove visits on Google Maps
 
 If Timeline is previously activated on your Infinix Smart 8, chances are Google Maps has recorded all your recent visits. Don’t worry. You can easily delete them and finally turn off Google location tracking once and for all. Here’s a short guide on how to do it in easy steps.
@@ -391,6 +479,9 @@ If Timeline is previously activated on your Infinix Smart 8, chances are Google 
 
 **Step 5:** Pick a location and click the **Three-dotted menu** button next to it. From there, select **Remove All Visits.**
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 3. Keep Your Whereabouts Private With [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
 
 Google surely understands that some users are uncomfortable sharing their whereabouts with the platform. That’s why you’re given the option to turn off Google location tracking on your Infinix Smart 8 smartphone. However, take note that doing so might gravely affect the functionality of some Google products. If you don’t want it to happen, there’s an alternative solution you can try. Rather than denying Google access to your location, why not change it instead and register a fake one? Yes. That can absolutely help you conceal your whereabouts without compromising the quality of Google services. Don’t worry. It’s a piece of cake. Wondershare Dr.Fone can help you a lot in this regard. It has a potent Virtual Location feature capable of modifying your whereabouts and simulating GPS movements. Do you want to try it now? Here’s a short guide for you.
@@ -442,3 +533,64 @@ At some point, we cannot deny that Google location services make our lives a lot
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-hone-your-message-effective-use-of-templates-for-shorts-for-2024/"><u>[New] Hone Your Message  Effective Use of Templates for Shorts for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-prime-7-film-downloader-tools/"><u>[New] Prime 7 Film Downloader Tools</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-seamless-video-downloads-windowsmacosandroid-2e-2023-for-2024/"><u>[New] Seamless Video Downloads  Windows/macOS/Android, 2E 2023 for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-become-a-zoom-screenshare-pro-in-minutes-for-2024/"><u>[Updated] Become a Zoom Screenshare Pro in Minutes for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-edit-like-a-pro-10-must-know-tips-for-newbies-for-2024/"><u>[Updated] Edit Like a Pro  10 Must-Know Tips for Newbies for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-prime-portable-canvas-apps-for-windows-free-and-charged/"><u>2024 Approved  Prime Portable Canvas Apps for Windows  Free and Charged</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-ways-to-track-poco-m6-pro-4g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track Poco M6 Pro 4G without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/5-ways-to-track-poco-m6-pro-4g-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Poco M6 Pro 4G without App | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/a-journey-through-the-digital-landscape-six-engaging-quizzes-for-every-vlogger-admirer-for-2024/"><u>A Journey Through the Digital Landscape  Six Engaging Quizzes for Every Vlogger Admirer for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/best-anti-tracker-software-for-realme-gt-neo-5-drfone-by-drfone-virtual-android/"><u>Best Anti Tracker Software For Realme GT Neo 5 | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/best-mp4-editors-for-mavericks-review-and-comparison-for-2024/"><u>Best MP4 Editors for Mavericks Review and Comparison for 2024</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-realme-narzo-60x-5g-drfone-by-drfone-virtual-android/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Realme Narzo 60x 5G | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-nokia-g22-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Nokia G22 FRP Locks</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-poco-m6-pro-4g-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost Poco M6 Pro 4G for Free? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-poco-m6-pro-4g-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Poco M6 Pro 4G Location by Number | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-poco-m6-pro-4g-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Poco M6 Pro 4G Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-poco-m6-pro-4g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on Poco M6 Pro 4G Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Poco M6 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-any-oneplus-nord-ce-3-5g-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any OnePlus Nord CE 3 5G Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-poco-m6-pro-4g-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Poco M6 Pro 4G Activity | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-poco-m6-pro-4g-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your Poco M6 Pro 4G Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-ways-to-track-poco-m6-pro-4g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Track Poco M6 Pro 4G without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-poco-m6-pro-4g-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track Poco M6 Pro 4G without App | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for Poco M6 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Best Anti Tracker Software For Poco M6 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-exploring-and-harnessing-twitter-archive-insights/"><u>In 2024, Exploring and Harnessing Twitter Archive Insights</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How Do I Stop Someone From Tracking My Poco M6 Pro 4G? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-vivo-s18-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Vivo S18 Pro? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Check Distance and Radius on Google Maps For your Poco M6 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Remove Spyware on Poco M6 Pro 4G? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Poco M6 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Spy on Text Messages from Computer & Poco M6 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-poco-m6-pro-4g-for-free-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track a Lost Poco M6 Pro 4G for Free? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-poco-m6-pro-4g-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Poco M6 Pro 4G by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-poco-m6-pro-4g-location-by-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Poco M6 Pro 4G Location by Number | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-poco-m6-pro-4g-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Poco M6 Pro 4G Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-poco-m6-pro-4g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on Poco M6 Pro 4G Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-turn-off-google-location-to-stop-tracking-you-on-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Turn Off Google Location to Stop Tracking You on Poco M6 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-s-top-video-editing-software-for-4k-proxy-files-a-comprehensive-guide/"><u>In 2024, S Top Video Editing Software for 4K Proxy Files A Comprehensive Guide</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-poco-m6-pro-4g-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on Poco M6 Pro 4G with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Best Spy Watches For your Poco M6 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-poco-m6-pro-4g-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On Poco M6 Pro 4G for Parents | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-4-ways-to-trace-poco-m6-pro-4g-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 4 Ways to Trace Poco M6 Pro 4G Location | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Car Locator Apps for Poco M6 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-poco-m6-pro-4g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Tracking Apps to Track Poco M6 Pro 4G without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-6-appsservices-to-trace-any-poco-m6-pro-4g-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, Top 6 Apps/Services to Trace Any Poco M6 Pro 4G Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-poco-m6-pro-4g-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Phone Number Locators To Track Poco M6 Pro 4G Location | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-9-poco-m6-pro-4g-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>In 2024, Top 9 Poco M6 Pro 4G Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-poco-m6-pro-4g-without-him-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Two Ways to Track My Boyfriends Poco M6 Pro 4G without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Poco M6 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/mastering-time-10-outstanding-youtube-channels-on-history-for-2024/"><u>Mastering Time  10 Outstanding YouTube Channels on History for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-edit-like-a-pro-the-5-best-iphone-video-editing-apps/"><u>New Edit Like a Pro The 5 Best iPhone Video Editing Apps</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/skin-care-secrets-unveiled/"><u>Skin Care Secrets Unveiled</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-realme-gt-neo-5-drfone-by-drfone-virtual-android/"><u>Top 10 Best Spy Watches For your Realme GT Neo 5 | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-tracking-apps-to-track-realme-gt-neo-5-without-them-knowing-drfone-by-drfone-virtual-android/"><u>Top 5 Tracking Apps to Track Realme GT Neo 5 without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/two-ways-to-track-my-boyfriends-poco-m6-pro-4g-without-him-knowing-drfone-by-drfone-virtual-android/"><u>Two Ways to Track My Boyfriends Poco M6 Pro 4G without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-easily-edit-flv-videos-on-your-windows-8-pc-with-our-expert-editor-for-2024/"><u>Updated Easily Edit FLV Videos on Your Windows 8 PC with Our Expert Editor for 2024</u></a></li>
+</ul></div>

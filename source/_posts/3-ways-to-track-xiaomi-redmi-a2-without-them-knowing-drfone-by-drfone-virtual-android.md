@@ -1,7 +1,7 @@
 ---
 title: 3 Ways to Track Xiaomi Redmi A2 without Them Knowing | Dr.fone
-date: 2024-03-27 23:23:10
-updated: 2024-03-28 13:12:45
+date: 2024-07-21T22:56:28.037Z
+updated: 2024-07-22T22:56:28.037Z
 tags: 
   - virtual location change
   - location track
@@ -10,7 +10,7 @@ categories:
 description: This article describes 3 Ways to Track Xiaomi Redmi A2 without Them Knowing
 excerpt: This article describes 3 Ways to Track Xiaomi Redmi A2 without Them Knowing
 keywords: Location Track for Redmi A2,track location
-thumbnail: https://www.lifewire.com/thmb/W4WRTJiI80qWQugtfcrcauwLImY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Rearviewofboywithlaptoponsofa-31ba45dfa7fb4553a257c133b352ef64.jpg
+thumbnail: https://thmb.techidaily.com/26dcef27c207b8605e3fcf4585ee0822110eeb8a794c85ff8e27071c7786d452.jpg
 ---
 
 ## 3 Ways to Track Xiaomi Redmi A2 without Them Knowing
@@ -27,6 +27,9 @@ Step 1: First of all you need to purchase the subscription from [www.mspy.com/](
 
 Step 2: Now access the target device, once you opt for downloading, there you will be asked to enter the unique ID you received, to authorize the access. As soon you entered the details, the monitoring process will get started.
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ![track a cell phone without them knowing-access the target device](https://images.wondershare.com/drfone/article/2017/11/15100180578971.jpg)
 
 Step 3: After that, you will be allowed to open Control Panel. From there you can easily go for the process of tracking the target device remotely, under which you can have access to GPS locations, Messages, Call details, and lot more. That you can access from anywhere, such as your system, mobile, laptop, etc.
@@ -35,6 +38,9 @@ Step 3: After that, you will be allowed to open Control Panel. From there you ca
 
 Following the above simple steps will enable you to track a Cell Phone without them Knowing.
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: How to track Android or iPhone using FlexiSPY?
 
 [FlexiSPY](https://www.flexispy.com/) is a commonly used tracking system for cell phones. It assures one of the best ways to track a cell phone without them knowing. But you need to jailbreak iPhone before installing FlexiSPY. For android devices, the root service is required for certain advanced features.
@@ -63,12 +69,18 @@ Step1: Enable the option “Share my location” on the target phone. To enable 
 
 Step 2: Generally iCloud account has sharing options for all other devices. We have to ensure the sharing option is correctly viewed as the target device such as “This device”.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<!-- affiliate ads end -->
 ![track a cell phone without them knowing-share my location](https://images.wondershare.com/drfone/article/2017/11/15100182891050.jpg)
 
 Step 3: Now swipe from bottom to end, click on the “Airdrop” option from the settings. You will have two options such as “Everyone” and “Contacts only”.
 
 Step 4: Move to the target device, in the “Find my friends” app click the option “add”. Now your contact picture will get displayed. Click on your profile photo > select the option “Share indefinitely” to track a cell phone without them knowing.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
 ![track a cell phone without them knowing-Share indefinitely](https://images.wondershare.com/drfone/article/2017/11/15100183209840.jpg)
 
 Step 5: The target device location will be shared with you. You will get a pop-up window “Accept” it. It will again ask if you want to share location so, click on “Don’t share”.
@@ -81,8 +93,14 @@ Step 6: Now go to your device, open the “Find my friends” app and click the 
 
 Note: If you want to hide the “Find my friends” app from the target device you can use the dock method which will be easy but the folder method is very tough.
 
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![track a cell phone without them knowing-hide the Find my friends app](https://images.wondershare.com/drfone/article/2017/11/15100183889994.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 4: Frequently Asked Questions
 
 **1\. What is rooting? Does it have a warranty? Any rooting between Android and mSpy?**
@@ -99,6 +117,9 @@ mSpy activates if installed on the iPhone completely. The process of finding the
 
 We must tell you using mSpy and FlexiSPY are both one of the best methods to track a cell phone. Both the applications have several metrics and would certainly assist in how to track a cell phone without them knowing. We know that tracking a cell phone without them knowing is illegal, but when it comes to our children's safety we have to do this at any cost.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## How to Track WhatsApp Messages on Xiaomi Redmi A2 Without Them Knowing?
 
 Apps for messaging, such as WhatsApp, have transformed how people communicate. WhatsApp is the most popular and reliable messaging app worldwide, with over 2 billion active users. It is largely due to its extensive user base and advanced features. Moreover, it offers a convenient means to stay connected with friends and family. Nevertheless, concerns about privacy and security have also emerged among WhatsApp users.
@@ -125,6 +146,9 @@ Finally, point the Xiaomi Redmi A2 device's camera toward the QR code displayed 
 
 ![use whatsapp web](https://images.wondershare.com/drfone/article/2023/07/track-whatsapp-messages-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<!-- affiliate ads end -->
 ### Method 2. Use WhatsApp Linked Devices to Track WhatsApp Messages
 
 WhatsApp Linked Devices is a feature introduced by WhatsApp. It allows users to connect their WhatsApp accounts to multiple devices simultaneously. This feature enables seamless synchronization of messages across devices. Thus, it can be used to track WhatsApp messages. To set up WhatsApp Linked Devices, you will need physical access to the targeted device.
@@ -167,28 +191,51 @@ After purchasing the mSpy package of your choice, open the email to receive logi
 
 **Step 5:** Now click “Finish” to complete the process and access the mSpy dashboard. After a while, you can see all data from the Android device. If you want to access WhatsApp data, you will need to root the targeted Android device.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![press the finish button](https://images.wondershare.com/drfone/article/2023/07/track-whatsapp-messages-5.jpg)
 
 **Step 6:** Afterward, choose "WhatsApp" from the left sidebar, and you can track the WhatsApp messages. It will also allow you to track WhatsApp calls, including all incoming and outgoing calls.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![access the mspy dashboard](https://images.wondershare.com/drfone/article/2023/07/track-whatsapp-messages-6.jpg)
 
 #### For iPhone
 
 **Step 1:** For iPhone, you can choose either jailbroken or non-jailbroken as the Xiaomi Redmi A2 device type. Since you need to read WhatsApp messages, choosing non-jailbroken is sufficient. For mSpy to work on non-jailbroken iPhones, the iCloud backup should be enabled. You will also need Apple ID credentials and physical access in case of 2FA.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![click on proceed](https://images.wondershare.com/drfone/article/2023/07/track-whatsapp-messages-7.jpg)
 
 **Step 2:** Start by clicking “Proceed” in your mSpy account and inserting the Apple ID credentials of the targeted device. Now, press "Verify," and if 2FA is enabled, you will see an option to send the verification code. Use the code received on the targeted device to complete the verification process.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<!-- affiliate ads end -->
 ![verify the apple id](https://images.wondershare.com/drfone/article/2023/07/track-whatsapp-messages-8.jpg)
 
 **Step 3:** After the verification is complete, press "Proceed." On the following screen, you can read about the available data and click “Finish” to complete the process. It will take up to 24 hours for mSpy to extract iCloud data.
 
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![press the finish button](https://images.wondershare.com/drfone/article/2023/07/track-whatsapp-messages-9.jpg)
 
 **Step 4:** Once mSpy has accessed the data, select “WhatsApp” from the left side to access WhatsApp chats. Here you can track all the incoming and outgoing messages remotely.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![use mspy iphone dashboard](https://images.wondershare.com/drfone/article/2023/07/track-whatsapp-messages-10.jpg)
 
 ### Method 2. Track WhatsApp Messages with Spyera
@@ -217,6 +264,9 @@ It allows you to track the sequence and timing of conversations. The MaxxSpy app
 
 ![use maxxspy dashboard](https://images.wondershare.com/drfone/article/2023/07/track-whatsapp-messages-12.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 4: How To Fake Your WhatsApp Location To Avoid Being Tracked by Others?
 
 Maintaining privacy in the digital world has become increasingly important. If you wish to prevent WhatsApp trackers from tracking your actual location on WhatsApp, there are methods available to fake your location. One such method is using a location spoofing app. These apps allow you to set a fake GPS location, which WhatsApp and other apps on your device will use.
@@ -247,6 +297,9 @@ Now, use the search box on the top left to enter your desired location. Once the
 
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 5: How To See Deleted Messages on WhatsApp?
 
 WhatsApp allows users to delete messages they have sent within a specific time frame. It can sometimes leave you wondering what was initially said. However, a few methods can help you see deleted messages on WhatsApp. One of the best ways to view these deleted messages is [Dr.Fone - Data & Photo Recovery](https://drfone.wondershare.com/drfone-app-for-android.html) app.
@@ -285,6 +338,9 @@ It has now become very easy to track a Smartphone using the GPS features of the 
 
 You may not want your GPS location tracked by anyone or by apps on your device. When playing games like Pokémon Go, the geo-location data on your device is used to pinpoint where you are for purposes of gameplay. In the same manner, malicious people can track you same way. Here you will learn how to stop someone from tracking your phone in simple and easy ways.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: How do people track your phone?
 
 There are several ways in which people can track the location of your phone. This can be risky at times, especially if you have a stalker. These are the common ways in which people track phones:
@@ -297,6 +353,9 @@ The apps that are used by people to track mobile devices will track one of these
 
 The sections below will show you how to stop someone from tracking your iPhone with ease.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
 ## Part 2: How to stop my iPhone from being tracked?
 
 If you have an iPhone, the following methods can be used to stop someone from tracking your device
@@ -307,6 +366,9 @@ This is a tool that you can use to change the virtual location of your device(iO
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
 
 1-Click Location Changer for both iOS and Android
@@ -329,6 +391,9 @@ In order to see how to use dr. fone to teleport your device to another location,
 
 <iframe allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/FfhgWxnARqo"></iframe>
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### 2) Disable Significant Locations on iPhone
 
 - Start by launching "Settings" from your Home screen
@@ -353,6 +418,9 @@ You may turn off location tracking for specific apps that you feel might be used
 
 ![how to disable location tracking for specific apps on iPhone](https://images.wondershare.com/drfone/2020/disable-location-tracking-iphone-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4) Disable Share My Location service
 
 - Access the "settings" app from your Home Screen
@@ -378,12 +446,30 @@ Now scroll down the list and click on the "System services" option
 
 Toggle the button on the right side of "Location-Based Alerts" into the "OFF" position
 
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Toggle Location-Based Alerts to the “Off” position](https://images.wondershare.com/drfone/2020/iphone-disable-location-based-alerts-6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3:How to stop my android from being tracked
 
 You also need to know how to stop Google from tracking your Xiaomi Redmi A2. This feature can be used to track your device through other apps.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 1) Stop Google Tracking on Android device
 
 - Access the "settings" app on your Home screen
@@ -393,6 +479,9 @@ You also need to know how to stop Google from tracking your Xiaomi Redmi A2. Thi
 - If you want tighter control of the tracking features, You can also scroll down until you get to "Manage Your Activity Controls"
 - Here you can delete all your past activity records so nobody can track you using your location history.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### 2) Turn off Android Location Tracking
 
 Apart from stopping Google tracking on your device, you may also turn off Location tracking of other apps as shown below
@@ -410,6 +499,9 @@ Google Location History. With this, you can switch off the collection of your lo
 
 Google Location Sharing. This will turn off location sharing if you use it to connect with friends and family.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3) Nord VPN
 
 Nord VPN is a great tool to fake your GPS location and stop people from tracking your phone. It works by masking your true IP address and then using servers in another location to fake your position. This tool is great for stopping people from tracking you using browser-based apps. It also does affect the GPS chip and stop it from transmitting your true location. Nord VPN has servers in countries all over the world, which means you can move your location to another continent to fool those who may be tracking you.
@@ -424,6 +516,9 @@ This is an app that you can download to your android device from Google Play Sto
 
 - From the "Settings" app, navigate down to "About Phone" and then tap on "Build Number" seven times in order to enable the "Developer Options".
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![android pokemon go spoofing 4](https://images.wondershare.com/drfone/article/2019/09/android-pokemon-go-spoofing-4.jpg)
 
 - Launch Fake GPS go and the grant it the required access. Go back to "Developer Options" and then go down until you find Fake GPS Go. Toggle it to the "ON" position.
@@ -435,6 +530,9 @@ This is an app that you can download to your android device from Google Play Sto
 
 ![android pokemon go spoofing 6](https://images.wondershare.com/drfone/article/2019/09/android-pokemon-go-spoofing-6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 5) Fake GPS Free
 
 This is yet another tool that you can use to fake your GPS location and fool people who may be trying to track your Xiaomi Redmi A2. The tool is quite light and does not use up system resources making it safe and easy to use.
@@ -449,6 +547,9 @@ This is yet another tool that you can use to fake your GPS location and fool peo
 
 ![android pokemon go spoofing 8](https://images.wondershare.com/drfone/article/2019/09/android-pokemon-go-spoofing-8.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## In Conclusion
 
 If you want to stop Google from tracking your location, these are the methods that you should use to turn off your GPS location on both iOS and Android. You need to know that you are safe all the time and this is a step that you should take when you feel like you are being tracked for nefarious reasons. However, you should do this with caution as the information can also be used in a beneficial manner. The best option is to turn on the GPS when you need it and then turn it off when you do not, or use an iOS spoofing tool.
@@ -468,3 +569,64 @@ If you want to stop Google from tracking your location, these are the methods th
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-mastering-viral-videos-creating-engaging-memes-for-fbinsta/"><u>[New] In 2024, Mastering Viral Videos  Creating Engaging Memes for FB/Insta</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-iphones-unlocked-smart-tips-for-saving-and-playing-gifs/"><u>[New] IPhones Unlocked  Smart Tips for Saving & Playing GIFs</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-master-your-media-on-vimeo-with-top-ranked-editors-for-2024/"><u>[New] Master Your Media on Vimeo with Top-Ranked Editors for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-sony-a6400-fixing-the-invisible-video-playback/"><u>[New] Sony A6400  Fixing the Invisible Video Playback</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-unlocking-facebook-blue-verification-a-step-by-step-guide-for-2024/"><u>[New] Unlocking Facebook Blue Verification  A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-unlocking-viewer-analysis-on-your-instagram-snapshots/"><u>[Updated] 2024 Approved  Unlocking Viewer Analysis on Your Instagram Snapshots</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-boundless-realms-discovering-new-worlds-in-top-10-sci-fi-epics/"><u>[Updated] Boundless Realms  Discovering New Worlds in Top 10 Sci-Fi Epics</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-designing-unique-instagram-post-cover-texts/"><u>[Updated] Designing Unique Instagram Post Cover Texts</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-preserving-snaps-screen-record-snapchat-on-smartphones/"><u>[Updated] In 2024, Preserving Snaps  Screen Record Snapchat on Smartphones</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-professional-video-capture-techniques-mastering-movs-on-win10/"><u>[Updated] In 2024, Professional Video Capture Techniques  Mastering MOVs on Win10</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-solutions-to-find-your-samsung-galaxy-s24-ultra-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>3 Solutions to Find Your Samsung Galaxy S24 Ultra Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-samsung-galaxy-s24-ultra-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Samsung Galaxy S24 Ultra | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-sony-xperia-1-v-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Sony Xperia 1 V</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/ai-powered-video-editors-for-instant-reframe-for-2024/"><u>AI-Powered Video Editors for Instant Reframe for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-samsung-galaxy-f34-5g-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Samsung Galaxy F34 5G? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/best-anti-tracker-software-for-samsung-galaxy-s24-ultra-drfone-by-drfone-virtual-android/"><u>Best Anti Tracker Software For Samsung Galaxy S24 Ultra | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/googles-platform-unveiled-the-ultimate-guide-to-podcast-postings/"><u>Google's Platform Unveiled  The Ultimate Guide to Podcast Postings</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-samsung-galaxy-s24-ultra-drfone-by-drfone-virtual-android/"><u>How Do I Stop Someone From Tracking My Samsung Galaxy S24 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-vivo-x100-pro-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Vivo X100 Pro? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-samsung-galaxy-s24-ultra-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Samsung Galaxy S24 Ultra | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-samsung-galaxy-s24-ultra-drfone-by-drfone-virtual-android/"><u>How to Detect and Remove Spyware on Samsung Galaxy S24 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-apple-id-verification-code-not-working-on-apple-iphone-7-by-drfone-ios/"><u>How To Fix Apple ID Verification Code Not Working On Apple iPhone 7</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-samsung-galaxy-s24-ultra-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on Samsung Galaxy S24 Ultra | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-samsung-galaxy-s24-ultra-drfone-by-drfone-virtual-android/"><u>How to Spy on Text Messages from Computer & Samsung Galaxy S24 Ultra | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-samsung-galaxy-s24-ultra-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Samsung Galaxy S24 Ultra by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-samsung-galaxy-s24plus-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Samsung Galaxy S24+ Activity | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-ways-to-track-samsung-galaxy-s24plus-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Track Samsung Galaxy S24+ without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-samsung-galaxy-s24plus-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track Samsung Galaxy S24+ without App | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-samsung-galaxy-s24plus-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for Samsung Galaxy S24+ | Dr.fone</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-boost-your-viewing-efficiency-the-ultimate-tiktok-fast-forward-method/"><u>In 2024, Boost Your Viewing Efficiency  The Ultimate TikTok Fast Forward Method</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-samsung-galaxy-s24plus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Samsung Galaxy S24+ | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-sign-out-of-apple-id-on-iphone-15-pro-without-password-by-drfone-ios/"><u>In 2024, How to Sign Out of Apple ID On iPhone 15 Pro without Password?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-samsung-galaxy-s24plus-for-free-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track a Lost Samsung Galaxy S24+ for Free? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-samsung-galaxy-s24plus-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Samsung Galaxy S24+ by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-samsung-galaxy-s24plus-location-by-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Samsung Galaxy S24+ Location by Number | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-samsung-galaxy-s24plus-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Samsung Galaxy S24+ Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-samsung-galaxy-s24plus-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on Samsung Galaxy S24+ Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-turn-off-google-location-to-stop-tracking-you-on-samsung-galaxy-s24plus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Turn Off Google Location to Stop Tracking You on Samsung Galaxy S24+ | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-pioneers-in-stop-motion-top-15-must-watch-films/"><u>In 2024, Pioneers in Stop Motion  Top 15 Must-Watch Films</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-samsung-galaxy-s24plus-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On Samsung Galaxy S24+ for Parents | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-4-ways-to-trace-samsung-galaxy-s24plus-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 4 Ways to Trace Samsung Galaxy S24+ Location | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-6-appsservices-to-trace-any-samsung-galaxy-s24plus-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, Top 6 Apps/Services to Trace Any Samsung Galaxy S24+ Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-samsung-galaxy-s24plus-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Phone Number Locators To Track Samsung Galaxy S24+ Location | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-9-samsung-galaxy-s24plus-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>In 2024, Top 9 Samsung Galaxy S24+ Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-samsung-galaxy-s24plus-without-him-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Two Ways to Track My Boyfriends Samsung Galaxy S24+ without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-free-video-editing-for-beginners-a-step-by-step-guide-to-getting-started/"><u>New 2024 Approved Free Video Editing for Beginners A Step-by-Step Guide to Getting Started</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-from-boring-to-brilliant-best-video-dubbing-apps-for-comedy-and-fun/"><u>New 2024 Approved From Boring to Brilliant Best Video Dubbing Apps for Comedy & Fun</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/solutions-to-spy-on-samsung-galaxy-s24-ultra-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>Solutions to Spy on Samsung Galaxy S24 Ultra with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-samsung-galaxy-s24-ultra-drfone-by-drfone-virtual-android/"><u>Top 10 Best Spy Watches For your Samsung Galaxy S24 Ultra | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/top-10-mobile-relaxation-renders-idle-games-for-2024/"><u>Top 10 Mobile Relaxation Renders (Idle Games) for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-samsung-galaxy-s24-ultra-for-parents-drfone-by-drfone-virtual-android/"><u>Top 10 Telegram Spy Tools On Samsung Galaxy S24 Ultra for Parents | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-4-ways-to-trace-samsung-galaxy-s24-ultra-location-drfone-by-drfone-virtual-android/"><u>Top 4 Ways to Trace Samsung Galaxy S24 Ultra Location | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-samsung-galaxy-s24-ultra-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for Samsung Galaxy S24 Ultra | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-tracking-apps-to-track-samsung-galaxy-s24-ultra-without-them-knowing-drfone-by-drfone-virtual-android/"><u>Top 5 Tracking Apps to Track Samsung Galaxy S24 Ultra without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-7-phone-number-locators-to-track-samsung-galaxy-s24-ultra-location-drfone-by-drfone-virtual-android/"><u>Top 7 Phone Number Locators To Track Samsung Galaxy S24 Ultra Location | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-9-samsung-galaxy-s24-ultra-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 Samsung Galaxy S24 Ultra Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-samsung-galaxy-s24-ultra-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Samsung Galaxy S24 Ultra | Dr.fone</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Spy on Text Messages from Computer & Vivo Y100t | Dr.fone
-date: 2024-03-26 19:13:21
-updated: 2024-03-28 13:43:47
+date: 2024-07-21T22:42:21.896Z
+updated: 2024-07-22T22:42:21.896Z
 tags: 
   - virtual location change
   - location track
@@ -10,7 +10,7 @@ categories:
 description: This article describes How to Spy on Text Messages from Computer & Vivo Y100t
 excerpt: This article describes How to Spy on Text Messages from Computer & Vivo Y100t
 keywords: Location Track for Y100t,track location
-thumbnail: https://www.lifewire.com/thmb/NOc5RCOPURestyDsC5sxK7KzGY8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-971165690-1e0af1d9299f4fdba1225c2d20c739f2.jpg
+thumbnail: https://thmb.techidaily.com/c572e526911ff13873cfea2690ee252e9ff11a89ced90101624b46320eed1514.jpg
 ---
 
 ## How to Spy on Text Messages from Computer & Vivo Y100t
@@ -43,6 +43,9 @@ Step 2: Log in to your account (that you would have created before installing th
 
 Step 3: The app will automatically access all messages on the target device. It will however only work if you have the target device’s Apple login details.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
 ![Spy on text messages from another iPhone via Auto Forward](https://images.wondershare.com/drfone/article/2017/10/15074689453332.jpg)
 
 ## Part 3: How to Spy on text messages from computer
@@ -65,6 +68,9 @@ The above three solutions enable users to monitor more than just text messages. 
 
 Gone are the days when our smartphones were simply used to perform a few basic tasks. With the advancement in technology, we can use them to access our emails on the go, share updates on social media, and do so much more. Additionally, we can use an Android or iOS device app to track phones without them knowing. After installing a spying app on the target device, you can gain in-depth access to the Vivo Y100t device without being detected. To help you do the same, we have listed some of the best tracking apps and tools in this post.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: Spyera
 
 Spyera is undoubtedly one of the best app to track phone without them knowing. The spying app can be used to attain the real-time location of the target device and get a log for its past locations as well. Since the app runs in stealth mode, it will let you track the Vivo Y100t device without being detected. Furthermore, it can also access the Vivo Y100t device’s social media activity, key logs, call logs, contacts, photos, browser history, and more remotely.
@@ -89,6 +95,9 @@ _Cons_
 
 ![tracking apps to track phone-spyera](https://images.wondershare.com/drfone/article/2022/02/apps-to-track-phone-without-them-knowing.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 2: mSpy
 
 If you are looking for another solution to track an Android or iOS device, then you can also try mSpy. Just like Spyera, the tool also has a dashboard that can be accessed from any other device. Installing the app is pretty easy and it will let you obtain all the crucial information like the Vivo Y100t device’s location, call logs, browser history, and more.
@@ -163,8 +172,14 @@ _Cons_
 
 • The app is quite pricey compared to other counterparts
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Tracking Apps to Track Phone-The One Spy](https://images.wondershare.com/drfone/article/2017/10/15082607535154.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 5: Hoverwatch
 
 Hoverwatch is one of the most widely used solutions to track Android devices, Windows PC, and Mac systems. Using Hoverwatch as an app to track phone without them knowing is pretty easy. Just sign-up to create your account, install the app on the target device, and access all the major information related to it on its web-based dashboard. It works with all the major social media apps and also tracks the real-time location of the Vivo Y100t device.
@@ -189,6 +204,9 @@ _Cons_
 
 • It automatically roots an Android device and can tamper with its warranty
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Tracking Apps to Track Phone-hoverwatch](https://images.wondershare.com/drfone/article/2017/10/15082607943523.jpg)
 
 Now when you know about some of the best tracking apps out there, you can easily use them to keep an eye on your loved ones. Mostly, these solutions are used by parents to track the whereabouts and the activity of their kids. Though, it can also be used by concerned individuals to track their partners, friends, parents, employees, and more. You can use these apps on your own device without much trouble. Nevertheless, if you are tracking someone else’s smartphone, then you should be aware of the consequences. To avoid any unforeseen situation, it is recommended to inform them before installing the app.
@@ -203,6 +221,9 @@ With the increase in the use of smartphones nowadays, the applications for smart
 
 ![fake GPS of mobile device](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<!-- affiliate ads end -->
 ## Part 1: How to know whether your text message has been intercepted?
 
 Intercepting a target phone could give us the controls and allow us to spy on various activities happening on the target phone even to the extent of giving us information about what’s happening in the surrounding. It does this by listening to the conversation by turning on the microphone even when the target phone is not in use. So, while the spying application keeps running in the background silently, text messages can be easily intercepted. So, it is imperative to know and read the signs to actually get to know if your text messages are being intercepted. There are some signs which could give you an idea if your text message has been intercepted.
@@ -219,6 +240,9 @@ So, these are some signs which could suggest that your text message has been int
 
 Intercepting text messages is now very easy using a robust application which can intercept any device in some simple steps. Moreover, the application can be used with both iOS and Android devices.
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: Intercepting text messages from both iOS and Android phones
 
 **mSpy:**
@@ -243,6 +267,9 @@ After you have received the installation procedures, install [mSpy](http://mspy.
 
 Installing in Android
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![intercept text messages-Installing in Android](https://images.wondershare.com/drfone/article/2016/11/14781239566126.jpg)
 
 Installing on iOS
@@ -253,10 +280,17 @@ Installing on iOS
 
 You can now start intercepting the text messages remotely from other phones. Use your account through your login credentials and get reports from the target phone pertaining to text message history, chats, etc.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
 ![intercept text messages-Start monitoring](https://images.wondershare.com/drfone/article/2016/11/14781244325874.jpg)
 
 The above screen is the monitoring console through which we can see all the text messages on the target device. The control panel can be opened on any device i.e. phone or computer through the browser using the login credentials.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ## Part 3: What you need to know when using mSpy
 
 **Few things to know when using [mSpy](http://mspy.go2cloud.org/SH7G6):**
@@ -286,3 +320,58 @@ So, these are the ways to install and start intercepting text messages both for 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-step-by-step-facebook-live-on-roku-platform/"><u>[Updated] 2024 Approved  Step-by-Step  Facebook Live on Roku Platform</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-erase-discord-server-settings-desktopsmartphones/"><u>[Updated] In 2024, Erase Discord Server Settings (Desktop/Smartphones)</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-inside-the-tech-evaluating-webcam-videotaping-devices-for-2024/"><u>[Updated] Inside the Tech  Evaluating WebCam Videotaping Devices for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-mastering-snips-on-mac-top-5-picks-unveiled-for-2024/"><u>[Updated] Mastering Snips on Mac  Top 5 Picks Unveiled for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-real-time-visual-documentation-for-2024/"><u>[Updated] Real-Time Visual Documentation for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-relaunching-windows-photo-viewer-two-tactics-for-w10-users/"><u>[Updated] Relaunching Windows Photo Viewer  Two Tactics for W10 Users</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-step-by-step-tutorial-to-design-unique-youtube-thumbnails/"><u>[Updated] Step-by-Step Tutorial to Design Unique YouTube Thumbnails</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-avoid-pitfalls-maintaining-youtube-thumbnail-quality/"><u>2024 Approved  Avoid Pitfalls  Maintaining YouTube Thumbnail Quality</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-award-winners-in-writing-for-different-movie-types/"><u>2024 Approved  Award Winners in Writing for Different Movie Types</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-foremost-news-channels-on-youtube-to-watch-daily/"><u>2024 Approved  Foremost News Channels on YouTube to Watch Daily</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-transform-your-tiktok-narratives-incor-written-by-assistant-ai/"><u>2024 Approved  Transform Your TikTok Narratives  Incor Written by Assistant AI</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-solutions-to-find-your-samsung-galaxy-f04-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>3 Solutions to Find Your Samsung Galaxy F04 Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/a-how-to-guide-on-bypassing-iphone-12-pro-max-icloud-activation-lock-by-drfone-ios/"><u>A How-To Guide on Bypassing iPhone 12 Pro Max iCloud Activation Lock</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/best-anti-tracker-software-for-samsung-galaxy-f04-drfone-by-drfone-virtual-android/"><u>Best Anti Tracker Software For Samsung Galaxy F04 | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/hidden-gems-the-top-10-websites-offering-mystery-box-deals-for-2024/"><u>Hidden Gems  The Top 10 Websites Offering Mystery Box Deals for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-samsung-galaxy-f04-drfone-by-drfone-virtual-android/"><u>How Do I Stop Someone From Tracking My Samsung Galaxy F04? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-samsung-galaxy-f04-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Samsung Galaxy F04 | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-samsung-galaxy-f04-drfone-by-drfone-virtual-android/"><u>How to Detect and Remove Spyware on Samsung Galaxy F04? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-samsung-galaxy-f04-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on Samsung Galaxy F04 | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-samsung-galaxy-f04-drfone-by-drfone-virtual-android/"><u>How to Spy on Text Messages from Computer & Samsung Galaxy F04 | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-samsung-galaxy-f04-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Samsung Galaxy F04 by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-samsung-galaxy-a23-5g-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Samsung Galaxy A23 5G Activity | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-ways-to-track-samsung-galaxy-a23-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Track Samsung Galaxy A23 5G without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-samsung-galaxy-a23-5g-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track Samsung Galaxy A23 5G without App | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-samsung-galaxy-a23-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for Samsung Galaxy A23 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-crafting-compelling-visual-stories-with-engaging-voices/"><u>In 2024, Crafting Compelling Visual Stories With Engaging Voices</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-growing-engagement-ethically-youtube-success-stories/"><u>In 2024, Growing Engagement Ethically  YouTube Success Stories</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-samsung-galaxy-a23-5g-for-free-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track a Lost Samsung Galaxy A23 5G for Free? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-samsung-galaxy-a23-5g-location-by-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Samsung Galaxy A23 5G Location by Number | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-samsung-galaxy-a23-5g-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Samsung Galaxy A23 5G Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-samsung-galaxy-a23-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on Samsung Galaxy A23 5G Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-turn-off-google-location-to-stop-tracking-you-on-samsung-galaxy-a23-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Turn Off Google Location to Stop Tracking You on Samsung Galaxy A23 5G | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-nokia-c12-plus-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Nokia C12 Plus Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-samsung-galaxy-a23-5g-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On Samsung Galaxy A23 5G for Parents | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-6-appsservices-to-trace-any-samsung-galaxy-a23-5g-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, Top 6 Apps/Services to Trace Any Samsung Galaxy A23 5G Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-samsung-galaxy-a23-5g-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Phone Number Locators To Track Samsung Galaxy A23 5G Location | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-9-samsung-galaxy-a23-5g-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>In 2024, Top 9 Samsung Galaxy A23 5G Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-samsung-galaxy-a23-5g-without-him-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Two Ways to Track My Boyfriends Samsung Galaxy A23 5G without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/mastering-audio-extraction-youtube-to-mp3-in-macos/"><u>Mastering Audio Extraction  YouTube to MP3 in MacOS</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/navigating-the-social-sphere-of-tiktok-lives/"><u>Navigating the Social Sphere of TikTok Lives</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/solutions-to-spy-on-samsung-galaxy-f04-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>Solutions to Spy on Samsung Galaxy F04 with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-samsung-galaxy-f04-drfone-by-drfone-virtual-android/"><u>Top 10 Best Spy Watches For your Samsung Galaxy F04 | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-4-ways-to-trace-samsung-galaxy-f04-location-drfone-by-drfone-virtual-android/"><u>Top 4 Ways to Trace Samsung Galaxy F04 Location | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-samsung-galaxy-f04-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for Samsung Galaxy F04 | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-tracking-apps-to-track-samsung-galaxy-f04-without-them-knowing-drfone-by-drfone-virtual-android/"><u>Top 5 Tracking Apps to Track Samsung Galaxy F04 without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/unlock-a-disable-iphone-13-pro-max-without-itunes-or-icloud-by-drfone-ios-unlock-ios-unlock/"><u>Unlock a disable iPhone 13 Pro Max without itunes or icloud</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-2024-approved-ai-avatar-wondershare-virbo-online/"><u>Updated 2024 Approved AI Avatar | Wondershare Virbo Online</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-lyric-video-production-made-easy-best-online-tools/"><u>Updated 2024 Approved Lyric Video Production Made Easy Best Online Tools</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-blur-videos-online-without-spending-a-dime-the-ultimate-tutorial/"><u>Updated Blur Videos Online Without Spending a Dime The Ultimate Tutorial</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-in-2024-essential-melodies-crafting-a-perfect-music-sequence-for-your-montage-film/"><u>Updated In 2024, Essential Melodies Crafting a Perfect Music Sequence for Your Montage Film</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-samsung-galaxy-f04-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Samsung Galaxy F04 | Dr.fone</u></a></li>
+</ul></div>

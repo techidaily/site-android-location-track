@@ -1,7 +1,7 @@
 ---
 title: How to Turn Off Google Location to Stop Tracking You on OnePlus 12R | Dr.fone
-date: 2024-05-20T01:23:02.450Z
-updated: 2024-05-21T01:23:02.450Z
+date: 2024-07-21T20:07:34.546Z
+updated: 2024-07-22T20:07:34.546Z
 tags: 
   - virtual location change
   - location track
@@ -10,7 +10,7 @@ categories:
 description: This article describes How to Turn Off Google Location to Stop Tracking You on OnePlus 12R
 excerpt: This article describes How to Turn Off Google Location to Stop Tracking You on OnePlus 12R
 keywords: Location Track for 12R,track location
-thumbnail: https://www.lifewire.com/thmb/q3inw24-h4v92CyIU7_fxjPM1JU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/tiktok-messages-889fef4cdfac41babb84770288f32cf2.jpg
+thumbnail: https://thmb.techidaily.com/90ad0e184ba79f95e662dd6bac421c2714531f47a3dc9eccb9055a4b28f7166a.jpg
 ---
 
 ## How to Turn Off Google Location to Stop Tracking You on OnePlus 12R
@@ -21,6 +21,9 @@ It’s true to say that Google's location monitoring services offer tons of bene
 
 In this article, we will discuss how Google employs location access on your mobile device. We will also provide some quick tutorials on how to turn off Google location tracking in easy steps. Continue reading below to learn more.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<!-- affiliate ads end -->
 ## Part 1. Understanding How Google Uses Location Data
 
 Location data generally helps us find reliable directions and pinpoint a particular place. But apart from that, this piece of information actually serves a bigger purpose. Google, in particular, employs location data to provide high-quality services tailored to specific preferences and necessities of the users. Each Google product relies heavily on location information and utilizes it for various reasons. To understand it better, check out the list below.
@@ -35,12 +38,18 @@ Of course, Google Maps and Weather will not work without access to location data
 
 The majority of online advertisements scattered all over the internet are run by Google. It uses location data to ensure the ads that appear on your web browser are relevant to your personal liking. For example, Google Ads will likely flash American products on your smartphones if you’re located in that particular region. Do you want to keep it that way? If so, you should not then turn off Google location tracking on your OnePlus 12R smartphone.
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### It is used by Google to provide accurate search results
 
 ![google search results](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-2.JPG)
 
 The same thing goes for Google search results. This query engine uses location data to provide information relevant to the specific needs of the user. Let’s say you’re currently residing in Japan and looking for nearby coffee shops. Of course, it will be unhelpful if Google dispenses a list of coffee shops that aren’t located in your country. That’s why you shouldn’t turn off Google location tracking on your smartphone if you’re looking for precise and pertinent answers.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### It is used by Google to implement certain security protocols
 
 Google uses location data to keep your accounts safe from potential attacks and security breaches. How so? Well, Google immediately sends alerts whenever your account is used from an unusual location. Another thing is that strange activities on your account are promptly detected with the aid of location information. Simply put, allowing Google to access your whereabouts is the least you can do to protect your digital assets. Hence, don’t turn off Google location tracking on your OnePlus 12R smartphone if you need such assistance.
@@ -51,10 +60,16 @@ Google uses location data to keep your accounts safe from potential attacks and 
 
 We all know that Google is committed to offering us new products and improving its existing services. That’s indeed beneficial to all of us, especially in today’s ever-changing world. But definitely, it’s not possible if Google doesn’t have adequate location information from the pool of its users. Why so? Simply because location data determines the latest community trends and helps specialists find the perfect basis for fresh developments. Do you want to contribute something to the advancement of Google products? If so, you can start by giving Google access to the location data on your OnePlus 12R smartphone.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 2. Top 4 Techniques to Turn Off Google Location Tracking on Android
 
 There’s no denying that Google uses location information to give us the best experience possible. However, it doesn’t necessarily mean there is no risk at all. We cannot rule out the possibility of data breaches and disclosure of location information that is supposed to be private. If you’re worried about this kind of situation, you can prevent it from happening in a snap of a finger. Check out the four methods below on how to turn off Google location tracking on your OnePlus 12R smartphone.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 1: Turn off the location services on your OnePlus 12R mobile device
 
 “How to stop Google from tracking me?” Well, it’s actually very easy. You just need to deactivate the location service on your OnePlus 12R mobile device. After that, Google and other GPS-based applications on your smartphone will immediately lose access to your location data. Do you want to try it now? Check out the tutorial below on how to turn off Google location tracking by deactivating the location services on your phone.
@@ -65,6 +80,9 @@ There’s no denying that Google uses location information to give us the best e
 
 **Step 3:** Find and click **Location.**
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
 ![location services](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-4.jpg)
 
 **Step 4:** Lastly, click **Close** to confirm the changes.
@@ -85,6 +103,18 @@ Let’s say you don’t want to cut the entire location access across your smart
 
 **Step 4:** Click **Permissions.**
 
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![google app permissions](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-7.jpg)
 
 **Step 5:** Click **Location.**
@@ -95,6 +125,10 @@ Let’s say you don’t want to cut the entire location access across your smart
 
 ![disallow location access on google](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-9.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+</a>
+<!-- affiliate ads end -->
 ### Method 3: Toggle off the Timeline feature on your Google Account
 
 Timeline is a special Google feature that keeps a record of your location check-ins and routes taken for future reference. You can review it on the Google Maps app in case you need to visit the same place again. On the other hand, you can easily toggle it off if you don’t want Google tracking down your specific whereabouts. Here’s the guide on how to do it in easy steps.
@@ -113,6 +147,9 @@ Timeline is a special Google feature that keeps a record of your location check-
 
 **Step 4:** Click **Data Privacy.**
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![data and privacy settings](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-12.jpg)
 
 **Step 5:** Find and click **Timeline.**
@@ -121,6 +158,9 @@ Timeline is a special Google feature that keeps a record of your location check-
 
 **Step 6:** Scroll down and then tap the **Turn Off** button.
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![turn off timeline settings](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-14.jpg)
 
 #### For web users
@@ -129,6 +169,9 @@ Timeline is a special Google feature that keeps a record of your location check-
 
 **Step 2:** On the main dashboard, click **Timeline.**
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![my google activity settings](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-15.jpg)
 
 **Step 3:** Scroll it down and then click the **Turn Off** button.
@@ -169,14 +212,23 @@ Google surely understands that some users are uncomfortable sharing their wherea
 
 **Step 4:** After completing the downloading process, Wondershare Dr.Fone - Virtual Location will open in a separate window. From there, navigate to the top-right menu bar and then click **Teleport Mode.**
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![wondershare drfone teleport mode](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
 
 **Step 5:** Head over to the search bar at the top-left corner of the screen and then enter your desired location. Choose one from the suggestions that Wondershare Dr.Fone displays on the screen. Right after, click the **Enter** icon.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![enter your preferred location](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
 
 **Step 6:** The description of your chosen location will be then flashed on the screen. Read the details and make sure they are accurate. After that, click **Move Here** to proceed.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![read location description](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
 **Step 7:** The location registered on your OnePlus 12R mobile device will now be replaced with your modified whereabouts. Verify the changes applied on your smartphone by checking Google Maps and searching for your current location. One way or another, it must show the altered result.
@@ -197,6 +249,9 @@ But for children -- particularly adolescents and teenagers -- the wrong kind of 
 
 In other words, they compulsorily need to monitor their children’s tablets, smartphones and other gadgets to keep track of any unwarranted activity which may turn out to be detrimental to their future. The following spy tools will help you do the needful and have been prioritized according to their features, reliability, functionality and feedback received from users.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1\. [mSpy](http://mspy.go2cloud.org/SH7G6)
 
 Considered to be ideal for iPhones and tablets, mSpy as a monitoring tool is not only powerful but also endowed with some great features. The Geo-Fencing facility of mSpy enables marking of Forbidden and Allowed areas. You are instantly alerted as soon as your kids try to enter those areas. There is a scope for no-limit device change. Also, the app is compatible with iOS, Android, Mac and Windows devices and multiple devices may be monitored using a single account.
@@ -245,6 +300,9 @@ Costs $29.99 per month.
 
 Download it from <http://www.highstermobi.com>
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3\. [Flexispy](https://www.flexispy.com/)
 
 FlexiSPY is compatible with mobile platforms such as iPhone, Android, iPad, Nokia Symbian and Blackberry. Enables recording and monitoring of text messages, GPS locations, phone calls, Viber, Facebook, BBM, WhatsApp chats, iMessages, Skype messages, videos and photos, websites surfed and email.
@@ -273,10 +331,16 @@ Premium – $149
 
 Downloadable from <http://www.flexispy.com>
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<!-- affiliate ads end -->
 ## 4 – iKeyMonitor
 
 The iKeyMonitor tracks SMSs, keystrokes, WhatsApp messages, websites surfed, passwords, and screenshots. The program comes with a no-cost three -day trial.
 
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![telegram spy](https://images.wondershare.com/drfone/article/2016/11/14792925104640.jpeg)
 
 Pros
@@ -320,6 +384,9 @@ Cost: $49 for six months (for individuals & families); $299 per year (Businesses
 
 Download it at <http://www.phonesheriff.com>
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 6\. Spyera
 
 This one monitors and records SMS, phone books, call history, emails, location, IM, What'sApp messages, Facebook Chat, photos shot and Skypev messages which get uploaded to the spying device’s monitoring account.
@@ -366,10 +433,16 @@ Cost: 7-day no-cost trial. Subscription starts from $14.95 per month. It may be 
 
 Downloadable at <http://www.teensafe.com/>
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<!-- affiliate ads end -->
 ## 8\. Mobistealth
 
 This one tracks and records all calls and text messages. It allows viewing of surfing history and all URLs visited including those containing videos. You get full access to the target phone’s contact list and also incoming and outgoing pictures.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![telegram spy](https://images.wondershare.com/drfone/article/2016/11/14792932428517.jpg)
 
 Pros
@@ -392,6 +465,9 @@ Download it at <http://www.mobistealth.com/>
 
 With TheOneSpy, several target phones may be monitored using one license. Additionally, you get access to all data available. All e-mails and media files on the target phone may be viewed.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![telegram spy](https://images.wondershare.com/drfone/article/2016/11/14792934045968.jpg)
 
 Pros
@@ -409,6 +485,18 @@ Cost: 3 months -- $55; 6 months -- $99; 12 months -- $140.
 
 Download it at: <https://www.theonespy.com/>
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 10\. MOBILESPYAGENT
 
 This app works in full covert mode and makes all texts and calls accessible. All multimedia files, memos, notes and contact lists are accessible. Also, it allows viewing of the entire history of the web browser and also numerous social networks.
@@ -436,6 +524,9 @@ While all these are some great spy apps, mSpy is one of the best bets out there 
 
 Now the method to track a cell phone without them knowing has become an after one’s fancy. There are several apps that might help you in this case, with wide and advanced features. Hence, with the changes in technology, those days have gone for you with a flock of lies. There is no need to handle this synopsis as in this passage, I am going to share some of the best tracking apps and how to track a cell phone without them knowing.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: How to track Android or iPhone using mSpy?
 
 One of the best methods to track a cell phone without them knowing is [mSpy](http://mspy.go2cloud.org/SH7G6) monitoring package. It is entirely an elite compatible mode and secured app for the care of your beloved ones and for your children too. mSpy is user-friendly for all ages and not a lot of knowledge of technology is needed to access it. This app comes with the strategy of tracking your employee’s movements in your office. This will benefit a lot from your business profile.
@@ -460,6 +551,9 @@ Following the above simple steps will enable you to track a Cell Phone without t
 
 After installing the Flexispy on the OnePlus 12R device you want to monitor, all the relevant information you want to monitor (GPS location, calls, texts) will upload to its server without knowing. The only thing you need to do is log in to your Flexispy account and click "Location" if you would like to track a cell phone.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![track a cell phone without them knowing-the flexispy](https://images.wondershare.com/drfone/article/2022/02/track-cell-phone-with-flexispy-02.jpg)
 
 Except for viewing the OnePlus 12R device location data, you can also export GPS data to use on the mapping application you like.
@@ -482,20 +576,32 @@ Step1: Enable the option “Share my location” on the target phone. To enable 
 
 Step 2: Generally iCloud account has sharing options for all other devices. We have to ensure the sharing option is correctly viewed as the target device such as “This device”.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![track a cell phone without them knowing-share my location](https://images.wondershare.com/drfone/article/2017/11/15100182891050.jpg)
 
 Step 3: Now swipe from bottom to end, click on the “Airdrop” option from the settings. You will have two options such as “Everyone” and “Contacts only”.
 
 Step 4: Move to the target device, in the “Find my friends” app click the option “add”. Now your contact picture will get displayed. Click on your profile photo > select the option “Share indefinitely” to track a cell phone without them knowing.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![track a cell phone without them knowing-Share indefinitely](https://images.wondershare.com/drfone/article/2017/11/15100183209840.jpg)
 
 Step 5: The target device location will be shared with you. You will get a pop-up window “Accept” it. It will again ask if you want to share location so, click on “Don’t share”.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![track a cell phone without them knowing-click Don’t share](https://images.wondershare.com/drfone/article/2017/11/15100183459135.jpg)
 
 Step 6: Now go to your device, open the “Find my friends” app and click the icon of the target device. You will get a notification, where they are now when they leave from the place etc.
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ![track a cell phone without them knowing-get a notification](https://images.wondershare.com/drfone/article/2017/11/15100183691634.jpg)
 
 Note: If you want to hide the “Find my friends” app from the target device you can use the dock method which will be easy but the folder method is very tough.
@@ -535,3 +641,46 @@ We must tell you using mSpy and FlexiSPY are both one of the best methods to tra
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-top-pick-cross-platform-devices-ideal-entry-editor/"><u>[New] 2024 Approved  Top Pick  Cross-Platform Devices' Ideal Entry Editor</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-leading-edge-winning-16-free-media-applications/"><u>[New] Leading Edge  Winning 16 Free Media Applications</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-mastering-youtube-integration-with-twitch-live-broadcasts/"><u>[New] Mastering YouTube Integration with Twitch Live Broadcasts</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-achieving-video-popularity-mastering-youtube-thumbnail-selection/"><u>[Updated] 2024 Approved  Achieving Video Popularity  Mastering YouTube Thumbnail Selection</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-scaling-back-obs-video-bandwidth-for-2024/"><u>[Updated] Scaling Back OBS Video Bandwidth for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-step-by-step-to-reel-success-on-instagram-for-2024/"><u>[Updated] Step-by-Step to Reel Success on Instagram for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-unlocking-quick-playback-on-tiktok-app-for-2024/"><u>[Updated] Unlocking Quick Playback on TikTok App for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/best-anti-tracker-software-for-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-virtual-android/"><u>Best Anti Tracker Software For Samsung Galaxy S23 Tactical Edition | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/exploring-advanced-features-in-intova-edge-x-for-2024/"><u>Exploring Advanced Features in Intova Edge X for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-vivo-y27-5g-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Vivo Y27 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-samsung-galaxy-a24-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Samsung Galaxy A24 Activity | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-ways-to-track-samsung-galaxy-a24-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Track Samsung Galaxy A24 without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-samsung-galaxy-a24-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track Samsung Galaxy A24 without App | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-samsung-galaxy-a24-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for Samsung Galaxy A24 | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-beginners-roadmap-for-whatsapp-group-rooms/"><u>In 2024, Beginners' Roadmap for WhatsApp Group Rooms</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-chronicles-of-charms-a-compreentic-toolkit-for-twitters-visual-treasures/"><u>In 2024, Chronicles of Charms  A Compreentic Toolkit for Twitter's Visual Treasures</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-and-where-to-find-a-shiny-stone-pokemon-for-xiaomi-civi-3-drfone-by-drfone-virtual-android/"><u>In 2024, How and Where to Find a Shiny Stone Pokémon For Xiaomi Civi 3? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-samsung-galaxy-a24-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Samsung Galaxy A24 | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-samsung-galaxy-a24-for-free-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track a Lost Samsung Galaxy A24 for Free? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-samsung-galaxy-a24-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Samsung Galaxy A24 by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-samsung-galaxy-a24-location-by-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Samsung Galaxy A24 Location by Number | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-samsung-galaxy-a24-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Samsung Galaxy A24 Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-samsung-galaxy-a24-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on Samsung Galaxy A24 Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-turn-off-google-location-to-stop-tracking-you-on-samsung-galaxy-a24-drfone-by-drfone-virtual-android/"><u>In 2024, How to Turn Off Google Location to Stop Tracking You on Samsung Galaxy A24 | Dr.fone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-the-role-of-b-roll-in-professional-editing/"><u>In 2024, The Role of B Roll in Professional Editing</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-samsung-galaxy-a24-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On Samsung Galaxy A24 for Parents | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-4-ways-to-trace-samsung-galaxy-a24-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 4 Ways to Trace Samsung Galaxy A24 Location | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-6-appsservices-to-trace-any-samsung-galaxy-a24-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, Top 6 Apps/Services to Trace Any Samsung Galaxy A24 Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-samsung-galaxy-a24-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Phone Number Locators To Track Samsung Galaxy A24 Location | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-9-samsung-galaxy-a24-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>In 2024, Top 9 Samsung Galaxy A24 Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-samsung-galaxy-a24-without-him-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Two Ways to Track My Boyfriends Samsung Galaxy A24 without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-samsung-galaxy-a24-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Samsung Galaxy A24 | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/inside-the-labyroud-of-vrs-latest-creations/"><u>Inside the Labyroud of VR's Latest Creations</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-best-animated-video-makers-for-android-and-ios-updated-2023/"><u>New In 2024, Best Animated Video Makers for Android and iOS (Updated 2023)</u></a></li>
+<li><a href="https://change-location.techidaily.com/pokemon-go-cooldown-chart-on-vivo-x100-pro-drfone-by-drfone-virtual-android/"><u>Pokémon Go Cooldown Chart On Vivo X100 Pro | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-ultimate-tutorial-for-professional-looking-youtube-channels-for-2024/"><u>The Ultimate Tutorial for Professional-Looking YouTube Channels for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-12-prominent-realme-v30-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Realme V30 Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-tracking-apps-to-track-samsung-galaxy-s23-tactical-edition-without-them-knowing-drfone-by-drfone-virtual-android/"><u>Top 5 Tracking Apps to Track Samsung Galaxy S23 Tactical Edition without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/turning-still-shots-into-audio-visual-narratives/"><u>Turning Still Shots Into Audio-Visual Narratives</u></a></li>
+</ul></div>

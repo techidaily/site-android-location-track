@@ -1,7 +1,7 @@
 ---
 title: 3 Ways to Track Honor 90 Pro without Them Knowing | Dr.fone
-date: 2024-04-04T17:54:51.866Z
-updated: 2024-04-05T17:54:51.866Z
+date: 2024-07-22T00:15:21.353Z
+updated: 2024-07-23T00:15:21.353Z
 tags: 
   - virtual location change
   - location track
@@ -10,7 +10,7 @@ categories:
 description: This article describes 3 Ways to Track Honor 90 Pro without Them Knowing
 excerpt: This article describes 3 Ways to Track Honor 90 Pro without Them Knowing
 keywords: Location Track for 90 Pro,track location
-thumbnail: https://www.lifewire.com/thmb/tlifSCFQmwjazjTNLenwCtxlliI=/540x405/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/removerokuchannel-c354faa0f712495384a4d5888017e30c.png
+thumbnail: https://thmb.techidaily.com/f060aa48894ea1b017bf8a4af8da622e4076e35a663f40c627d05eef8a39852a.png
 ---
 
 ## 3 Ways to Track Honor 90 Pro without Them Knowing
@@ -27,20 +27,32 @@ Step 1: First of all you need to purchase the subscription from [www.mspy.com/](
 
 Step 2: Now access the target device, once you opt for downloading, there you will be asked to enter the unique ID you received, to authorize the access. As soon you entered the details, the monitoring process will get started.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![track a cell phone without them knowing-access the target device](https://images.wondershare.com/drfone/article/2017/11/15100180578971.jpg)
 
 Step 3: After that, you will be allowed to open Control Panel. From there you can easily go for the process of tracking the target device remotely, under which you can have access to GPS locations, Messages, Call details, and lot more. That you can access from anywhere, such as your system, mobile, laptop, etc.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ![track a cell phone without them knowing-the mSpy Control Panel](https://images.wondershare.com/drfone/article/2017/11/15100180804204.jpg)
 
 Following the above simple steps will enable you to track a Cell Phone without them Knowing.
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: How to track Android or iPhone using FlexiSPY?
 
 [FlexiSPY](https://www.flexispy.com/) is a commonly used tracking system for cell phones. It assures one of the best ways to track a cell phone without them knowing. But you need to jailbreak iPhone before installing FlexiSPY. For android devices, the root service is required for certain advanced features.
 
 After installing the Flexispy on the Honor 90 Pro device you want to monitor, all the relevant information you want to monitor (GPS location, calls, texts) will upload to its server without knowing. The only thing you need to do is log in to your Flexispy account and click "Location" if you would like to track a cell phone.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![track a cell phone without them knowing-the flexispy](https://images.wondershare.com/drfone/article/2022/02/track-cell-phone-with-flexispy-02.jpg)
 
 Except for viewing the Honor 90 Pro device location data, you can also export GPS data to use on the mapping application you like.
@@ -63,20 +75,37 @@ Step1: Enable the option “Share my location” on the target phone. To enable 
 
 Step 2: Generally iCloud account has sharing options for all other devices. We have to ensure the sharing option is correctly viewed as the target device such as “This device”.
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![track a cell phone without them knowing-share my location](https://images.wondershare.com/drfone/article/2017/11/15100182891050.jpg)
 
 Step 3: Now swipe from bottom to end, click on the “Airdrop” option from the settings. You will have two options such as “Everyone” and “Contacts only”.
 
 Step 4: Move to the target device, in the “Find my friends” app click the option “add”. Now your contact picture will get displayed. Click on your profile photo > select the option “Share indefinitely” to track a cell phone without them knowing.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![track a cell phone without them knowing-Share indefinitely](https://images.wondershare.com/drfone/article/2017/11/15100183209840.jpg)
 
 Step 5: The target device location will be shared with you. You will get a pop-up window “Accept” it. It will again ask if you want to share location so, click on “Don’t share”.
 
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![track a cell phone without them knowing-click Don’t share](https://images.wondershare.com/drfone/article/2017/11/15100183459135.jpg)
 
 Step 6: Now go to your device, open the “Find my friends” app and click the icon of the target device. You will get a notification, where they are now when they leave from the place etc.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<!-- affiliate ads end -->
 ![track a cell phone without them knowing-get a notification](https://images.wondershare.com/drfone/article/2017/11/15100183691634.jpg)
 
 Note: If you want to hide the “Find my friends” app from the target device you can use the dock method which will be easy but the folder method is very tough.
@@ -99,6 +128,9 @@ mSpy activates if installed on the iPhone completely. The process of finding the
 
 We must tell you using mSpy and FlexiSPY are both one of the best methods to track a cell phone. Both the applications have several metrics and would certainly assist in how to track a cell phone without them knowing. We know that tracking a cell phone without them knowing is illegal, but when it comes to our children's safety we have to do this at any cost.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2 Ways to Monitor Honor 90 Pro Activity
 
 Your child’s security is priceless, and we understand that. As a parent, one constantly lives under pressure to protect their kids and ensure that a child is not using his/her cell phone for illegal/immoral purposes. Thus, we have 2 ways to monitor phone activity and keep a tab on your kid’s social media activities, call logs, messages, physical movements, etc.
@@ -133,6 +165,9 @@ Step 3. Lastly, finish setting up mSpy by following the instructions on the e-ma
 
 ![Monitor Phone Activity with mSpy-access your Control Panel](https://images.wondershare.com/drfone/article/2017/10/15081767715179.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<!-- affiliate ads end -->
 ## Part 3: How to Monitor Phone Activity with Famisafe?
 
 <iframe allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/qcV7v1DtAzI" id="video-iframe-t"></iframe>
@@ -149,6 +184,9 @@ Step 1. First and foremost, go to Google Play or App Store to download **Famisaf
 
 Step 2. Set the rules for kids' devices. After you activate the account and connect the kid's device, you can check the Activity report of the kid's device, view the kid's browser history or block the websites you don't want the kids to access, and so on.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![monitor phone activity with Famisafe-feed in the necessary information](https://images.wondershare.com/drfone/article/2022/03/famisafe-android-features.jpg)
 
 ## Part 4: Some Tips to Ensure Your Child’s Online Safety
@@ -165,6 +203,9 @@ We hope you find this guide and instructions herein useful. We recommend you to 
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
 ## How to Spy on Text Messages from Computer & Honor 90 Pro
 
 Do you suspect that your child is communicating with the wrong individuals? While cellphones are meant to give everyone the ability to communicate, their secretive nature can also nurture society’s ills, and children, especially teenagers can fall prey to these. Yet, as a parent, it can be very hard to monitor what your child is doing on your device. That’s why we thought it wise to share with you a few ways you can spy on someone’s text messages from your device or computer.
@@ -197,6 +238,9 @@ Step 3: The app will automatically access all messages on the target device. It 
 
 ![Spy on text messages from another iPhone via Auto Forward](https://images.wondershare.com/drfone/article/2017/10/15074689453332.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3: How to Spy on text messages from computer
 
 If you want to spy on someone else’s text messages on your computer, a monitoring program like [mSpy](http://mspy.go2cloud.org/SH7G6) might be a good choice. As one of the best spy apps in the business, mSpy gives you the ability to monitor any device both Android and iOS remotely from any computer. It is easy to install and will provide you with additional information about the target device including call history, browsing history, and even email tracking.
@@ -228,3 +272,38 @@ The above three solutions enable users to monitor more than just text messages. 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-the-ultimate-slack-filmora-duo-for-meeting-management-excellence/"><u>[New] 2024 Approved  The Ultimate Slack-Filmora Duo for Meeting Management Excellence</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-prime-choices-webcams-on-windows-10/"><u>[New] In 2024, Prime Choices  Webcams on Windows 10</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unveiling-the-revised-sony-s3700-experience/"><u>[New] Unveiling the Revised Sony S3700 Experience</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-discovering-the-most-trusted-mac-snipers/"><u>[Updated] 2024 Approved  Discovering the Most Trusted Mac Snipers</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-efficient-chrome-os-snaps-4-techniques-to-try-for-2024/"><u>[Updated] Efficient Chrome OS Snaps - 4 Techniques to Try for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-enhancing-presentations-the-captivate-way-for-2024/"><u>[Updated] Enhancing Presentations  The Captivate Way for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-ways-to-track-vivo-s17-pro-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track Vivo S17 Pro without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/5-ways-to-track-vivo-s17-pro-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Vivo S17 Pro without App | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-vivo-s17-pro-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Vivo S17 Pro Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-vivo-s17-pro-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on Vivo S17 Pro Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-vivo-s17-pro-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Vivo S17 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-vivo-s17-pro-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Vivo S17 Pro Activity | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-vivo-s17-pro-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your Vivo S17 Pro Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-vivo-s17-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Best Anti Tracker Software For Vivo S17 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-vivo-s17-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How Do I Stop Someone From Tracking My Vivo S17 Pro? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-realme-narzo-n55-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Realme Narzo N55 Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-vivo-s17-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Check Distance and Radius on Google Maps For your Vivo S17 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-vivo-s17-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Remove Spyware on Vivo S17 Pro? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-vivo-s17-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Vivo S17 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-vivo-s17-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Spy on Text Messages from Computer & Vivo S17 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-vivo-s17-pro-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Vivo S17 Pro by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-vivo-s17-pro-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on Vivo S17 Pro with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-vivo-s17-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Best Spy Watches For your Vivo S17 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-4-ways-to-trace-vivo-s17-pro-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 4 Ways to Trace Vivo S17 Pro Location | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-vivo-s17-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Car Locator Apps for Vivo S17 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-vivo-s17-pro-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Tracking Apps to Track Vivo S17 Pro without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-9-vivo-s17-pro-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>In 2024, Top 9 Vivo S17 Pro Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-vivo-s17-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Vivo S17 Pro | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/in-2024-youtubes-creative-commons-a-guide-for-videographers/"><u>In 2024, YouTube’s Creative Commons  A Guide for Videographers</u></a></li>
+<li><a href="https://extra-support.techidaily.com/mastering-the-art-of-digital-distortion-in-minutes-for-2024/"><u>Mastering the Art of Digital Distortion in Minutes for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/screen-savvy-the-ultimate-recorders-digest/"><u>Screen Savvy  The Ultimate Recorder's Digest</u></a></li>
+</ul></div>

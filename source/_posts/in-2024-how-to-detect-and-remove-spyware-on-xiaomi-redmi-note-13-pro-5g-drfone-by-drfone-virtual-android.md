@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Detect and Remove Spyware on Xiaomi Redmi Note 13 Pro 5G? | Dr.fone
-date: 2024-03-25 21:50:34
-updated: 2024-03-28 13:26:52
+date: 2024-07-21T23:19:06.651Z
+updated: 2024-07-22T23:19:06.651Z
 tags: 
   - virtual location change
   - location track
@@ -10,7 +10,7 @@ categories:
 description: This article describes How to Detect and Remove Spyware on Xiaomi Redmi Note 13 Pro 5G?
 excerpt: This article describes How to Detect and Remove Spyware on Xiaomi Redmi Note 13 Pro 5G?
 keywords: track location,Location Track for Redmi Note 13 Pro 5G
-thumbnail: https://www.lifewire.com/thmb/ouXJb0p8iu69MptAZaPa-CTAUMg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/relaxing-while-getting-his-studies-done-495857099-5a1ed8c5ec2f640037e369f4.jpg
+thumbnail: https://thmb.techidaily.com/8f59b16f9ed7024a23cc6f18f766904b6f418e4c5b8df6a84d93cf668a943550.jpg
 ---
 
 ## How to Detect and Remove Spyware on Xiaomi Redmi Note 13 Pro 5G?
@@ -23,6 +23,9 @@ The biggest question most iPhone users have is; can someone spy on my iPhone? Th
 
 It is important to note that this can happen to anyone partly due to the sophisticated ways that hackers can infiltrate a device. Thanks to spying software, the person spying on your iPhone doesn’t even need to be a sophisticated hacker. They can be your spouse or employer.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<!-- affiliate ads end -->
 ## Part 2: How to Detect Spyware on iPhone?
 
 The most logical step to take when you suspect that someone is spying on your iPhone is to take steps to detect the spyware. Once you are certain there is spyware on the Xiaomi Redmi Note 13 Pro 5G device, you are in a position to do something about it. The problem is, detecting spyware can be next to impossible because such software is designed to remain undetectable. But there are several signs that your iPhone is compromised. The following are just some of the signs to look out for.
@@ -37,12 +40,18 @@ Most spyware will use up your data to work. That’s because they have to receiv
 
 The presence of the Cydia app on your device when you didn’t perform a jailbreak is another indicator of spyware. Do a Spotlight search for “Cydia” to see if you find it. But the Cydia app can be very difficult to detect because sometimes it can be hidden. To eliminate the possibility, enter “4433\*29342” into the spotlight search.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Detect Spyware on iPhone-via the Cydia App](https://images.wondershare.com/drfone/article/2017/10/15074740091683.jpg)
 
 #### **3\. A warm iPhone**
 
 Do you notice that your iPhone is warm even when you are not using it? If this happens, it is very likely that there is an app running in the background. Most spyware apps are designed to run in the background so this is a big indicator of spy activity.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Detect Spyware on iPhone-notice that your iPhone is warm](https://images.wondershare.com/drfone/article/2017/10/15079738897604.jpg)
 
 #### **4\. Background Noises**
@@ -94,6 +103,9 @@ Step 1: Begin by activating iCloud Backup on the target device. Go to Settings a
 
 Step 2: The first step is to create an account with mSpy. You can then purchase a subscription based on the type of information you need from the target device and the duration you want to spend spying on the Xiaomi Redmi Note 13 Pro 5G device.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Spy on iPhone without Jailbreak-create an account with mSpy](https://images.wondershare.com/drfone/article/2017/10/15079746911961.jpg)
 
 Step 3: Once you’ve registered and purchased the subscription, you will receive an email from mSpy with all the information you need to install the program.
@@ -108,6 +120,9 @@ Being able to spy on an iPhone without a jailbreak is not something that happens
 
 Step 1: Begin by performing a jailbreak on the target device. There are several options to help you do that like Pangu software.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Spy using Spyware with jailbreak-Pangu software](https://images.wondershare.com/drfone/article/2017/10/15074779011456.jpg)
 
 Step 2: Once the Xiaomi Redmi Note 13 Pro 5G device is successfully jailbroken, create an account with TruthSpy, purchase a subscription and you will receive instructions on how to install the software on the jailbroken device.
@@ -122,6 +137,9 @@ device will however make it easier for the Xiaomi Redmi Note 13 Pro 5G device’
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
 ## Top 10 Telegram Spy Tools On Xiaomi Redmi Note 13 Pro 5G for Parents
 
 While smartphones are certainly making your life easier, they are also inadvertently damaging those of your children. As more and more communication channels open up to one and all, reaching out has become mighty simple.
@@ -158,6 +176,9 @@ Downloadable from [www.mspy.com](http://mspy.go2cloud.org/SH7G6)
 
 This is your app to do everything you want. It's one of the best apps for you. You can do anything from monitoring WhatsApp, Twitter, Facebook, BBM, iMessage, Viber, Skype, Email and Instagram. You can also track location of the Xiaomi Redmi Note 13 Pro 5G device through GPS Tracking and displays on Google map.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![telegram spy](https://images.wondershare.com/drfone/article/2016/11/14792923372217.jpg)
 
 Pros
@@ -210,6 +231,9 @@ Downloadable from <http://www.flexispy.com>
 
 The iKeyMonitor tracks SMSs, keystrokes, WhatsApp messages, websites surfed, passwords, and screenshots. The program comes with a no-cost three -day trial.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![telegram spy](https://images.wondershare.com/drfone/article/2016/11/14792925104640.jpeg)
 
 Pros
@@ -229,10 +253,16 @@ Cost: $39.99 for 1 month; For 1 year -- $179.99.
 
 Downloadable at <http://ikeymonitorapp.com>
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 5\. PhoneSheriff
 
 This one is compatible with any iPhone, Android and Blackberry phone as also iPad and the iPad mini. Features include call logging, tracking GPS locations, SMSs and emails, browser history and photos and videos shot. The software tracks all chat messages within Facebook, Viber, WhatsApp, iMessage and BBM.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![telegram spy](https://images.wondershare.com/drfone/article/2016/11/14792926167438.jpg)
 
 Pros
@@ -253,10 +283,16 @@ Cost: $49 for six months (for individuals & families); $299 per year (Businesses
 
 Download it at <http://www.phonesheriff.com>
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 6\. Spyera
 
 This one monitors and records SMS, phone books, call history, emails, location, IM, What'sApp messages, Facebook Chat, photos shot and Skypev messages which get uploaded to the spying device’s monitoring account.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![telegram spy](https://images.wondershare.com/drfone/article/2016/11/14792927164388.jpg)
 
 Pros
@@ -273,6 +309,10 @@ Cost: $189 for three months; $ 489 for 1 year
 
 Downloadable from <https://spyera.com>
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
+EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<!-- affiliate ads end -->
 ## 7\. Teensafe
 
 Monitor all of your teenager’s sent, received and deleted texts. Also track iMessages, Kik Messenger and WhatsApp through Teensafe which is compatible with iPhones, iPads and Androids.
@@ -299,6 +339,9 @@ Cost: 7-day no-cost trial. Subscription starts from $14.95 per month. It may be 
 
 Downloadable at <http://www.teensafe.com/>
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ## 8\. Mobistealth
 
 This one tracks and records all calls and text messages. It allows viewing of surfing history and all URLs visited including those containing videos. You get full access to the target phone’s contact list and also incoming and outgoing pictures.
@@ -325,6 +368,9 @@ Download it at <http://www.mobistealth.com/>
 
 With TheOneSpy, several target phones may be monitored using one license. Additionally, you get access to all data available. All e-mails and media files on the target phone may be viewed.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
 ![telegram spy](https://images.wondershare.com/drfone/article/2016/11/14792934045968.jpg)
 
 Pros
@@ -342,6 +388,9 @@ Cost: 3 months -- $55; 6 months -- $99; 12 months -- $140.
 
 Download it at: <https://www.theonespy.com/>
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 10\. MOBILESPYAGENT
 
 This app works in full covert mode and makes all texts and calls accessible. All multimedia files, memos, notes and contact lists are accessible. Also, it allows viewing of the entire history of the web browser and also numerous social networks.
@@ -380,3 +429,41 @@ While all these are some great spy apps, mSpy is one of the best bets out there 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-instant-media-transformation-enhance-fb-videos-to-hdmp4-on-the-fly/"><u>[New] 2024 Approved  Instant Media Transformation  Enhance FB Videos to HD/MP4 on the Fly</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-ultimate-tutorial-how-to-add-a-countdown-timer-in-obs/"><u>[New] In 2024, Ultimate Tutorial  How To Add a Countdown Timer in OBS</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-top-tools-to-decode-tiktok-engagement-and-growth-patterns-for-2024/"><u>[New] Top Tools to Decode TikTok Engagement and Growth Patterns for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-cash-cascade-the-monetary-movements-of-a-meme-star/"><u>[Updated] Cash Cascade  The Monetary Movements of a Meme Star</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-endless-entertainment-your-ultimate-youtube-movies-list/"><u>[Updated] Endless Entertainment  Your Ultimate YouTube Movies List</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-streamlined-techniques-for-discovering-highly-engaged-youtube-remarks/"><u>[Updated] Streamlined Techniques for Discovering Highly Engaged YouTube Remarks</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-giving-a-fresh-twist-to-pre-filtered-memories-using-instagram-tools/"><u>2024 Approved  Giving a Fresh Twist to Pre-Filtered Memories Using Instagram Tools</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-music-from-nova-y71-by-fonelab-android-recover-music/"><u>Best Android Data Recovery - Undelete Lost Music from Nova Y71</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/confused-about-which-gopro-should-you-use-this-article-introduces-and-provides-a-detailed-overview-of-the-best-gopro-for-youtubers-you-can-find-in-the-marke/"><u>Confused About Which GoPro Should You Use? This Article Introduces and Provides a Detailed Overview of the Best GoPro for YouTubers You Can Find in the Market for Vlogging</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/exclusive-insight-into-the-6-most-advanced-instagram-reel-apps/"><u>Exclusive Insight Into the 6 Most Advanced Instagram Reel Apps</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-a-nubia-red-magic-9-proplus-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Nubia Red Magic 9 Pro+ Phone that is Locked?</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-data-from-apple-iphone-se-to-zte-phones-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer Data from Apple iPhone SE to ZTE Phones | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-nokia-c210-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Nokia C210 Activity | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-nokia-c210-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your Nokia C210 Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-nokia-c210-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for Nokia C210 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-vivo-v27-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From Vivo V27 to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-nokia-c210-drfone-by-drfone-virtual-android/"><u>In 2024, How Do I Stop Someone From Tracking My Nokia C210? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-nokia-c210-drfone-by-drfone-virtual-android/"><u>In 2024, How to Check Distance and Radius on Google Maps For your Nokia C210 | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-nokia-c210-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Remove Spyware on Nokia C210? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-nokia-c210-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Nokia C210 | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-nokia-c210-drfone-by-drfone-virtual-android/"><u>In 2024, How to Spy on Text Messages from Computer & Nokia C210 | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-nokia-c210-for-free-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track a Lost Nokia C210 for Free? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-nokia-c210-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Nokia C210 by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-lock-your-nubia-z50-ultra-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Nubia Z50 Ultra Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-nokia-c210-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on Nokia C210 with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-nokia-c210-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On Nokia C210 for Parents | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-4-ways-to-trace-nokia-c210-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 4 Ways to Trace Nokia C210 Location | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-nokia-c210-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Car Locator Apps for Nokia C210 | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-6-appsservices-to-trace-any-nokia-c210-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, Top 6 Apps/Services to Trace Any Nokia C210 Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-nokia-c210-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Phone Number Locators To Track Nokia C210 Location | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-9-nokia-c210-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>In 2024, Top 9 Nokia C210 Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-nokia-c210-without-him-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Two Ways to Track My Boyfriends Nokia C210 without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlock-your-realme-narzo-60-pro-5gs-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your Realme Narzo 60 Pro 5Gs Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-nokia-c210-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Nokia C210 | Dr.fone</u></a></li>
+</ul></div>

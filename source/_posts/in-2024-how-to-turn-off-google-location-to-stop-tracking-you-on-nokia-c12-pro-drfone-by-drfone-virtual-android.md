@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Turn Off Google Location to Stop Tracking You on Nokia C12 Pro | Dr.fone
-date: 2024-05-20T01:22:54.332Z
-updated: 2024-05-21T01:22:54.332Z
+date: 2024-07-21T19:52:40.817Z
+updated: 2024-07-22T19:52:40.817Z
 tags: 
   - virtual location change
   - location track
@@ -10,7 +10,7 @@ categories:
 description: This article describes How to Turn Off Google Location to Stop Tracking You on Nokia C12 Pro
 excerpt: This article describes How to Turn Off Google Location to Stop Tracking You on Nokia C12 Pro
 keywords: track location,Location Track for C12 Pro
-thumbnail: https://www.lifewire.com/thmb/td12YpTj-yP7iyxYOnjHj9dHoA4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/streamfreesportsonline-5b1994178023b900364a81e5.jpg
+thumbnail: https://thmb.techidaily.com/0cd373a6b0eece48a6e2d5d0248da5d1df8fff3f71196cdaae4af6176a3b33bf.jpg
 ---
 
 ## How to Turn Off Google Location to Stop Tracking You on Nokia C12 Pro
@@ -27,20 +27,34 @@ Location data generally helps us find reliable directions and pinpoint a particu
 
 ### It is an essential component of most Google services
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![google products](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-1.JPG)
 
 Of course, Google Maps and Weather will not work without access to location data. It is the main component that allows this kind of application to function exactly as it should. That’s why you should think twice before you turn off Google location tracking. Keep it activated on your mobile device if you’re in need of real-time weather updates or reliable coordinates.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+</a>
+<!-- affiliate ads end -->
 ### It is used for targeted advertisements
 
 The majority of online advertisements scattered all over the internet are run by Google. It uses location data to ensure the ads that appear on your web browser are relevant to your personal liking. For example, Google Ads will likely flash American products on your smartphones if you’re located in that particular region. Do you want to keep it that way? If so, you should not then turn off Google location tracking on your Nokia C12 Pro smartphone.
 
 ### It is used by Google to provide accurate search results
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ![google search results](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-2.JPG)
 
 The same thing goes for Google search results. This query engine uses location data to provide information relevant to the specific needs of the user. Let’s say you’re currently residing in Japan and looking for nearby coffee shops. Of course, it will be unhelpful if Google dispenses a list of coffee shops that aren’t located in your country. That’s why you shouldn’t turn off Google location tracking on your smartphone if you’re looking for precise and pertinent answers.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### It is used by Google to implement certain security protocols
 
 Google uses location data to keep your accounts safe from potential attacks and security breaches. How so? Well, Google immediately sends alerts whenever your account is used from an unusual location. Another thing is that strange activities on your account are promptly detected with the aid of location information. Simply put, allowing Google to access your whereabouts is the least you can do to protect your digital assets. Hence, don’t turn off Google location tracking on your Nokia C12 Pro smartphone if you need such assistance.
@@ -51,6 +65,9 @@ Google uses location data to keep your accounts safe from potential attacks and 
 
 We all know that Google is committed to offering us new products and improving its existing services. That’s indeed beneficial to all of us, especially in today’s ever-changing world. But definitely, it’s not possible if Google doesn’t have adequate location information from the pool of its users. Why so? Simply because location data determines the latest community trends and helps specialists find the perfect basis for fresh developments. Do you want to contribute something to the advancement of Google products? If so, you can start by giving Google access to the location data on your Nokia C12 Pro smartphone.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2. Top 4 Techniques to Turn Off Google Location Tracking on Android
 
 There’s no denying that Google uses location information to give us the best experience possible. However, it doesn’t necessarily mean there is no risk at all. We cannot rule out the possibility of data breaches and disclosure of location information that is supposed to be private. If you’re worried about this kind of situation, you can prevent it from happening in a snap of a finger. Check out the four methods below on how to turn off Google location tracking on your Nokia C12 Pro smartphone.
@@ -85,6 +102,9 @@ Let’s say you don’t want to cut the entire location access across your smart
 
 **Step 4:** Click **Permissions.**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![google app permissions](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-7.jpg)
 
 **Step 5:** Click **Location.**
@@ -93,6 +113,9 @@ Let’s say you don’t want to cut the entire location access across your smart
 
 **Step 6:** Lastly, click **Don’t Allow.** Alternatively, you may instead select **Allow Only While Using the App** or **Ask Every Time** if you wish to grant Google conditional access to your location data.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<!-- affiliate ads end -->
 ![disallow location access on google](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-9.jpg)
 
 ### Method 3: Toggle off the Timeline feature on your Google Account
@@ -105,6 +128,9 @@ Timeline is a special Google feature that keeps a record of your location check-
 
 **Step 2:** Click your **Profile** icon at the top-right corner of the screen.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<!-- affiliate ads end -->
 ![google app profile icon](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-10.jpg)
 
 **Step 3:** Click **Google Account.**
@@ -121,6 +147,9 @@ Timeline is a special Google feature that keeps a record of your location check-
 
 **Step 6:** Scroll down and then tap the **Turn Off** button.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<!-- affiliate ads end -->
 ![turn off timeline settings](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-14.jpg)
 
 #### For web users
@@ -133,6 +162,9 @@ Timeline is a special Google feature that keeps a record of your location check-
 
 **Step 3:** Scroll it down and then click the **Turn Off** button.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![turn off timeline](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-16.jpg)
 
 ### Method 4: Remove visits on Google Maps
@@ -169,6 +201,9 @@ Google surely understands that some users are uncomfortable sharing their wherea
 
 **Step 4:** After completing the downloading process, Wondershare Dr.Fone - Virtual Location will open in a separate window. From there, navigate to the top-right menu bar and then click **Teleport Mode.**
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![wondershare drfone teleport mode](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
 
 **Step 5:** Head over to the search bar at the top-left corner of the screen and then enter your desired location. Choose one from the suggestions that Wondershare Dr.Fone displays on the screen. Right after, click the **Enter** icon.
@@ -187,18 +222,28 @@ Google surely understands that some users are uncomfortable sharing their wherea
 
 At some point, we cannot deny that Google location services make our lives a lot more convenient. Imagine you can easily locate a particular place and get directions by simply browsing Google Maps. No need to borrow an Atlas from the library just to find a location you want to visit. However, in exchange for this convenience, you have to share location access with Google. Some users are not confident to access this privilege at the expense of their privacy. Don’t worry. That’s totally fine. If you’re one of them, this article can help you turn off Google location tracking on your Nokia C12 Pro. Is there a more conservative approach to address this issue? Luckily, there is. Download [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) on your computer and take advantage of its Virtual Location feature. It can help modify your whereabouts and simulate GPS movements without going outdoors.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 9 Best Phone Monitoring Apps for Nokia C12 Pro
 
 Cell phone monitoring software is readily available these days and it must be put to good use to ensure the safety of your kids/spouse/near and dear ones/employees.
 
 The internet, social media Apps, and smartphones lure people to indulge in immoral, dangerous, and illegal activities. To keep a tab on others’ phone usage, phone monitoring Apps come in handy. Luckily for you, we have the 9 best tools listed down below that work as smartphone monitor Apps and help you spy on calls, messages, social media activities, browser history, real-time locations, and much more.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ## Part 1: mSpy
 
 mSpy is a cell phone monitoring software and tracking App for Android/iPhone. It works silently in the background without letting the target device owner know of its existence. It monitors text messages, calls, WhatsApp, location, etc at all times without consuming much battery. mSpy App is popular locally and is known to satisfy consumer needs of security, safety, and convenience of remote tracking.
 
 To know more and sign up on mSpy, visit [https://www.mspy.com/](http://mspy.go2cloud.org/SH96F)
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Phone Monitoring Apps-mSpy](https://images.wondershare.com/drfone/article/2017/10/15081775088395.jpg)
 
 **Features:**
@@ -218,6 +263,10 @@ To know more and sign up on mSpy, visit [https://www.mspy.com/](http://mspy.go2c
 - Calls cannot be recorded for evidence.
 - The app needs to be downloaded on the target device.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ## Part 2: Highster Mobile
 
 Highster Mobile is a cell phone monitor App to track text messages and other activities on Android/iPhone. It allows users to read and review messages, call logs, etc. Using this App is extremely simple and does not require you have the target device with you. It secretly monitors cell phones remotely and virtually. It remains undetected and allows easy and quick spying on the target device. It requires rooting Android to monitor social Apps and needs you to have Apple ID and password to spy on non-jailbroken iPhones.
@@ -243,12 +292,18 @@ To know more, visit <http://www.highstermobilespy.com/>
 - The user panel lacks certain features.
 - Lack of instructions on the interface.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 3: Flexispy
 
 FlexiSPY phone monitoring App is a cross-platform phone spy tool that offers solutions to track and monitor smartphone activities (digital and audio) easily. It is easy to install and use. It enables GPS location tracking and comes with a free Mobile Vier App to monitor another cell phone sitting far away from it. This software claims to have the expertise to spy on instant messaging Apps.
 
 To know more, visit: <https://flexispy.com/en/mobile-child-safety.htm>
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![Phone Monitoring Apps-FlexiSPY](https://images.wondershare.com/drfone/article/2017/10/15081776155715.jpg)
 
 **Features:**
@@ -276,6 +331,9 @@ PhoneSheriff is a phone monitor App, specially designed for text message monitor
 
 Visit <http://phonesheriff.com/parental.html> to know more.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<!-- affiliate ads end -->
 ![Phone Monitoring Apps-PhoneSheriff](https://images.wondershare.com/drfone/article/2017/10/15081776649600.jpg)
 
 **Features:**
@@ -326,6 +384,9 @@ Mobile Spy Agent is a wonderful cell phone monitoring software to keep an eye on
 
 Visit <http://www.mobilespyagent.com/> to know more.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Phone Monitoring Apps-Mobile Spy Agent](https://images.wondershare.com/drfone/article/2017/10/15081777565839.jpeg)
 
 **Features:**
@@ -345,6 +406,9 @@ Visit <http://www.mobilespyagent.com/> to know more.
 - Poor customer support.
 - Limited features and lacks online instructions.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 7: Spyera
 
 Spyera, the cell phone monitoring software, is mostly used by parents to spy on their kids. It has options to intercept calls and snoop on children using a spy camera. It also has spying software for PC (Windows/Mac) and tablets. It enables live call listening, ambient listening, and spying on multimedia files. It allows live call recording and capturing key logs. Its alert wizard can be set up to keep the tracker informed at all times.
@@ -393,6 +457,9 @@ To know more, visit <https://screentimelabs.com/>
 - Does not support blocking websites.
 - Does not support monitoring calls/ messages etc.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 9: Norton Family Premier
 
 This smartphone monitor App helps your family explore the web safely. It offers excellent filter tools and sends informative reports regarding whereabouts and kids’ activities. It also helps your kids balance time between studies and web browsing. It makes the web a safer place for your kids.
@@ -435,6 +502,9 @@ Step 1: First of all you need to purchase the subscription from [www.mspy.com/](
 
 Step 2: Now access the target device, once you opt for downloading, there you will be asked to enter the unique ID you received, to authorize the access. As soon you entered the details, the monitoring process will get started.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
 ![track a cell phone without them knowing-access the target device](https://images.wondershare.com/drfone/article/2017/11/15100180578971.jpg)
 
 Step 3: After that, you will be allowed to open Control Panel. From there you can easily go for the process of tracking the target device remotely, under which you can have access to GPS locations, Messages, Call details, and lot more. That you can access from anywhere, such as your system, mobile, laptop, etc.
@@ -457,12 +527,21 @@ How to Export GPS data:
 
 Step 1: Click the "Export" button on the upper right corner.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![export gps data](https://images.wondershare.com/drfone/article/2022/02/track-cell-phone-with-flexispy-03.jpg)
 
 Step 2: Click the "Download" button on the pop-up window that appears.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![download gps datay](https://images.wondershare.com/drfone/article/2022/02/track-cell-phone-with-flexispy-04.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3: How to secretly track someone
 
 If you want to track a cell phone without them knowing secretly, then one interesting solution is the “Find my friends” app introduced by Apple though primarily not for spying purposes, but you can use it to spy on someone's iPhone secretly. This app comes with the facility to get a notification when the target person arrives or leaves a place. Here, if you have access to the target device and the “Find my friends” option then it will give you the solution on how to track a cell phone without them knowing.
@@ -471,6 +550,9 @@ Step1: Enable the option “Share my location” on the target phone. To enable 
 
 Step 2: Generally iCloud account has sharing options for all other devices. We have to ensure the sharing option is correctly viewed as the target device such as “This device”.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![track a cell phone without them knowing-share my location](https://images.wondershare.com/drfone/article/2017/11/15100182891050.jpg)
 
 Step 3: Now swipe from bottom to end, click on the “Airdrop” option from the settings. You will have two options such as “Everyone” and “Contacts only”.
@@ -481,10 +563,16 @@ Step 4: Move to the target device, in the “Find my friends” app click the op
 
 Step 5: The target device location will be shared with you. You will get a pop-up window “Accept” it. It will again ask if you want to share location so, click on “Don’t share”.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![track a cell phone without them knowing-click Don’t share](https://images.wondershare.com/drfone/article/2017/11/15100183459135.jpg)
 
 Step 6: Now go to your device, open the “Find my friends” app and click the icon of the target device. You will get a notification, where they are now when they leave from the place etc.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![track a cell phone without them knowing-get a notification](https://images.wondershare.com/drfone/article/2017/11/15100183691634.jpg)
 
 Note: If you want to hide the “Find my friends” app from the target device you can use the dock method which will be easy but the folder method is very tough.
@@ -524,3 +612,61 @@ We must tell you using mSpy and FlexiSPY are both one of the best methods to tra
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-videos.techidaily.com/new-crafting-worldly-stories-startup-guide-for-future-travel-vloggers/"><u>[New] Crafting Worldly Stories  Startup Guide for Future Travel Vloggers</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-perfect-obs-settings-for-low-cost-hardware-for-2024/"><u>[New] Perfect OBS Settings for Low-Cost Hardware for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-chill-music-playlist-20-relaxing-country-melodies-tiktok-version/"><u>[Updated] 2024 Approved  Chill Music Playlist  20 Relaxing Country Melodies (TikTok Version)</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-instagram-cinematic-influence-building-a-powerful-video-marketing-strategy/"><u>[Updated] Instagram Cinematic Influence  Building a Powerful Video Marketing Strategy</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-saving-your-desktop-display-with-free-tech-tools-for-2024/"><u>[Updated] Saving Your Desktop Display with Free Tech Tools for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unleash-creativity-fast-windows-10-photo-edits-made-simple/"><u>2024 Approved  Unleash Creativity Fast  Windows 10 Photo Edits Made Simple</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-zoom-in-or-out-tailoring-your-youtube-viewing-pace/"><u>2024 Approved  Zoom in or Out? Tailoring Your YouTube Viewing Pace</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-solutions-to-find-your-oppo-find-x6-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>3 Solutions to Find Your Oppo Find X6 Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/best-anti-tracker-software-for-oppo-find-x6-drfone-by-drfone-virtual-android/"><u>Best Anti Tracker Software For Oppo Find X6 | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/essential-book-trailer-samples/"><u>Essential Book Trailer Samples</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-oppo-find-x6-drfone-by-drfone-virtual-android/"><u>How Do I Stop Someone From Tracking My Oppo Find X6? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-oppo-find-x6-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Oppo Find X6 | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-oppo-find-x6-drfone-by-drfone-virtual-android/"><u>How to Detect and Remove Spyware on Oppo Find X6? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-motorola-moto-g-stylus-5g-2023-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Motorola Moto G Stylus 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-oppo-reno-8t-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Oppo Reno 8T Activity | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-oppo-reno-8t-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your Oppo Reno 8T Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-ways-to-track-oppo-reno-8t-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Track Oppo Reno 8T without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-oppo-reno-8t-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track Oppo Reno 8T without App | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-oppo-reno-8t-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for Oppo Reno 8T | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-oppo-reno-8t-drfone-by-drfone-virtual-android/"><u>In 2024, Best Anti Tracker Software For Oppo Reno 8T | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-enhance-editing-unlimited-free-audio-samples/"><u>In 2024, Enhance Editing  Unlimited Free Audio Samples!</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-nokia-c22-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Nokia C22 | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-oppo-reno-8t-drfone-by-drfone-virtual-android/"><u>In 2024, How Do I Stop Someone From Tracking My Oppo Reno 8T? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-oppo-reno-8t-drfone-by-drfone-virtual-android/"><u>In 2024, How to Check Distance and Radius on Google Maps For your Oppo Reno 8T | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-create-an-apple-developer-account-from-apple-iphone-xs-max-by-drfone-ios/"><u>In 2024, How To Create an Apple Developer Account From Apple iPhone XS Max</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-oppo-reno-8t-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Remove Spyware on Oppo Reno 8T? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-oppo-reno-8t-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Oppo Reno 8T | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-oppo-reno-8t-drfone-by-drfone-virtual-android/"><u>In 2024, How to Spy on Text Messages from Computer & Oppo Reno 8T | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-oppo-reno-8t-for-free-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track a Lost Oppo Reno 8T for Free? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-oppo-reno-8t-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Oppo Reno 8T by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-oppo-reno-8t-location-by-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Oppo Reno 8T Location by Number | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-oppo-reno-8t-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Oppo Reno 8T Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-oppo-reno-8t-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on Oppo Reno 8T Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-turn-off-google-location-to-stop-tracking-you-on-oppo-reno-8t-drfone-by-drfone-virtual-android/"><u>In 2024, How to Turn Off Google Location to Stop Tracking You on Oppo Reno 8T | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-quick-fix-tweeting-vids-pause-in-chrome/"><u>In 2024, Quick Fix  Tweeting Vids Pause in Chrome</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-honor-x9b-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Honor X9b Screen | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-oppo-reno-8t-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on Oppo Reno 8T with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-the-ultimate-guide-to-fb-timing-and-free-tools/"><u>In 2024, The Ultimate Guide to FB Timing & Free Tools</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-oppo-reno-8t-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Best Spy Watches For your Oppo Reno 8T | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-oppo-reno-8t-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On Oppo Reno 8T for Parents | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-4-ways-to-trace-oppo-reno-8t-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 4 Ways to Trace Oppo Reno 8T Location | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-oppo-reno-8t-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Car Locator Apps for Oppo Reno 8T | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-oppo-reno-8t-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Tracking Apps to Track Oppo Reno 8T without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-6-appsservices-to-trace-any-oppo-reno-8t-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, Top 6 Apps/Services to Trace Any Oppo Reno 8T Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-oppo-reno-8t-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Phone Number Locators To Track Oppo Reno 8T Location | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-9-oppo-reno-8t-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>In 2024, Top 9 Oppo Reno 8T Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-oppo-reno-8t-without-him-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Two Ways to Track My Boyfriends Oppo Reno 8T without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-unlocking-the-potential-of-capturing-digital-entertainment/"><u>In 2024, Unlocking the Potential of Capturing Digital Entertainment</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-oppo-reno-8t-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Oppo Reno 8T | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/solutions-to-spy-on-oppo-find-x6-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>Solutions to Spy on Oppo Find X6 with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-oppo-find-x6-drfone-by-drfone-virtual-android/"><u>Top 10 Best Spy Watches For your Oppo Find X6 | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-oppo-find-x6-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for Oppo Find X6 | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-tracking-apps-to-track-oppo-find-x6-without-them-knowing-drfone-by-drfone-virtual-android/"><u>Top 5 Tracking Apps to Track Oppo Find X6 without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-your-oneplus-nord-n30-se-phone-by-drfone-android/"><u>Top IMEI Unlokers for Your OnePlus Nord N30 SE Phone</u></a></li>
+</ul></div>

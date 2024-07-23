@@ -1,7 +1,7 @@
 ---
 title: How Do I Stop Someone From Tracking My Xiaomi Redmi Note 12 Pro 5G? | Dr.fone
-date: 2024-03-27 14:39:23
-updated: 2024-03-28 15:36:19
+date: 2024-07-21T22:46:50.950Z
+updated: 2024-07-22T22:46:50.950Z
 tags: 
   - virtual location change
   - location track
@@ -10,7 +10,7 @@ categories:
 description: This article describes How Do I Stop Someone From Tracking My Xiaomi Redmi Note 12 Pro 5G?
 excerpt: This article describes How Do I Stop Someone From Tracking My Xiaomi Redmi Note 12 Pro 5G?
 keywords: track location,Location Track for Redmi Note 12 Pro 5G
-thumbnail: https://www.lifewire.com/thmb/kaKmEcJ4wgeshIkJ4JE3bp3u-NU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1369568023-c596ac8d6b5a4f3682bda2fa0feb12bd.jpg
+thumbnail: https://thmb.techidaily.com/bdaef56e02cc4aa00f3e70ad3df4b912e80b691b8ee44c6197adf88943656c52.jpg
 ---
 
 ## How Do I Stop Someone From Tracking My Xiaomi Redmi Note 12 Pro 5G?
@@ -19,6 +19,13 @@ It has now become very easy to track a Smartphone using the GPS features of the 
 
 You may not want your GPS location tracked by anyone or by apps on your device. When playing games like Pokémon Go, the geo-location data on your device is used to pinpoint where you are for purposes of gameplay. In the same manner, malicious people can track you same way. Here you will learn how to stop someone from tracking your phone in simple and easy ways.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Monthly Membership</a>
+<!-- affiliate ads end -->
 ## Part 1: How do people track your phone?
 
 There are several ways in which people can track the location of your phone. This can be risky at times, especially if you have a stalker. These are the common ways in which people track phones:
@@ -31,10 +38,16 @@ The apps that are used by people to track mobile devices will track one of these
 
 The sections below will show you how to stop someone from tracking your iPhone with ease.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: How to stop my iPhone from being tracked?
 
 If you have an iPhone, the following methods can be used to stop someone from tracking your device
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ### 1) Use [Dr.Fone - Virtual Location(iOS/Android)](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
 
 This is a tool that you can use to change the virtual location of your device(iOS or Android). The tool comes with powerful features that enable you to teleport to any part of the world within an instant, and even start to move around a map as if you were physically in the area.
@@ -63,6 +76,10 @@ In order to see how to use dr. fone to teleport your device to another location,
 
 <iframe allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/FfhgWxnARqo"></iframe>
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
+The ultimate burning program for all your needs!</a>
+<!-- affiliate ads end -->
 ### 2) Disable Significant Locations on iPhone
 
 - Start by launching "Settings" from your Home screen
@@ -85,6 +102,9 @@ You may turn off location tracking for specific apps that you feel might be used
 - Now go to the listing for the app and then select it. You will see three choices: "Never", "While Using the App" and "Always"
 - Make your choice and the Location Services for the app will be switched off.
 
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![how to disable location tracking for specific apps on iPhone](https://images.wondershare.com/drfone/2020/disable-location-tracking-iphone-3.jpg)
 
 ### 4) Disable Share My Location service
@@ -118,6 +138,9 @@ Toggle the button on the right side of "Location-Based Alerts" into the "OFF" po
 
 You also need to know how to stop Google from tracking your Xiaomi Redmi Note 12 Pro 5G. This feature can be used to track your device through other apps.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<!-- affiliate ads end -->
 ### 1) Stop Google Tracking on Android device
 
 - Access the "settings" app on your Home screen
@@ -127,6 +150,9 @@ You also need to know how to stop Google from tracking your Xiaomi Redmi Note 12
 - If you want tighter control of the tracking features, You can also scroll down until you get to "Manage Your Activity Controls"
 - Here you can delete all your past activity records so nobody can track you using your location history.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 2) Turn off Android Location Tracking
 
 Apart from stopping Google tracking on your device, you may also turn off Location tracking of other apps as shown below
@@ -144,6 +170,9 @@ Google Location History. With this, you can switch off the collection of your lo
 
 Google Location Sharing. This will turn off location sharing if you use it to connect with friends and family.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<!-- affiliate ads end -->
 ### 3) Nord VPN
 
 Nord VPN is a great tool to fake your GPS location and stop people from tracking your phone. It works by masking your true IP address and then using servers in another location to fake your position. This tool is great for stopping people from tracking you using browser-based apps. It also does affect the GPS chip and stop it from transmitting your true location. Nord VPN has servers in countries all over the world, which means you can move your location to another continent to fool those who may be tracking you.
@@ -163,10 +192,16 @@ This is an app that you can download to your android device from Google Play Sto
 - Launch Fake GPS go and the grant it the required access. Go back to "Developer Options" and then go down until you find Fake GPS Go. Toggle it to the "ON" position.
 - Now go back to "Mock Location App" and then choose Fake GPS Go. You will now be able to fake your location and stop people from tracking your device.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<!-- affiliate ads end -->
 ![android pokemon go spoofing 5](https://images.wondershare.com/drfone/article/2019/09/android-pokemon-go-spoofing-5.jpg)
 
 - To actually change the virtual location of your device, launch Fake GPs Go once more and then access the map interface. Choose a location far from your actual location and then pin it as your "real" location. This will instantly show that you have moved to this new location and throw off people who are tracking your Xiaomi Redmi Note 12 Pro 5G.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![android pokemon go spoofing 6](https://images.wondershare.com/drfone/article/2019/09/android-pokemon-go-spoofing-6.jpg)
 
 ### 5) Fake GPS Free
@@ -183,10 +218,16 @@ This is yet another tool that you can use to fake your GPS location and fool peo
 
 ![android pokemon go spoofing 8](https://images.wondershare.com/drfone/article/2019/09/android-pokemon-go-spoofing-8.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## In Conclusion
 
 If you want to stop Google from tracking your location, these are the methods that you should use to turn off your GPS location on both iOS and Android. You need to know that you are safe all the time and this is a step that you should take when you feel like you are being tracked for nefarious reasons. However, you should do this with caution as the information can also be used in a beneficial manner. The best option is to turn on the GPS when you need it and then turn it off when you do not, or use an iOS spoofing tool.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Two Ways to Track My Boyfriend's Xiaomi Redmi Note 12 Pro 5G without Him Knowing
 
 How can I track my boyfriend’s phone? If you also have the same question, then this would be the last post you’ll read. A while back, I was a little suspicious of my boyfriend’s behavior and wanted to track my boyfriend’s phone. As I did some research, I discovered that even though there are lots of spying tools out there, only a handful of them yields the desired results. I handpicked two apps to track my boyfriend and they certainly met my expectations. Therefore, I have provided a stepwise tutorial to use them right here.
@@ -195,6 +236,9 @@ How can I track my boyfriend’s phone? If you also have the same question, then
 
 When I wanted to learn how can I track my boyfriend’s phone, I tried various third-party solutions. I tried [mSpy](http://mspy.go2cloud.org/SH96F) .
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![track my boyfriend’s phone-via mSpy](https://images.wondershare.com/drfone/article/2017/10/15082599886089.jpg)
 
 1\. To use mSpy, you need to visit its website right [here](http://mspy.go2cloud.org/SH96F) and create your new account. Ideally, you need to follow similar steps as KidsGuard Pro’s installation to use mSpy.
@@ -233,6 +277,9 @@ Since it runs in stealth mode, it allowed me to track my boyfriend’s phone wit
 
 3\. Great! Now all you need to do is log in to your KidsGuard Pro account on their website using your account credentials. On the home page, you can access all the major information related to the Xiaomi Redmi Note 12 Pro 5G device like its location, frequent callers, and more.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![track my boyfriend’s phone-log-in to KidsGuard Pro’s dashboard](https://images.wondershare.com/drfone/article/2022/03/android-control-panel.jpg)
 
 4\. Furthermore, you can simply visit the desired section from the left panel to get in-depth access. For instance, by visiting the “Locations” section, you can view the real-time location of the Xiaomi Redmi Note 12 Pro 5G device, the previously visited places, and more.
@@ -241,6 +288,9 @@ After following these instructions, I was also able to track my boyfriend withou
 
 Since KidsGuard Pro is compatible with all the leading Android and iOS devices, you can take its assistance without facing any setbacks. I used it to track my boyfriend’s phone and so can you. Nevertheless, before you proceed, make sure that you are not doing anything illegal. You should either own the phone you are tracking or inform the other person beforehand. This will prevent you from any unforeseen situation. Now when you know better, you can easily use KidsGuard Pro to track any Android or iOS device. Go ahead and give KidsGuard Pro a try and let us know about your experience in the comments below.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<!-- affiliate ads end -->
 ## How to Turn Off Google Location to Stop Tracking You on Xiaomi Redmi Note 12 Pro 5G
 
 The location services that Google provides to Android smartphones are indeed useful in many ways. For instance, you can use Google Maps to check a particular place you want to visit and obtain reliable directions to help you get there. Another thing, Google can also give you the exact location of your Xiaomi Redmi Note 12 Pro 5G in case you lost it somewhere. Indeed, Google’s GPS tracking feature comes in very handy whenever you need such assistance.
@@ -249,10 +299,16 @@ It’s true to say that Google's location monitoring services offer tons of bene
 
 In this article, we will discuss how Google employs location access on your mobile device. We will also provide some quick tutorials on how to turn off Google location tracking in easy steps. Continue reading below to learn more.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ## Part 1. Understanding How Google Uses Location Data
 
 Location data generally helps us find reliable directions and pinpoint a particular place. But apart from that, this piece of information actually serves a bigger purpose. Google, in particular, employs location data to provide high-quality services tailored to specific preferences and necessities of the users. Each Google product relies heavily on location information and utilizes it for various reasons. To understand it better, check out the list below.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ### It is an essential component of most Google services
 
 ![google products](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-1.JPG)
@@ -263,8 +319,14 @@ Of course, Google Maps and Weather will not work without access to location data
 
 The majority of online advertisements scattered all over the internet are run by Google. It uses location data to ensure the ads that appear on your web browser are relevant to your personal liking. For example, Google Ads will likely flash American products on your smartphones if you’re located in that particular region. Do you want to keep it that way? If so, you should not then turn off Google location tracking on your Xiaomi Redmi Note 12 Pro 5G smartphone.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### It is used by Google to provide accurate search results
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![google search results](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-2.JPG)
 
 The same thing goes for Google search results. This query engine uses location data to provide information relevant to the specific needs of the user. Let’s say you’re currently residing in Japan and looking for nearby coffee shops. Of course, it will be unhelpful if Google dispenses a list of coffee shops that aren’t located in your country. That’s why you shouldn’t turn off Google location tracking on your smartphone if you’re looking for precise and pertinent answers.
@@ -279,6 +341,9 @@ Google uses location data to keep your accounts safe from potential attacks and 
 
 We all know that Google is committed to offering us new products and improving its existing services. That’s indeed beneficial to all of us, especially in today’s ever-changing world. But definitely, it’s not possible if Google doesn’t have adequate location information from the pool of its users. Why so? Simply because location data determines the latest community trends and helps specialists find the perfect basis for fresh developments. Do you want to contribute something to the advancement of Google products? If so, you can start by giving Google access to the location data on your Xiaomi Redmi Note 12 Pro 5G smartphone.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 2. Top 4 Techniques to Turn Off Google Location Tracking on Android
 
 There’s no denying that Google uses location information to give us the best experience possible. However, it doesn’t necessarily mean there is no risk at all. We cannot rule out the possibility of data breaches and disclosure of location information that is supposed to be private. If you’re worried about this kind of situation, you can prevent it from happening in a snap of a finger. Check out the four methods below on how to turn off Google location tracking on your Xiaomi Redmi Note 12 Pro 5G smartphone.
@@ -317,10 +382,16 @@ Let’s say you don’t want to cut the entire location access across your smart
 
 **Step 5:** Click **Location.**
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ![location access for google](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-8.jpg)
 
 **Step 6:** Lastly, click **Don’t Allow.** Alternatively, you may instead select **Allow Only While Using the App** or **Ask Every Time** if you wish to grant Google conditional access to your location data.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
 ![disallow location access on google](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-9.jpg)
 
 ### Method 3: Toggle off the Timeline feature on your Google Account
@@ -333,6 +404,9 @@ Timeline is a special Google feature that keeps a record of your location check-
 
 **Step 2:** Click your **Profile** icon at the top-right corner of the screen.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![google app profile icon](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-10.jpg)
 
 **Step 3:** Click **Google Account.**
@@ -341,6 +415,9 @@ Timeline is a special Google feature that keeps a record of your location check-
 
 **Step 4:** Click **Data Privacy.**
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![data and privacy settings](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-12.jpg)
 
 **Step 5:** Find and click **Timeline.**
@@ -349,6 +426,9 @@ Timeline is a special Google feature that keeps a record of your location check-
 
 **Step 6:** Scroll down and then tap the **Turn Off** button.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![turn off timeline settings](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-14.jpg)
 
 #### For web users
@@ -363,6 +443,9 @@ Timeline is a special Google feature that keeps a record of your location check-
 
 ![turn off timeline](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-16.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 4: Remove visits on Google Maps
 
 If Timeline is previously activated on your Xiaomi Redmi Note 12 Pro 5G, chances are Google Maps has recorded all your recent visits. Don’t worry. You can easily delete them and finally turn off Google location tracking once and for all. Here’s a short guide on how to do it in easy steps.
@@ -371,6 +454,9 @@ If Timeline is previously activated on your Xiaomi Redmi Note 12 Pro 5G, chances
 
 **Step 2:** Click the **Profile** icon at the top-right corner of the screen.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![google maps profile](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-17.jpg)
 
 **Step 3:** Then click **Your Timeline.**
@@ -379,10 +465,16 @@ If Timeline is previously activated on your Xiaomi Redmi Note 12 Pro 5G, chances
 
 **Step 4:** Click **Places.** Scroll down and then click **Visited All Places** just below the map.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![google maps places](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-19.jpg)
 
 **Step 5:** Pick a location and click the **Three-dotted menu** button next to it. From there, select **Remove All Visits.**
 
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3. Keep Your Whereabouts Private With [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
 
 Google surely understands that some users are uncomfortable sharing their whereabouts with the platform. That’s why you’re given the option to turn off Google location tracking on your Xiaomi Redmi Note 12 Pro 5G smartphone. However, take note that doing so might gravely affect the functionality of some Google products. If you don’t want it to happen, there’s an alternative solution you can try. Rather than denying Google access to your location, why not change it instead and register a fake one? Yes. That can absolutely help you conceal your whereabouts without compromising the quality of Google services. Don’t worry. It’s a piece of cake. Wondershare Dr.Fone can help you a lot in this regard. It has a potent Virtual Location feature capable of modifying your whereabouts and simulating GPS movements. Do you want to try it now? Here’s a short guide for you.
@@ -432,3 +524,66 @@ At some point, we cannot deny that Google location services make our lives a lot
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-earnings-estimation-a-trifecta-of-tips-and-strategies-for-tracking-your-youtube-earnings/"><u>[New] 2024 Approved  Earnings Estimation  A Trifecta of Tips and Strategies for Tracking Your YouTube Earnings</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-expertise-in-clip-blending-a-blend-mode-guide/"><u>[New] 2024 Approved  Expertise in Clip Blending  A Blend Mode Guide</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-discover-the-best-unboxing-experience-on-youtube-for-2024/"><u>[New] Discover the Best Unboxing Experience on YouTube for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-harnessing-the-power-of-real-time-social-interaction-on-fb-stories-for-2024/"><u>[Updated] Harnessing the Power of Real-Time Social Interaction on FB Stories for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-monitoring-friends-lost-in-instagram-world/"><u>[Updated] In 2024, Monitoring Friends Lost in Instagram World</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-tricks-for-swift-vimeo-watch/"><u>[Updated] Tricks for Swift Vimeo Watch</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-xiaomi-redmi-k70-pro-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Xiaomi Redmi K70 Pro Activity | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/20plus-cool-metaverse-memes-a-deep-dive-guide-for-2024/"><u>20+ Cool Metaverse Memes  A Deep Dive Guide for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-lasting-freedom-how-to-banish-youtube-shorts-permanently/"><u>2024 Approved  Lasting Freedom  How To Banish YouTube Shorts Permanently</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-navigating-to-the-shadows-of-youtube-videos/"><u>2024 Approved  Navigating to the Shadows of YouTube Videos</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/2024-approved-navigating-to-horror-film-soundscape-pieces/"><u>2024 Approved Navigating to Horror Film Soundscape Pieces</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-solutions-to-find-your-xiaomi-redmi-k70-pro-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>3 Solutions to Find Your Xiaomi Redmi K70 Pro Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-ways-to-track-xiaomi-redmi-k70-pro-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track Xiaomi Redmi K70 Pro without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/5-ways-to-track-xiaomi-redmi-k70-pro-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Xiaomi Redmi K70 Pro without App | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-xiaomi-redmi-k70-pro-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Xiaomi Redmi K70 Pro | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/bring-your-vision-to-life-top-free-and-paid-3d-video-creators/"><u>Bring Your Vision to Life Top Free and Paid 3D Video Creators</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/creating-a-captivating-experience-with-your-first-facebook-live/"><u>Creating a Captivating Experience with Your First Facebook Live</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/elevate-your-slow-motion-on-mobile-with-these-apps/"><u>Elevate Your Slow Motion on Mobile with These Apps</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-xiaomi-redmi-k70-pro-drfone-by-drfone-virtual-android/"><u>How Do I Stop Someone From Tracking My Xiaomi Redmi K70 Pro? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-xiaomi-redmi-k70-pro-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Xiaomi Redmi K70 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-xiaomi-redmi-k70-pro-drfone-by-drfone-virtual-android/"><u>How to Detect and Remove Spyware on Xiaomi Redmi K70 Pro? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-xiaomi-redmi-k70-pro-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on Xiaomi Redmi K70 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-xiaomi-redmi-k70-pro-drfone-by-drfone-virtual-android/"><u>How to Spy on Text Messages from Computer & Xiaomi Redmi K70 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-xiaomi-redmi-k70-pro-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost Xiaomi Redmi K70 Pro for Free? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-xiaomi-redmi-k70-pro-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on Xiaomi Redmi K70 Pro Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-xiaomi-redmi-k70-pro-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Xiaomi Redmi K70 Pro by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-xiaomi-redmi-k70-pro-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Xiaomi Redmi K70 Pro Location by Number | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-xiaomi-redmi-k70-pro-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Xiaomi Redmi K70 Pro Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-oppo-reno-11f-5g-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From Oppo Reno 11F 5G to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-xiaomi-redmi-k70-pro-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Xiaomi Redmi K70 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-poco-m6-5g-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Poco M6 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-xiaomi-redmi-k70-pro-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your Xiaomi Redmi K70 Pro Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-xiaomi-redmi-k70-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Best Anti Tracker Software For Xiaomi Redmi K70 Pro | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-here-are-some-of-the-best-pokemon-discord-servers-to-join-on-honor-x50i-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some of the Best Pokemon Discord Servers to Join On Honor X50i | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-xiaomi-redmi-k70-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How Do I Stop Someone From Tracking My Xiaomi Redmi K70 Pro? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-xiaomi-redmi-k70-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Check Distance and Radius on Google Maps For your Xiaomi Redmi K70 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-xiaomi-redmi-k70-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Remove Spyware on Xiaomi Redmi K70 Pro? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-xiaomi-redmi-k70-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Spy on Text Messages from Computer & Xiaomi Redmi K70 Pro | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-vivo-v30-lite-5g-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From Vivo V30 Lite 5G to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-xiaomi-redmi-k70-pro-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Xiaomi Redmi K70 Pro by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/in-2024-mastering-rapid-audio-playback-adjusting-pace-with-ease/"><u>In 2024, Mastering Rapid Audio Playback Adjusting Pace with Ease</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-xiaomi-redmi-k70-pro-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on Xiaomi Redmi K70 Pro with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-xiaomi-redmi-k70-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Best Spy Watches For your Xiaomi Redmi K70 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-4-ways-to-trace-xiaomi-redmi-k70-pro-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 4 Ways to Trace Xiaomi Redmi K70 Pro Location | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-xiaomi-redmi-k70-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Car Locator Apps for Xiaomi Redmi K70 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-xiaomi-redmi-k70-pro-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Tracking Apps to Track Xiaomi Redmi K70 Pro without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-xiaomi-redmi-k70-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Xiaomi Redmi K70 Pro | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/leading-selection-top-6-fb-lite-vids/"><u>Leading Selection  #Top 6 FB Lite Vids</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/solutions-to-spy-on-xiaomi-redmi-k70-pro-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>Solutions to Spy on Xiaomi Redmi K70 Pro with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-xiaomi-redmi-k70-pro-for-parents-drfone-by-drfone-virtual-android/"><u>Top 10 Telegram Spy Tools On Xiaomi Redmi K70 Pro for Parents | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-4-ways-to-trace-xiaomi-redmi-k70-pro-location-drfone-by-drfone-virtual-android/"><u>Top 4 Ways to Trace Xiaomi Redmi K70 Pro Location | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-xiaomi-redmi-k70-pro-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for Xiaomi Redmi K70 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-6-appsservices-to-trace-any-xiaomi-redmi-k70-pro-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>Top 6 Apps/Services to Trace Any Xiaomi Redmi K70 Pro Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-7-phone-number-locators-to-track-xiaomi-redmi-k70-pro-location-drfone-by-drfone-virtual-android/"><u>Top 7 Phone Number Locators To Track Xiaomi Redmi K70 Pro Location | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-9-xiaomi-redmi-k70-pro-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 Xiaomi Redmi K70 Pro Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/two-ways-to-track-my-boyfriends-xiaomi-redmi-k70-pro-without-him-knowing-drfone-by-drfone-virtual-android/"><u>Two Ways to Track My Boyfriends Xiaomi Redmi K70 Pro without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-say-goodbye-to-format-restrictions-streaming-any-video-to-chromecast/"><u>Updated 2024 Approved Say Goodbye to Format Restrictions Streaming Any Video to Chromecast</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-navigating-m4a-file-compatibility-with-android-a-comprehensive-guide/"><u>Updated In 2024, Navigating M4A File Compatibility with Android A Comprehensive Guide</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-xiaomi-redmi-k70-pro-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Xiaomi Redmi K70 Pro | Dr.fone</u></a></li>
+</ul></div>

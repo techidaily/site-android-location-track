@@ -1,7 +1,7 @@
 ---
 title: How Do I Stop Someone From Tracking My Xiaomi Civi 3 Disney 100th Anniversary Edition? | Dr.fone
-date: 2024-03-25 21:32:35
-updated: 2024-03-28 11:20:57
+date: 2024-07-21T22:59:58.525Z
+updated: 2024-07-22T22:59:58.525Z
 tags: 
   - virtual location change
   - location track
@@ -10,7 +10,7 @@ categories:
 description: This article describes How Do I Stop Someone From Tracking My Xiaomi Civi 3 Disney 100th Anniversary Edition?
 excerpt: This article describes How Do I Stop Someone From Tracking My Xiaomi Civi 3 Disney 100th Anniversary Edition?
 keywords: track location,Location Track for Civi 3 Disney 100th Anniversary Edition
-thumbnail: https://www.lifewire.com/thmb/0LHpu91V9jV229cdma0w0BAh3EI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/apple-logo-steering-wheel-25522ee2c5664139948ebfd1cb1df653.jpg
+thumbnail: https://thmb.techidaily.com/74113c2d83645a48c9d2ad195371cc6a07bee43db8bd23e967a3613c122b6663.jpg
 ---
 
 ## How Do I Stop Someone From Tracking My Xiaomi Civi 3 Disney 100th Anniversary Edition?
@@ -19,6 +19,9 @@ It has now become very easy to track a Smartphone using the GPS features of the 
 
 You may not want your GPS location tracked by anyone or by apps on your device. When playing games like Pokémon Go, the geo-location data on your device is used to pinpoint where you are for purposes of gameplay. In the same manner, malicious people can track you same way. Here you will learn how to stop someone from tracking your phone in simple and easy ways.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ## Part 1: How do people track your phone?
 
 There are several ways in which people can track the location of your phone. This can be risky at times, especially if you have a stalker. These are the common ways in which people track phones:
@@ -41,6 +44,9 @@ This is a tool that you can use to change the virtual location of your device(iO
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
 
 1-Click Location Changer for both iOS and Android
@@ -63,6 +69,14 @@ In order to see how to use dr. fone to teleport your device to another location,
 
 <iframe allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/FfhgWxnARqo"></iframe>
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
+
+ Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
+
+ DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
+ PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ### 2) Disable Significant Locations on iPhone
 
 - Start by launching "Settings" from your Home screen
@@ -85,8 +99,14 @@ You may turn off location tracking for specific apps that you feel might be used
 - Now go to the listing for the app and then select it. You will see three choices: "Never", "While Using the App" and "Always"
 - Make your choice and the Location Services for the app will be switched off.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![how to disable location tracking for specific apps on iPhone](https://images.wondershare.com/drfone/2020/disable-location-tracking-iphone-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 4) Disable Share My Location service
 
 - Access the "settings" app from your Home Screen
@@ -127,6 +147,9 @@ You also need to know how to stop Google from tracking your Xiaomi Civi 3 Disney
 - If you want tighter control of the tracking features, You can also scroll down until you get to "Manage Your Activity Controls"
 - Here you can delete all your past activity records so nobody can track you using your location history.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2) Turn off Android Location Tracking
 
 Apart from stopping Google tracking on your device, you may also turn off Location tracking of other apps as shown below
@@ -144,10 +167,17 @@ Google Location History. With this, you can switch off the collection of your lo
 
 Google Location Sharing. This will turn off location sharing if you use it to connect with friends and family.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 3) Nord VPN
 
 Nord VPN is a great tool to fake your GPS location and stop people from tracking your phone. It works by masking your true IP address and then using servers in another location to fake your position. This tool is great for stopping people from tracking you using browser-based apps. It also does affect the GPS chip and stop it from transmitting your true location. Nord VPN has servers in countries all over the world, which means you can move your location to another continent to fool those who may be tracking you.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![pokemon go spoofers iphone 8](https://images.wondershare.com/drfone/article/2019/09/pokemon-go-spoofers-iphone-8.jpg)
 
 ### 4) Fake GPS Go
@@ -163,10 +193,16 @@ This is an app that you can download to your android device from Google Play Sto
 - Launch Fake GPS go and the grant it the required access. Go back to "Developer Options" and then go down until you find Fake GPS Go. Toggle it to the "ON" position.
 - Now go back to "Mock Location App" and then choose Fake GPS Go. You will now be able to fake your location and stop people from tracking your device.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<!-- affiliate ads end -->
 ![android pokemon go spoofing 5](https://images.wondershare.com/drfone/article/2019/09/android-pokemon-go-spoofing-5.jpg)
 
 - To actually change the virtual location of your device, launch Fake GPs Go once more and then access the map interface. Choose a location far from your actual location and then pin it as your "real" location. This will instantly show that you have moved to this new location and throw off people who are tracking your Xiaomi Civi 3 Disney 100th Anniversary Edition.
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![android pokemon go spoofing 6](https://images.wondershare.com/drfone/article/2019/09/android-pokemon-go-spoofing-6.jpg)
 
 ### 5) Fake GPS Free
@@ -176,6 +212,9 @@ This is yet another tool that you can use to fake your GPS location and fool peo
 - Begin by unlocking the developer options just like you did in the step above. Then proceed to Google Play Store and download and install Fake GPs free.
 - Go to "Settings > Developer options > Mock Location App". Here you will select Fake GPS Free and then grant it the necessary permissions on your device.
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![android pokemon go spoofing 7](https://images.wondershare.com/drfone/article/2019/09/android-pokemon-go-spoofing-7.jpg)
 
 - Return to your Home screen and the Launch Fake GPS free. Access the map interface and then check for a location far from your actual position. You may even zoom in and better pinpoint a new location.
@@ -205,6 +244,9 @@ Location data generally helps us find reliable directions and pinpoint a particu
 
 Of course, Google Maps and Weather will not work without access to location data. It is the main component that allows this kind of application to function exactly as it should. That’s why you should think twice before you turn off Google location tracking. Keep it activated on your mobile device if you’re in need of real-time weather updates or reliable coordinates.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### It is used for targeted advertisements
 
 The majority of online advertisements scattered all over the internet are run by Google. It uses location data to ensure the ads that appear on your web browser are relevant to your personal liking. For example, Google Ads will likely flash American products on your smartphones if you’re located in that particular region. Do you want to keep it that way? If so, you should not then turn off Google location tracking on your Xiaomi Civi 3 Disney 100th Anniversary Edition smartphone.
@@ -221,6 +263,9 @@ Google uses location data to keep your accounts safe from potential attacks and 
 
 ### It is utilized for research and further improvements of Google services
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![google services](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-3.JPG)
 
 We all know that Google is committed to offering us new products and improving its existing services. That’s indeed beneficial to all of us, especially in today’s ever-changing world. But definitely, it’s not possible if Google doesn’t have adequate location information from the pool of its users. Why so? Simply because location data determines the latest community trends and helps specialists find the perfect basis for fresh developments. Do you want to contribute something to the advancement of Google products? If so, you can start by giving Google access to the location data on your Xiaomi Civi 3 Disney 100th Anniversary Edition smartphone.
@@ -229,6 +274,13 @@ We all know that Google is committed to offering us new products and improving i
 
 There’s no denying that Google uses location information to give us the best experience possible. However, it doesn’t necessarily mean there is no risk at all. We cannot rule out the possibility of data breaches and disclosure of location information that is supposed to be private. If you’re worried about this kind of situation, you can prevent it from happening in a snap of a finger. Check out the four methods below on how to turn off Google location tracking on your Xiaomi Civi 3 Disney 100th Anniversary Edition smartphone.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Yearly Membership</a>
+<!-- affiliate ads end -->
 ### Method 1: Turn off the location services on your Xiaomi Civi 3 Disney 100th Anniversary Edition mobile device
 
 “How to stop Google from tracking me?” Well, it’s actually very easy. You just need to deactivate the location service on your Xiaomi Civi 3 Disney 100th Anniversary Edition mobile device. After that, Google and other GPS-based applications on your smartphone will immediately lose access to your location data. Do you want to try it now? Check out the tutorial below on how to turn off Google location tracking by deactivating the location services on your phone.
@@ -259,16 +311,28 @@ Let’s say you don’t want to cut the entire location access across your smart
 
 **Step 4:** Click **Permissions.**
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ![google app permissions](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-7.jpg)
 
 **Step 5:** Click **Location.**
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![location access for google](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-8.jpg)
 
 **Step 6:** Lastly, click **Don’t Allow.** Alternatively, you may instead select **Allow Only While Using the App** or **Ask Every Time** if you wish to grant Google conditional access to your location data.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![disallow location access on google](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-9.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 3: Toggle off the Timeline feature on your Google Account
 
 Timeline is a special Google feature that keeps a record of your location check-ins and routes taken for future reference. You can review it on the Google Maps app in case you need to visit the same place again. On the other hand, you can easily toggle it off if you don’t want Google tracking down your specific whereabouts. Here’s the guide on how to do it in easy steps.
@@ -279,6 +343,14 @@ Timeline is a special Google feature that keeps a record of your location check-
 
 **Step 2:** Click your **Profile** icon at the top-right corner of the screen.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
+	Home Use license is dedicated for personal, non-commercial use only. 
+	If Action! is used for commercial gain or to further any commercial purpose, 
+	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
+ 
+	company, user or members of the same household. Action! - screen and game recorder</a>
+<!-- affiliate ads end -->
 ![google app profile icon](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-10.jpg)
 
 **Step 3:** Click **Google Account.**
@@ -287,10 +359,16 @@ Timeline is a special Google feature that keeps a record of your location check-
 
 **Step 4:** Click **Data Privacy.**
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![data and privacy settings](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-12.jpg)
 
 **Step 5:** Find and click **Timeline.**
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![timeline settings](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-13.jpg)
 
 **Step 6:** Scroll down and then tap the **Turn Off** button.
@@ -307,6 +385,9 @@ Timeline is a special Google feature that keeps a record of your location check-
 
 **Step 3:** Scroll it down and then click the **Turn Off** button.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![turn off timeline](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-16.jpg)
 
 ### Method 4: Remove visits on Google Maps
@@ -317,10 +398,16 @@ If Timeline is previously activated on your Xiaomi Civi 3 Disney 100th Anniversa
 
 **Step 2:** Click the **Profile** icon at the top-right corner of the screen.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
 ![google maps profile](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-17.jpg)
 
 **Step 3:** Then click **Your Timeline.**
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![google maps your timeline](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-18.jpg)
 
 **Step 4:** Click **Places.** Scroll down and then click **Visited All Places** just below the map.
@@ -357,6 +444,9 @@ Google surely understands that some users are uncomfortable sharing their wherea
 
 **NOTE:** If you want to restore your original location settings, simply disconnect your smartphone from the computer and restart it.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Conclusion
 
 At some point, we cannot deny that Google location services make our lives a lot more convenient. Imagine you can easily locate a particular place and get directions by simply browsing Google Maps. No need to borrow an Atlas from the library just to find a location you want to visit. However, in exchange for this convenience, you have to share location access with Google. Some users are not confident to access this privilege at the expense of their privacy. Don’t worry. That’s totally fine. If you’re one of them, this article can help you turn off Google location tracking on your Xiaomi Civi 3 Disney 100th Anniversary Edition. Is there a more conservative approach to address this issue? Luckily, there is. Download [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) on your computer and take advantage of its Virtual Location feature. It can help modify your whereabouts and simulate GPS movements without going outdoors.
@@ -377,6 +467,9 @@ Step 1: First of all you need to purchase the subscription from [www.mspy.com/](
 
 Step 2: Now access the target device, once you opt for downloading, there you will be asked to enter the unique ID you received, to authorize the access. As soon you entered the details, the monitoring process will get started.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![track a cell phone without them knowing-access the target device](https://images.wondershare.com/drfone/article/2017/11/15100180578971.jpg)
 
 Step 3: After that, you will be allowed to open Control Panel. From there you can easily go for the process of tracking the target device remotely, under which you can have access to GPS locations, Messages, Call details, and lot more. That you can access from anywhere, such as your system, mobile, laptop, etc.
@@ -385,6 +478,9 @@ Step 3: After that, you will be allowed to open Control Panel. From there you ca
 
 Following the above simple steps will enable you to track a Cell Phone without them Knowing.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 2: How to track Android or iPhone using FlexiSPY?
 
 [FlexiSPY](https://www.flexispy.com/) is a commonly used tracking system for cell phones. It assures one of the best ways to track a cell phone without them knowing. But you need to jailbreak iPhone before installing FlexiSPY. For android devices, the root service is required for certain advanced features.
@@ -419,18 +515,30 @@ Step 3: Now swipe from bottom to end, click on the “Airdrop” option from the
 
 Step 4: Move to the target device, in the “Find my friends” app click the option “add”. Now your contact picture will get displayed. Click on your profile photo > select the option “Share indefinitely” to track a cell phone without them knowing.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ![track a cell phone without them knowing-Share indefinitely](https://images.wondershare.com/drfone/article/2017/11/15100183209840.jpg)
 
 Step 5: The target device location will be shared with you. You will get a pop-up window “Accept” it. It will again ask if you want to share location so, click on “Don’t share”.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![track a cell phone without them knowing-click Don’t share](https://images.wondershare.com/drfone/article/2017/11/15100183459135.jpg)
 
 Step 6: Now go to your device, open the “Find my friends” app and click the icon of the target device. You will get a notification, where they are now when they leave from the place etc.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![track a cell phone without them knowing-get a notification](https://images.wondershare.com/drfone/article/2017/11/15100183691634.jpg)
 
 Note: If you want to hide the “Find my friends” app from the target device you can use the dock method which will be easy but the folder method is very tough.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![track a cell phone without them knowing-hide the Find my friends app](https://images.wondershare.com/drfone/article/2017/11/15100183889994.jpg)
 
 ## Part 4: Frequently Asked Questions
@@ -464,3 +572,45 @@ We must tell you using mSpy and FlexiSPY are both one of the best methods to tra
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-12-ideal-video-cameras-for-aspiring-and-seasoned-vloggers/"><u>[New] 2024 Approved  12 Ideal Video Cameras for Aspiring and Seasoned Vloggers</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-a-quick-dive-into-video-ratios-the-aspect-ratio-essentials-for-youtubers/"><u>[New] A Quick Dive Into Video Ratios  The Aspect Ratio Essentials for YouTubers</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-does-instant-subscription-strategy-improve-user-engagement/"><u>[New] In 2024, Does Instant Subscription Strategy Improve User Engagement?</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-how-to-achieve-collaborative-efficiency-using-skypes-screen-share-feature/"><u>[New] In 2024, How to Achieve Collaborative Efficiency Using Skype’s Screen-Share Feature</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-the-entry-level-guide-to-superior-gaming-editing-systems/"><u>[Updated] 2024 Approved  The Entry Level Guide to Superior Gaming Editing Systems</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-how-to-get-snapchat-on-mac-in-2024/"><u>[Updated] How to Get Snapchat on Mac, In 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-xiaomi-redmi-note-13-proplus-5g-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Xiaomi Redmi Note 13 Pro+ 5G Activity | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-amusingscreen-join-the-video-making-party/"><u>2024 Approved  AmusingScreen  Join the Video Making Party</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-embracing-the-world-of-no-cost-text-animation/"><u>2024 Approved  Embracing the World of No-Cost Text Animation</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-gourmet-goals-on-tiktok-culinary-challenges-worth-pursuing/"><u>2024 Approved  Gourmet Goals on TikTok  Culinary Challenges Worth Pursuing</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-ranked-5-exceptional-video-capture-apps-for-w10w11/"><u>2024 Approved  Ranked #5  Exceptional Video Capture Apps for W10/W11</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-ways-to-track-xiaomi-redmi-note-13-proplus-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track Xiaomi Redmi Note 13 Pro+ 5G without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/5-ways-to-track-xiaomi-redmi-note-13-proplus-5g-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Xiaomi Redmi Note 13 Pro+ 5G without App | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Xiaomi Redmi Note 13 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/altering-game-console-tones-ps5ps4-guide/"><u>Altering Game Console Tones  PS5/PS4 Guide</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-lava-yuva-3-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Lava Yuva 3 Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on Xiaomi Redmi Note 13 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-xiaomi-redmi-note-13-proplus-5g-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost Xiaomi Redmi Note 13 Pro+ 5G for Free? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-xiaomi-redmi-note-13-proplus-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on Xiaomi Redmi Note 13 Pro+ 5G Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-xiaomi-redmi-note-13-proplus-5g-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Xiaomi Redmi Note 13 Pro+ 5G by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-xiaomi-redmi-note-13-proplus-5g-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Xiaomi Redmi Note 13 Pro+ 5G Location by Number | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-xiaomi-redmi-note-13-proplus-5g-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Xiaomi Redmi Note 13 Pro+ 5G Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-6s-to-androidios-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 6s To Android/iOS? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Xiaomi Redmi Note 13 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-xiaomi-redmi-note-13-proplus-5g-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your Xiaomi Redmi Note 13 Pro+ 5G Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Best Anti Tracker Software For Xiaomi Redmi Note 13 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Best Spy Watches For your Xiaomi Redmi Note 13 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Car Locator Apps for Xiaomi Redmi Note 13 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-xiaomi-redmi-note-13-proplus-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Tracking Apps to Track Xiaomi Redmi Note 13 Pro+ 5G without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-expert-approved-3d-video-creation-software-for-professionals/"><u>New Expert-Approved 3D Video Creation Software for Professionals</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/rapid-rendering-of-epic-battle-royale-tiles-for-2024/"><u>Rapid Rendering of Epic Battle Royale Tiles for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-xiaomi-redmi-note-13-proplus-5g-for-parents-drfone-by-drfone-virtual-android/"><u>Top 10 Telegram Spy Tools On Xiaomi Redmi Note 13 Pro+ 5G for Parents | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-4-ways-to-trace-xiaomi-redmi-note-13-proplus-5g-location-drfone-by-drfone-virtual-android/"><u>Top 4 Ways to Trace Xiaomi Redmi Note 13 Pro+ 5G Location | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-6-appsservices-to-trace-any-xiaomi-redmi-note-13-proplus-5g-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>Top 6 Apps/Services to Trace Any Xiaomi Redmi Note 13 Pro+ 5G Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-7-phone-number-locators-to-track-xiaomi-redmi-note-13-proplus-5g-location-drfone-by-drfone-virtual-android/"><u>Top 7 Phone Number Locators To Track Xiaomi Redmi Note 13 Pro+ 5G Location | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-9-xiaomi-redmi-note-13-proplus-5g-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 Xiaomi Redmi Note 13 Pro+ 5G Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/two-ways-to-track-my-boyfriends-xiaomi-redmi-note-13-proplus-5g-without-him-knowing-drfone-by-drfone-virtual-android/"><u>Two Ways to Track My Boyfriends Xiaomi Redmi Note 13 Pro+ 5G without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-the-ultimate-guide-to-video-blur-effects-on-iphone-and-android/"><u>Updated 2024 Approved The Ultimate Guide to Video Blur Effects on iPhone and Android</u></a></li>
+</ul></div>

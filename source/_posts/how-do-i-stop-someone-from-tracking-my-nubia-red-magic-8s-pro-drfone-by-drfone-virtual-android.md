@@ -1,7 +1,7 @@
 ---
 title: How Do I Stop Someone From Tracking My Nubia Red Magic 8S Pro? | Dr.fone
-date: 2024-04-12T12:56:57.610Z
-updated: 2024-04-13T12:56:57.610Z
+date: 2024-07-22T00:26:52.207Z
+updated: 2024-07-23T00:26:52.207Z
 tags: 
   - virtual location change
   - location track
@@ -10,7 +10,7 @@ categories:
 description: This article describes How Do I Stop Someone From Tracking My Nubia Red Magic 8S Pro?
 excerpt: This article describes How Do I Stop Someone From Tracking My Nubia Red Magic 8S Pro?
 keywords: track location,Location Track for Red Magic 8S Pro
-thumbnail: https://www.lifewire.com/thmb/k79dGrFEq_x9Rf5uBTEI3SQDmhU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Google-Cloud-Next-59a9cb4a03e644389e2ffa9939c420f8.jpg
+thumbnail: https://thmb.techidaily.com/8e684e3736085a42393dd155a637e8f217c26c390b45353b04f9ee1e79b6412e.jpg
 ---
 
 ## How Do I Stop Someone From Tracking My Nubia Red Magic 8S Pro?
@@ -31,6 +31,9 @@ The apps that are used by people to track mobile devices will track one of these
 
 The sections below will show you how to stop someone from tracking your iPhone with ease.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
 ## Part 2: How to stop my iPhone from being tracked?
 
 If you have an iPhone, the following methods can be used to stop someone from tracking your device
@@ -41,6 +44,9 @@ This is a tool that you can use to change the virtual location of your device(iO
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
 
 1-Click Location Changer for both iOS and Android
@@ -75,6 +81,9 @@ In order to see how to use dr. fone to teleport your device to another location,
 
 - Finally, toggle the "Significant Locations" to the "OFF" position. The switch will turn grey, indicating that the service has been turned off.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 3) Turn off location tracking of specific apps
 
 You may turn off location tracking for specific apps that you feel might be used to track your position. This is how you go about turning them off.
@@ -98,6 +107,9 @@ You may turn off location tracking for specific apps that you feel might be used
 
 - Now toggle the button to the right to turn it into the "OFF" position
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ### 5) Disable location-based notifications or alerts
 
 Navigate to the "Settings" app on your Home screen
@@ -108,12 +120,18 @@ At the top of the screen, tap on "Location Services" as you did before
 
 Now scroll down the list and click on the "System services" option
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![select System Services option](https://images.wondershare.com/drfone/2020/disable-location-tracking-iphone-5.jpg)
 
 Toggle the button on the right side of "Location-Based Alerts" into the "OFF" position
 
 ![Toggle Location-Based Alerts to the “Off” position](https://images.wondershare.com/drfone/2020/iphone-disable-location-based-alerts-6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 3:How to stop my android from being tracked
 
 You also need to know how to stop Google from tracking your Nubia Red Magic 8S Pro. This feature can be used to track your device through other apps.
@@ -127,6 +145,9 @@ You also need to know how to stop Google from tracking your Nubia Red Magic 8S P
 - If you want tighter control of the tracking features, You can also scroll down until you get to "Manage Your Activity Controls"
 - Here you can delete all your past activity records so nobody can track you using your location history.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2) Turn off Android Location Tracking
 
 Apart from stopping Google tracking on your device, you may also turn off Location tracking of other apps as shown below
@@ -150,6 +171,9 @@ Nord VPN is a great tool to fake your GPS location and stop people from tracking
 
 ![pokemon go spoofers iphone 8](https://images.wondershare.com/drfone/article/2019/09/pokemon-go-spoofers-iphone-8.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### 4) Fake GPS Go
 
 This is an app that you can download to your android device from Google Play Store. It is safe and will not affect the normal functioning of your device. Simply get it from Google Play Store, install it, and launch it. When it is up and running, you have to use the map interface to pin the new location that you want to teleport to. Anyone who may be tracking you will instantly be fooled that you are in the new location. You may also move around using the Joystick feature just as if you are on the ground in the teleport location.
@@ -158,17 +182,26 @@ This is an app that you can download to your android device from Google Play Sto
 
 - From the "Settings" app, navigate down to "About Phone" and then tap on "Build Number" seven times in order to enable the "Developer Options".
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![android pokemon go spoofing 4](https://images.wondershare.com/drfone/article/2019/09/android-pokemon-go-spoofing-4.jpg)
 
 - Launch Fake GPS go and the grant it the required access. Go back to "Developer Options" and then go down until you find Fake GPS Go. Toggle it to the "ON" position.
 - Now go back to "Mock Location App" and then choose Fake GPS Go. You will now be able to fake your location and stop people from tracking your device.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![android pokemon go spoofing 5](https://images.wondershare.com/drfone/article/2019/09/android-pokemon-go-spoofing-5.jpg)
 
 - To actually change the virtual location of your device, launch Fake GPs Go once more and then access the map interface. Choose a location far from your actual location and then pin it as your "real" location. This will instantly show that you have moved to this new location and throw off people who are tracking your Nubia Red Magic 8S Pro.
 
 ![android pokemon go spoofing 6](https://images.wondershare.com/drfone/article/2019/09/android-pokemon-go-spoofing-6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<!-- affiliate ads end -->
 ### 5) Fake GPS Free
 
 This is yet another tool that you can use to fake your GPS location and fool people who may be trying to track your Nubia Red Magic 8S Pro. The tool is quite light and does not use up system resources making it safe and easy to use.
@@ -189,6 +222,9 @@ If you want to stop Google from tracking your location, these are the methods th
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## How to Check Distance and Radius on Google Maps For your Nubia Red Magic 8S Pro
 
 _“Is it possible to use Google Maps to calculate distance between multiple locations? I want to know the exact distance between different spots, but can’t seem to find any solution!”_
@@ -198,12 +234,19 @@ If you also wish to use the distance marker on Google Maps, then you might have 
 ![google maps distance radius 1](https://images.wondershare.com/drfone/2023/virtuallocation/google-maps-distance-radius-1.jpg)
 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ## Part 1: Draw a Radius Circle on Google Maps
 
 You might already know that Google Maps provides a map of the entire world for us to navigate. Though, there are times when users like to draw a radius on Google Maps for a particular location. Presently, the native feature of Google Maps does not have a distance radius tool. Therefore, to draw a radius on Google Maps, you would have to use an application that has its own interface. One of them is Map Developers that is based on Google Maps and has simply provided a solution to draw a radius on the map.
 
 1. Firstly, just go to the official website of [Map Developers circle tool](https://www.mapdevelopers.com/draw-circle-tool.php) on any supported browser like Google Chrome. You can see that the website is based on Google Maps with its added layers to draw a radius on the map.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![google maps distance radius 2](https://images.wondershare.com/drfone/2023/virtuallocation/google-maps-distance-radius-2.jpg)
 
 1. Now, just use the native feature of the map to zoom in to any location of your choice. You can also enter the name of the location that you are looking for in the search bar.
@@ -221,14 +264,23 @@ Apart from drawing a circle or radius on Google Maps, a lot of people would like
 
 Consider the example of the circle tool of Map Developers that we have discussed above. In this, you can just enter the name of a specific place on Google Maps. Now, you can specify the distance of radius in miles or kilometers. This will automatically draw the specific distance radius on Google Maps for the designated location.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![google maps distance radius 4](https://images.wondershare.com/drfone/2023/virtuallocation/google-maps-distance-radius-4.jpg)
 
 - _KML Circle Generator_
 
 If you know the exact longitude and latitude of the place, then you can also take the assistance of KML Circle Generator. In this, you would have to specify the exact coordinates of the place and the Google Maps distance radius value. After entering the relevant details, you can proceed and draw the radius distance on Google Maps.
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![google maps distance radius 5](https://images.wondershare.com/drfone/2023/virtuallocation/google-maps-distance-radius-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3: Determine the Distance between two Addresses on Google Maps
 
 This is one of the most resourceful features of Google Maps that a lot of people are not aware of. Using its native interface, you can find a straight line distance on Google Maps. That is, it won’t be the driving distance, but the exact distance between 2 places on Google Maps. If you want, you can add other spots to let Google Maps calculate distance between multiple locations as well. To learn how to measure distance between two addresses on Google Maps, follow these steps:
@@ -247,6 +299,9 @@ This is one of the most resourceful features of Google Maps that a lot of people
 
 1. If you want to continue, then just click anywhere else on the map and that will be considered as the next spot. Therefore, you can just click as many times as you want to let Google Maps calculate distance between multiple locations.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
 ![google maps distance radius 9](https://images.wondershare.com/drfone/2023/virtuallocation/google-maps-distance-radius-9.jpg)
 
 This technique will let you measure distance between any addresses on Google Maps. It doesn’t matter if it is your present location or not. If you want to measure distance in some other location, then just enter its name in the search bar to load it. In this way, you can measure distance anywhere in the world by sitting in your home.
@@ -255,6 +310,9 @@ This brings us to the end of this extensive guide on using Google Maps distance 
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<!-- affiliate ads end -->
 ### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
 
 1-Click Location Changer for both iOS and Android
@@ -289,6 +347,9 @@ AR game tricks
 
 [Try Now](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<!-- affiliate ads end -->
 ## How to Turn Off Google Location to Stop Tracking You on Nubia Red Magic 8S Pro
 
 The location services that Google provides to Android smartphones are indeed useful in many ways. For instance, you can use Google Maps to check a particular place you want to visit and obtain reliable directions to help you get there. Another thing, Google can also give you the exact location of your Nubia Red Magic 8S Pro in case you lost it somewhere. Indeed, Google’s GPS tracking feature comes in very handy whenever you need such assistance.
@@ -313,6 +374,9 @@ The majority of online advertisements scattered all over the internet are run by
 
 ### It is used by Google to provide accurate search results
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![google search results](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-2.JPG)
 
 The same thing goes for Google search results. This query engine uses location data to provide information relevant to the specific needs of the user. Let’s say you’re currently residing in Japan and looking for nearby coffee shops. Of course, it will be unhelpful if Google dispenses a list of coffee shops that aren’t located in your country. That’s why you shouldn’t turn off Google location tracking on your smartphone if you’re looking for precise and pertinent answers.
@@ -321,6 +385,9 @@ The same thing goes for Google search results. This query engine uses location d
 
 Google uses location data to keep your accounts safe from potential attacks and security breaches. How so? Well, Google immediately sends alerts whenever your account is used from an unusual location. Another thing is that strange activities on your account are promptly detected with the aid of location information. Simply put, allowing Google to access your whereabouts is the least you can do to protect your digital assets. Hence, don’t turn off Google location tracking on your Nubia Red Magic 8S Pro smartphone if you need such assistance.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<!-- affiliate ads end -->
 ### It is utilized for research and further improvements of Google services
 
 ![google services](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-3.JPG)
@@ -345,6 +412,9 @@ There’s no denying that Google uses location information to give us the best e
 
 **Step 4:** Lastly, click **Close** to confirm the changes.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 2: Deactivate the Google App’s location access on your Nubia Red Magic 8S Pro mobile device
 
 Let’s say you don’t want to cut the entire location access across your smartphone because other apps might malfunction. That’s fine. There is a way to deactivate the Google app’s location permission while the other apps remain unaffected. Are you more inclined to implement this decentralized approach? Check out the tutorial provided below.
@@ -361,6 +431,18 @@ Let’s say you don’t want to cut the entire location access across your smart
 
 **Step 4:** Click **Permissions.**
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![google app permissions](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-7.jpg)
 
 **Step 5:** Click **Location.**
@@ -371,6 +453,9 @@ Let’s say you don’t want to cut the entire location access across your smart
 
 ![disallow location access on google](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-9.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 3: Toggle off the Timeline feature on your Google Account
 
 Timeline is a special Google feature that keeps a record of your location check-ins and routes taken for future reference. You can review it on the Google Maps app in case you need to visit the same place again. On the other hand, you can easily toggle it off if you don’t want Google tracking down your specific whereabouts. Here’s the guide on how to do it in easy steps.
@@ -385,6 +470,9 @@ Timeline is a special Google feature that keeps a record of your location check-
 
 **Step 3:** Click **Google Account.**
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![google app account](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-11.jpg)
 
 **Step 4:** Click **Data Privacy.**
@@ -405,6 +493,9 @@ Timeline is a special Google feature that keeps a record of your location check-
 
 **Step 2:** On the main dashboard, click **Timeline.**
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
 ![my google activity settings](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-15.jpg)
 
 **Step 3:** Scroll it down and then click the **Turn Off** button.
@@ -423,14 +514,34 @@ If Timeline is previously activated on your Nubia Red Magic 8S Pro, chances are 
 
 **Step 3:** Then click **Your Timeline.**
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![google maps your timeline](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-18.jpg)
 
 **Step 4:** Click **Places.** Scroll down and then click **Visited All Places** just below the map.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![google maps places](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-19.jpg)
 
 **Step 5:** Pick a location and click the **Three-dotted menu** button next to it. From there, select **Remove All Visits.**
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
+DEX 3 meets the demands of today’s versatile DJ, without compromise! 
+DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<!-- affiliate ads end -->
 ## Part 3. Keep Your Whereabouts Private With [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
 
 Google surely understands that some users are uncomfortable sharing their whereabouts with the platform. That’s why you’re given the option to turn off Google location tracking on your Nubia Red Magic 8S Pro smartphone. However, take note that doing so might gravely affect the functionality of some Google products. If you don’t want it to happen, there’s an alternative solution you can try. Rather than denying Google access to your location, why not change it instead and register a fake one? Yes. That can absolutely help you conceal your whereabouts without compromising the quality of Google services. Don’t worry. It’s a piece of cake. Wondershare Dr.Fone can help you a lot in this regard. It has a potent Virtual Location feature capable of modifying your whereabouts and simulating GPS movements. Do you want to try it now? Here’s a short guide for you.
@@ -453,12 +564,18 @@ Google surely understands that some users are uncomfortable sharing their wherea
 
 **Step 6:** The description of your chosen location will be then flashed on the screen. Read the details and make sure they are accurate. After that, click **Move Here** to proceed.
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![read location description](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
 **Step 7:** The location registered on your Nubia Red Magic 8S Pro mobile device will now be replaced with your modified whereabouts. Verify the changes applied on your smartphone by checking Google Maps and searching for your current location. One way or another, it must show the altered result.
 
 **NOTE:** If you want to restore your original location settings, simply disconnect your smartphone from the computer and restart it.
 
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 At some point, we cannot deny that Google location services make our lives a lot more convenient. Imagine you can easily locate a particular place and get directions by simply browsing Google Maps. No need to borrow an Atlas from the library just to find a location you want to visit. However, in exchange for this convenience, you have to share location access with Google. Some users are not confident to access this privilege at the expense of their privacy. Don’t worry. That’s totally fine. If you’re one of them, this article can help you turn off Google location tracking on your Nubia Red Magic 8S Pro. Is there a more conservative approach to address this issue? Luckily, there is. Download [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) on your computer and take advantage of its Virtual Location feature. It can help modify your whereabouts and simulate GPS movements without going outdoors.
@@ -480,3 +597,58 @@ At some point, we cannot deny that Google location services make our lives a lot
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-the-secret-sauce-for-stellar-telegram-campaigns/"><u>[New] 2024 Approved  The Secret Sauce for Stellar Telegram Campaigns</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-chrome-os-screen-capture-mastering-the-art-in-four-steps/"><u>[New] In 2024, Chrome OS Screen Capture  Mastering the Art in Four Steps</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-the-untold-journey-of-an-instagram-story-enthusiast/"><u>[New] In 2024, The Untold Journey of an Instagram Story Enthusiast</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-closing-out-of-a-discord-channel-best-practices/"><u>[Updated] 2024 Approved  Closing Out of a Discord Channel  Best Practices</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-explore-and-evaluate-top-7-free-android-adblockers-unveiled/"><u>[Updated] In 2024, Explore & Evaluate  Top 7 Free Android AdBlockers Unveiled</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/10-essential-tools-for-resizing-videos/"><u>10 Essential Tools for Resizing Videos</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-solutions-to-find-your-samsung-galaxy-a24-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>3 Solutions to Find Your Samsung Galaxy A24 Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/ae-text-styles-the-ultimate-selection/"><u>AE Text Styles  The Ultimate Selection</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/best-anti-tracker-software-for-samsung-galaxy-a24-drfone-by-drfone-virtual-android/"><u>Best Anti Tracker Software For Samsung Galaxy A24 | Dr.fone</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/essential-elements-for-implementing-channel-banners-in-games/"><u>Essential Elements for Implementing Channel Banners in Games</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-samsung-galaxy-a24-drfone-by-drfone-virtual-android/"><u>How Do I Stop Someone From Tracking My Samsung Galaxy A24? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-honor-play-7t-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Honor Play 7T | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-samsung-galaxy-a24-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Samsung Galaxy A24 | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-samsung-galaxy-a24-drfone-by-drfone-virtual-android/"><u>How to Detect and Remove Spyware on Samsung Galaxy A24? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-samsung-galaxy-m54-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on Samsung Galaxy M54 5G Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-samsung-galaxy-m54-5g-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Samsung Galaxy M54 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-samsung-galaxy-m54-5g-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Samsung Galaxy M54 5G Activity | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-samsung-galaxy-m54-5g-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your Samsung Galaxy M54 5G Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-ways-to-track-samsung-galaxy-m54-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Track Samsung Galaxy M54 5G without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-samsung-galaxy-m54-5g-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track Samsung Galaxy M54 5G without App | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-samsung-galaxy-m54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for Samsung Galaxy M54 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-samsung-galaxy-m54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Best Anti Tracker Software For Samsung Galaxy M54 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-expert-recommendations-the-finest-skype-recorders-of-2023/"><u>In 2024, Expert Recommendations  The Finest Skype Recorders of 2023</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-samsung-galaxy-m54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How Do I Stop Someone From Tracking My Samsung Galaxy M54 5G? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-samsung-galaxy-m54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Check Distance and Radius on Google Maps For your Samsung Galaxy M54 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-samsung-galaxy-m54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Remove Spyware on Samsung Galaxy M54 5G? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-samsung-galaxy-m54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Samsung Galaxy M54 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-samsung-galaxy-m54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Spy on Text Messages from Computer & Samsung Galaxy M54 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-samsung-galaxy-m54-5g-for-free-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track a Lost Samsung Galaxy M54 5G for Free? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-samsung-galaxy-m54-5g-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Samsung Galaxy M54 5G by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-samsung-galaxy-m54-5g-location-by-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Samsung Galaxy M54 5G Location by Number | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-samsung-galaxy-m54-5g-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Samsung Galaxy M54 5G Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-samsung-galaxy-m54-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on Samsung Galaxy M54 5G Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-turn-off-google-location-to-stop-tracking-you-on-samsung-galaxy-m54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Turn Off Google Location to Stop Tracking You on Samsung Galaxy M54 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-samsung-galaxy-m54-5g-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on Samsung Galaxy M54 5G with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-samsung-galaxy-m54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Best Spy Watches For your Samsung Galaxy M54 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-samsung-galaxy-m54-5g-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On Samsung Galaxy M54 5G for Parents | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-4-ways-to-trace-samsung-galaxy-m54-5g-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 4 Ways to Trace Samsung Galaxy M54 5G Location | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-samsung-galaxy-m54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Car Locator Apps for Samsung Galaxy M54 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-samsung-galaxy-m54-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Tracking Apps to Track Samsung Galaxy M54 5G without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-6-appsservices-to-trace-any-samsung-galaxy-m54-5g-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, Top 6 Apps/Services to Trace Any Samsung Galaxy M54 5G Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-samsung-galaxy-m54-5g-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Phone Number Locators To Track Samsung Galaxy M54 5G Location | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-9-samsung-galaxy-m54-5g-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>In 2024, Top 9 Samsung Galaxy M54 5G Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-samsung-galaxy-m54-5g-without-him-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Two Ways to Track My Boyfriends Samsung Galaxy M54 5G without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-samsung-galaxy-m54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Samsung Galaxy M54 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/revolutionize-your-laptop-experience-innovative-methods-for-screen-capture-for-2024/"><u>Revolutionize Your Laptop Experience  Innovative Methods for Screen Capture for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/stuck-at-android-system-recovery-of-poco-m6-5g-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Poco M6 5G ? Fix It Easily | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-samsung-galaxy-a24-drfone-by-drfone-virtual-android/"><u>Top 10 Best Spy Watches For your Samsung Galaxy A24 | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-samsung-galaxy-a24-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for Samsung Galaxy A24 | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-tracking-apps-to-track-samsung-galaxy-a24-without-them-knowing-drfone-by-drfone-virtual-android/"><u>Top 5 Tracking Apps to Track Samsung Galaxy A24 without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-realme-gt-neo-5-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your Realme GT Neo 5 | Dr.fone</u></a></li>
+</ul></div>

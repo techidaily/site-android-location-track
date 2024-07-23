@@ -1,7 +1,7 @@
 ---
 title: How Do I Stop Someone From Tracking My Honor Magic 5 Lite? | Dr.fone
-date: 2024-04-09T05:57:21.773Z
-updated: 2024-04-10T05:57:21.773Z
+date: 2024-07-22T00:25:38.924Z
+updated: 2024-07-23T00:25:38.924Z
 tags: 
   - virtual location change
   - location track
@@ -10,7 +10,7 @@ categories:
 description: This article describes How Do I Stop Someone From Tracking My Honor Magic 5 Lite?
 excerpt: This article describes How Do I Stop Someone From Tracking My Honor Magic 5 Lite?
 keywords: track location,Location Track for Magic 5 Lite
-thumbnail: https://www.lifewire.com/thmb/rg8CHiqfntWuiXPLjddFZ1BByCc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/gopro-2619915_1920-2ca3364339c348e5ba44afb3fa79458b.jpg
+thumbnail: https://thmb.techidaily.com/76a953455d282504d07d30484b3d441976cd7c068fdbe75a38577d96433ea41b.jpg
 ---
 
 ## How Do I Stop Someone From Tracking My Honor Magic 5 Lite?
@@ -19,6 +19,9 @@ It has now become very easy to track a Smartphone using the GPS features of the 
 
 You may not want your GPS location tracked by anyone or by apps on your device. When playing games like Pokémon Go, the geo-location data on your device is used to pinpoint where you are for purposes of gameplay. In the same manner, malicious people can track you same way. Here you will learn how to stop someone from tracking your phone in simple and easy ways.
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: How do people track your phone?
 
 There are several ways in which people can track the location of your phone. This can be risky at times, especially if you have a stalker. These are the common ways in which people track phones:
@@ -31,6 +34,9 @@ The apps that are used by people to track mobile devices will track one of these
 
 The sections below will show you how to stop someone from tracking your iPhone with ease.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: How to stop my iPhone from being tracked?
 
 If you have an iPhone, the following methods can be used to stop someone from tracking your device
@@ -41,6 +47,9 @@ This is a tool that you can use to change the virtual location of your device(iO
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
 
 1-Click Location Changer for both iOS and Android
@@ -63,6 +72,9 @@ In order to see how to use dr. fone to teleport your device to another location,
 
 <iframe allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/FfhgWxnARqo"></iframe>
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2) Disable Significant Locations on iPhone
 
 - Start by launching "Settings" from your Home screen
@@ -85,6 +97,9 @@ You may turn off location tracking for specific apps that you feel might be used
 - Now go to the listing for the app and then select it. You will see three choices: "Never", "While Using the App" and "Always"
 - Make your choice and the Location Services for the app will be switched off.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![how to disable location tracking for specific apps on iPhone](https://images.wondershare.com/drfone/2020/disable-location-tracking-iphone-3.jpg)
 
 ### 4) Disable Share My Location service
@@ -98,6 +113,9 @@ You may turn off location tracking for specific apps that you feel might be used
 
 - Now toggle the button to the right to turn it into the "OFF" position
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 5) Disable location-based notifications or alerts
 
 Navigate to the "Settings" app on your Home screen
@@ -108,6 +126,9 @@ At the top of the screen, tap on "Location Services" as you did before
 
 Now scroll down the list and click on the "System services" option
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![select System Services option](https://images.wondershare.com/drfone/2020/disable-location-tracking-iphone-5.jpg)
 
 Toggle the button on the right side of "Location-Based Alerts" into the "OFF" position
@@ -118,6 +139,9 @@ Toggle the button on the right side of "Location-Based Alerts" into the "OFF" po
 
 You also need to know how to stop Google from tracking your Honor Magic 5 Lite. This feature can be used to track your device through other apps.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### 1) Stop Google Tracking on Android device
 
 - Access the "settings" app on your Home screen
@@ -148,6 +172,9 @@ Google Location Sharing. This will turn off location sharing if you use it to co
 
 Nord VPN is a great tool to fake your GPS location and stop people from tracking your phone. It works by masking your true IP address and then using servers in another location to fake your position. This tool is great for stopping people from tracking you using browser-based apps. It also does affect the GPS chip and stop it from transmitting your true location. Nord VPN has servers in countries all over the world, which means you can move your location to another continent to fool those who may be tracking you.
 
+<!-- affiliate ads begin -->
+<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<!-- affiliate ads end -->
 ![pokemon go spoofers iphone 8](https://images.wondershare.com/drfone/article/2019/09/pokemon-go-spoofers-iphone-8.jpg)
 
 ### 4) Fake GPS Go
@@ -167,6 +194,9 @@ This is an app that you can download to your android device from Google Play Sto
 
 - To actually change the virtual location of your device, launch Fake GPs Go once more and then access the map interface. Choose a location far from your actual location and then pin it as your "real" location. This will instantly show that you have moved to this new location and throw off people who are tracking your Honor Magic 5 Lite.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<!-- affiliate ads end -->
 ![android pokemon go spoofing 6](https://images.wondershare.com/drfone/article/2019/09/android-pokemon-go-spoofing-6.jpg)
 
 ### 5) Fake GPS Free
@@ -183,6 +213,9 @@ This is yet another tool that you can use to fake your GPS location and fool peo
 
 ![android pokemon go spoofing 8](https://images.wondershare.com/drfone/article/2019/09/android-pokemon-go-spoofing-8.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## In Conclusion
 
 If you want to stop Google from tracking your location, these are the methods that you should use to turn off your GPS location on both iOS and Android. You need to know that you are safe all the time and this is a step that you should take when you feel like you are being tracked for nefarious reasons. However, you should do this with caution as the information can also be used in a beneficial manner. The best option is to turn on the GPS when you need it and then turn it off when you do not, or use an iOS spoofing tool.
@@ -221,14 +254,23 @@ WhatsApp Linked Devices is a feature introduced by WhatsApp. It allows users to 
 
 Launch WhatsApp on the Honor Magic 5 Lite device, go to the menu, and select "Linked Devices." Now tap "Link a device" and use the QR code scanner to scan the code on your device. Once devices are linked, it will allow you to track the WhatsApp messages of the targeted person. Using this method needs physical access to the targeted device along with stable internet.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![link whatsapp to another device](https://images.wondershare.com/drfone/article/2023/07/track-whatsapp-messages-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 3. Use Google Drive Backup to Read Someone’s WhatsApp Messages
 
 WhatsApp provides the option to back up chats and media to cloud storage platforms like Google Drive. This feature is primarily designed for users to restore their data. However, It can be utilized to access and read someone else's WhatsApp messages. That is possible if you have access to their Google account.
 
 To use this method, you will need to physically access the Honor Magic 5 Lite device or need a device with the targeted Google account logged in. Here navigate to Google Drive and find the WhatsApp backup file. Download these files on your device and use a third-party tool to decrypt the files.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 3: How To Track WhatsApp Messages Without Them Knowing?
 
 Regarding tracking someone's WhatsApp messages without their knowledge, it's essential to tread carefully. This section will discuss three popular monitoring applications to answer **how to spy on someone's WhatsApp**. The apps that are often mentioned in this context: mSpy, Spyera, and MaxxSpy.
@@ -257,16 +299,25 @@ After purchasing the mSpy package of your choice, open the email to receive logi
 
 **Step 5:** Now click “Finish” to complete the process and access the mSpy dashboard. After a while, you can see all data from the Android device. If you want to access WhatsApp data, you will need to root the targeted Android device.
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![press the finish button](https://images.wondershare.com/drfone/article/2023/07/track-whatsapp-messages-5.jpg)
 
 **Step 6:** Afterward, choose "WhatsApp" from the left sidebar, and you can track the WhatsApp messages. It will also allow you to track WhatsApp calls, including all incoming and outgoing calls.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![access the mspy dashboard](https://images.wondershare.com/drfone/article/2023/07/track-whatsapp-messages-6.jpg)
 
 #### For iPhone
 
 **Step 1:** For iPhone, you can choose either jailbroken or non-jailbroken as the Honor Magic 5 Lite device type. Since you need to read WhatsApp messages, choosing non-jailbroken is sufficient. For mSpy to work on non-jailbroken iPhones, the iCloud backup should be enabled. You will also need Apple ID credentials and physical access in case of 2FA.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![click on proceed](https://images.wondershare.com/drfone/article/2023/07/track-whatsapp-messages-7.jpg)
 
 **Step 2:** Start by clicking “Proceed” in your mSpy account and inserting the Apple ID credentials of the targeted device. Now, press "Verify," and if 2FA is enabled, you will see an option to send the verification code. Use the code received on the targeted device to complete the verification process.
@@ -279,6 +330,9 @@ After purchasing the mSpy package of your choice, open the email to receive logi
 
 **Step 4:** Once mSpy has accessed the data, select “WhatsApp” from the left side to access WhatsApp chats. Here you can track all the incoming and outgoing messages remotely.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![use mspy iphone dashboard](https://images.wondershare.com/drfone/article/2023/07/track-whatsapp-messages-10.jpg)
 
 ### Method 2. Track WhatsApp Messages with Spyera
@@ -293,6 +347,9 @@ Spyera allows you to monitor and track group chats on WhatsApp. You can view the
 
 **Step 3:** Once the app is installed on the targeted device, open the Spyera web account. Here you will be able to see all the Android or iPhone details. To read WhatsApp conversations, choose the "WhatsApp" feature from the "IM" tab in the "Messages" section. Here you can monitor all WhatsApp activities.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<!-- affiliate ads end -->
 ![access the spyera dashboard](https://images.wondershare.com/drfone/article/2023/07/track-whatsapp-messages-11.jpg)
 
 ### Method 3. Track WhatsApp Messages with MaxxSpy
@@ -319,6 +376,9 @@ The best location spoofer app available in this regard is Wondershare [Dr.Fone -
 2. With Dr.Fone - Virtual Location, you can change your location on social media apps like Snapchat, WhatsApp.
 3. By using this app, you can also access geo-restricted content and websites.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Step-by-Step Instructions To Spoof WhatsApp Location via Wondershare Dr.Fone
 
 Changing your location to anywhere in the world is a breeze with this software. Here is how you can change your location within seconds:
@@ -343,6 +403,9 @@ WhatsApp allows users to delete messages they have sent within a specific time f
 
 The app is available for Android devices and can recover your lost data with a high success rate. Apart from offering data recovery features, it lets you view deleted messages on social media apps like WhatsApp and LINE. It doesn't matter if the message was a picture, video, or text. This app can remember all the incoming WhatsApp messages for you.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![dr.fone data and photo recovery app](https://images.wondershare.com/drfone/article/2023/07/track-whatsapp-messages-15.jpg)
 
 ## Part 6: Frequently Asked Questions
@@ -367,6 +430,9 @@ In conclusion, tracking WhatsApp messages can be helpful in various scenarios. T
 
 When it comes to spoofing your WhatsApp location to avoid being tracked by others, one recommended solution is Dr.Fone - Virtual Location. It offers a reliable and effective way to change your GPS location. By using this tool, you can easily set a different location on your device. Moreover, It will add an added layer of privacy and security.
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ## How to Turn Off Google Location to Stop Tracking You on Honor Magic 5 Lite
 
 The location services that Google provides to Android smartphones are indeed useful in many ways. For instance, you can use Google Maps to check a particular place you want to visit and obtain reliable directions to help you get there. Another thing, Google can also give you the exact location of your Honor Magic 5 Lite in case you lost it somewhere. Indeed, Google’s GPS tracking feature comes in very handy whenever you need such assistance.
@@ -375,16 +441,25 @@ It’s true to say that Google's location monitoring services offer tons of bene
 
 In this article, we will discuss how Google employs location access on your mobile device. We will also provide some quick tutorials on how to turn off Google location tracking in easy steps. Continue reading below to learn more.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<!-- affiliate ads end -->
 ## Part 1. Understanding How Google Uses Location Data
 
 Location data generally helps us find reliable directions and pinpoint a particular place. But apart from that, this piece of information actually serves a bigger purpose. Google, in particular, employs location data to provide high-quality services tailored to specific preferences and necessities of the users. Each Google product relies heavily on location information and utilizes it for various reasons. To understand it better, check out the list below.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### It is an essential component of most Google services
 
 ![google products](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-1.JPG)
 
 Of course, Google Maps and Weather will not work without access to location data. It is the main component that allows this kind of application to function exactly as it should. That’s why you should think twice before you turn off Google location tracking. Keep it activated on your mobile device if you’re in need of real-time weather updates or reliable coordinates.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### It is used for targeted advertisements
 
 The majority of online advertisements scattered all over the internet are run by Google. It uses location data to ensure the ads that appear on your web browser are relevant to your personal liking. For example, Google Ads will likely flash American products on your smartphones if you’re located in that particular region. Do you want to keep it that way? If so, you should not then turn off Google location tracking on your Honor Magic 5 Lite smartphone.
@@ -395,6 +470,10 @@ The majority of online advertisements scattered all over the internet are run by
 
 The same thing goes for Google search results. This query engine uses location data to provide information relevant to the specific needs of the user. Let’s say you’re currently residing in Japan and looking for nearby coffee shops. Of course, it will be unhelpful if Google dispenses a list of coffee shops that aren’t located in your country. That’s why you shouldn’t turn off Google location tracking on your smartphone if you’re looking for precise and pertinent answers.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
+The ultimate burning program for all your needs!</a>
+<!-- affiliate ads end -->
 ### It is used by Google to implement certain security protocols
 
 Google uses location data to keep your accounts safe from potential attacks and security breaches. How so? Well, Google immediately sends alerts whenever your account is used from an unusual location. Another thing is that strange activities on your account are promptly detected with the aid of location information. Simply put, allowing Google to access your whereabouts is the least you can do to protect your digital assets. Hence, don’t turn off Google location tracking on your Honor Magic 5 Lite smartphone if you need such assistance.
@@ -435,6 +514,9 @@ Let’s say you don’t want to cut the entire location access across your smart
 
 **Step 3:** Find and click **Google** on the list.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![google on app list](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-6.jpg)
 
 **Step 4:** Click **Permissions.**
@@ -443,12 +525,18 @@ Let’s say you don’t want to cut the entire location access across your smart
 
 **Step 5:** Click **Location.**
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![location access for google](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-8.jpg)
 
 **Step 6:** Lastly, click **Don’t Allow.** Alternatively, you may instead select **Allow Only While Using the App** or **Ask Every Time** if you wish to grant Google conditional access to your location data.
 
 ![disallow location access on google](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-9.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 3: Toggle off the Timeline feature on your Google Account
 
 Timeline is a special Google feature that keeps a record of your location check-ins and routes taken for future reference. You can review it on the Google Maps app in case you need to visit the same place again. On the other hand, you can easily toggle it off if you don’t want Google tracking down your specific whereabouts. Here’s the guide on how to do it in easy steps.
@@ -467,6 +555,9 @@ Timeline is a special Google feature that keeps a record of your location check-
 
 **Step 4:** Click **Data Privacy.**
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![data and privacy settings](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-12.jpg)
 
 **Step 5:** Find and click **Timeline.**
@@ -475,6 +566,18 @@ Timeline is a special Google feature that keeps a record of your location check-
 
 **Step 6:** Scroll down and then tap the **Turn Off** button.
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![turn off timeline settings](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-14.jpg)
 
 #### For web users
@@ -483,12 +586,21 @@ Timeline is a special Google feature that keeps a record of your location check-
 
 **Step 2:** On the main dashboard, click **Timeline.**
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<!-- affiliate ads end -->
 ![my google activity settings](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-15.jpg)
 
 **Step 3:** Scroll it down and then click the **Turn Off** button.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![turn off timeline](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-16.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ### Method 4: Remove visits on Google Maps
 
 If Timeline is previously activated on your Honor Magic 5 Lite, chances are Google Maps has recorded all your recent visits. Don’t worry. You can easily delete them and finally turn off Google location tracking once and for all. Here’s a short guide on how to do it in easy steps.
@@ -505,6 +617,9 @@ If Timeline is previously activated on your Honor Magic 5 Lite, chances are Goog
 
 **Step 4:** Click **Places.** Scroll down and then click **Visited All Places** just below the map.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![google maps places](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-19.jpg)
 
 **Step 5:** Pick a location and click the **Three-dotted menu** button next to it. From there, select **Remove All Visits.**
@@ -523,10 +638,16 @@ Google surely understands that some users are uncomfortable sharing their wherea
 
 **Step 4:** After completing the downloading process, Wondershare Dr.Fone - Virtual Location will open in a separate window. From there, navigate to the top-right menu bar and then click **Teleport Mode.**
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<!-- affiliate ads end -->
 ![wondershare drfone teleport mode](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
 
 **Step 5:** Head over to the search bar at the top-left corner of the screen and then enter your desired location. Choose one from the suggestions that Wondershare Dr.Fone displays on the screen. Right after, click the **Enter** icon.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ![enter your preferred location](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
 
 **Step 6:** The description of your chosen location will be then flashed on the screen. Read the details and make sure they are accurate. After that, click **Move Here** to proceed.
@@ -558,3 +679,44 @@ At some point, we cannot deny that Google location services make our lives a lot
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-download-youtube-gallery-files-instantly-for-2024/"><u>[New] Download YouTube Gallery Files Instantly for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-critique-free2x-app-for-webcam-capture/"><u>[Updated] Critique  Free2X App for Webcam Capture</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-essential-tips-for-instagrams-query-tagging-for-2024/"><u>[Updated] Essential Tips for Instagram's Query Tagging for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-laughloop-app-a-hub-for-humor-enthusiasts/"><u>[Updated] LaughLoop App - A Hub for Humor Enthusiasts</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-the-most-engaging-sandbox-gaming-titles/"><u>[Updated] The Most Engaging Sandbox Gaming Titles</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-innovative-approaches-for-rising-through-the-rankings/"><u>2024 Approved  Innovative Approaches for Rising Through the Rankings</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-ways-to-track-oppo-a78-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track Oppo A78 without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/5-ways-to-track-oppo-a78-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Oppo A78 without App | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/does-itools-virtual-location-not-work-on-apple-iphone-11-pro-maxipad-drfone-by-drfone-virtual-ios/"><u>Does iTools virtual location not work On Apple iPhone 11 Pro Max/iPad? | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/fine-tuning-your-obs-live-feeds-for-facebook-audience-for-2024/"><u>Fine-Tuning Your OBS Live Feeds for Facebook Audience for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-oppo-a78-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost Oppo A78 for Free? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-oppo-a78-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Oppo A78 Location by Number | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-oppo-a78-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Oppo A78 Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-oppo-a78-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on Oppo A78 Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-oppo-a78-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Oppo A78 | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-honor-90-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Honor 90 to Roku | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-oppo-a78-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your Oppo A78 Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-oppo-a78-drfone-by-drfone-virtual-android/"><u>In 2024, Best Anti Tracker Software For Oppo A78 | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-oppo-a78-drfone-by-drfone-virtual-android/"><u>In 2024, How Do I Stop Someone From Tracking My Oppo A78? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-oppo-a78-drfone-by-drfone-virtual-android/"><u>In 2024, How to Check Distance and Radius on Google Maps For your Oppo A78 | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-oppo-a78-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Remove Spyware on Oppo A78? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-oppo-a78-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Oppo A78 | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-oppo-a78-drfone-by-drfone-virtual-android/"><u>In 2024, How to Spy on Text Messages from Computer & Oppo A78 | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-oppo-a78-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Oppo A78 by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-oppo-a78-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on Oppo A78 with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-sprint-through-time-uncovering-discarded-reddit-content/"><u>In 2024, Sprint Through Time  Uncovering Discarded Reddit Content</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-tips-to-navigate-the-world-of-free-iphoneipad-edits/"><u>In 2024, Tips to Navigate the World of Free iPhone/iPad Edits</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-oppo-a78-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Best Spy Watches For your Oppo A78 | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-4-ways-to-trace-oppo-a78-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 4 Ways to Trace Oppo A78 Location | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-oppo-a78-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Car Locator Apps for Oppo A78 | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-oppo-a78-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Tracking Apps to Track Oppo A78 without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-oppo-a78-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Oppo A78 | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-oppo-a18-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Oppo A18? | Dr.fone</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-intuitive-acoustic-sifting-gadgets-for-first-timers-and-seasoned-artists-for-2024/"><u>New Intuitive Acoustic Sifting Gadgets for First-Timers and Seasoned Artists for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/premier-10-terraria-mods-for-superior-play/"><u>Premier 10 Terraria Mods for Superior Play</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/professional-gamers-toolkit-advanced-recording-tactics-for-2024/"><u>Professional Gamers' Toolkit  Advanced Recording Tactics for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/two-ways-to-track-my-boyfriends-oppo-a78-without-him-knowing-drfone-by-drfone-virtual-android/"><u>Two Ways to Track My Boyfriends Oppo A78 without Him Knowing | Dr.fone</u></a></li>
+</ul></div>

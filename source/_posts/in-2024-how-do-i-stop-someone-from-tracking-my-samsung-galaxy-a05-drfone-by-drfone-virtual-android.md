@@ -1,7 +1,7 @@
 ---
 title: In 2024, How Do I Stop Someone From Tracking My Samsung Galaxy A05? | Dr.fone
-date: 2024-03-26 16:11:47
-updated: 2024-03-28 23:27:16
+date: 2024-07-21T21:31:53.770Z
+updated: 2024-07-22T21:31:53.770Z
 tags: 
   - virtual location change
   - location track
@@ -10,7 +10,7 @@ categories:
 description: This article describes How Do I Stop Someone From Tracking My Samsung Galaxy A05?
 excerpt: This article describes How Do I Stop Someone From Tracking My Samsung Galaxy A05?
 keywords: Location Track for Galaxy A05,track location
-thumbnail: https://www.lifewire.com/thmb/UchI0OfcFuiZjMJhTw31h6uHSHQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Race-982fb219114a48fb96b9c5a2c6f93847.jpg
+thumbnail: https://thmb.techidaily.com/6b8b8cd944b78f2fca9befdc6ff94bcc8ad2bce093f59dcdf2b6479e3403f82d.jpg
 ---
 
 ## How Do I Stop Someone From Tracking My Samsung Galaxy A05?
@@ -31,6 +31,9 @@ The apps that are used by people to track mobile devices will track one of these
 
 The sections below will show you how to stop someone from tracking your iPhone with ease.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: How to stop my iPhone from being tracked?
 
 If you have an iPhone, the following methods can be used to stop someone from tracking your device
@@ -41,6 +44,9 @@ This is a tool that you can use to change the virtual location of your device(iO
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
 
 1-Click Location Changer for both iOS and Android
@@ -63,6 +69,9 @@ In order to see how to use dr. fone to teleport your device to another location,
 
 <iframe allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/FfhgWxnARqo"></iframe>
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<!-- affiliate ads end -->
 ### 2) Disable Significant Locations on iPhone
 
 - Start by launching "Settings" from your Home screen
@@ -75,6 +84,9 @@ In order to see how to use dr. fone to teleport your device to another location,
 
 - Finally, toggle the "Significant Locations" to the "OFF" position. The switch will turn grey, indicating that the service has been turned off.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### 3) Turn off location tracking of specific apps
 
 You may turn off location tracking for specific apps that you feel might be used to track your position. This is how you go about turning them off.
@@ -112,6 +124,9 @@ Now scroll down the list and click on the "System services" option
 
 Toggle the button on the right side of "Location-Based Alerts" into the "OFF" position
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![Toggle Location-Based Alerts to the “Off” position](https://images.wondershare.com/drfone/2020/iphone-disable-location-based-alerts-6.jpg)
 
 ## Part 3:How to stop my android from being tracked
@@ -127,6 +142,9 @@ You also need to know how to stop Google from tracking your Samsung Galaxy A05. 
 - If you want tighter control of the tracking features, You can also scroll down until you get to "Manage Your Activity Controls"
 - Here you can delete all your past activity records so nobody can track you using your location history.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### 2) Turn off Android Location Tracking
 
 Apart from stopping Google tracking on your device, you may also turn off Location tracking of other apps as shown below
@@ -167,8 +185,14 @@ This is an app that you can download to your android device from Google Play Sto
 
 - To actually change the virtual location of your device, launch Fake GPs Go once more and then access the map interface. Choose a location far from your actual location and then pin it as your "real" location. This will instantly show that you have moved to this new location and throw off people who are tracking your Samsung Galaxy A05.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![android pokemon go spoofing 6](https://images.wondershare.com/drfone/article/2019/09/android-pokemon-go-spoofing-6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<!-- affiliate ads end -->
 ### 5) Fake GPS Free
 
 This is yet another tool that you can use to fake your GPS location and fool people who may be trying to track your Samsung Galaxy A05. The tool is quite light and does not use up system resources making it safe and easy to use.
@@ -183,6 +207,9 @@ This is yet another tool that you can use to fake your GPS location and fool peo
 
 ![android pokemon go spoofing 8](https://images.wondershare.com/drfone/article/2019/09/android-pokemon-go-spoofing-8.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## In Conclusion
 
 If you want to stop Google from tracking your location, these are the methods that you should use to turn off your GPS location on both iOS and Android. You need to know that you are safe all the time and this is a step that you should take when you feel like you are being tracked for nefarious reasons. However, you should do this with caution as the information can also be used in a beneficial manner. The best option is to turn on the GPS when you need it and then turn it off when you do not, or use an iOS spoofing tool.
@@ -205,12 +232,18 @@ Location data generally helps us find reliable directions and pinpoint a particu
 
 Of course, Google Maps and Weather will not work without access to location data. It is the main component that allows this kind of application to function exactly as it should. That’s why you should think twice before you turn off Google location tracking. Keep it activated on your mobile device if you’re in need of real-time weather updates or reliable coordinates.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### It is used for targeted advertisements
 
 The majority of online advertisements scattered all over the internet are run by Google. It uses location data to ensure the ads that appear on your web browser are relevant to your personal liking. For example, Google Ads will likely flash American products on your smartphones if you’re located in that particular region. Do you want to keep it that way? If so, you should not then turn off Google location tracking on your Samsung Galaxy A05 smartphone.
 
 ### It is used by Google to provide accurate search results
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![google search results](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-2.JPG)
 
 The same thing goes for Google search results. This query engine uses location data to provide information relevant to the specific needs of the user. Let’s say you’re currently residing in Japan and looking for nearby coffee shops. Of course, it will be unhelpful if Google dispenses a list of coffee shops that aren’t located in your country. That’s why you shouldn’t turn off Google location tracking on your smartphone if you’re looking for precise and pertinent answers.
@@ -219,16 +252,26 @@ The same thing goes for Google search results. This query engine uses location d
 
 Google uses location data to keep your accounts safe from potential attacks and security breaches. How so? Well, Google immediately sends alerts whenever your account is used from an unusual location. Another thing is that strange activities on your account are promptly detected with the aid of location information. Simply put, allowing Google to access your whereabouts is the least you can do to protect your digital assets. Hence, don’t turn off Google location tracking on your Samsung Galaxy A05 smartphone if you need such assistance.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### It is utilized for research and further improvements of Google services
 
 ![google services](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-3.JPG)
 
 We all know that Google is committed to offering us new products and improving its existing services. That’s indeed beneficial to all of us, especially in today’s ever-changing world. But definitely, it’s not possible if Google doesn’t have adequate location information from the pool of its users. Why so? Simply because location data determines the latest community trends and helps specialists find the perfect basis for fresh developments. Do you want to contribute something to the advancement of Google products? If so, you can start by giving Google access to the location data on your Samsung Galaxy A05 smartphone.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2. Top 4 Techniques to Turn Off Google Location Tracking on Android
 
 There’s no denying that Google uses location information to give us the best experience possible. However, it doesn’t necessarily mean there is no risk at all. We cannot rule out the possibility of data breaches and disclosure of location information that is supposed to be private. If you’re worried about this kind of situation, you can prevent it from happening in a snap of a finger. Check out the four methods below on how to turn off Google location tracking on your Samsung Galaxy A05 smartphone.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ### Method 1: Turn off the location services on your Samsung Galaxy A05 mobile device
 
 “How to stop Google from tracking me?” Well, it’s actually very easy. You just need to deactivate the location service on your Samsung Galaxy A05 mobile device. After that, Google and other GPS-based applications on your smartphone will immediately lose access to your location data. Do you want to try it now? Check out the tutorial below on how to turn off Google location tracking by deactivating the location services on your phone.
@@ -239,6 +282,9 @@ There’s no denying that Google uses location information to give us the best e
 
 **Step 3:** Find and click **Location.**
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
 ![location services](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-4.jpg)
 
 **Step 4:** Lastly, click **Close** to confirm the changes.
@@ -263,6 +309,9 @@ Let’s say you don’t want to cut the entire location access across your smart
 
 **Step 5:** Click **Location.**
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ![location access for google](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-8.jpg)
 
 **Step 6:** Lastly, click **Don’t Allow.** Alternatively, you may instead select **Allow Only While Using the App** or **Ask Every Time** if you wish to grant Google conditional access to your location data.
@@ -287,10 +336,16 @@ Timeline is a special Google feature that keeps a record of your location check-
 
 **Step 4:** Click **Data Privacy.**
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ![data and privacy settings](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-12.jpg)
 
 **Step 5:** Find and click **Timeline.**
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ![timeline settings](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-13.jpg)
 
 **Step 6:** Scroll down and then tap the **Turn Off** button.
@@ -307,8 +362,14 @@ Timeline is a special Google feature that keeps a record of your location check-
 
 **Step 3:** Scroll it down and then click the **Turn Off** button.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ![turn off timeline](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-16.jpg)
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ### Method 4: Remove visits on Google Maps
 
 If Timeline is previously activated on your Samsung Galaxy A05, chances are Google Maps has recorded all your recent visits. Don’t worry. You can easily delete them and finally turn off Google location tracking once and for all. Here’s a short guide on how to do it in easy steps.
@@ -317,10 +378,17 @@ If Timeline is previously activated on your Samsung Galaxy A05, chances are Goog
 
 **Step 2:** Click the **Profile** icon at the top-right corner of the screen.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
 ![google maps profile](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-17.jpg)
 
 **Step 3:** Then click **Your Timeline.**
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
+The ultimate burning program for all your needs!</a>
+<!-- affiliate ads end -->
 ![google maps your timeline](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-18.jpg)
 
 **Step 4:** Click **Places.** Scroll down and then click **Visited All Places** just below the map.
@@ -343,10 +411,16 @@ Google surely understands that some users are uncomfortable sharing their wherea
 
 **Step 4:** After completing the downloading process, Wondershare Dr.Fone - Virtual Location will open in a separate window. From there, navigate to the top-right menu bar and then click **Teleport Mode.**
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
 ![wondershare drfone teleport mode](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
 
 **Step 5:** Head over to the search bar at the top-left corner of the screen and then enter your desired location. Choose one from the suggestions that Wondershare Dr.Fone displays on the screen. Right after, click the **Enter** icon.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<!-- affiliate ads end -->
 ![enter your preferred location](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
 
 **Step 6:** The description of your chosen location will be then flashed on the screen. Read the details and make sure they are accurate. After that, click **Move Here** to proceed.
@@ -361,10 +435,16 @@ Google surely understands that some users are uncomfortable sharing their wherea
 
 At some point, we cannot deny that Google location services make our lives a lot more convenient. Imagine you can easily locate a particular place and get directions by simply browsing Google Maps. No need to borrow an Atlas from the library just to find a location you want to visit. However, in exchange for this convenience, you have to share location access with Google. Some users are not confident to access this privilege at the expense of their privacy. Don’t worry. That’s totally fine. If you’re one of them, this article can help you turn off Google location tracking on your Samsung Galaxy A05. Is there a more conservative approach to address this issue? Luckily, there is. Download [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) on your computer and take advantage of its Virtual Location feature. It can help modify your whereabouts and simulate GPS movements without going outdoors.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 3 Ways to Track Samsung Galaxy A05 without Them Knowing
 
 Now the method to track a cell phone without them knowing has become an after one’s fancy. There are several apps that might help you in this case, with wide and advanced features. Hence, with the changes in technology, those days have gone for you with a flock of lies. There is no need to handle this synopsis as in this passage, I am going to share some of the best tracking apps and how to track a cell phone without them knowing.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: How to track Android or iPhone using mSpy?
 
 One of the best methods to track a cell phone without them knowing is [mSpy](http://mspy.go2cloud.org/SH7G6) monitoring package. It is entirely an elite compatible mode and secured app for the care of your beloved ones and for your children too. mSpy is user-friendly for all ages and not a lot of knowledge of technology is needed to access it. This app comes with the strategy of tracking your employee’s movements in your office. This will benefit a lot from your business profile.
@@ -375,6 +455,9 @@ Step 1: First of all you need to purchase the subscription from [www.mspy.com/](
 
 Step 2: Now access the target device, once you opt for downloading, there you will be asked to enter the unique ID you received, to authorize the access. As soon you entered the details, the monitoring process will get started.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![track a cell phone without them knowing-access the target device](https://images.wondershare.com/drfone/article/2017/11/15100180578971.jpg)
 
 Step 3: After that, you will be allowed to open Control Panel. From there you can easily go for the process of tracking the target device remotely, under which you can have access to GPS locations, Messages, Call details, and lot more. That you can access from anywhere, such as your system, mobile, laptop, etc.
@@ -403,6 +486,9 @@ Step 2: Click the "Download" button on the pop-up window that appears.
 
 ![download gps datay](https://images.wondershare.com/drfone/article/2022/02/track-cell-phone-with-flexispy-04.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ## Part 3: How to secretly track someone
 
 If you want to track a cell phone without them knowing secretly, then one interesting solution is the “Find my friends” app introduced by Apple though primarily not for spying purposes, but you can use it to spy on someone's iPhone secretly. This app comes with the facility to get a notification when the target person arrives or leaves a place. Here, if you have access to the target device and the “Find my friends” option then it will give you the solution on how to track a cell phone without them knowing.
@@ -411,6 +497,10 @@ Step1: Enable the option “Share my location” on the target phone. To enable 
 
 Step 2: Generally iCloud account has sharing options for all other devices. We have to ensure the sharing option is correctly viewed as the target device such as “This device”.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+</a>
+<!-- affiliate ads end -->
 ![track a cell phone without them knowing-share my location](https://images.wondershare.com/drfone/article/2017/11/15100182891050.jpg)
 
 Step 3: Now swipe from bottom to end, click on the “Airdrop” option from the settings. You will have two options such as “Everyone” and “Contacts only”.
@@ -421,6 +511,9 @@ Step 4: Move to the target device, in the “Find my friends” app click the op
 
 Step 5: The target device location will be shared with you. You will get a pop-up window “Accept” it. It will again ask if you want to share location so, click on “Don’t share”.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![track a cell phone without them knowing-click Don’t share](https://images.wondershare.com/drfone/article/2017/11/15100183459135.jpg)
 
 Step 6: Now go to your device, open the “Find my friends” app and click the icon of the target device. You will get a notification, where they are now when they leave from the place etc.
@@ -431,6 +524,9 @@ Note: If you want to hide the “Find my friends” app from the target device y
 
 ![track a cell phone without them knowing-hide the Find my friends app](https://images.wondershare.com/drfone/article/2017/11/15100183889994.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 4: Frequently Asked Questions
 
 **1\. What is rooting? Does it have a warranty? Any rooting between Android and mSpy?**
@@ -464,3 +560,63 @@ We must tell you using mSpy and FlexiSPY are both one of the best methods to tra
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-free-end-credits-maker-the-1-video-closers-guide/"><u>[New] Free End Credits Maker - The #1 Video Closers Guide!</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-harmonious-journey-from-picture-to-playlist/"><u>[New] Harmonious Journey From Picture to Playlist</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-mastering-filming-techniques-on-tiktok-platforms/"><u>[New] In 2024, Mastering Filming Techniques on TikTok Platforms</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-navigating-the-world-of-fbx-for-gamers/"><u>[Updated] 2024 Approved  Navigating the World of FBX for Gamers</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-from-zero-to-hero-rising-in-popularity-with-vimeo-experts/"><u>[Updated] From Zero to Hero  Rising in Popularity with Vimeo Experts</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-immersive-animal-life-on-android-ultimate-list/"><u>[Updated] Immersive Animal Life on Android  Ultimate List</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-navigating-macos-11-big-sur-system-details/"><u>[Updated] Navigating MacOS 11 Big Sur - System Details</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-next-gen-cinema-at-home-best-3d-blu-ray-devices/"><u>[Updated] Next-Gen Cinema at Home  Best 3D Blu-Ray Devices</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-a-step-by-step-guide-to-outstanding-color-grading-top-11/"><u>2024 Approved  A Step-by-Step Guide to Outstanding Color Grading (Top 11)</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-mastering-image-transformation-with-effective-use-of-3d-lut-in-ps/"><u>2024 Approved  Mastering Image Transformation with Effective Use of 3D LUT in PS</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-prime-graphic-hubs-offered-free-with-unmatched-quality-and-design-tools/"><u>2024 Approved  Prime Graphic Hubs Offered Free, With Unmatched Quality & Design Tools</u></a></li>
+<li><a href="https://howto.techidaily.com/gmail-not-working-on-vivo-v30-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Vivo V30 7 Common Problems & Fixes | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/hasten-lexmark-drivers-compatibility-rollout/"><u>Hasten Lexmark Drivers' Compatibility Rollout</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-realme-gt-neo-5-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your Realme GT Neo 5 | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-itel-p55plus-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Itel P55+ | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-itel-p55t-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Itel P55T | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-itel-s23-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Itel S23 | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-itel-s23plus-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Itel S23+ | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-nubia-red-magic-8s-pro-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Nubia Red Magic 8S Pro | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-nubia-red-magic-8s-proplus-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Nubia Red Magic 8S Pro+ | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-nubia-red-magic-9-pro-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Nubia Red Magic 9 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-nubia-red-magic-9-proplus-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Nubia Red Magic 9 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-nubia-z50-ultra-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Nubia Z50 Ultra | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-nubia-z50s-pro-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Nubia Z50S Pro | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-poco-c50-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Poco C50 | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-poco-c51-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Poco C51 | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-poco-c55-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Poco C55 | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-poco-c65-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Poco C65 | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-poco-f5-5g-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Poco F5 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-poco-f5-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Poco F5 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-poco-m6-5g-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Poco M6 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-poco-m6-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Poco M6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-poco-x5-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Poco X5 | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-poco-x5-pro-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Poco X5 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-poco-x6-pro-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Poco X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-tecno-camon-20-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Tecno Camon 20 | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-tecno-camon-20-premier-5g-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Tecno Camon 20 Premier 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-tecno-camon-20-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Tecno Camon 20 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-tecno-camon-30-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Tecno Camon 30 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-tecno-phantom-v-flip-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Tecno Phantom V Flip | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-tecno-phantom-v-fold-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Tecno Phantom V Fold | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-tecno-pop-7-pro-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Tecno Pop 7 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-tecno-pop-8-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Tecno Pop 8 | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-tecno-pova-5-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Tecno Pova 5 | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-tecno-pova-5-pro-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Tecno Pova 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-tecno-pova-6-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Tecno Pova 6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-tecno-spark-10-4g-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Tecno Spark 10 4G | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-10-free-cctv-software-options-for-your-home-or-business/"><u>In 2024, 10 Free CCTV Software Options for Your Home or Business</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-honor-play-40c-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Transfer Music from Honor Play 40C to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/in-2024-excellent-real-time-vocal-disguise-apps-the-best-edition/"><u>In 2024, Excellent Real-Time Vocal Disguise Apps The Best Edition</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-the-10-best-free-dvd-players-compatible-with-windows-10/"><u>New The 10 Best Free DVD Players Compatible with Windows 10</u></a></li>
+<li><a href="https://extra-information.techidaily.com/optimal-slow-motion-shooting-tools-iphoneandroid-devices/"><u>Optimal Slow Motion Shooting Tools iPhone/Android Devices</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/proiphone-photo-techniques-for-beginners-for-2024/"><u>Proiphone Photo Techniques for Beginners for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/stepwise-approach-affordable-creation-of-engaging-youtube-intros/"><u>Stepwise Approach  Affordable Creation of Engaging YouTube Intros</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-the-insiders-guide-to-audio-recordings-using-apowersoft-and-discovering-4-comparable-software-options/"><u>Updated 2024 Approved The Insiders Guide to Audio Recordings Using Apowersoft & Discovering 4 Comparable Software Options</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-the-best-text-animation-software-with-motion-tracking-for-2024/"><u>Updated The Best Text Animation Software with Motion Tracking for 2024</u></a></li>
+</ul></div>

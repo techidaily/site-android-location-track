@@ -1,7 +1,7 @@
 ---
 title: How to Track Oppo A78 Location without Installing Software? | Dr.fone
-date: 2024-05-20T01:23:23.107Z
-updated: 2024-05-21T01:23:23.107Z
+date: 2024-07-21T20:44:00.576Z
+updated: 2024-07-22T20:44:00.576Z
 tags: 
   - virtual location change
   - location track
@@ -10,7 +10,7 @@ categories:
 description: This article describes How to Track Oppo A78 Location without Installing Software?
 excerpt: This article describes How to Track Oppo A78 Location without Installing Software?
 keywords: Location Track for A78,track location
-thumbnail: https://www.lifewire.com/thmb/iVAserBnC6bUM-CQ2W6IX-_Wms0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-watch-taylor-swift-movies-in-order-a8e26851d3d94bf183a144766801c16c.jpg
+thumbnail: https://thmb.techidaily.com/e05f2d33f2fefb8dc7c06028c76750542668dde0166f66e5a57d5c818d2809aa.jpg
 ---
 
 ## How to Track Oppo A78 Location without Installing Software?
@@ -23,6 +23,9 @@ Making it to the top of the list is none other than [Spyera](https://spyera.com/
 
 ![track a cell phone using Spyera](https://images.wondershare.com/drfone/article/2022/03/clone-phone-number-spyera.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<!-- affiliate ads end -->
 ## Part 2: How to Track A Cell Phone Location without Installing Software?
 
 #### **How to Track a Cell Location using iCloud?**
@@ -31,6 +34,9 @@ Apple ships most of its phone with its Find My iPhone feature, for which to work
 
 Step 1. From your iPhone, head to Settings, then tap your Apple ID, then iCloud, and lastly tap Find My iPhone to activate it.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<!-- affiliate ads end -->
 ![track a cell phone-activate Find My iPhone](https://images.wondershare.com/drfone/article/2017/10/15082095192265.jpeg)
 
 Step 2. Once successfully activated, you can now track your iPhone’s whereabouts in Apple’s iCloud from any web browser.
@@ -55,6 +61,9 @@ Step 1. As long as you have your Google account connected with your Oppo A78 (ag
 
 Step 2. Sign in with your Google credentials, and you will be greeted with a dashboard that will show you where your cell phone is along with several other options.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<!-- affiliate ads end -->
 ![track a cell phone-Sign in with your Google credentials](https://images.wondershare.com/drfone/article/2017/10/15082099019590.jpg)
 
 Step 3. You can now do one of three things apart from viewing your cell location i.e. play sound, lock or erase device.
@@ -81,6 +90,10 @@ Step 1. After selecting the right plan for your needs, you will have to register
 
 Step 2. Next, you will have to set up the app with information on your target device and that’s it! You can now access the mSpy dashboard and begin tracking your cell phone location.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![track a cell phone via mSpy-setup the app](https://images.wondershare.com/drfone/article/2017/10/15082100515661.jpg)
 
 Step 3. You can select from several options in the left hand, two of the most noteworthy being geo-fencing and WhatsApp. Geo-fencing is a great feature to monitor both your kids and employees and basically, allows you to set up parameters and alert you when they are breached.
@@ -89,18 +102,27 @@ Step 3. You can select from several options in the left hand, two of the most no
 
 WhatsApp is a highly secure chat application, but mSpy backed by the latest technology also allows you to monitor its messages both incoming and outgoing. Simply click on the WhatsApp tab and you will be presented with a list of WhatsApp messages that you can further sort through by date.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<!-- affiliate ads end -->
 ![track a cell phone via mSpy-sort through WhatsApp messages by date](https://images.wondershare.com/drfone/article/2017/10/15082101238393.jpg)
 
 There are several instances such as in the excitement of getting a new phone that we may overlook the need to install software to track a cell phone. But both Google and Apple are generous enough to offer a solution to track your cell phone location without having to install any third-party software. But if you’re like to do a lot more than just track your cell phone’s location, mSpy with its expensive list of features sets the gold standard in this space.
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How Do I Stop Someone From Tracking My Oppo A78?
 
 It has now become very easy to track a Smartphone using the GPS features of the phone. This can be done by tracking the phone number based on information derived from mobile carriers and also from the GPS chip on the phone which is used by certain apps in order to function well.
 
 You may not want your GPS location tracked by anyone or by apps on your device. When playing games like Pokémon Go, the geo-location data on your device is used to pinpoint where you are for purposes of gameplay. In the same manner, malicious people can track you same way. Here you will learn how to stop someone from tracking your phone in simple and easy ways.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<!-- affiliate ads end -->
 ## Part 1: How do people track your phone?
 
 There are several ways in which people can track the location of your phone. This can be risky at times, especially if you have a stalker. These are the common ways in which people track phones:
@@ -123,6 +145,9 @@ This is a tool that you can use to change the virtual location of your device(iO
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
 
 1-Click Location Changer for both iOS and Android
@@ -167,6 +192,9 @@ You may turn off location tracking for specific apps that you feel might be used
 - Now go to the listing for the app and then select it. You will see three choices: "Never", "While Using the App" and "Always"
 - Make your choice and the Location Services for the app will be switched off.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![how to disable location tracking for specific apps on iPhone](https://images.wondershare.com/drfone/2020/disable-location-tracking-iphone-3.jpg)
 
 ### 4) Disable Share My Location service
@@ -176,6 +204,10 @@ You may turn off location tracking for specific apps that you feel might be used
 - Scroll down and go to the "Locations Services"
 - Now choose the "Share My Location" option
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![Disable Share My Location on iPhone](https://images.wondershare.com/drfone/2020/disable-location-tracking-iphone-4.jpg)
 
 - Now toggle the button to the right to turn it into the "OFF" position
@@ -190,10 +222,16 @@ At the top of the screen, tap on "Location Services" as you did before
 
 Now scroll down the list and click on the "System services" option
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ![select System Services option](https://images.wondershare.com/drfone/2020/disable-location-tracking-iphone-5.jpg)
 
 Toggle the button on the right side of "Location-Based Alerts" into the "OFF" position
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Toggle Location-Based Alerts to the “Off” position](https://images.wondershare.com/drfone/2020/iphone-disable-location-based-alerts-6.jpg)
 
 ## Part 3:How to stop my android from being tracked
@@ -232,6 +270,9 @@ Nord VPN is a great tool to fake your GPS location and stop people from tracking
 
 ![pokemon go spoofers iphone 8](https://images.wondershare.com/drfone/article/2019/09/pokemon-go-spoofers-iphone-8.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 4) Fake GPS Go
 
 This is an app that you can download to your android device from Google Play Store. It is safe and will not affect the normal functioning of your device. Simply get it from Google Play Store, install it, and launch it. When it is up and running, you have to use the map interface to pin the new location that you want to teleport to. Anyone who may be tracking you will instantly be fooled that you are in the new location. You may also move around using the Joystick feature just as if you are on the ground in the teleport location.
@@ -245,12 +286,18 @@ This is an app that you can download to your android device from Google Play Sto
 - Launch Fake GPS go and the grant it the required access. Go back to "Developer Options" and then go down until you find Fake GPS Go. Toggle it to the "ON" position.
 - Now go back to "Mock Location App" and then choose Fake GPS Go. You will now be able to fake your location and stop people from tracking your device.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
 ![android pokemon go spoofing 5](https://images.wondershare.com/drfone/article/2019/09/android-pokemon-go-spoofing-5.jpg)
 
 - To actually change the virtual location of your device, launch Fake GPs Go once more and then access the map interface. Choose a location far from your actual location and then pin it as your "real" location. This will instantly show that you have moved to this new location and throw off people who are tracking your Oppo A78.
 
 ![android pokemon go spoofing 6](https://images.wondershare.com/drfone/article/2019/09/android-pokemon-go-spoofing-6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 5) Fake GPS Free
 
 This is yet another tool that you can use to fake your GPS location and fool people who may be trying to track your Oppo A78. The tool is quite light and does not use up system resources making it safe and easy to use.
@@ -258,6 +305,9 @@ This is yet another tool that you can use to fake your GPS location and fool peo
 - Begin by unlocking the developer options just like you did in the step above. Then proceed to Google Play Store and download and install Fake GPs free.
 - Go to "Settings > Developer options > Mock Location App". Here you will select Fake GPS Free and then grant it the necessary permissions on your device.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<!-- affiliate ads end -->
 ![android pokemon go spoofing 7](https://images.wondershare.com/drfone/article/2019/09/android-pokemon-go-spoofing-7.jpg)
 
 - Return to your Home screen and the Launch Fake GPS free. Access the map interface and then check for a location far from your actual position. You may even zoom in and better pinpoint a new location.
@@ -277,6 +327,9 @@ It’s true to say that Google's location monitoring services offer tons of bene
 
 In this article, we will discuss how Google employs location access on your mobile device. We will also provide some quick tutorials on how to turn off Google location tracking in easy steps. Continue reading below to learn more.
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1. Understanding How Google Uses Location Data
 
 Location data generally helps us find reliable directions and pinpoint a particular place. But apart from that, this piece of information actually serves a bigger purpose. Google, in particular, employs location data to provide high-quality services tailored to specific preferences and necessities of the users. Each Google product relies heavily on location information and utilizes it for various reasons. To understand it better, check out the list below.
@@ -291,6 +344,9 @@ Of course, Google Maps and Weather will not work without access to location data
 
 The majority of online advertisements scattered all over the internet are run by Google. It uses location data to ensure the ads that appear on your web browser are relevant to your personal liking. For example, Google Ads will likely flash American products on your smartphones if you’re located in that particular region. Do you want to keep it that way? If so, you should not then turn off Google location tracking on your Oppo A78 smartphone.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<!-- affiliate ads end -->
 ### It is used by Google to provide accurate search results
 
 ![google search results](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-2.JPG)
@@ -301,6 +357,9 @@ The same thing goes for Google search results. This query engine uses location d
 
 Google uses location data to keep your accounts safe from potential attacks and security breaches. How so? Well, Google immediately sends alerts whenever your account is used from an unusual location. Another thing is that strange activities on your account are promptly detected with the aid of location information. Simply put, allowing Google to access your whereabouts is the least you can do to protect your digital assets. Hence, don’t turn off Google location tracking on your Oppo A78 smartphone if you need such assistance.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### It is utilized for research and further improvements of Google services
 
 ![google services](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-3.JPG)
@@ -325,6 +384,9 @@ There’s no denying that Google uses location information to give us the best e
 
 **Step 4:** Lastly, click **Close** to confirm the changes.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 2: Deactivate the Google App’s location access on your Oppo A78 mobile device
 
 Let’s say you don’t want to cut the entire location access across your smartphone because other apps might malfunction. That’s fine. There is a way to deactivate the Google app’s location permission while the other apps remain unaffected. Are you more inclined to implement this decentralized approach? Check out the tutorial provided below.
@@ -333,14 +395,23 @@ Let’s say you don’t want to cut the entire location access across your smart
 
 **Step 2:** Click **Apps.**
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![app list](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-5.jpg)
 
 **Step 3:** Find and click **Google** on the list.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![google on app list](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-6.jpg)
 
 **Step 4:** Click **Permissions.**
 
+<!-- affiliate ads begin -->
+<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<!-- affiliate ads end -->
 ![google app permissions](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-7.jpg)
 
 **Step 5:** Click **Location.**
@@ -349,8 +420,14 @@ Let’s say you don’t want to cut the entire location access across your smart
 
 **Step 6:** Lastly, click **Don’t Allow.** Alternatively, you may instead select **Allow Only While Using the App** or **Ask Every Time** if you wish to grant Google conditional access to your location data.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![disallow location access on google](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-9.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<!-- affiliate ads end -->
 ### Method 3: Toggle off the Timeline feature on your Google Account
 
 Timeline is a special Google feature that keeps a record of your location check-ins and routes taken for future reference. You can review it on the Google Maps app in case you need to visit the same place again. On the other hand, you can easily toggle it off if you don’t want Google tracking down your specific whereabouts. Here’s the guide on how to do it in easy steps.
@@ -361,6 +438,9 @@ Timeline is a special Google feature that keeps a record of your location check-
 
 **Step 2:** Click your **Profile** icon at the top-right corner of the screen.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![google app profile icon](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-10.jpg)
 
 **Step 3:** Click **Google Account.**
@@ -373,6 +453,9 @@ Timeline is a special Google feature that keeps a record of your location check-
 
 **Step 5:** Find and click **Timeline.**
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![timeline settings](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-13.jpg)
 
 **Step 6:** Scroll down and then tap the **Turn Off** button.
@@ -385,12 +468,18 @@ Timeline is a special Google feature that keeps a record of your location check-
 
 **Step 2:** On the main dashboard, click **Timeline.**
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![my google activity settings](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-15.jpg)
 
 **Step 3:** Scroll it down and then click the **Turn Off** button.
 
 ![turn off timeline](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-16.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Method 4: Remove visits on Google Maps
 
 If Timeline is previously activated on your Oppo A78, chances are Google Maps has recorded all your recent visits. Don’t worry. You can easily delete them and finally turn off Google location tracking once and for all. Here’s a short guide on how to do it in easy steps.
@@ -429,6 +518,9 @@ Google surely understands that some users are uncomfortable sharing their wherea
 
 **Step 5:** Head over to the search bar at the top-left corner of the screen and then enter your desired location. Choose one from the suggestions that Wondershare Dr.Fone displays on the screen. Right after, click the **Enter** icon.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![enter your preferred location](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
 
 **Step 6:** The description of your chosen location will be then flashed on the screen. Read the details and make sure they are accurate. After that, click **Move Here** to proceed.
@@ -439,6 +531,10 @@ Google surely understands that some users are uncomfortable sharing their wherea
 
 **NOTE:** If you want to restore your original location settings, simply disconnect your smartphone from the computer and restart it.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+</a>
+<!-- affiliate ads end -->
 ## Conclusion
 
 At some point, we cannot deny that Google location services make our lives a lot more convenient. Imagine you can easily locate a particular place and get directions by simply browsing Google Maps. No need to borrow an Atlas from the library just to find a location you want to visit. However, in exchange for this convenience, you have to share location access with Google. Some users are not confident to access this privilege at the expense of their privacy. Don’t worry. That’s totally fine. If you’re one of them, this article can help you turn off Google location tracking on your Oppo A78. Is there a more conservative approach to address this issue? Luckily, there is. Download [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) on your computer and take advantage of its Virtual Location feature. It can help modify your whereabouts and simulate GPS movements without going outdoors.
@@ -460,3 +556,48 @@ At some point, we cannot deny that Google location services make our lives a lot
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://discord-videos.techidaily.com/new-discovering-acquaintances-cross-device-friend-requests-for-2024/"><u>[New] Discovering Acquaintances  Cross-Device Friend Requests for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-vmix-alternative-for-mac-and-windows/"><u>[New] In 2024, VMix Alternative for Mac and Windows</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-comparing-youtube-policies-with-creative-commons/"><u>[Updated] 2024 Approved  Comparing YouTube Policies with Creative Commons</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/2024-approved-top-4-eminem-voice-generator-apps-for-pc-mac-mobile-and-online/"><u>2024 Approved Top 4 Eminem Voice Generator Apps for PC, Mac, Mobile, and Online</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-ways-to-track-nokia-105-classic-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track Nokia 105 Classic without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/5-ways-to-track-nokia-105-classic-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Nokia 105 Classic without App | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-nokia-105-classic-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Nokia 105 Classic | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-nokia-105-classic-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on Nokia 105 Classic | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-nokia-105-classic-drfone-by-drfone-virtual-android/"><u>How to Spy on Text Messages from Computer & Nokia 105 Classic | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-nokia-105-classic-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost Nokia 105 Classic for Free? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-nokia-105-classic-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Nokia 105 Classic by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-nokia-105-classic-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Nokia 105 Classic Location by Number | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-nokia-105-classic-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Nokia 105 Classic Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-nokia-105-classic-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on Nokia 105 Classic Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-nokia-105-classic-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Nokia 105 Classic | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-nokia-105-classic-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your Nokia 105 Classic Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-nokia-105-classic-drfone-by-drfone-virtual-android/"><u>In 2024, Best Anti Tracker Software For Nokia 105 Classic | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-nokia-105-classic-drfone-by-drfone-virtual-android/"><u>In 2024, How Do I Stop Someone From Tracking My Nokia 105 Classic? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-nokia-105-classic-drfone-by-drfone-virtual-android/"><u>In 2024, How to Check Distance and Radius on Google Maps For your Nokia 105 Classic | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-nokia-105-classic-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Remove Spyware on Nokia 105 Classic? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-nokia-105-classic-drfone-by-drfone-virtual-android/"><u>In 2024, How to Spy on Text Messages from Computer & Nokia 105 Classic | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-leading-talents-premier-instragram-hlv-creators/"><u>In 2024, Leading Talents  Premier Instragram HLV Creators</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-nokia-105-classic-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on Nokia 105 Classic with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-nokia-105-classic-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Best Spy Watches For your Nokia 105 Classic | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-nokia-105-classic-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Car Locator Apps for Nokia 105 Classic | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-nokia-105-classic-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Tracking Apps to Track Nokia 105 Classic without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-nokia-105-classic-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Nokia 105 Classic | Dr.fone</u></a></li>
+<li><a href="https://animation-videos.techidaily.com/new-in-2024-top-10-best-photo-to-animation-converters/"><u>New In 2024, Top 10 Best Photo to Animation Converters</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-top-10-audio-editing-apps-beyond-audacity/"><u>New Top 10 Audio Editing Apps Beyond Audacity</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/solutions-to-spy-on-nokia-105-classic-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>Solutions to Spy on Nokia 105 Classic with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-nokia-105-classic-for-parents-drfone-by-drfone-virtual-android/"><u>Top 10 Telegram Spy Tools On Nokia 105 Classic for Parents | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-4-ways-to-trace-nokia-105-classic-location-drfone-by-drfone-virtual-android/"><u>Top 4 Ways to Trace Nokia 105 Classic Location | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-6-appsservices-to-trace-any-nokia-105-classic-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>Top 6 Apps/Services to Trace Any Nokia 105 Classic Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-7-phone-number-locators-to-track-nokia-105-classic-location-drfone-by-drfone-virtual-android/"><u>Top 7 Phone Number Locators To Track Nokia 105 Classic Location | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-9-nokia-105-classic-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 Nokia 105 Classic Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/two-ways-to-track-my-boyfriends-nokia-105-classic-without-him-knowing-drfone-by-drfone-virtual-android/"><u>Two Ways to Track My Boyfriends Nokia 105 Classic without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/unmasked-story-watching-a-guide-to-anonymous-instagram-stories-accessibility-pcandroidios-for-2024/"><u>Unmasked Story Watching  A Guide to Anonymous Instagram Stories Accessibility [PC/Android/iOS] for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-resize-video-in-minutes-a-step-by-step-guide/"><u>Updated 2024 Approved Resize Video in Minutes A Step-by-Step Guide</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/virtual-reality-gamers-wealth-for-2024/"><u>Virtual Reality Gamers' Wealth for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-nokia-105-classic-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Nokia 105 Classic | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-motorola-g24-power-device-by-drfone-android/"><u>What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Motorola G24 Power Device</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Intercept Text Messages on HTC U23 | Dr.fone
-date: 2024-05-20T01:22:22.408Z
-updated: 2024-05-21T01:22:22.408Z
+date: 2024-07-21T18:54:52.686Z
+updated: 2024-07-22T18:54:52.686Z
 tags: 
   - virtual location change
   - location track
@@ -10,7 +10,7 @@ categories:
 description: This article describes How to Intercept Text Messages on HTC U23
 excerpt: This article describes How to Intercept Text Messages on HTC U23
 keywords: track location,Location Track for U23
-thumbnail: https://www.lifewire.com/thmb/44IYkFUfRU4h-daoi0uxZYAKRhI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Lifewire_Windows_Update_2624595-9da08302ecc44539b8f0fa484a81227e.jpg
+thumbnail: https://thmb.techidaily.com/cdd8eafd008cf95809620f415b6d0453d80ccae0c32a9023581f934b16334c5a.jpg
 ---
 
 ## How to Intercept Text Messages on HTC U23
@@ -19,6 +19,9 @@ With the increase in the use of smartphones nowadays, the applications for smart
 
 - **Recommended android/ios location faker tool: [Virtual Location - the most trustworthy way to fake GPS on iPhone /Android device](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/).**
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ![fake GPS of mobile device](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
 
 ## Part 1: How to know whether your text message has been intercepted?
@@ -61,10 +64,16 @@ After you have received the installation procedures, install [mSpy](http://mspy.
 
 Installing in Android
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ![intercept text messages-Installing in Android](https://images.wondershare.com/drfone/article/2016/11/14781239566126.jpg)
 
 Installing on iOS
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
 ![intercept text messages-Installing on iOS](https://images.wondershare.com/drfone/article/2016/11/14781241065208.jpg)
 
 **3\. Start monitoring**
@@ -89,10 +98,16 @@ While the working, installation, and setting up of mSpy is very easy, there are 
 
 So, these are the ways to install and start intercepting text messages both for iOS and Android using mSpy and we also listed down a few things that have to be kept in mind while going for mSpy. Hope this helps you in successfully and safely intercepting text messages.
 
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Top 5 Car Locator Apps for HTC U23
 
 Confess, How many times have you had to walk the streets to find your car? Either because you are in an unfamiliar city and you did not know how to return, or because you are thinking of something else while parking, you did not pay attention surely more than one occasion. To solve this type of problem, we propose a series of apps to find your car that will surely be useful when you park and make you remember that particular place thanks to the GPS locator for the car so check the following options and choose the best one for you and your car.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ## Option 1: Find My Car
 
 Introduction: For many, this is one of the most popular apps, perhaps because it is free and is a car locator device available for iOS and Android. When we finish parking, through GPS the app sets your exact position so that to return to the car you just have to consult the map using Google Navigation, which will give us directions to get to the place where we left. In addition, this app permits to you to take photos of the place, add notes and even set a stopwatch in case you have parked in the wrong zone.
@@ -135,6 +150,9 @@ Can check the parking prices also in real time.
 
 Has database for more than 500 cities in America, Europe, and more countries.
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Car Locator Apps-Parkme](https://images.wondershare.com/drfone/article/2017/10/15081722994485.jpg)
 
 URL for iPhone:
@@ -187,6 +205,9 @@ Shows available parking.
 
 URL is not available yet.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Option 5: Waze
 
 Introduction: This app, compatible with Android and iOS is intended for users who go by car.
@@ -205,6 +226,18 @@ Get information in real-time if there is any problem in the way.
 
 It is free and very easy to use.
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Car Locator Apps-Waze](https://images.wondershare.com/drfone/article/2017/10/15081724223630.jpg)
 
 URL for Android:
@@ -224,6 +257,9 @@ It is no secret that you can easily spy on any iPhone. Many spy or monitoring pr
 In this article, we look at how you to spy on an iPhone without needing a jailbreak and how to spy on a jailbroken device or jailbreak a device to facilitate spying.
 
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: How to Spy on iPhone without Jailbreak
 
 The majority of spy apps in the market will only work on a jailbroken device or require you to jailbreak an iPhone before you can use them. While a jailbroken device does have its advantages, it can be quite problematic when you want to spy on an iPhone without alerting the owner to your activities. To begin with, you must have the iPhone to jailbreak it, a factor that makes it easier to get caught trying to spy on the HTC U23 device. Also, it is quite possible no matter how hard you try to hide the jailbreaking app that the owner will realize you have jailbroken their device.
@@ -232,6 +268,9 @@ For the best results you want to use a monitoring program that doesn’t require
 
 Step 1: Begin by activating iCloud Backup on the target device. Go to Settings and then select “iCloud” to do this. Using mSpy will require iCloud to be activated.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Spy on iPhone without Jailbreak-activate iCloud Backup](https://images.wondershare.com/drfone/article/2017/10/15079744896475.jpg)
 
 Step 2: The first step is to create an account with mSpy. You can then purchase a subscription based on the type of information you need from the target device and the duration you want to spend spying on the HTC U23 device.
@@ -242,8 +281,23 @@ Step 3: Once you’ve registered and purchased the subscription, you will receiv
 
 Step 4: You can then log in to your [mSpy](http://mspy.go2cloud.org/SH7G6) control panel and add the Apple ID and password of the HTC U23 device to gain access to the information you need on the HTC U23 device.
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Spy on iPhone without Jailbreak-log in to your mSpy control panel](https://images.wondershare.com/drfone/article/2017/10/15079748088200.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<!-- affiliate ads end -->
 ## Part 2: How to Spy using Spyware that Requires a Jailbreak
 
 Being able to spy on an iPhone without a jailbreak is not something that happens often. This is because unlike mSpy, most monitoring software will require you jailbreak the HTC U23 device before you can install the software. One of those apps is TruthSpy. Like mSpy, this app will allow users to see all types of data on the target device without the owner of the HTC U23 device knowing they are being monitored. The only problem is, you need to have access to the HTC U23 device to jailbreak it. If this is what you prefer or are unable to get access to mSpy, TruthSpy will work just fine. Here’s how to use it.
@@ -281,3 +335,53 @@ device will however make it easier for the HTC U23 device’s owner to find the 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-dynamic-video-sharing-and-management-platform-by-ms/"><u>[New] 2024 Approved  Dynamic Video Sharing & Management Platform by MS</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-amplify-your-tiktok-impact-precision-video-editing-with-pro-tools-on-mac/"><u>[New] Amplify Your TikTok Impact  Precision Video Editing with Pro Tools on Mac</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-cutting-edge-design-top-5-3d-intro-makers/"><u>[New] Cutting-Edge Design  Top 5 3D Intro Makers</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-the-ultimate-blueprint-adopting-mobizen-screen-recording-skills/"><u>[Updated] In 2024, The Ultimate Blueprint  Adopting Mobizen Screen Recording Skills</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-samsung-galaxy-s24-ultra-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Samsung Galaxy S24 Ultra Activity | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-samsung-galaxy-s24plus-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Samsung Galaxy S24+ Activity | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-samsung-galaxy-xcover-6-pro-tactical-edition-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Samsung Galaxy XCover 6 Pro Tactical Edition Activity | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-samsung-galaxy-xcover-7-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Samsung Galaxy XCover 7 Activity | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-samsung-galaxy-z-flip-5-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Samsung Galaxy Z Flip 5 Activity | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-samsung-galaxy-z-fold-5-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Samsung Galaxy Z Fold 5 Activity | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-sony-xperia-1-v-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Sony Xperia 1 V Activity | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-sony-xperia-10-v-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Sony Xperia 10 V Activity | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-sony-xperia-5-v-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Sony Xperia 5 V Activity | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-tecno-camon-20-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Tecno Camon 20 Activity | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-tecno-camon-20-premier-5g-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Tecno Camon 20 Premier 5G Activity | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-tecno-camon-20-pro-5g-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Tecno Camon 20 Pro 5G Activity | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-tecno-camon-30-pro-5g-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Tecno Camon 30 Pro 5G Activity | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-tecno-phantom-v-flip-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Tecno Phantom V Flip Activity | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-tecno-phantom-v-fold-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Tecno Phantom V Fold Activity | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-tecno-pop-7-pro-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Tecno Pop 7 Pro Activity | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-tecno-pop-8-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Tecno Pop 8 Activity | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-tecno-pova-5-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Tecno Pova 5 Activity | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-tecno-pova-5-pro-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Tecno Pova 5 Pro Activity | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-tecno-pova-6-pro-5g-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Tecno Pova 6 Pro 5G Activity | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-tecno-spark-10-4g-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Tecno Spark 10 4G Activity | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-tecno-spark-10-5g-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Tecno Spark 10 5G Activity | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-tecno-spark-10-pro-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Tecno Spark 10 Pro Activity | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-tecno-spark-10c-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Tecno Spark 10C Activity | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-tecno-spark-20-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Tecno Spark 20 Activity | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-tecno-spark-20-pro-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Tecno Spark 20 Pro Activity | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-tecno-spark-20-proplus-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Tecno Spark 20 Pro+ Activity | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-tecno-spark-20c-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Tecno Spark 20C Activity | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-tecno-spark-go-2023-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Tecno Spark Go (2023) Activity | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-tecno-spark-go-2024-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Tecno Spark Go (2024) Activity | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-vivo-g2-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Vivo G2 Activity | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-vivo-s17-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Vivo S17 Activity | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-basic-understanding-of-animate-graphic-content/"><u>2024 Approved  Basic Understanding of Animate Graphic Content</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-best-buys-detailed-analysis-of-top-6-hdmi-monitors/"><u>2024 Approved  Best Buys  Detailed Analysis of Top 6 HDMI Monitors</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-how-to-add-captions-to-instagram-videos/"><u>2024 Approved  How to Add Captions to Instagram Videos</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-realme-c33-2023-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your Realme C33 2023 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-tecno-spark-20-proplus-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your Tecno Spark 20 Pro+ Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/expert-tips-for-selective-image-editing-in-photo-software/"><u>Expert Tips for Selective Image Editing in Photo Software</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-honor-x7b-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Honor X7b to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-honor-magic-5-litefrp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Honor Magic 5 LiteFRP Lock</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/mastering-subtitles-on-the-social-media-stage-igtv/"><u>Mastering Subtitles on the Social Media Stage  IGTV</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-slowing-it-down-the-best-video-editing-software-for-dramatic-effects/"><u>Updated Slowing It Down The Best Video Editing Software for Dramatic Effects</u></a></li>
+</ul></div>

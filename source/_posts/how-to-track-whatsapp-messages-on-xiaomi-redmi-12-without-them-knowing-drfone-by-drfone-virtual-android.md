@@ -1,7 +1,7 @@
 ---
 title: How to Track WhatsApp Messages on Xiaomi Redmi 12 Without Them Knowing? | Dr.fone
-date: 2024-03-26 13:25:59
-updated: 2024-03-28 20:33:15
+date: 2024-07-21T23:03:06.318Z
+updated: 2024-07-22T23:03:06.318Z
 tags: 
   - virtual location change
   - location track
@@ -10,7 +10,7 @@ categories:
 description: This article describes How to Track WhatsApp Messages on Xiaomi Redmi 12 Without Them Knowing?
 excerpt: This article describes How to Track WhatsApp Messages on Xiaomi Redmi 12 Without Them Knowing?
 keywords: track location,Location Track for Redmi 12
-thumbnail: https://www.lifewire.com/thmb/0xgLnS3M6CP4FiP4I-VE1zFOiLo=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-use-a-ps5-controller-on-your-pc-or-mac-5089439-b56739aa27bd48858200878a6b64f952.jpg
+thumbnail: https://thmb.techidaily.com/0c4c453f95a612f76b387ff712305941e5398ae6df028882ef27bbdd6859fdde.jpg
 ---
 
 ## How to Track WhatsApp Messages on Xiaomi Redmi 12 Without Them Knowing?
@@ -21,6 +21,9 @@ WhatsApp promises that all messages are encrypted, giving users another great re
 
 _**Pro Tip:** Are you being tracked by others? You can [fake your WhatsApp location](https://drfone.wondershare.com/virtual-location/fake-location-on-whatsapp.html) to avoid this._
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: Can You Track Messages on WhatsApp?
 
 Before going after **how to spy on someone's WhatsApp**, it is essential to find out if it is possible in the first place. WhatsApp is renowned for its end-to-end encryption. It is a security feature that ensures messages remain private. Moreover, these messages are accessible only to the intended recipients. This encryption makes it extremely challenging to intercept or track WhatsApp messages.
@@ -29,6 +32,9 @@ That means it is unlikely that tracking could be done directly through the app's
 
 Nowadays, the demand for monitoring WhatsApp messages has increased significantly. It is mainly due to the rise of cybercrimes. However, it's important to note that the most reliable tracking solutions often come with a price tag. That being said, a few free methods are available to answer **how to spy on WhatsApp messages Android free**. In this section, we will explore these options and their limitation:
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ### Method 1. Use Online WhatsApp Web to Track WhatsApp Messages
 
 [WhatsApp Web](https://drfone.wondershare.com/whatsapp/whatsapp-web-not-working.html) is a feature provided by WhatsApp. It allows users to access their WhatsApp accounts on a web browser. That makes it a convenient way to track WhatsApp messages remotely. However, it is as long as you can access the target device for the initial setup. To set up WhatsApp Web, you will need physical access to the Xiaomi Redmi 12 device on which the targeted WhatsApp account is active.
@@ -45,6 +51,9 @@ WhatsApp Linked Devices is a feature introduced by WhatsApp. It allows users to 
 
 Launch WhatsApp on the Xiaomi Redmi 12 device, go to the menu, and select "Linked Devices." Now tap "Link a device" and use the QR code scanner to scan the code on your device. Once devices are linked, it will allow you to track the WhatsApp messages of the targeted person. Using this method needs physical access to the targeted device along with stable internet.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![link whatsapp to another device](https://images.wondershare.com/drfone/article/2023/07/track-whatsapp-messages-2.jpg)
 
 ### Method 3. Use Google Drive Backup to Read Someone’s WhatsApp Messages
@@ -53,10 +62,18 @@ WhatsApp provides the option to back up chats and media to cloud storage platfor
 
 To use this method, you will need to physically access the Xiaomi Redmi 12 device or need a device with the targeted Google account logged in. Here navigate to Google Drive and find the WhatsApp backup file. Download these files on your device and use a third-party tool to decrypt the files.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 3: How To Track WhatsApp Messages Without Them Knowing?
 
 Regarding tracking someone's WhatsApp messages without their knowledge, it's essential to tread carefully. This section will discuss three popular monitoring applications to answer **how to spy on someone's WhatsApp**. The apps that are often mentioned in this context: mSpy, Spyera, and MaxxSpy.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
+DEX 3 meets the demands of today’s versatile DJ, without compromise! 
+DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<!-- affiliate ads end -->
 ### Method 1. Track WhatsApp Messages with mSpy
 
 [mSpy](http://mspy.go2cloud.org/SH96F) is a highly acclaimed app that allows you to track WhatsApp messages without them knowing and also rings in with a plethora of highly useful features. It, too, is compatible with both iOS and Android devices and can be accessed from any web browser so that you can use this WhatsApp tracker to track WhatsApp messages remotely and with complete discretion. MSpy is also easy to install, and in the unlikely event you face any issues, you can always refer to their free online help or, better yet, get in touch with their unmatched customer support.
@@ -69,6 +86,9 @@ After purchasing the mSpy package of your choice, open the email to receive logi
 
 **Step 1:** After selecting "Android" as the smartphone type, get physical access to the Xiaomi Redmi 12 device. Now enable “Installation from Unknown Sources” and disable Google Play Protect. When done, tap “Proceed” in your mSpy account, which will take you to a screen with the URL.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![allow installation from unknown sources](https://images.wondershare.com/drfone/article/2023/07/track-whatsapp-messages-3.jpg)
 
 **Step 2:** Take the URL and type it into the Google Chrome browser of the targeted Android device. It is important to remember that you need to use Google Chrome, as other browsers won’t work. Once the URL is typed in, press “Go.”
@@ -95,14 +115,23 @@ After purchasing the mSpy package of your choice, open the email to receive logi
 
 **Step 2:** Start by clicking “Proceed” in your mSpy account and inserting the Apple ID credentials of the targeted device. Now, press "Verify," and if 2FA is enabled, you will see an option to send the verification code. Use the code received on the targeted device to complete the verification process.
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![verify the apple id](https://images.wondershare.com/drfone/article/2023/07/track-whatsapp-messages-8.jpg)
 
 **Step 3:** After the verification is complete, press "Proceed." On the following screen, you can read about the available data and click “Finish” to complete the process. It will take up to 24 hours for mSpy to extract iCloud data.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![press the finish button](https://images.wondershare.com/drfone/article/2023/07/track-whatsapp-messages-9.jpg)
 
 **Step 4:** Once mSpy has accessed the data, select “WhatsApp” from the left side to access WhatsApp chats. Here you can track all the incoming and outgoing messages remotely.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<!-- affiliate ads end -->
 ![use mspy iphone dashboard](https://images.wondershare.com/drfone/article/2023/07/track-whatsapp-messages-10.jpg)
 
 ### Method 2. Track WhatsApp Messages with Spyera
@@ -117,8 +146,14 @@ Spyera allows you to monitor and track group chats on WhatsApp. You can view the
 
 **Step 3:** Once the app is installed on the targeted device, open the Spyera web account. Here you will be able to see all the Android or iPhone details. To read WhatsApp conversations, choose the "WhatsApp" feature from the "IM" tab in the "Messages" section. Here you can monitor all WhatsApp activities.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![access the spyera dashboard](https://images.wondershare.com/drfone/article/2023/07/track-whatsapp-messages-11.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Method 3. Track WhatsApp Messages with MaxxSpy
 
 Another reputable tool in the market, [MaxxSpy](http://android.dailydownloaded.com/en/security-software/monitoring-software/1774-maxxspy-download-install), also allows you to **track WhatsApp messages**. It has the ability to track and monitor incoming and outgoing WhatsApp messages. Moreover, It allows you to access and view media files shared through WhatsApp, such as photos, videos, and audio files. This software record and display the time and date stamps for each WhatsApp message.
@@ -137,6 +172,9 @@ Maintaining privacy in the digital world has become increasingly important. If y
 
 The best location spoofer app available in this regard is Wondershare [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/). Using this virtual location app, you can fake your GPS location anywhere in the world. It even allows you to upload custom locations and routes.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<!-- affiliate ads end -->
 ### Key Features of Dr.Fone - Virtual Location
 
 1. It provides a joystick to ensure your movement is realistic when playing AR games.
@@ -151,6 +189,9 @@ Changing your location to anywhere in the world is a breeze with this software. 
 
 Connect your device to the computer and launch the “Virtual Location” from the Toolbox of Wondershare Dr.Fone. Following this, activate the "Teleport Mode" feature from the top right corner.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![enable the teleport mode](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
 
 **Step 2: Move to Your Desired Location**
@@ -185,6 +226,9 @@ No, tracking WhatsApp messages on someone else's device requires physical access
 
 WhatsApp provides users with the option to back up their chat history to iCloud. While these backups can help restore chats, they are not designed for real-time tracking purposes. To access the conversations in the backup files, you will need to use a tool or service with decryption capabilities. It is due to the fact that WhatsApp chats are end-to-end encrypted.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Conclusion
 
 In conclusion, tracking WhatsApp messages can be helpful in various scenarios. These scenarios range from monitoring your conversations to ensuring the safety of loved ones. Throughout this article, we have explored different methods on **how to track WhatsApp messages**. Each one had its advantages and limitations.
@@ -206,15 +250,24 @@ You might already know that Google Maps provides a map of the entire world for u
 
 1. Firstly, just go to the official website of [Map Developers circle tool](https://www.mapdevelopers.com/draw-circle-tool.php) on any supported browser like Google Chrome. You can see that the website is based on Google Maps with its added layers to draw a radius on the map.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![google maps distance radius 2](https://images.wondershare.com/drfone/2023/virtuallocation/google-maps-distance-radius-2.jpg)
 
 1. Now, just use the native feature of the map to zoom in to any location of your choice. You can also enter the name of the location that you are looking for in the search bar.
 2. Besides that, you can also enter details about the radius of the circle, its color, and so on. After entering all the needed details, click on the “New Circle” button and it will be reflected on Google Maps interface.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![google maps distance radius 3](https://images.wondershare.com/drfone/2023/virtuallocation/google-maps-distance-radius-3.jpg)
 
 If you want, you can later delete this circle or draw multiple circles in different colors to mark them in any location of your choice.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: Determine the Distance with Radius on Google Maps
 
 Apart from drawing a circle or radius on Google Maps, a lot of people would like to specify its distance as well. For instance, you might wish to specify a radius of specific miles or kilometers for a place on Google Maps. As stated above, the native feature of Google Maps is presently missing the distance radius feature. The good news is that there are tons of websites out there that have presented the same feature on the original layer of Google Maps.
@@ -223,14 +276,23 @@ Apart from drawing a circle or radius on Google Maps, a lot of people would like
 
 Consider the example of the circle tool of Map Developers that we have discussed above. In this, you can just enter the name of a specific place on Google Maps. Now, you can specify the distance of radius in miles or kilometers. This will automatically draw the specific distance radius on Google Maps for the designated location.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
 ![google maps distance radius 4](https://images.wondershare.com/drfone/2023/virtuallocation/google-maps-distance-radius-4.jpg)
 
 - _KML Circle Generator_
 
 If you know the exact longitude and latitude of the place, then you can also take the assistance of KML Circle Generator. In this, you would have to specify the exact coordinates of the place and the Google Maps distance radius value. After entering the relevant details, you can proceed and draw the radius distance on Google Maps.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<!-- affiliate ads end -->
 ![google maps distance radius 5](https://images.wondershare.com/drfone/2023/virtuallocation/google-maps-distance-radius-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3: Determine the Distance between two Addresses on Google Maps
 
 This is one of the most resourceful features of Google Maps that a lot of people are not aware of. Using its native interface, you can find a straight line distance on Google Maps. That is, it won’t be the driving distance, but the exact distance between 2 places on Google Maps. If you want, you can add other spots to let Google Maps calculate distance between multiple locations as well. To learn how to measure distance between two addresses on Google Maps, follow these steps:
@@ -269,6 +331,9 @@ This brings us to the end of this extensive guide on using Google Maps distance 
 
 **3981454** people have downloaded it
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<!-- affiliate ads end -->
 ## You Might Also Like
 
 ## Location-based apps
@@ -291,12 +356,18 @@ AR game tricks
 
 [Try Now](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<!-- affiliate ads end -->
 ## How Do I Stop Someone From Tracking My Xiaomi Redmi 12?
 
 It has now become very easy to track a Smartphone using the GPS features of the phone. This can be done by tracking the phone number based on information derived from mobile carriers and also from the GPS chip on the phone which is used by certain apps in order to function well.
 
 You may not want your GPS location tracked by anyone or by apps on your device. When playing games like Pokémon Go, the geo-location data on your device is used to pinpoint where you are for purposes of gameplay. In the same manner, malicious people can track you same way. Here you will learn how to stop someone from tracking your phone in simple and easy ways.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 1: How do people track your phone?
 
 There are several ways in which people can track the location of your phone. This can be risky at times, especially if you have a stalker. These are the common ways in which people track phones:
@@ -313,6 +384,18 @@ The sections below will show you how to stop someone from tracking your iPhone w
 
 If you have an iPhone, the following methods can be used to stop someone from tracking your device
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 1) Use [Dr.Fone - Virtual Location(iOS/Android)](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
 
 This is a tool that you can use to change the virtual location of your device(iOS or Android). The tool comes with powerful features that enable you to teleport to any part of the world within an instant, and even start to move around a map as if you were physically in the area.
@@ -365,6 +448,9 @@ You may turn off location tracking for specific apps that you feel might be used
 
 ![how to disable location tracking for specific apps on iPhone](https://images.wondershare.com/drfone/2020/disable-location-tracking-iphone-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 4) Disable Share My Location service
 
 - Access the "settings" app from your Home Screen
@@ -386,16 +472,31 @@ At the top of the screen, tap on "Location Services" as you did before
 
 Now scroll down the list and click on the "System services" option
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
+
+ It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
+
+  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
+
+  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<!-- affiliate ads end -->
 ![select System Services option](https://images.wondershare.com/drfone/2020/disable-location-tracking-iphone-5.jpg)
 
 Toggle the button on the right side of "Location-Based Alerts" into the "OFF" position
 
 ![Toggle Location-Based Alerts to the “Off” position](https://images.wondershare.com/drfone/2020/iphone-disable-location-based-alerts-6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 3:How to stop my android from being tracked
 
 You also need to know how to stop Google from tracking your Xiaomi Redmi 12. This feature can be used to track your device through other apps.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### 1) Stop Google Tracking on Android device
 
 - Access the "settings" app on your Home screen
@@ -441,6 +542,9 @@ This is an app that you can download to your android device from Google Play Sto
 - Launch Fake GPS go and the grant it the required access. Go back to "Developer Options" and then go down until you find Fake GPS Go. Toggle it to the "ON" position.
 - Now go back to "Mock Location App" and then choose Fake GPS Go. You will now be able to fake your location and stop people from tracking your device.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![android pokemon go spoofing 5](https://images.wondershare.com/drfone/article/2019/09/android-pokemon-go-spoofing-5.jpg)
 
 - To actually change the virtual location of your device, launch Fake GPs Go once more and then access the map interface. Choose a location far from your actual location and then pin it as your "real" location. This will instantly show that you have moved to this new location and throw off people who are tracking your Xiaomi Redmi 12.
@@ -454,6 +558,9 @@ This is yet another tool that you can use to fake your GPS location and fool peo
 - Begin by unlocking the developer options just like you did in the step above. Then proceed to Google Play Store and download and install Fake GPs free.
 - Go to "Settings > Developer options > Mock Location App". Here you will select Fake GPS Free and then grant it the necessary permissions on your device.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<!-- affiliate ads end -->
 ![android pokemon go spoofing 7](https://images.wondershare.com/drfone/article/2019/09/android-pokemon-go-spoofing-7.jpg)
 
 - Return to your Home screen and the Launch Fake GPS free. Access the map interface and then check for a location far from your actual position. You may even zoom in and better pinpoint a new location.
@@ -482,3 +589,46 @@ If you want to stop Google from tracking your location, these are the methods th
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-cutting-edge-methods-to-reduce-youtube-video-size/"><u>[New] 2024 Approved  Cutting-Edge Methods to Reduce YouTube Video Size</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-ensuring-legal-compliance-in-skype-recordings-via-obs/"><u>[New] 2024 Approved  Ensuring Legal Compliance in Skype Recordings via OBS</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-is-screening-youtube-footage-illegal/"><u>[New] Is Screening YouTube Footage Illegal?</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-itunes-video-management-made-simple/"><u>[Updated] 2024 Approved  ITunes Video Management Made Simple</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-decoding-the-mystery-of-where-are-my-youtube-comments-in-2024/"><u>[Updated] Decoding the Mystery of Where Are My YouTube Comments, In 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-epic-playlist-over-a-hundred-top-tier-titles/"><u>[Updated] In 2024, Epic Playlist  Over a Hundred Top-Tier Titles</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-frost-giants-redemption-gods-unleashed/"><u>[Updated] In 2024, Frost Giants' Redemption  Gods Unleashed</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/2024-approved-time-lapse-magic-the-best-apps-for-capturing-stunning-videos-on-iphone-and-android/"><u>2024 Approved Time-Lapse Magic The Best Apps for Capturing Stunning Videos on iPhone and Android</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/5-easy-ways-to-transfer-contacts-from-apple-iphone-13-to-android-drfone-by-drfone-transfer-from-ios/"><u>5 Easy Ways to Transfer Contacts from Apple iPhone 13 to Android | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-lava-yuva-2-pro-is-off-drfone-by-drfone-virtual-android/"><u>Can Life360 Track You When Your Lava Yuva 2 Pro is off? | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/discover-the-superiority-of-hdr-over-traditional-sdr/"><u>Discover the Superiority of HDR Over Traditional SDR</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-infinix-smart-8-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Infinix Smart 8 Activity | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-infinix-smart-8-hd-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Infinix Smart 8 HD Activity | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-infinix-smart-8-plus-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Infinix Smart 8 Plus Activity | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-infinix-smart-8-pro-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Infinix Smart 8 Pro Activity | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-infinix-zero-30-5g-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Infinix Zero 30 5G Activity | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-infinix-zero-5g-2023-turbo-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Infinix Zero 5G 2023 Turbo Activity | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-itel-a05s-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Itel A05s Activity | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-itel-a60-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Itel A60 Activity | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-itel-a60s-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Itel A60s Activity | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-itel-a70-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Itel A70 Activity | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-itel-p40-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Itel P40 Activity | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-itel-p40plus-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Itel P40+ Activity | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-itel-p55-5g-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Itel P55 5G Activity | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-itel-p55-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Itel P55 Activity | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-itel-p55plus-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Itel P55+ Activity | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-itel-p55t-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Itel P55T Activity | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-itel-s23-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Itel S23 Activity | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-itel-s23plus-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Itel S23+ Activity | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-nubia-red-magic-8s-pro-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Nubia Red Magic 8S Pro Activity | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-nubia-red-magic-8s-proplus-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Nubia Red Magic 8S Pro+ Activity | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-nubia-red-magic-9-pro-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Nubia Red Magic 9 Pro Activity | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-nubia-red-magic-9-proplus-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Nubia Red Magic 9 Pro+ Activity | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-comprehensible-guide-to-swapping-facial-gender-in-snapchat-images/"><u>In 2024, Comprehensible Guide to Swapping Facial Gender in Snapchat Images</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-nokia-130-music-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast Nokia 130 Music to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-lava-blaze-curve-5g-location-on-twitter-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change your Lava Blaze Curve 5G Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-turn-off-google-location-to-stop-tracking-you-on-apple-iphone-6-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Turn Off Google Location to Stop Tracking You on Apple iPhone 6 Plus | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/the-ultimate-guide-to-enhancing-post-reach-via-hashtags-on-instagram/"><u>The Ultimate Guide to Enhancing Post Reach via Hashtags on Instagram</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-the-ultimate-list-of-free-online-face-generators-for-fun-and-creativity-for-2024/"><u>Updated The Ultimate List of Free Online Face Generators for Fun and Creativity for 2024</u></a></li>
+</ul></div>

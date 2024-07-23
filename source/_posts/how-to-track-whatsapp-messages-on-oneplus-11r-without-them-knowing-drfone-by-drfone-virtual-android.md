@@ -1,7 +1,7 @@
 ---
 title: How to Track WhatsApp Messages on OnePlus 11R Without Them Knowing? | Dr.fone
-date: 2024-05-20T01:23:04.032Z
-updated: 2024-05-21T01:23:04.032Z
+date: 2024-07-21T20:10:09.245Z
+updated: 2024-07-22T20:10:09.245Z
 tags: 
   - virtual location change
   - location track
@@ -10,7 +10,7 @@ categories:
 description: This article describes How to Track WhatsApp Messages on OnePlus 11R Without Them Knowing?
 excerpt: This article describes How to Track WhatsApp Messages on OnePlus 11R Without Them Knowing?
 keywords: track location,Location Track for 11R
-thumbnail: https://www.lifewire.com/thmb/xgo6tGI-HONOfys81EHMpcUqTKU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-970157966-65f3dd434f3e4dc98e28a635b8cacc87.jpg
+thumbnail: https://thmb.techidaily.com/77006c539bf1ddb2e2b5e84e1f174870218883325d71d7edbcfdaf185bcde8ae.jpg
 ---
 
 ## How to Track WhatsApp Messages on OnePlus 11R Without Them Knowing?
@@ -29,6 +29,9 @@ That means it is unlikely that tracking could be done directly through the app's
 
 Nowadays, the demand for monitoring WhatsApp messages has increased significantly. It is mainly due to the rise of cybercrimes. However, it's important to note that the most reliable tracking solutions often come with a price tag. That being said, a few free methods are available to answer **how to spy on WhatsApp messages Android free**. In this section, we will explore these options and their limitation:
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 1. Use Online WhatsApp Web to Track WhatsApp Messages
 
 [WhatsApp Web](https://drfone.wondershare.com/whatsapp/whatsapp-web-not-working.html) is a feature provided by WhatsApp. It allows users to access their WhatsApp accounts on a web browser. That makes it a convenient way to track WhatsApp messages remotely. However, it is as long as you can access the target device for the initial setup. To set up WhatsApp Web, you will need physical access to the OnePlus 11R device on which the targeted WhatsApp account is active.
@@ -45,8 +48,14 @@ WhatsApp Linked Devices is a feature introduced by WhatsApp. It allows users to 
 
 Launch WhatsApp on the OnePlus 11R device, go to the menu, and select "Linked Devices." Now tap "Link a device" and use the QR code scanner to scan the code on your device. Once devices are linked, it will allow you to track the WhatsApp messages of the targeted person. Using this method needs physical access to the targeted device along with stable internet.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ![link whatsapp to another device](https://images.wondershare.com/drfone/article/2023/07/track-whatsapp-messages-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Method 3. Use Google Drive Backup to Read Someone’s WhatsApp Messages
 
 WhatsApp provides the option to back up chats and media to cloud storage platforms like Google Drive. This feature is primarily designed for users to restore their data. However, It can be utilized to access and read someone else's WhatsApp messages. That is possible if you have access to their Google account.
@@ -69,6 +78,9 @@ After purchasing the mSpy package of your choice, open the email to receive logi
 
 **Step 1:** After selecting "Android" as the smartphone type, get physical access to the OnePlus 11R device. Now enable “Installation from Unknown Sources” and disable Google Play Protect. When done, tap “Proceed” in your mSpy account, which will take you to a screen with the URL.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![allow installation from unknown sources](https://images.wondershare.com/drfone/article/2023/07/track-whatsapp-messages-3.jpg)
 
 **Step 2:** Take the URL and type it into the Google Chrome browser of the targeted Android device. It is important to remember that you need to use Google Chrome, as other browsers won’t work. Once the URL is typed in, press “Go.”
@@ -77,10 +89,16 @@ After purchasing the mSpy package of your choice, open the email to receive logi
 
 **Step 4:** You will need to enter a registration code from the mSpy account to complete the installation process. Afterward, move to your mSpy account, check the warning box, and click "Proceed." Once the process is done, you will need to restart the targeted device.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![install the mspy app](https://images.wondershare.com/drfone/article/2023/07/track-whatsapp-messages-4.jpg)
 
 **Step 5:** Now click “Finish” to complete the process and access the mSpy dashboard. After a while, you can see all data from the Android device. If you want to access WhatsApp data, you will need to root the targeted Android device.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![press the finish button](https://images.wondershare.com/drfone/article/2023/07/track-whatsapp-messages-5.jpg)
 
 **Step 6:** Afterward, choose "WhatsApp" from the left sidebar, and you can track the WhatsApp messages. It will also allow you to track WhatsApp calls, including all incoming and outgoing calls.
@@ -99,10 +117,16 @@ After purchasing the mSpy package of your choice, open the email to receive logi
 
 **Step 3:** After the verification is complete, press "Proceed." On the following screen, you can read about the available data and click “Finish” to complete the process. It will take up to 24 hours for mSpy to extract iCloud data.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<!-- affiliate ads end -->
 ![press the finish button](https://images.wondershare.com/drfone/article/2023/07/track-whatsapp-messages-9.jpg)
 
 **Step 4:** Once mSpy has accessed the data, select “WhatsApp” from the left side to access WhatsApp chats. Here you can track all the incoming and outgoing messages remotely.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![use mspy iphone dashboard](https://images.wondershare.com/drfone/article/2023/07/track-whatsapp-messages-10.jpg)
 
 ### Method 2. Track WhatsApp Messages with Spyera
@@ -117,6 +141,9 @@ Spyera allows you to monitor and track group chats on WhatsApp. You can view the
 
 **Step 3:** Once the app is installed on the targeted device, open the Spyera web account. Here you will be able to see all the Android or iPhone details. To read WhatsApp conversations, choose the "WhatsApp" feature from the "IM" tab in the "Messages" section. Here you can monitor all WhatsApp activities.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![access the spyera dashboard](https://images.wondershare.com/drfone/article/2023/07/track-whatsapp-messages-11.jpg)
 
 ### Method 3. Track WhatsApp Messages with MaxxSpy
@@ -131,6 +158,10 @@ It allows you to track the sequence and timing of conversations. The MaxxSpy app
 
 ![use maxxspy dashboard](https://images.wondershare.com/drfone/article/2023/07/track-whatsapp-messages-12.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ## Part 4: How To Fake Your WhatsApp Location To Avoid Being Tracked by Others?
 
 Maintaining privacy in the digital world has become increasingly important. If you wish to prevent WhatsApp trackers from tracking your actual location on WhatsApp, there are methods available to fake your location. One such method is using a location spoofing app. These apps allow you to set a fake GPS location, which WhatsApp and other apps on your device will use.
@@ -143,6 +174,9 @@ The best location spoofer app available in this regard is Wondershare [Dr.Fone -
 2. With Dr.Fone - Virtual Location, you can change your location on social media apps like Snapchat, WhatsApp.
 3. By using this app, you can also access geo-restricted content and websites.
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ### Step-by-Step Instructions To Spoof WhatsApp Location via Wondershare Dr.Fone
 
 Changing your location to anywhere in the world is a breeze with this software. Here is how you can change your location within seconds:
@@ -157,8 +191,14 @@ Connect your device to the computer and launch the “Virtual Location” from t
 
 Now, use the search box on the top left to enter your desired location. Once the entered location appears on the map, tap "Move Here" to change your location.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![press the move here button](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
 
 ## Part 5: How To See Deleted Messages on WhatsApp?
@@ -167,8 +207,14 @@ WhatsApp allows users to delete messages they have sent within a specific time f
 
 The app is available for Android devices and can recover your lost data with a high success rate. Apart from offering data recovery features, it lets you view deleted messages on social media apps like WhatsApp and LINE. It doesn't matter if the message was a picture, video, or text. This app can remember all the incoming WhatsApp messages for you.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![dr.fone data and photo recovery app](https://images.wondershare.com/drfone/article/2023/07/track-whatsapp-messages-15.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 6: Frequently Asked Questions
 
 When it comes to **WhatsApp tracking**, you may have some questions. Here are the answers to the most frequently asked questions regarding this topic from the internet:
@@ -209,10 +255,16 @@ Step 2: Now access the target device, once you opt for downloading, there you wi
 
 Step 3: After that, you will be allowed to open Control Panel. From there you can easily go for the process of tracking the target device remotely, under which you can have access to GPS locations, Messages, Call details, and lot more. That you can access from anywhere, such as your system, mobile, laptop, etc.
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ![track a cell phone without them knowing-the mSpy Control Panel](https://images.wondershare.com/drfone/article/2017/11/15100180804204.jpg)
 
 Following the above simple steps will enable you to track a Cell Phone without them Knowing.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 2: How to track Android or iPhone using FlexiSPY?
 
 [FlexiSPY](https://www.flexispy.com/) is a commonly used tracking system for cell phones. It assures one of the best ways to track a cell phone without them knowing. But you need to jailbreak iPhone before installing FlexiSPY. For android devices, the root service is required for certain advanced features.
@@ -233,6 +285,9 @@ Step 2: Click the "Download" button on the pop-up window that appears.
 
 ![download gps datay](https://images.wondershare.com/drfone/article/2022/02/track-cell-phone-with-flexispy-04.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<!-- affiliate ads end -->
 ## Part 3: How to secretly track someone
 
 If you want to track a cell phone without them knowing secretly, then one interesting solution is the “Find my friends” app introduced by Apple though primarily not for spying purposes, but you can use it to spy on someone's iPhone secretly. This app comes with the facility to get a notification when the target person arrives or leaves a place. Here, if you have access to the target device and the “Find my friends” option then it will give you the solution on how to track a cell phone without them knowing.
@@ -261,6 +316,9 @@ Note: If you want to hide the “Find my friends” app from the target device y
 
 ![track a cell phone without them knowing-hide the Find my friends app](https://images.wondershare.com/drfone/article/2017/11/15100183889994.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 4: Frequently Asked Questions
 
 **1\. What is rooting? Does it have a warranty? Any rooting between Android and mSpy?**
@@ -297,16 +355,25 @@ Location data generally helps us find reliable directions and pinpoint a particu
 
 Of course, Google Maps and Weather will not work without access to location data. It is the main component that allows this kind of application to function exactly as it should. That’s why you should think twice before you turn off Google location tracking. Keep it activated on your mobile device if you’re in need of real-time weather updates or reliable coordinates.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### It is used for targeted advertisements
 
 The majority of online advertisements scattered all over the internet are run by Google. It uses location data to ensure the ads that appear on your web browser are relevant to your personal liking. For example, Google Ads will likely flash American products on your smartphones if you’re located in that particular region. Do you want to keep it that way? If so, you should not then turn off Google location tracking on your OnePlus 11R smartphone.
 
 ### It is used by Google to provide accurate search results
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![google search results](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-2.JPG)
 
 The same thing goes for Google search results. This query engine uses location data to provide information relevant to the specific needs of the user. Let’s say you’re currently residing in Japan and looking for nearby coffee shops. Of course, it will be unhelpful if Google dispenses a list of coffee shops that aren’t located in your country. That’s why you shouldn’t turn off Google location tracking on your smartphone if you’re looking for precise and pertinent answers.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ### It is used by Google to implement certain security protocols
 
 Google uses location data to keep your accounts safe from potential attacks and security breaches. How so? Well, Google immediately sends alerts whenever your account is used from an unusual location. Another thing is that strange activities on your account are promptly detected with the aid of location information. Simply put, allowing Google to access your whereabouts is the least you can do to protect your digital assets. Hence, don’t turn off Google location tracking on your OnePlus 11R smartphone if you need such assistance.
@@ -321,6 +388,9 @@ We all know that Google is committed to offering us new products and improving i
 
 There’s no denying that Google uses location information to give us the best experience possible. However, it doesn’t necessarily mean there is no risk at all. We cannot rule out the possibility of data breaches and disclosure of location information that is supposed to be private. If you’re worried about this kind of situation, you can prevent it from happening in a snap of a finger. Check out the four methods below on how to turn off Google location tracking on your OnePlus 11R smartphone.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<!-- affiliate ads end -->
 ### Method 1: Turn off the location services on your OnePlus 11R mobile device
 
 “How to stop Google from tracking me?” Well, it’s actually very easy. You just need to deactivate the location service on your OnePlus 11R mobile device. After that, Google and other GPS-based applications on your smartphone will immediately lose access to your location data. Do you want to try it now? Check out the tutorial below on how to turn off Google location tracking by deactivating the location services on your phone.
@@ -335,6 +405,10 @@ There’s no denying that Google uses location information to give us the best e
 
 **Step 4:** Lastly, click **Close** to confirm the changes.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
+ PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<!-- affiliate ads end -->
 ### Method 2: Deactivate the Google App’s location access on your OnePlus 11R mobile device
 
 Let’s say you don’t want to cut the entire location access across your smartphone because other apps might malfunction. That’s fine. There is a way to deactivate the Google app’s location permission while the other apps remain unaffected. Are you more inclined to implement this decentralized approach? Check out the tutorial provided below.
@@ -351,6 +425,9 @@ Let’s say you don’t want to cut the entire location access across your smart
 
 **Step 4:** Click **Permissions.**
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![google app permissions](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-7.jpg)
 
 **Step 5:** Click **Location.**
@@ -359,8 +436,15 @@ Let’s say you don’t want to cut the entire location access across your smart
 
 **Step 6:** Lastly, click **Don’t Allow.** Alternatively, you may instead select **Allow Only While Using the App** or **Ask Every Time** if you wish to grant Google conditional access to your location data.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<!-- affiliate ads end -->
 ![disallow location access on google](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-9.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
+EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<!-- affiliate ads end -->
 ### Method 3: Toggle off the Timeline feature on your Google Account
 
 Timeline is a special Google feature that keeps a record of your location check-ins and routes taken for future reference. You can review it on the Google Maps app in case you need to visit the same place again. On the other hand, you can easily toggle it off if you don’t want Google tracking down your specific whereabouts. Here’s the guide on how to do it in easy steps.
@@ -375,6 +459,18 @@ Timeline is a special Google feature that keeps a record of your location check-
 
 **Step 3:** Click **Google Account.**
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![google app account](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-11.jpg)
 
 **Step 4:** Click **Data Privacy.**
@@ -383,6 +479,9 @@ Timeline is a special Google feature that keeps a record of your location check-
 
 **Step 5:** Find and click **Timeline.**
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<!-- affiliate ads end -->
 ![timeline settings](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-13.jpg)
 
 **Step 6:** Scroll down and then tap the **Turn Off** button.
@@ -395,6 +494,9 @@ Timeline is a special Google feature that keeps a record of your location check-
 
 **Step 2:** On the main dashboard, click **Timeline.**
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<!-- affiliate ads end -->
 ![my google activity settings](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-15.jpg)
 
 **Step 3:** Scroll it down and then click the **Turn Off** button.
@@ -409,6 +511,9 @@ If Timeline is previously activated on your OnePlus 11R, chances are Google Maps
 
 **Step 2:** Click the **Profile** icon at the top-right corner of the screen.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![google maps profile](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-17.jpg)
 
 **Step 3:** Then click **Your Timeline.**
@@ -421,6 +526,9 @@ If Timeline is previously activated on your OnePlus 11R, chances are Google Maps
 
 **Step 5:** Pick a location and click the **Three-dotted menu** button next to it. From there, select **Remove All Visits.**
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<!-- affiliate ads end -->
 ## Part 3. Keep Your Whereabouts Private With [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
 
 Google surely understands that some users are uncomfortable sharing their whereabouts with the platform. That’s why you’re given the option to turn off Google location tracking on your OnePlus 11R smartphone. However, take note that doing so might gravely affect the functionality of some Google products. If you don’t want it to happen, there’s an alternative solution you can try. Rather than denying Google access to your location, why not change it instead and register a fake one? Yes. That can absolutely help you conceal your whereabouts without compromising the quality of Google services. Don’t worry. It’s a piece of cake. Wondershare Dr.Fone can help you a lot in this regard. It has a potent Virtual Location feature capable of modifying your whereabouts and simulating GPS movements. Do you want to try it now? Here’s a short guide for you.
@@ -443,6 +551,9 @@ Google surely understands that some users are uncomfortable sharing their wherea
 
 **Step 6:** The description of your chosen location will be then flashed on the screen. Read the details and make sure they are accurate. After that, click **Move Here** to proceed.
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![read location description](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
 **Step 7:** The location registered on your OnePlus 11R mobile device will now be replaced with your modified whereabouts. Verify the changes applied on your smartphone by checking Google Maps and searching for your current location. One way or another, it must show the altered result.
@@ -470,3 +581,68 @@ At some point, we cannot deny that Google location services make our lives a lot
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-expert-tips-for-flawless-voice-alteration-on-tiktok/"><u>[New] 2024 Approved  Expert Tips for Flawless Voice Alteration on TikTok</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-facebook-id-video-overview-length-aspect-ratio-frame-rate/"><u>[New] 2024 Approved  Facebook ID Video Overview  Length, Aspect Ratio, Frame Rate</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-full-application-review-with-az-video-loggers/"><u>[New] 2024 Approved  Full Application Review with AZ Video Loggers</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-deep-dive-into-apps-with-az-recorder/"><u>[New] In 2024, Deep Dive Into Apps with AZ Recorder</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-most-popular-raps-on-tiktok-for-everyone/"><u>[New] Most Popular Raps on TikTok for Everyone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-perfect-pairings-the-science-of-matching-music-with-imagery/"><u>[New] Perfect Pairings  The Science of Matching Music with Imagery</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-safe-sign-in-getting-back-into-facebook-for-2024/"><u>[New] Safe Sign-In  Getting Back Into Facebook for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-voicing-freedom-how-to-modify-your-audio-on-instagram-posts/"><u>[New] Voicing Freedom  How to Modify Your Audio on Instagram Posts</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-advanced-slidecasting-powerpoint-and-webcam-perfection/"><u>[Updated] 2024 Approved  Advanced Slidecasting  PowerPoint & Webcam Perfection</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-connecting-twitters-vids-with-fb-audience/"><u>[Updated] 2024 Approved  Connecting Twitter's Vids with FB Audience</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-beat-junkies-essentials-online-cost-free-software/"><u>[Updated] Beat Junkies' Essentials  Online, Cost-Free Software</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-exploring-mukbang-culture-in-live-video-formats/"><u>[Updated] In 2024, Exploring Mukbang Culture in Live Video Formats</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-in-depth-exploration-of-razers-kiyo-cam/"><u>2024 Approved  In-Depth Exploration of Razer's Kiyo Cam</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/2024-approved-mavericks-video-converter-edit-and-convert-mp4-files-with-ease/"><u>2024 Approved Mavericks Video Converter Edit and Convert MP4 Files with Ease</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-ways-to-track-vivo-v30-lite-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track Vivo V30 Lite 5G without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/5-ways-to-track-vivo-v30-lite-5g-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Vivo V30 Lite 5G without App | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/best-anti-tracker-software-for-vivo-y28-5g-drfone-by-drfone-virtual-android/"><u>Best Anti Tracker Software For Vivo Y28 5G | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/best-free-video-dubbing-software-for-windows-1011-for-2024/"><u>Best Free Video Dubbing Software for Windows 10/11 for 2024</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/diskhaven-pro-advanced-raid-restoration/"><u>DiskHaven Pro: Advanced RAID Restoration</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/expanding-creative-horizons-in-obs-studio-using-luts/"><u>Expanding Creative Horizons in OBS Studio Using LUTs</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/from-twitter-to-facebook-sending-your-tweets-for-2024/"><u>From Twitter to Facebook  Sending Your Tweets for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-change-your-apple-id-on-apple-iphone-11-pro-with-or-without-password-drfone-by-drfone-ios/"><u>How To Change Your Apple ID on Apple iPhone 11 Pro With or Without Password | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-vivo-v30-lite-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on Vivo V30 Lite 5G Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-vivo-v30-lite-5g-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Vivo V30 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-vivo-v30-lite-5g-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Vivo V30 Lite 5G Activity | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-vivo-v30-lite-5g-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your Vivo V30 Lite 5G Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-ways-to-track-vivo-v30-lite-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Track Vivo V30 Lite 5G without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-vivo-v30-lite-5g-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track Vivo V30 Lite 5G without App | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-vivo-v30-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for Vivo V30 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-vivo-v30-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Best Anti Tracker Software For Vivo V30 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-vivo-v30-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How Do I Stop Someone From Tracking My Vivo V30 Lite 5G? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-vivo-v30-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Check Distance and Radius on Google Maps For your Vivo V30 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-vivo-v30-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Remove Spyware on Vivo V30 Lite 5G? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-vivo-v30-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Vivo V30 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-vivo-v30-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Spy on Text Messages from Computer & Vivo V30 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-vivo-v30-lite-5g-for-free-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track a Lost Vivo V30 Lite 5G for Free? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-vivo-v30-lite-5g-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Vivo V30 Lite 5G by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-vivo-v30-lite-5g-location-by-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Vivo V30 Lite 5G Location by Number | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-vivo-v30-lite-5g-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Vivo V30 Lite 5G Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-vivo-v30-lite-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on Vivo V30 Lite 5G Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-turn-off-google-location-to-stop-tracking-you-on-vivo-v30-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Turn Off Google Location to Stop Tracking You on Vivo V30 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-skyrocket-your-youtube-views-exposing-why-none-came/"><u>In 2024, Skyrocket Your YouTube Views  Exposing Why None Came</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-vivo-v30-lite-5g-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on Vivo V30 Lite 5G with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/in-2024-the-ultimate-tweet-template-for-visual-sharing/"><u>In 2024, The Ultimate Tweet Template for Visual Sharing</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-vivo-v30-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Best Spy Watches For your Vivo V30 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-vivo-v30-lite-5g-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On Vivo V30 Lite 5G for Parents | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-4-ways-to-trace-vivo-v30-lite-5g-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 4 Ways to Trace Vivo V30 Lite 5G Location | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-vivo-v30-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Car Locator Apps for Vivo V30 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-top-5-honor-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Honor Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-vivo-v30-lite-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Tracking Apps to Track Vivo V30 Lite 5G without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-6-appsservices-to-trace-any-vivo-v30-lite-5g-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, Top 6 Apps/Services to Trace Any Vivo V30 Lite 5G Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-vivo-v30-lite-5g-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Phone Number Locators To Track Vivo V30 Lite 5G Location | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-9-vivo-v30-lite-5g-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>In 2024, Top 9 Vivo V30 Lite 5G Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-vivo-v30-lite-5g-without-him-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Two Ways to Track My Boyfriends Vivo V30 Lite 5G without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-vivo-v30-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Vivo V30 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/masterful-music-management-with-easy-vrecorder-downloads/"><u>Masterful Music Management with Easy VRecorder Downloads</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-looking-beyond-adobe-10-premiere-elements-alternatives-for-mac-and-pc-users/"><u>New In 2024, Looking Beyond Adobe 10 Premiere Elements Alternatives for Mac and PC Users</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/rethink-your-classic-movies-best-swaps-7-for-2024/"><u>Rethink Your Classic Movies - Best Swaps #7 for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719168719205-sonys-summer-gaming-extravaganza-essential-picks/"><u>Sony’s Summer Gaming Extravaganza: Essential Picks</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-tracking-apps-to-track-vivo-y28-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>Top 5 Tracking Apps to Track Vivo Y28 5G without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-best-automatic-video-reframing-software-for-creators/"><u>Updated In 2024, Best Automatic Video Reframing Software for Creators</u></a></li>
+</ul></div>

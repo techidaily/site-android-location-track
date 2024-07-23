@@ -1,7 +1,7 @@
 ---
 title: How to Intercept Text Messages on Vivo X100 | Dr.fone
-date: 2024-03-25 17:12:28
-updated: 2024-03-28 23:29:44
+date: 2024-07-21T22:26:02.097Z
+updated: 2024-07-22T22:26:02.097Z
 tags: 
   - virtual location change
   - location track
@@ -10,7 +10,7 @@ categories:
 description: This article describes How to Intercept Text Messages on Vivo X100
 excerpt: This article describes How to Intercept Text Messages on Vivo X100
 keywords: Location Track for X100,track location
-thumbnail: https://www.lifewire.com/thmb/jYmIoXAzWYI6-krphnPX46os0Yg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/tablets-vs-laptops-832333-93961eb085ff44d99d3836a0d0fa486a.png
+thumbnail: https://thmb.techidaily.com/d63b36b5c666fd9de9fccce4561bf07299ad84d3949b489b0214f6877268e346.png
 ---
 
 ## How to Intercept Text Messages on Vivo X100
@@ -19,6 +19,9 @@ With the increase in the use of smartphones nowadays, the applications for smart
 
 - **Recommended android/ios location faker tool: [Virtual Location - the most trustworthy way to fake GPS on iPhone /Android device](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/).**
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![fake GPS of mobile device](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
 
 ## Part 1: How to know whether your text message has been intercepted?
@@ -51,6 +54,9 @@ To be able to intercept text messages from other phones, it is first required to
 
 To start the process, buy mSpy that has to be installed on the target device. mSpy requires account creation and activation. This account with login credentials will be later used to monitor all the activities. You will be asked for an email id in which you will receive the setup procedure.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![intercept text messages-Install mSpy and set it up](https://images.wondershare.com/drfone/article/2016/11/14781232495235.jpg)
 
 **2\. Install the application**
@@ -65,6 +71,9 @@ Installing in Android
 
 Installing on iOS
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ![intercept text messages-Installing on iOS](https://images.wondershare.com/drfone/article/2016/11/14781241065208.jpg)
 
 **3\. Start monitoring**
@@ -75,6 +84,9 @@ You can now start intercepting the text messages remotely from other phones. Use
 
 The above screen is the monitoring console through which we can see all the text messages on the target device. The control panel can be opened on any device i.e. phone or computer through the browser using the login credentials.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 3: What you need to know when using mSpy
 
 **Few things to know when using [mSpy](http://mspy.go2cloud.org/SH7G6):**
@@ -119,6 +131,9 @@ _Cons_
 
 ![tracking apps to track phone-spyera](https://images.wondershare.com/drfone/article/2022/02/apps-to-track-phone-without-them-knowing.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: mSpy
 
 If you are looking for another solution to track an Android or iOS device, then you can also try mSpy. Just like Spyera, the tool also has a dashboard that can be accessed from any other device. Installing the app is pretty easy and it will let you obtain all the crucial information like the Vivo X100 device’s location, call logs, browser history, and more.
@@ -167,8 +182,14 @@ _Cons_
 
 • Pretty expensive compared to other spying apps
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ![Tracking Apps to Track Phone-flexispy](https://images.wondershare.com/drfone/article/2017/10/15082607195947.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 4: The One Spy
 
 The One Spy is known to provide highly secure and precise results. It was released in 2012 and has created its evident name in the industry by providing productive results to its subscribers. You can take the assistance of this tracking app to keep an eye on your kids, employees, parents, spouse, friends, etc. The tool is already used by more than 500 thousand users the world over as it comes with plenty of high-end features.
@@ -193,6 +214,9 @@ _Cons_
 
 • The app is quite pricey compared to other counterparts
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<!-- affiliate ads end -->
 ![Tracking Apps to Track Phone-The One Spy](https://images.wondershare.com/drfone/article/2017/10/15082607535154.jpg)
 
 ## Part 5: Hoverwatch
@@ -219,6 +243,9 @@ _Cons_
 
 • It automatically roots an Android device and can tamper with its warranty
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<!-- affiliate ads end -->
 ![Tracking Apps to Track Phone-hoverwatch](https://images.wondershare.com/drfone/article/2017/10/15082607943523.jpg)
 
 Now when you know about some of the best tracking apps out there, you can easily use them to keep an eye on your loved ones. Mostly, these solutions are used by parents to track the whereabouts and the activity of their kids. Though, it can also be used by concerned individuals to track their partners, friends, parents, employees, and more. You can use these apps on your own device without much trouble. Nevertheless, if you are tracking someone else’s smartphone, then you should be aware of the consequences. To avoid any unforeseen situation, it is recommended to inform them before installing the app.
@@ -253,6 +280,14 @@ URL for Android:
 
 <https://play.google.com/store/apps/details?id=com.elibera.android.findmycar&hl=en>
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
+	Home Use license is dedicated for personal, non-commercial use only. 
+	If Action! is used for commercial gain or to further any commercial purpose, 
+	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
+ 
+	company, user or members of the same household. Action! - screen and game recorder</a>
+<!-- affiliate ads end -->
 ## Option 2: Parkme
 
 Introduction: This is another app to find your car with GPS locator for car dedicated to knowing where your car is. It is available for iPhone and Android, it's free and allows you to help locate a car parking and later find the car. This app has three buttons on the main screen: find parking, save (to know where you parked) and look for the car. Thanks to this option, you have a map and a compass that will help guide you to get to the car. In addition, you can share the location of our car via Facebook, Twitter or SMS.
@@ -269,6 +304,9 @@ Can check the parking prices also in real time.
 
 Has database for more than 500 cities in America, Europe, and more countries.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Car Locator Apps-Parkme](https://images.wondershare.com/drfone/article/2017/10/15081722994485.jpg)
 
 URL for iPhone:
@@ -297,12 +335,18 @@ Compatible with iPad, iPhone, and iPod Touch
 
 Control if you need gasoline through Bluetooth
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Car Locator Apps-Automatic](https://images.wondershare.com/drfone/article/2017/10/15081723208344.jpg)
 
 URL:
 
 <https://itunes.apple.com/us/app/automatic-classic/id596594365?mt=8>
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Option 4: Google Maps (It will be available in the next version)
 
 Introduction: This application is implementing new features for drivers to find parking more easily. It tries to help those forgetful drivers who park but then do not know where they parked the vehicle. For them, Maps is responsible for collecting information on the time in which they have been stopped after moving by car, if we have the mobile connected to the car by Bluetooth, the application understands that we have been using a vehicle, and shows the parking with a round blue icon with a capital P inside. If this does not appear, it can also be saved in another way. Once parked you can open the map of the application and click on the blue point of location. At that time it gives us the option to Save your parking leaving the blue icon mentioned above.
@@ -366,3 +410,53 @@ So, now onwards, you do not need to pay to get a GPS locator for the car, as you
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-selecting-superior-sound-10-top-mic-recommendations/"><u>[New] 2024 Approved  Selecting Superior Sound  10 Top Mic Recommendations</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-building-an-engaged-youtube-community-subscribers-for-2024/"><u>[Updated] Building an Engaged Youtube Community (Subscribers) for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-final-cut-pro-x-achieving-perfect-vertical-video-for-instagram/"><u>[Updated] In 2024, Final Cut Pro X  Achieving Perfect Vertical Video for Instagram</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-methods-for-reducing-jello-like-video-stabilization-effects/"><u>[Updated] Methods for Reducing Jello-Like Video Stabilization Effects</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-premiere-streaming-for-performance-artists/"><u>[Updated] Premiere Streaming for Performance Artists</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-top-10-extensions-for-maxed-out-terria-for-2024/"><u>[Updated] Top 10 Extensions for Maxed-Out Terria for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-navigating-youtube-triumphs-an-in-depth-guide-to-creator-studio/"><u>2024 Approved  Navigating YouTube Triumphs  An In-Depth Guide to Creator Studio</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-6-best-movie-intro-maker-to-create-your-intro-videos/"><u>2024 Approved 6 Best Movie Intro Maker to Create Your Intro Videos</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/3-quick-ways-to-look-up-definitions-in-windows-11/"><u>3 Quick Ways to Look Up Definitions in Windows 11</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-solutions-to-find-your-motorola-moto-g73-5g-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>3 Solutions to Find Your Motorola Moto G73 5G Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-ways-to-track-motorola-moto-g73-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track Motorola Moto G73 5G without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/5-ways-to-track-motorola-moto-g73-5g-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Motorola Moto G73 5G without App | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-motorola-moto-g73-5g-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Motorola Moto G73 5G | Dr.fone</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/champion-of-windows-10-auditory-synthesis/"><u>Champion of Windows 10 Auditory Synthesis</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/disabled-apple-iphone-12-how-to-unlock-a-disabled-apple-iphone-12-by-drfone-ios/"><u>Disabled Apple iPhone 12 How to Unlock a Disabled Apple iPhone 12?</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/enable-silence-mode-and-incorporate-custom-tracks-via-windows-movie-maker/"><u>Enable Silence Mode & Incorporate Custom Tracks via Windows Movie Maker</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/funnies-frontier-emerging-comedy-sensations-on-tiktok-for-2024/"><u>Funnies Frontier  Emerging Comedy Sensations on TikTok for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-motorola-moto-g73-5g-drfone-by-drfone-virtual-android/"><u>How Do I Stop Someone From Tracking My Motorola Moto G73 5G? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-motorola-moto-g73-5g-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Motorola Moto G73 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-motorola-moto-g73-5g-drfone-by-drfone-virtual-android/"><u>How to Detect and Remove Spyware on Motorola Moto G73 5G? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-motorola-moto-g73-5g-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on Motorola Moto G73 5G | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/how-to-leverage-longer-vids-on-instagram-effectively/"><u>How to Leverage Longer Vids on Instagram Effectively</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-honor-magic-6-lite-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Honor Magic 6 Lite to PC? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-motorola-moto-g73-5g-drfone-by-drfone-virtual-android/"><u>How to Spy on Text Messages from Computer & Motorola Moto G73 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-motorola-moto-g73-5g-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost Motorola Moto G73 5G for Free? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-motorola-moto-g73-5g-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Motorola Moto G73 5G by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-motorola-moto-g73-5g-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Motorola Moto G73 5G Location by Number | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-motorola-moto-g73-5g-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Motorola Moto G73 5G Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-motorola-moto-g73-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on Motorola Moto G73 5G Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-motorola-moto-g73-5g-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Motorola Moto G73 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-nokia-g42-5g-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Nokia G42 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-motorola-moto-g73-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Best Anti Tracker Software For Motorola Moto G73 5G | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-forgot-locked-iphone-15-pro-password-learn-the-best-methods-to-unlock-drfone-by-drfone-ios/"><u>In 2024, Forgot Locked iPhone 15 Pro Password? Learn the Best Methods To Unlock | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-snappy-screens-the-windows-way/"><u>In 2024, Snappy Screens  The Windows Way</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-the-top-free-wmv-video-assembly-software/"><u>In 2024, The Top Free WMV Video Assembly Software</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/learn-the-free-techniques-to-mute-audio-in-windows-10-videos-for-2024/"><u>Learn the Free Techniques to Mute Audio in Windows 10 Videos for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/solutions-to-spy-on-motorola-moto-g73-5g-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>Solutions to Spy on Motorola Moto G73 5G with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-motorola-moto-g73-5g-for-parents-drfone-by-drfone-virtual-android/"><u>Top 10 Telegram Spy Tools On Motorola Moto G73 5G for Parents | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/top-3-safe-strategies-for-converting-youtube-videos-into-mp3-files/"><u>Top 3 Safe Strategies for Converting YouTube Videos Into MP3 Files</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-4-ways-to-trace-motorola-moto-g73-5g-location-drfone-by-drfone-virtual-android/"><u>Top 4 Ways to Trace Motorola Moto G73 5G Location | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-motorola-moto-g73-5g-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for Motorola Moto G73 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-6-appsservices-to-trace-any-motorola-moto-g73-5g-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>Top 6 Apps/Services to Trace Any Motorola Moto G73 5G Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-7-phone-number-locators-to-track-motorola-moto-g73-5g-location-drfone-by-drfone-virtual-android/"><u>Top 7 Phone Number Locators To Track Motorola Moto G73 5G Location | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-9-motorola-moto-g73-5g-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 Motorola Moto G73 5G Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/two-ways-to-track-my-boyfriends-motorola-moto-g73-5g-without-him-knowing-drfone-by-drfone-virtual-android/"><u>Two Ways to Track My Boyfriends Motorola Moto G73 5G without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-motorola-moto-g73-5g-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Motorola Moto G73 5G | Dr.fone</u></a></li>
+</ul></div>

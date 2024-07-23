@@ -1,7 +1,7 @@
 ---
 title: How to Check Distance and Radius on Google Maps For your Vivo X90S | Dr.fone
-date: 2024-03-27 15:48:11
-updated: 2024-03-28 16:50:21
+date: 2024-07-21T22:10:04.561Z
+updated: 2024-07-22T22:10:04.561Z
 tags: 
   - virtual location change
   - location track
@@ -10,7 +10,7 @@ categories:
 description: This article describes How to Check Distance and Radius on Google Maps For your Vivo X90S
 excerpt: This article describes How to Check Distance and Radius on Google Maps For your Vivo X90S
 keywords: track location,Location Track for X90S
-thumbnail: https://www.lifewire.com/thmb/xDM-B4zVSXt5n027L2C5oNwTDN8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/AIrendering_CROPPED_Guillaume_GettyImages-1418477818-d0a9c5ce09584a1099f21a5f1f690a88.jpg
+thumbnail: https://thmb.techidaily.com/5b8a360ae2beb8ae28dded746595b2ec0252b7304ad9ab12b451e3ff69d2619e.jpg
 ---
 
 ## How to Check Distance and Radius on Google Maps For your Vivo X90S
@@ -19,9 +19,15 @@ _“Is it possible to use Google Maps to calculate distance between multiple loc
 
 If you also wish to use the distance marker on Google Maps, then you might have a similar query like this. Apart from navigation, Google Maps can be used for different other applications as well. For instance, you can easily measure distance between two addresses on Google Maps. Besides that, you can also use the Google Maps distance radius feature to focus on a certain area. In this guide, I will let you know how to use Google location distance and radius features in detail.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<!-- affiliate ads end -->
 ![google maps distance radius 1](https://images.wondershare.com/drfone/2023/virtuallocation/google-maps-distance-radius-1.jpg)
 
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: Draw a Radius Circle on Google Maps
 
 You might already know that Google Maps provides a map of the entire world for us to navigate. Though, there are times when users like to draw a radius on Google Maps for a particular location. Presently, the native feature of Google Maps does not have a distance radius tool. Therefore, to draw a radius on Google Maps, you would have to use an application that has its own interface. One of them is Map Developers that is based on Google Maps and has simply provided a solution to draw a radius on the map.
@@ -33,6 +39,9 @@ You might already know that Google Maps provides a map of the entire world for u
 1. Now, just use the native feature of the map to zoom in to any location of your choice. You can also enter the name of the location that you are looking for in the search bar.
 2. Besides that, you can also enter details about the radius of the circle, its color, and so on. After entering all the needed details, click on the “New Circle” button and it will be reflected on Google Maps interface.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![google maps distance radius 3](https://images.wondershare.com/drfone/2023/virtuallocation/google-maps-distance-radius-3.jpg)
 
 If you want, you can later delete this circle or draw multiple circles in different colors to mark them in any location of your choice.
@@ -51,6 +60,9 @@ Consider the example of the circle tool of Map Developers that we have discussed
 
 If you know the exact longitude and latitude of the place, then you can also take the assistance of KML Circle Generator. In this, you would have to specify the exact coordinates of the place and the Google Maps distance radius value. After entering the relevant details, you can proceed and draw the radius distance on Google Maps.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![google maps distance radius 5](https://images.wondershare.com/drfone/2023/virtuallocation/google-maps-distance-radius-5.jpg)
 
 ## Part 3: Determine the Distance between two Addresses on Google Maps
@@ -63,14 +75,23 @@ This is one of the most resourceful features of Google Maps that a lot of people
 
 1. Now, once the source location is identified, you need to right-click it to get its context menu. From the available options on the context menu, click on “Measure Distance”.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![google maps distance radius 7](https://images.wondershare.com/drfone/2023/virtuallocation/google-maps-distance-radius-7.jpg)
 
 1. Afterward, just click anywhere else on the map and it will automatically find a straight line distance in Google Maps between these two spots.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<!-- affiliate ads end -->
 ![google maps distance radius 8](https://images.wondershare.com/drfone/2023/virtuallocation/google-maps-distance-radius-8.jpg)
 
 1. If you want to continue, then just click anywhere else on the map and that will be considered as the next spot. Therefore, you can just click as many times as you want to let Google Maps calculate distance between multiple locations.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![google maps distance radius 9](https://images.wondershare.com/drfone/2023/virtuallocation/google-maps-distance-radius-9.jpg)
 
 This technique will let you measure distance between any addresses on Google Maps. It doesn’t matter if it is your present location or not. If you want to measure distance in some other location, then just enter its name in the search bar to load it. In this way, you can measure distance anywhere in the world by sitting in your home.
@@ -91,6 +112,9 @@ This brings us to the end of this extensive guide on using Google Maps distance 
 
 **3981454** people have downloaded it
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## You Might Also Like
 
 ## Location-based apps
@@ -139,6 +163,9 @@ So, these are some signs which could suggest that your text message has been int
 
 Intercepting text messages is now very easy using a robust application which can intercept any device in some simple steps. Moreover, the application can be used with both iOS and Android devices.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
 ## Part 2: Intercepting text messages from both iOS and Android phones
 
 **mSpy:**
@@ -159,14 +186,28 @@ To start the process, buy mSpy that has to be installed on the target device. mS
 
 After you have received the installation procedures, install [mSpy](http://mspy.go2cloud.org/SH7G6) on the target device which will take a few minutes. Once the application is set up, it is going to work invisibly and the target user will never get to know that he is being monitored. The target phone will work normally and mSpy will not interfere in any of the applications installed on the target phone.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![intercept text messages-Install the application](https://images.wondershare.com/drfone/article/2016/11/14781234928456.jpg)
 
 Installing in Android
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
+
+ Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
+
+ DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
+ PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ![intercept text messages-Installing in Android](https://images.wondershare.com/drfone/article/2016/11/14781239566126.jpg)
 
 Installing on iOS
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![intercept text messages-Installing on iOS](https://images.wondershare.com/drfone/article/2016/11/14781241065208.jpg)
 
 **3\. Start monitoring**
@@ -209,6 +250,9 @@ Step 2: Now access the target device, once you opt for downloading, there you wi
 
 Step 3: After that, you will be allowed to open Control Panel. From there you can easily go for the process of tracking the target device remotely, under which you can have access to GPS locations, Messages, Call details, and lot more. That you can access from anywhere, such as your system, mobile, laptop, etc.
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ![track a cell phone without them knowing-the mSpy Control Panel](https://images.wondershare.com/drfone/article/2017/11/15100180804204.jpg)
 
 Following the above simple steps will enable you to track a Cell Phone without them Knowing.
@@ -247,10 +291,16 @@ Step 3: Now swipe from bottom to end, click on the “Airdrop” option from the
 
 Step 4: Move to the target device, in the “Find my friends” app click the option “add”. Now your contact picture will get displayed. Click on your profile photo > select the option “Share indefinitely” to track a cell phone without them knowing.
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![track a cell phone without them knowing-Share indefinitely](https://images.wondershare.com/drfone/article/2017/11/15100183209840.jpg)
 
 Step 5: The target device location will be shared with you. You will get a pop-up window “Accept” it. It will again ask if you want to share location so, click on “Don’t share”.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<!-- affiliate ads end -->
 ![track a cell phone without them knowing-click Don’t share](https://images.wondershare.com/drfone/article/2017/11/15100183459135.jpg)
 
 Step 6: Now go to your device, open the “Find my friends” app and click the icon of the target device. You will get a notification, where they are now when they leave from the place etc.
@@ -259,8 +309,14 @@ Step 6: Now go to your device, open the “Find my friends” app and click the 
 
 Note: If you want to hide the “Find my friends” app from the target device you can use the dock method which will be easy but the folder method is very tough.
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![track a cell phone without them knowing-hide the Find my friends app](https://images.wondershare.com/drfone/article/2017/11/15100183889994.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 4: Frequently Asked Questions
 
 **1\. What is rooting? Does it have a warranty? Any rooting between Android and mSpy?**
@@ -292,3 +348,39 @@ We must tell you using mSpy and FlexiSPY are both one of the best methods to tra
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://discord-videos.techidaily.com/new-2024-approved-how-to-proficiently-use-screen-share-in-discord-channels/"><u>[New] 2024 Approved  How to Proficiently Use Screen Share in Discord Channels</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-perfect-phone-imaging-choose-the-best-camera-additions/"><u>[New] In 2024, Perfect Phone Imaging  Choose the Best Camera Additions</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-recording-sims-4-games-a-complete-beginners-guide/"><u>[New] Recording Sims 4 Games  A Complete Beginner's Guide</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-detailed-guide-to-free-screen-recorders/"><u>[Updated] In 2024, Detailed Guide to Free Screen Recorders</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-nokia-c32-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Nokia C32 Activity | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-nokia-g22-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Nokia G22 Activity | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-nokia-g310-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Nokia G310 Activity | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-nokia-g42-5g-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Nokia G42 5G Activity | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-nokia-xr21-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Nokia XR21 Activity | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-nubia-red-magic-8s-pro-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Nubia Red Magic 8S Pro Activity | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-nubia-red-magic-8s-proplus-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Nubia Red Magic 8S Pro+ Activity | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-nubia-red-magic-9-pro-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Nubia Red Magic 9 Pro Activity | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-nubia-red-magic-9-proplus-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Nubia Red Magic 9 Pro+ Activity | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-nubia-z50-ultra-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Nubia Z50 Ultra Activity | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-nubia-z50s-pro-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Nubia Z50S Pro Activity | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-oneplus-11-5g-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor OnePlus 11 5G Activity | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-oneplus-11r-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor OnePlus 11R Activity | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-oneplus-12-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor OnePlus 12 Activity | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-oneplus-12r-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor OnePlus 12R Activity | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-oneplus-ace-2-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor OnePlus Ace 2 Activity | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-oneplus-ace-2-pro-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor OnePlus Ace 2 Pro Activity | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-oneplus-ace-2v-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor OnePlus Ace 2V Activity | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-oneplus-ace-3-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor OnePlus Ace 3 Activity | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-oneplus-nord-3-5g-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor OnePlus Nord 3 5G Activity | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-oneplus-nord-ce-3-5g-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor OnePlus Nord CE 3 5G Activity | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-oneplus-nord-ce-3-lite-5g-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor OnePlus Nord CE 3 Lite 5G Activity | Dr.fone</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/2024-approved-eye-catching-creative-pfp-ideas-for-tiktok-stars/"><u>2024 Approved  Eye-Catching, Creative PFP Ideas for TikTok Stars</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/easy-gaming-memories-start-recording-now-for-2024/"><u>Easy Gaming Memories  Start Recording Now for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-vivo-y100-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Vivo Y100 Without Password | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-catch-or-beat-sleeping-snorlax-on-pokemon-go-for-itel-a70-drfone-by-drfone-virtual-android/"><u>In 2024, Catch or Beat Sleeping Snorlax on Pokemon Go For Itel A70 | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-cutting-edge-5-home-movie-maker/"><u>In 2024, Cutting-Edge 5 Home Movie Maker</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-split-your-wmv-videos-for-free-top-5-tools-for-2024/"><u>New Split Your WMV Videos for Free Top 5 Tools for 2024</u></a></li>
+</ul></div>
