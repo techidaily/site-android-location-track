@@ -1,0 +1,507 @@
+---
+title: In 2024, Top 4 Ways to Trace Poco X5 Location | Dr.fone
+date: 2024-08-25T06:09:34.354Z
+updated: 2024-08-26T06:09:34.354Z
+tags: 
+  - virtual location change
+  - location track
+categories:
+  - android
+description: This article describes Top 4 Ways to Trace Poco X5 Location
+excerpt: This article describes Top 4 Ways to Trace Poco X5 Location
+keywords: track location,Location Track for X5
+thumbnail: https://thmb.techidaily.com/4615a0815eaaaa9b22c58e4b20231144a4af2f1f5af9f2c94189c8d2595dadf6.jpg
+---
+
+## Top 4 Ways to Trace Poco X5 Location
+
+Have you ever wondered about keeping a track of where your children and family members are, where they are going, are they safe? Or if traveling, then, being in contact with your friends and colleagues. Then definitely this article comes out with a remedy to all of your queries regarding the process for how to trace a phone location so that you will keep your mind calm against the security of your loved and dear ones.
+
+Keep on reading, as the following article will assist you to choose the right tracking method for how to trace a mobile phone.
+
+- **You may be interested in: [Virtual Location - the most trustworthy way to fake GPS on iPhone/Android devices](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/).**
+
+## Part 1: How to trace a phone with mSpy?
+
+[mSpy](http://mspy.go2cloud.org/SH7G6) is highly intended for legal monitoring. This will serve as the best solution for “how to trace a phone”? Steps to use the software are as follows:
+
+Step 1: Get them Spy app. Download and install mSpy from the website directly ( [https://www.mspy.com/](http://mspy.go2cloud.org/SH7G6)). Choose the subscription plan and complete the order form.
+
+![how to trace a cell phone with mSpy-install mSpy](https://images.wondershare.com/drfone/article/2017/11/15096681293188.jpg)
+
+Step 2:Provide valid email addresses and receive email installation procedures.
+
+Step 3: Now install the app and wait for the completion of setup.
+
+![how to trace a cell phone with mSpy-install and set up](https://images.wondershare.com/drfone/article/2017/11/15096681544965.jpg)
+
+Step 4: Before proceeding, ensure you can access the Poco X5 device physically. Go to inbox to view the confirmation mail with login information.
+
+![how to trace a cell phone with mSpy-access the Poco X5 device](https://images.wondershare.com/drfone/article/2017/11/15096888659365.jpg)
+
+Step 5: Now you can start the process of how to trace a cell phone.
+
+![how to trace a cell phon with mSpye-start the process](https://images.wondershare.com/drfone/article/2017/11/15096887687020.jpg)
+
+Step 6: After completion of the installation process, mSpy will start to trace out the activities on the target device of a kid or an employee. Furthermore, you can view and manage the information directly from the web and learn how to trace a cell phone.
+
+![how to trace a cell phone with mSpy-view and manage the information](https://images.wondershare.com/drfone/article/2017/11/15096682305397.jpg)
+
+## Part 2: How to Trace Phone Using Android Device Manager?
+
+If you ask, how to trace a mobile phone through Android, the Android device manager will help you to locate mobile in the easiest way.
+
+Step 1: Download the android device manager and install it on your iPhone if you don’t have the default Android device manager.
+
+![how to trace a cell phone-Download and install](https://images.wondershare.com/drfone/article/2017/11/15096682617611.jpg)
+
+Step 2: Open up settings. Choose Google. Now go to Security and choose Android device manager.
+
+![how to trace a cell phone-go to Security](https://images.wondershare.com/drfone/article/2017/11/15096890142480.jpg)
+
+Step 3: Enable remotely locate the Poco X5 device and allow remote lock and erase.
+
+![how to trace a cell phone-allow remote lock and erase](https://images.wondershare.com/drfone/article/2017/11/15096685535891.jpg)
+
+Step 4: When you move on to the android device manager, check the enable status and then visit android.com/device manager. Log in to your Gmail account.
+
+![how to trace a cell phone-Log in to Gmail account](https://images.wondershare.com/drfone/article/2017/11/15096895055659.jpg)
+
+After doing the above settings, this tool will assist you to locate the phone.
+
+![how to trace a cell phone-Android Device Manager](https://images.wondershare.com/drfone/article/2017/11/15096892277102.jpg)
+
+![how to trace a cell phone-assist you to locate](https://images.wondershare.com/drfone/article/2017/11/15096686348162.jpg)
+
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
+## Part 3: How to trace iPhone with Find My iPhone?
+
+Find My iPhone will allow you to trace out the lost and stolen Apple device. Besides this, you can also wipe private information so device data does not fall into the wrong person’s hand. It works on both web and the app.
+
+Steps to Enable Find My iPhone:
+
+1\. Install the settings and just click on “Apple ID” to trace your phone.
+
+2\. Click on “iCloud” move down and choose the option “Find My iPhone”.
+
+3\. Then enable the “Find My iPhone” option.
+
+![how to trace a cell phone- enable Find My iPhone option](https://images.wondershare.com/drfone/article/2017/11/15096686679806.jpg)
+
+What is the procedure to access Find My iPhone online?
+
+If you have a device or computer, you can trace out your missed iPhone, IPad on the web.
+
+Step 1: Access iCloud.com on the internet and log in to the account respectively
+
+Step 2: Now choose the option “Find my iPhone” at the menu and enter the Apple ID.
+
+Step 3: After the entry of Apple ID sign in to the account and now choose the target device to track your iPhone.
+
+![how to trace a cell phone-choose the target device](https://images.wondershare.com/drfone/article/2017/11/15096686909511.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<!-- affiliate ads end -->
+Lost mode: Music will alert the person who has your iPhone.
+
+![how to trace a cell phone-Lost mode](https://images.wondershare.com/drfone/article/2017/11/15096687605089.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Part 4: How to Trace out Cell Phone Using GPS Tracker?
+
+If your phone was lost, you can make use of GPS technology to track out the phone. Install the GPS Tracker into the target phone. With the presence of a GPS App on phone, hereafter, you can trace out the call history.GPS not only gives detail about call history but also everything like messages, browsing history, location, etc. Just download and install GPS into the target phone and every detail is in your hand after the installation of GPS.
+
+![how to trace a cell phone-use GPS Tracker](https://images.wondershare.com/drfone/article/2017/11/15096687951412.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<!-- affiliate ads end -->
+The perfect real-time GPS tracker you have never used this kind of feature. It gives a battery life for two weeks and you can access it from anywhere. You can’t miss any alerts and notifications once you installed them on your iPhone. The exact geo-fencing is wide up as the main part to trace your iPhone.
+
+It is cost-effective and you will not interrupt in any less frequency signal. Learn to know how to trace a cell phone:
+
+Step 1: Log on to the GPS tracker and you will display it with the icon.
+
+Step 2: You can find out the cell phone activity at all 24\*7 and you will come to know about the lost phone.
+
+Step 3: You will get a text message to the user's phone with the location traced.
+
+![how to trace a cell phone-get a text message to the user phone](https://images.wondershare.com/drfone/article/2017/11/15096688239555.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
+Link: <https://play.google.com/store/apps/details?id=com.fsp.android.c&hl=en>
+
+Note: GPS tracks the mobile instantly as per your requirements. That will help you to locate and trace the phone of your dear ones, thus you can become ensure their safety and protection.
+
+We have solid proof that the above methods are successful. Now it’s easy to track your cell phone at any time and at any cause. These methods are user-friendly and no technical knowledge is needed to implement. Trace your iPhone instantly and catch black sheep consciously.
+
+## How to Track a Lost Poco X5 for Free?
+
+A cell phone is a rather small device when compared to other things you may haul around on a daily basis such as a purse or wallet and even a bunch of keys. Hence, forgetting it somewhere or having it stolen is highly likely. However, with the increase in modern mobile technology, there are several apps that can help you track your lost cell phone’s whereabouts. But you’ve already paid a premium price for your cell phone, so what you really should do is learn how to track a lost phone for free?
+
+And if you haven’t done so already, you should also install apps whether paid or free that do more than GPS location tracking such as monitoring incoming and outgoing calls, text and multimedia messages. So if you’re wondering how to track your lost phone for free, we’ve got a few solutions that will help you do just that, and others that bring to the table a wide range of great features.
+
+## Part 1: How to Track lost iPhone for Free?
+
+One of the noteworthy features of iPhones is that they tend to retain great value for many years to come hence they become a preferred choice for prying thieves. Further, they can be expensive for most budgets to begin with, so losing or misplacing your iPhone can cause a fair amount of heartache. Apple provides one of the best answers to how to track iPhones for free with its exclusive iCloud.
+
+But before we move ahead and explain how to track your lost phone for free with iCloud, we should tell you that it is limited in its cell location tracking and other features in that it will only send a message to the Poco X5 device, lock or erase it, and not provide records of information traffic going in and out of the Poco X5 device. Here’s how to track lost iPhones for free.
+
+Step 1. You will first need to ensure that the Find My iPhone feature is enabled on your device. This can be easily done by first launching the settings app on your iPhone, tapping on Apple ID at the top, and then iCloud and then Find My iPhone. Lastly, tab to enable it.
+
+![track your lost phone for free with iCloud](https://images.wondershare.com/drfone/article/2017/10/15080421681564.jpeg)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
+Step 2. Now it’s time to hit the cloud—iCloud we mean! First things first—head to <www.iCloud.com> from any browser and login with your credentials. From the dashboard, click on Find iPhone in the second row and enter your Apple ID and password if prompted. Since you may have several Apple devices connected with the same iCloud account, click on All Devices at the top, and select the Poco X5 device you wish to track from the dropdown.
+
+![Track lost iPhone for free-click on Find iPhone and All Devices](https://images.wondershare.com/drfone/article/2017/10/15080422049397.jpeg)
+
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
+<!-- affiliate ads end -->
+Step 3. That’s really all there is to it! Once you select your device, you can do one of three things—play sound, activate lost mode or erase the Poco X5 device to prevent compromise of information.
+
+![Track lost iPhone for frees-start to track](https://images.wondershare.com/drfone/article/2017/10/15080422409247.jpeg)
+
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
+## Part 2: How to Track Lost Android Mobile Location?
+
+If you’ve misplaced your Poco X5 cell phone, have no fear, because there are few ways to help you track its location. There are a few things to do before you can begin tracking an Android device such as have an active and connected Google account (something you already set up when you bought the Poco X5 device), and locations services on the Poco X5 device enabled. Even though your mobile manufacturer may offer their own exclusive solution to track your phone, Google’s Find My Device (formerly Android Device Manager) is probably the most easiest and trusted way to go with. Here’s how to track your lost phone with Google’s ADM.
+
+Step 1. Most latest Android phones are already equipped with the Find My Service, but if you’re missing it, you can download it from the Google Play Store. Click start, tap security, and then device administration.
+
+![Track Lost Android Mobile Location with Google’s ADM-install Find My Service](https://images.wondershare.com/drfone/article/2017/10/15080422869617.jpeg)
+
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
+Step 2. Next, tap Find My Device, and check the box besides it. Tap the back button once and then again to return to the main settings menu.
+
+![Track Lost Android Mobile Location-return to the main settings menu](https://images.wondershare.com/drfone/article/2017/10/15080423235837.jpeg)
+
+Step 3. To turn location services on, tap locations in the settings menu, tap mode so its turns green and then select high accuracy.
+
+![Track with Google’s ADM-turn location services on](https://images.wondershare.com/drfone/article/2017/10/15080423753576.jpeg)
+
+Step 4. From the same window, tap Location History and turn it on and subsequently tap the button beside your device name to activate.
+
+![Track with Google’s ADM-activate the Poco X5 device](https://images.wondershare.com/drfone/article/2017/10/15080424126895.jpeg)
+
+Step 4. When you need to locate your device, type find my device in a web browser and select what usually is the first link. Enter your email and password associated with your device account, and you will be presented with a dashboard, from where you can send an audible tone to your device even if it were on silent, lock your phone or erase it.
+
+![Track with Google’s ADM-locate your device](https://images.wondershare.com/drfone/article/2017/10/15080424492002.jpeg)
+
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
+## Part 3: How to Track Mobile Phone via Spyera?
+
+Sometimes however, you will want to do a lot more than track a device such as knowing if your employees are misusing your business cellular plan or your kids are sending and receiving obscene multimedia messages from different chat applications including WhatsApp. So if you’re wondering how to track a lost phone and also access these premium features, two names immediately come to mind—Spyera and mSpy.
+
+[Spyera](https://spyera.com/) is an award winning software and is compatible with both Android and iOS devices. It is available in a choice of two plans—Monthily and Annual plans, and offers myriad features apart from GPS location tracking including the ability to browse contacts, access calendar, read notes and reminders view installed apps, check browser history and track both text and multimedia messages, all from a remote location.
+
+![Track Mobile Phone via Spyera](https://images.wondershare.com/drfone/article/2022/03/clone-phone-number-spyera.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
+## Part 4: How to Track someone’s Phone via mSpy?
+
+[mSpy](http://mspy.go2cloud.org/SH7G6) is similar to [Spyera](https://spyera.com/) in the features it offers, and is hailed as the best parental monitoring software available. It too offers several premium features including the ability to manage calls, read emails, monitor internet use and of course track GPS location in real time. When it comes to plans, mSpy offers you three plans to choose from namely Basic, Premium and Bundle Kit.
+
+Step 1. After you’ve selected the best plan for your needs, you will have to register the software.
+
+![Track someone’s Phone via mSpy-register the software](https://images.wondershare.com/drfone/article/2017/10/15080426397756.jpg)
+
+Step 2. Next, install and set it up on the target device, and then access the dashboard to begin tracking.
+
+![Track someone’s Phone via mSpy-access the dashboard to begin tracking](https://images.wondershare.com/drfone/article/2017/10/15080426725286.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<!-- affiliate ads end -->
+[mSpy](http://mspy.go2cloud.org/SH7G6) also offers the ability to setup a virtual fence, and alerts you automatically when those parameters have been breached, allowing you to see detailed records of where your cell phone is wandering.
+
+![Track someone’s Phone via mSpy-see detailed records](https://images.wondershare.com/drfone/article/2017/10/15080427082157.jpg)
+
+When it comes to finding a solution to locating your cell phone in the event it goes missing, you will be spoilt for choice with the number of options available. But we've given you 4 premium answers to how to find cell phone including some app that go above and beyond simply displaying your device's GPS location.
+
+
+
+## How Do I Stop Someone From Tracking My Poco X5?
+
+It has now become very easy to track a Smartphone using the GPS features of the phone. This can be done by tracking the phone number based on information derived from mobile carriers and also from the GPS chip on the phone which is used by certain apps in order to function well.
+
+You may not want your GPS location tracked by anyone or by apps on your device. When playing games like Pokémon Go, the geo-location data on your device is used to pinpoint where you are for purposes of gameplay. In the same manner, malicious people can track you same way. Here you will learn how to stop someone from tracking your phone in simple and easy ways.
+
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Part 1: How do people track your phone?
+
+There are several ways in which people can track the location of your phone. This can be risky at times, especially if you have a stalker. These are the common ways in which people track phones:
+
+GPS location: all Smartphones come with a GPS chip, which continually gives the GPS location of your device. This is great for several features to work on the phone, but it can also be exploited by malicious people. The GPS location is also used to find lost devices or persons who are challenged in finding directions and may get lost. Therefore the GPS chip function is a double-edged sword.
+
+IMEI information: This is information that can be tracked using data that is found on your mobile provider's servers. This is the information that law enforcers use to track crooks, and rescue teams use to track people lost in disaster zones. The IMEI gets recorded when your mobile device pings off mobile transmission towers that are nearby
+
+The apps that are used by people to track mobile devices will track one of these two features. If you do not want to be tracked, then you have to find ways in which to disable these functions.
+
+The sections below will show you how to stop someone from tracking your iPhone with ease.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
+## Part 2: How to stop my iPhone from being tracked?
+
+If you have an iPhone, the following methods can be used to stop someone from tracking your device
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+</a>
+<!-- affiliate ads end -->
+### 1) Use [Dr.Fone - Virtual Location(iOS/Android)](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+
+This is a tool that you can use to change the virtual location of your device(iOS or Android). The tool comes with powerful features that enable you to teleport to any part of the world within an instant, and even start to move around a map as if you were physically in the area.
+
+
+
+### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+
+1-Click Location Changer for both iOS and Android
+
+- Teleport from one location to another across the world from the comfort of your home.
+- With just a few selections on your computer, you can make members of your circle believe you’re anywhere you want.
+- Stimulate and imitate movement and set the speed and stops you take along the way.
+- Compatible with both iOS and Android systems.
+- Work with location-based apps, like [Pokemon Go](https://drfone.wondershare.com/virtual-location/pokemon-go-spoofing-ios.html), [Snapchat](https://drfone.wondershare.com/virtual-location/fake-snapchat-location.html), [Instagram](https://drfone.wondershare.com/virtual-location/how-to-change-region-on-instagram.html), [Facebook](https://drfone.wondershare.com/virtual-location/fake-location-on-facebook.html), etc.
+
+**3981454** people have downloaded it
+
+This could be especially useful when you want to trick the people tracking your device that you are actually in the teleport location. The beauty of the app is that you can permanently teleport to another place and stay there for as long as you like.
+
+In order to see how to use dr. fone to teleport your device to another location, you can view the following video guide and click the button below to have a try, [more user tutorials on this page](https://drfone.wondershare.com/guide/teleport-mode.html).
+
+[Try It Free](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/)[Try It Free](https://download.wondershare.com/drfone_virtual_location_full7585.dmg)
+
+**4,039,074** people have downloaded it
+
+<iframe allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/FfhgWxnARqo"></iframe>
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<!-- affiliate ads end -->
+### 2) Disable Significant Locations on iPhone
+
+- Start by launching "Settings" from your Home screen
+- Next, tap on "Privacy"
+- At the top of the screen, tap "Location Services"
+- Now tap on "System Services" which is found at the bottom of the list
+
+- After that, tap on "Significant Locations"
+- Proceed and enter your Passcode, Touch ID or Face ID depending on the security settings on your iPhone
+
+- Finally, toggle the "Significant Locations" to the "OFF" position. The switch will turn grey, indicating that the service has been turned off.
+
+### 3) Turn off location tracking of specific apps
+
+You may turn off location tracking for specific apps that you feel might be used to track your position. This is how you go about turning them off.
+
+- Start off by entering the "settings" app from your Home Screen
+- Now go down and tap on "Privacy"
+- From here select "Location services"
+- Now go to the listing for the app and then select it. You will see three choices: "Never", "While Using the App" and "Always"
+- Make your choice and the Location Services for the app will be switched off.
+
+![how to disable location tracking for specific apps on iPhone](https://images.wondershare.com/drfone/2020/disable-location-tracking-iphone-3.jpg)
+
+### 4) Disable Share My Location service
+
+- Access the "settings" app from your Home Screen
+- Go down the list and then tap on "Privacy"
+- Scroll down and go to the "Locations Services"
+- Now choose the "Share My Location" option
+
+![Disable Share My Location on iPhone](https://images.wondershare.com/drfone/2020/disable-location-tracking-iphone-4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
+- Now toggle the button to the right to turn it into the "OFF" position
+
+### 5) Disable location-based notifications or alerts
+
+Navigate to the "Settings" app on your Home screen
+
+Scroll down the list until you get to the "Privacy" option; tap on it
+
+At the top of the screen, tap on "Location Services" as you did before
+
+Now scroll down the list and click on the "System services" option
+
+![select System Services option](https://images.wondershare.com/drfone/2020/disable-location-tracking-iphone-5.jpg)
+
+Toggle the button on the right side of "Location-Based Alerts" into the "OFF" position
+
+![Toggle Location-Based Alerts to the “Off” position](https://images.wondershare.com/drfone/2020/iphone-disable-location-based-alerts-6.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
+## Part 3:How to stop my android from being tracked
+
+You also need to know how to stop Google from tracking your Poco X5. This feature can be used to track your device through other apps.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
+### 1) Stop Google Tracking on Android device
+
+- Access the "settings" app on your Home screen
+- Now check your accounts until you find the "Google Account" option
+- Tap on it and then scroll down to the "Manage Your Data & Personalization" option and tap on it
+- You will find "Activity Controls" where you can pause or turn off the service altogether.
+- If you want tighter control of the tracking features, You can also scroll down until you get to "Manage Your Activity Controls"
+- Here you can delete all your past activity records so nobody can track you using your location history.
+
+### 2) Turn off Android Location Tracking
+
+Apart from stopping Google tracking on your device, you may also turn off Location tracking of other apps as shown below
+
+- Start by going to your "Settings" app and then choosing "Security & Location"
+- Scroll around and look for the "Use Location" option and then toggle it to the "OFF" position
+
+Many people would stop at this time and think that their location is fully turned off, but this is not the case. The Android device could still be tracked using IMEI, Wi-Fi, and many other sensors. To disable these, go to the "advanced" option and then toggle off the following features:
+
+Google Emergency Location Service. This is a service that tells emergency services where you are located when you dial the emergency service number.
+
+Google Location Accuracy. This is a GPS feature that uses the Wi-Fi address and other services to show your location.
+
+Google Location History. With this, you can switch off the collection of your location history.
+
+Google Location Sharing. This will turn off location sharing if you use it to connect with friends and family.
+
+### 3) Nord VPN
+
+Nord VPN is a great tool to fake your GPS location and stop people from tracking your phone. It works by masking your true IP address and then using servers in another location to fake your position. This tool is great for stopping people from tracking you using browser-based apps. It also does affect the GPS chip and stop it from transmitting your true location. Nord VPN has servers in countries all over the world, which means you can move your location to another continent to fool those who may be tracking you.
+
+![pokemon go spoofers iphone 8](https://images.wondershare.com/drfone/article/2019/09/pokemon-go-spoofers-iphone-8.jpg)
+
+### 4) Fake GPS Go
+
+This is an app that you can download to your android device from Google Play Store. It is safe and will not affect the normal functioning of your device. Simply get it from Google Play Store, install it, and launch it. When it is up and running, you have to use the map interface to pin the new location that you want to teleport to. Anyone who may be tracking you will instantly be fooled that you are in the new location. You may also move around using the Joystick feature just as if you are on the ground in the teleport location.
+
+**How to use Fake GPS Go**
+
+- From the "Settings" app, navigate down to "About Phone" and then tap on "Build Number" seven times in order to enable the "Developer Options".
+
+![android pokemon go spoofing 4](https://images.wondershare.com/drfone/article/2019/09/android-pokemon-go-spoofing-4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+- Launch Fake GPS go and the grant it the required access. Go back to "Developer Options" and then go down until you find Fake GPS Go. Toggle it to the "ON" position.
+- Now go back to "Mock Location App" and then choose Fake GPS Go. You will now be able to fake your location and stop people from tracking your device.
+
+![android pokemon go spoofing 5](https://images.wondershare.com/drfone/article/2019/09/android-pokemon-go-spoofing-5.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
+- To actually change the virtual location of your device, launch Fake GPs Go once more and then access the map interface. Choose a location far from your actual location and then pin it as your "real" location. This will instantly show that you have moved to this new location and throw off people who are tracking your Poco X5.
+
+![android pokemon go spoofing 6](https://images.wondershare.com/drfone/article/2019/09/android-pokemon-go-spoofing-6.jpg)
+
+### 5) Fake GPS Free
+
+This is yet another tool that you can use to fake your GPS location and fool people who may be trying to track your Poco X5. The tool is quite light and does not use up system resources making it safe and easy to use.
+
+- Begin by unlocking the developer options just like you did in the step above. Then proceed to Google Play Store and download and install Fake GPs free.
+- Go to "Settings > Developer options > Mock Location App". Here you will select Fake GPS Free and then grant it the necessary permissions on your device.
+
+![android pokemon go spoofing 7](https://images.wondershare.com/drfone/article/2019/09/android-pokemon-go-spoofing-7.jpg)
+
+- Return to your Home screen and the Launch Fake GPS free. Access the map interface and then check for a location far from your actual position. You may even zoom in and better pinpoint a new location.
+- You will get a notification once you have successfully spoofed your location. You may now close the app and it will still work in the background ensuring that your location stays permanent in the new area you selected.
+
+![android pokemon go spoofing 8](https://images.wondershare.com/drfone/article/2019/09/android-pokemon-go-spoofing-8.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
+## In Conclusion
+
+If you want to stop Google from tracking your location, these are the methods that you should use to turn off your GPS location on both iOS and Android. You need to know that you are safe all the time and this is a step that you should take when you feel like you are being tracked for nefarious reasons. However, you should do this with caution as the information can also be used in a beneficial manner. The best option is to turn on the GPS when you need it and then turn it off when you do not, or use an iOS spoofing tool.
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-secrets-to-successful-twitpicingvideos-included/"><u>[New] 2024 Approved  Secrets to Successful Twitpicing—Videos Included</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-masterful-video-cropping-elevate-your-content-game-on-instagram/"><u>[New] Masterful Video Cropping  Elevate Your Content Game on Instagram</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-identifying-your-one-of-a-kind-tiktok-sequence/"><u>[Updated] Identifying Your One-of-a-Kind TikTok Sequence</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-quicktweet-clip-iphone-friendly-video-download-tool-for-2024/"><u>[Updated] QuickTweet Clip  IPhone-Friendly Video Download Tool for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-to-get-your-keyboards-missing-letters-back-on-track-for-windows-10-and-11-users/"><u>Expert Tips to Get Your Keyboard's Missing Letters Back on Track for WINDOWS 10 & 11 Users!</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-poco-m6-pro-5g-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Poco M6 Pro 5G Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-c110-by-fonelab-android-recover-photos/"><u>How to recover deleted photos from C110.</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-remove-find-my-iphone-without-apple-id-on-your-apple-iphone-15-by-drfone-ios/"><u>How to Remove Find My iPhone without Apple ID On your Apple iPhone 15?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-nokia-130-music-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Nokia 130 Music Phone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-honor-x8b-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track Honor X8b without App | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-infinix-hot-30-5g-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track Infinix Hot 30 5G without App | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-infinix-hot-30i-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track Infinix Hot 30i without App | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-infinix-smart-8-pro-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track Infinix Smart 8 Pro without App | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-itel-p40plus-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track Itel P40+ without App | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-itel-p55-5g-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track Itel P55 5G without App | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-itel-p55plus-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track Itel P55+ without App | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-itel-p55t-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track Itel P55T without App | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-itel-s23plus-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track Itel S23+ without App | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-nubia-red-magic-8s-pro-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track Nubia Red Magic 8S Pro without App | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-nubia-red-magic-8s-proplus-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track Nubia Red Magic 8S Pro+ without App | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-nubia-z50-ultra-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track Nubia Z50 Ultra without App | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-poco-c51-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track Poco C51 without App | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-poco-c55-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track Poco C55 without App | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-poco-c65-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track Poco C65 without App | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-poco-f5-pro-5g-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track Poco F5 Pro 5G without App | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-poco-x5-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track Poco X5 without App | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-tecno-camon-20-premier-5g-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track Tecno Camon 20 Premier 5G without App | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-tecno-camon-20-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track Tecno Camon 20 without App | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-tecno-pova-5-pro-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track Tecno Pova 5 Pro without App | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-oppo-k11-5g-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From Oppo K11 5G to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-zte-axon-40-lite-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked ZTE Axon 40 Lite Phone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-google-pixel-7a-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Google Pixel 7a | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-visual-narrative-crafting-your-podcasts-brand-image/"><u>In 2024, The Visual Narrative  Crafting Your Podcast's Brand Image</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-9-honor-magic-vs-2-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>In 2024, Top 9 Honor Magic Vs 2 Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-video-brand-enhancement-embedding-logoswatermarks-for-youtube-shows/"><u>In 2024, Video Brand Enhancement  Embedding Logos/Watermarks for YouTube Shows</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-realme-note-50-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Realme Note 50? Fixed | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/pausecapture-stop-and-save-live-image-for-2024/"><u>PauseCapture  Stop & Save Live Image for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/simplify-your-content-creation-mobile-friendly-youtube-channel-setup-guide/"><u>Simplify Your Content Creation  Mobile-Friendly YouTube Channel Setup Guide</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlock-your-oppo-find-n3-flip-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your Oppo Find N3 Flip Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+</ul></div>
