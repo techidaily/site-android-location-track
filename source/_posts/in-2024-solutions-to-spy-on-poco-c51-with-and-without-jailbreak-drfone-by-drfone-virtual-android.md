@@ -1,7 +1,7 @@
 ---
 title: In 2024, Solutions to Spy on Poco C51 with and without jailbreak | Dr.fone
-date: 2024-09-03T13:55:36.032Z
-updated: 2024-09-04T13:55:36.032Z
+date: 2024-09-08T02:44:52.898Z
+updated: 2024-09-09T02:44:52.898Z
 tags: 
   - virtual location change
   - location track
@@ -30,16 +30,40 @@ Step 1: Begin by activating iCloud Backup on the target device. Go to Settings a
 
 ![Spy on iPhone without Jailbreak-activate iCloud Backup](https://images.wondershare.com/drfone/article/2017/10/15079744896475.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step 2: The first step is to create an account with mSpy. You can then purchase a subscription based on the type of information you need from the target device and the duration you want to spend spying on the Poco C51 device.
 
 ![Spy on iPhone without Jailbreak-create an account with mSpy](https://images.wondershare.com/drfone/article/2017/10/15079746911961.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step 3: Once you’ve registered and purchased the subscription, you will receive an email from mSpy with all the information you need to install the program.
 
 Step 4: You can then log in to your [mSpy](http://mspy.go2cloud.org/SH7G6) control panel and add the Apple ID and password of the Poco C51 device to gain access to the information you need on the Poco C51 device.
 
 ![Spy on iPhone without Jailbreak-log in to your mSpy control panel](https://images.wondershare.com/drfone/article/2017/10/15079748088200.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: How to Spy using Spyware that Requires a Jailbreak
 
 Being able to spy on an iPhone without a jailbreak is not something that happens often. This is because unlike mSpy, most monitoring software will require you jailbreak the Poco C51 device before you can install the software. One of those apps is TruthSpy. Like mSpy, this app will allow users to see all types of data on the target device without the owner of the Poco C51 device knowing they are being monitored. The only problem is, you need to have access to the Poco C51 device to jailbreak it. If this is what you prefer or are unable to get access to mSpy, TruthSpy will work just fine. Here’s how to use it.
@@ -74,6 +98,12 @@ To know more and sign up on mSpy, visit [https://www.mspy.com/](http://mspy.go2c
 
 ![Phone Monitoring Apps-mSpy](https://images.wondershare.com/drfone/article/2017/10/15081775088395.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2135473/26400" target="_top" id="2135473">
+  <img src="//a.impactradius-go.com/display-ad/26400-2135473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135473/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Features:**
 
 - Spies on WhatsApp, e-mails, SMS, call logs, location, etc.
@@ -91,6 +121,18 @@ To know more and sign up on mSpy, visit [https://www.mspy.com/](http://mspy.go2c
 - Calls cannot be recorded for evidence.
 - The app needs to be downloaded on the target device.
 
+<!-- affiliate ads begin -->
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: Highster Mobile
 
 Highster Mobile is a cell phone monitor App to track text messages and other activities on Android/iPhone. It allows users to read and review messages, call logs, etc. Using this App is extremely simple and does not require you have the target device with you. It secretly monitors cell phones remotely and virtually. It remains undetected and allows easy and quick spying on the target device. It requires rooting Android to monitor social Apps and needs you to have Apple ID and password to spy on non-jailbroken iPhones.
@@ -99,6 +141,12 @@ To know more, visit <http://www.highstermobilespy.com/>
 
 ![Phone Monitoring Apps-Highster Mobile](https://images.wondershare.com/drfone/article/2017/10/15081775552758.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Features:**
 
 - Retrieved deleted media files and text messages also.
@@ -116,12 +164,6 @@ To know more, visit <http://www.highstermobilespy.com/>
 - The user panel lacks certain features.
 - Lack of instructions on the interface.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 3: Flexispy
 
 FlexiSPY phone monitoring App is a cross-platform phone spy tool that offers solutions to track and monitor smartphone activities (digital and audio) easily. It is easy to install and use. It enables GPS location tracking and comes with a free Mobile Vier App to monitor another cell phone sitting far away from it. This software claims to have the expertise to spy on instant messaging Apps.
@@ -174,6 +216,12 @@ Visit <http://phonesheriff.com/parental.html> to know more.
 - Tedious and long installation process.
 - Websites cannot be blocked remotely.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2121331/18498" target="_top" id="2121331">
+  <img src="//a.impactradius-go.com/display-ad/18498-2121331" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121331/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 5: MobiStealth
 
 MobiStealth is a monitor App to keep track of your kids/spouse/employees. This software is available for PC and also as an App for real-time location tracking. It does not require the iPhone to be jailbroken or Android to be rooted. It has highly advanced surveillance features to track and gather information about others’ cell phones. It works 24/7 even when the target device is away from you.
@@ -183,10 +231,16 @@ To know more, visit <http://mobistealth.com/parental-control-software>
 ![Phone Monitoring Apps-MobiStealth](https://images.wondershare.com/drfone/article/2017/10/15082189186424.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975503">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 **Features:**
 
@@ -206,16 +260,10 @@ To know more, visit <http://mobistealth.com/parental-control-software>
 - Lacks demo guidelines.
 
 <!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="360" height="150" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Part 6: Mobile Spy Agent
 
@@ -243,10 +291,10 @@ Visit <http://www.mobilespyagent.com/> to know more.
 - Limited features and lacks online instructions.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Part 7: Spyera
 
@@ -257,10 +305,10 @@ Visit <https://spyera.com/> and know more.
 ![Phone Monitoring Apps-Spyera](https://images.wondershare.com/drfone/article/2017/10/15081777995796.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 **Features:**
 
@@ -278,12 +326,6 @@ Visit <https://spyera.com/> and know more.
 - Expensive and not preferred by many.
 - No live customer service.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
-  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 8: Screen Time Parental Control
 
 This phone monitoring App is a unique tool to analyze screen time spent by your kids on their smartphones. Also, set time limits for kids to use their devices. It manages time spent by kids on smartphones and tabs and controls kids’ activities without actually putting restrictions on them. Kids love this software too because it has fun features and activities.
@@ -293,16 +335,16 @@ To know more, visit <https://screentimelabs.com/>
 ![Phone Monitoring Apps-Screen Time Parental Control](https://images.wondershare.com/drfone/article/2017/10/15081778326970.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1982570">
-					<video width="360" height="150" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 **Features:**
 
@@ -320,12 +362,6 @@ To know more, visit <https://screentimelabs.com/>
 - Does not support blocking websites.
 - Does not support monitoring calls/ messages etc.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 9: Norton Family Premier
 
 This smartphone monitor App helps your family explore the web safely. It offers excellent filter tools and sends informative reports regarding whereabouts and kids’ activities. It also helps your kids balance time between studies and web browsing. It makes the web a safer place for your kids.
@@ -335,16 +371,10 @@ To know more, visit: <https://in.norton.com/norton-family-premier>
 ![Phone Monitoring Apps-Norton Family Premier](https://images.wondershare.com/drfone/article/2017/10/15082190365710.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="360" height="150" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 **Features:**
 
@@ -364,10 +394,22 @@ To know more, visit: <https://in.norton.com/norton-family-premier>
 
 The 9 Apps/software listed above are the best to monitor Android and iPhones. Evaluate their features, pros, and cons wisely and chose the App that best suits your needs. Also, lastly do not forget to share your views/comments in the section below. We would be happy to hear from you!
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Spy on Text Messages from Computer & Poco C51
 
 Do you suspect that your child is communicating with the wrong individuals? While cellphones are meant to give everyone the ability to communicate, their secretive nature can also nurture society’s ills, and children, especially teenagers can fall prey to these. Yet, as a parent, it can be very hard to monitor what your child is doing on your device. That’s why we thought it wise to share with you a few ways you can spy on someone’s text messages from your device or computer.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115915/19272" target="_top" id="2115915">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115915" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115915/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: How to Spy on text messages from another Android phone
 
 To spy on another android device’s text messages, you will need to install spy software on that device. One of the best monitoring programs for the task is eyeZy. It is affordable, easy to install, and above all gives you access to the target device’s text messages remotely. [EyeZy](https://www.eyezy.com/) can also provide you with a wealth of other information about the target device including call history, browsing history, and even GPS location.
@@ -382,12 +424,6 @@ Step 3: Once set up is complete, you can go to your eyeZy dashboard on any other
 
 ![Spy on Text Messages from another Android phone using eyeZy](https://images.wondershare.com/drfone/article/2022/03/spy-on-text-messages-eyezy.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2: How to Spy on text messages from another iPhone
 
 For iPhone users, one of the best spy apps to use is Auto Forward. This app allows users to spy on another iPhone without the target device’s owner knowing. It has a major advantage in that it allows the user to see all messages including those the owner of the Poco C51 device may have deleted. You can also see both sent and received messages.
@@ -402,18 +438,6 @@ Step 3: The app will automatically access all messages on the target device. It 
 
 ![Spy on text messages from another iPhone via Auto Forward](https://images.wondershare.com/drfone/article/2017/10/15074689453332.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 3: How to Spy on text messages from computer
 
 If you want to spy on someone else’s text messages on your computer, a monitoring program like [mSpy](http://mspy.go2cloud.org/SH7G6) might be a good choice. As one of the best spy apps in the business, mSpy gives you the ability to monitor any device both Android and iOS remotely from any computer. It is easy to install and will provide you with additional information about the target device including call history, browsing history, and even email tracking.

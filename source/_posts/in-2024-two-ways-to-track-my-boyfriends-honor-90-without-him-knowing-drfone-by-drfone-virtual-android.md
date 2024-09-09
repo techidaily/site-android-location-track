@@ -1,7 +1,7 @@
 ---
 title: In 2024, Two Ways to Track My Boyfriends Honor 90 without Him Knowing | Dr.fone
-date: 2024-09-03T13:58:24.534Z
-updated: 2024-09-04T13:58:24.534Z
+date: 2024-09-08T02:44:49.214Z
+updated: 2024-09-09T02:44:49.214Z
 tags: 
   - virtual location change
   - location track
@@ -13,6 +13,12 @@ keywords: track location,Location Track for 90
 thumbnail: https://thmb.techidaily.com/7c8eb4a6751ebbb720d8baa15eb6264cc6e760acb0b1ed4fef37387dcca189b5.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Two Ways to Track My Boyfriend's Honor 90 without Him Knowing
 
 How can I track my boyfriend’s phone? If you also have the same question, then this would be the last post you’ll read. A while back, I was a little suspicious of my boyfriend’s behavior and wanted to track my boyfriend’s phone. As I did some research, I discovered that even though there are lots of spying tools out there, only a handful of them yields the desired results. I handpicked two apps to track my boyfriend and they certainly met my expectations. Therefore, I have provided a stepwise tutorial to use them right here.
@@ -51,10 +57,22 @@ Since it runs in stealth mode, it allowed me to track my boyfriend’s phone wit
 
 ![track my boyfriend’s phone-sign up KidsGuard Pro ](https://images.wondershare.com/drfone/article/2022/03/create-an-account-for-clevguard.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 2\. Secondly, after buying the product, you need to download the KidsGuard Pro app on your target device. Please go to the My Products and Orders Management page and click "Setup Guide" to follow the instructions carefully and complete all settings on the target device.
 
 ![complete the settings](https://images.wondershare.com/drfone/article/2022/03/click-android-setup-guide.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120862/26400?prodsku=Saturn" target="_top" id="2120862">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120862" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120862/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 <iframe allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/kXtNaHFBoXo" id="video-iframe-t"></iframe>
 
 3\. Great! Now all you need to do is log in to your KidsGuard Pro account on their website using your account credentials. On the home page, you can access all the major information related to the Honor 90 device like its location, frequent callers, and more.
@@ -69,16 +87,16 @@ Since KidsGuard Pro is compatible with all the leading Android and iOS devices, 
 
 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5 Ways to Track Honor 90 without App
 
 The Find My Honor 90 app is a great addition to your iPhone, and as the name suggests helps you to not only track your phone in the event it is stolen, but also lock it so that it cannot be misused. But what if you don’ have the app installed? Does that mean that you have to bid adieu to your iPhone forever? Not really, because we are about to reveal to you 5 different ways to track your iPhone without app, so you can hopefully find your phone in the condition it went astray.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: Solution 1 – Apple’s iCloud to the rescue
 
 Take note that this solution will not work if you haven’t activated the Find My iPhone service when you set up your device. If you have, here’s how to go about it.
@@ -88,40 +106,40 @@ Step 1. Get started by heading over to iCloud, and logging in with your credenti
 ![sign in to iCloud](https://drfone.wondershare.com/images/article/2017/10/icloud.com-login.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 If you are greeted with the two factor authentication process, which asks you to insert a code that was sent to your devices, you can simply skip it by heading to the quick access link at the bottom.
 
 ![skip the two factor authentication process](https://images.wondershare.com/drfone/article/2017/10/15075180348414.jpg) ![head to the quick access link](https://images.wondershare.com/drfone/article/2017/10/15075180363658.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Step 2. From the dashboard, locate the Find iPhone icon on the second row and click on it.
 
 ![locate the Find iPhone icon](https://images.wondershare.com/drfone/article/2017/10/15075181495657.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step 3. Hover over to the All Devices dropdown menu and choose your iPhone.
 
 ![choose your iPhone](https://images.wondershare.com/drfone/article/2017/10/15075181861335.jpg)
 
 <!-- affiliate ads begin -->
-<span id="701707">
-					<video width="960" height="540" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Step 4. The tracking process will now begin, and you should be able to see it displayed on an interactive map if successful.
 
@@ -138,16 +156,16 @@ It’s no surprise that both Apple and the search giant are fond of gathering in
 ![head to the Google Timeline to track your iPhone](https://images.wondershare.com/drfone/article/2017/10/example-trip-google-timeline.png)
 
 <!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="125" height="125" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Step 2. Select the present date from the left hand panel.
 
@@ -155,12 +173,6 @@ Step 3. Scroll to the bottom of the timeline, and select the latest location upd
 
 Step 4. If your location is the same as your previous updates, your phone hasn’t moved so you go and get it from that location. Contrarily, if your phone has moved, you should contact authorities, and not go after the thief alone because you never know the type of person they are.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 3: Solution 3 - Using Google Photos to Track your iPhone
 
 If the above Google features do not work for you, the search giant has one more service that can help aka Google Photos.
@@ -171,6 +183,12 @@ Well, if you have the aforementioned prerequisites, head over to photos.google.c
 
 ![Use Google Photos to Track your iPhone](https://images.wondershare.com/drfone/article/2017/10/15075191479909.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 4: Solution 4. Have another iPhone? Use it to Track one that’s gone missing
 
 This method requires that you have Find My Friend enabled on both your missing iPhone and the one you’re going to use to track it. Good news is that starting from iOS 9, this feature is stock and will already be installed on the Honor 90 device.
@@ -185,26 +203,38 @@ Step 3. Once the tracking iPhone’s location is shared with your device, a popu
 
 ![use another phone to track the missing one](https://images.wondershare.com/drfone/article/2017/10/15075192666907.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step 4. When you’re ready to begin tracking, open up the Find My Friends app, click on their contact (your contact in this case) to see its exact location in real time.
 
+<!-- affiliate ads begin -->
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 5: Solution 5. Using mSpy to track an iPhone
 
 One of the biggest reasons of using [mSpy](http://mspy.go2cloud.org/SH7G6) is that you can do much more than just track your iPhone. With 25 features on tap, [mSpy](http://mspy.go2cloud.org/SH7G6) is geared towards keeping track of your iPhone as well as those using it. This remotely managed software is compatible with iOS, Windows and Mac OS, and can be easily accessed from any browser.
 
 ![Use mSpy to track an iPhone](https://images.wondershare.com/drfone/article/2017/10/15075194046097.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1993645">
-					<video width="360" height="150" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 It is designed for both home and commercial use, so whether you’d like to keep track of your kid’s text messages employee emails, mSpy can truly be your best friend. Things you can keep tabs on include instant messages such as from WhatsApp, emails, multimedia messages, incoming and outgoing calls and GPS locations.
 
 Speaking of GPS locations, here’s how to get started with tracking your iPhone using mSpy.
@@ -218,10 +248,10 @@ Step 2. Next open the confirmation email from your computer and click the link t
 ![go to the mSpy control panel dashboard](https://images.wondershare.com/drfone/article/2017/10/15075195078932.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Step 3. Simply follow the onscreen instructions to install mSpy on the Honor 90 device you wish to monitor.
 
@@ -229,6 +259,12 @@ Step 4. The interface is highly intuitive, so all the information you need is fe
 
 ![view the exact whereabouts of your phone by mSpy](https://images.wondershare.com/drfone/article/2017/10/15075195819649.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 There you go! Lost your iPhone? We've provided you with 5 different ways to locate it, and we hope that one of them could help you recover your device.
 
 ## Solutions to Spy on Honor 90 with and without jailbreak
@@ -248,18 +284,6 @@ Step 1: Begin by activating iCloud Backup on the target device. Go to Settings a
 
 ![Spy on iPhone without Jailbreak-activate iCloud Backup](https://images.wondershare.com/drfone/article/2017/10/15079744896475.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="540" height="540" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Step 2: The first step is to create an account with mSpy. You can then purchase a subscription based on the type of information you need from the target device and the duration you want to spend spying on the Honor 90 device.
 
 ![Spy on iPhone without Jailbreak-create an account with mSpy](https://images.wondershare.com/drfone/article/2017/10/15079746911961.jpg)
@@ -271,16 +295,16 @@ Step 4: You can then log in to your [mSpy](http://mspy.go2cloud.org/SH7G6) contr
 ![Spy on iPhone without Jailbreak-log in to your mSpy control panel](https://images.wondershare.com/drfone/article/2017/10/15079748088200.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="360" height="150" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Part 2: How to Spy using Spyware that Requires a Jailbreak
 
@@ -290,12 +314,6 @@ Step 1: Begin by performing a jailbreak on the target device. There are several 
 
 ![Spy using Spyware with jailbreak-Pangu software](https://images.wondershare.com/drfone/article/2017/10/15074779011456.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
-  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Step 2: Once the Honor 90 device is successfully jailbroken, create an account with TruthSpy, purchase a subscription and you will receive instructions on how to install the software on the jailbroken device.
 
 Step 3: You can then log in to TurthSpy with your log in information and access all types of data on the target iPhone from any bowser.
@@ -303,10 +321,16 @@ Step 3: You can then log in to TurthSpy with your log in information and access 
 ![Spy using Spyware with jailbreak-log in to TurthSpy](https://images.wondershare.com/drfone/article/2017/10/15079742762274.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Both mSpy and TruthSpy will provide you with all the information you need about the target device. The only difference is, you need to jailbreak the Honor 90 device if TruthSpy will be able to access it. Jailbreaking the
 
