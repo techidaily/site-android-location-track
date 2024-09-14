@@ -1,7 +1,7 @@
 ---
 title: Unveiling the Secrets of High-Performance Computing with Tom's Hardware
-date: 2024-09-08T02:44:46.850Z
-updated: 2024-09-09T02:44:46.850Z
+date: 2024-09-12T05:47:08.148Z
+updated: 2024-09-13T22:28:07.045Z
 tags:
   - desktop
 categories:
@@ -9,12 +9,6 @@ categories:
 thumbnail: https://cdn.mos.cms.futurecdn.net/CMyUNao9Cn3oB4ZopLuhke-320-80.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Destroy with Purpose: Compete in the Cutting Edge Sport of Server Smash - The World Championship, 2024 Edition
 
 The 2024 World Server Throwing Championship (WSTC) organizers are[calling for entrants](https://www.cloudfest.com/world-server-throwing-championship#server-reg) . Scheduled for March 19, the bare metal vs. raw power event is set to become a must-watch experience of the annual CloudFest conference.
@@ -31,24 +25,12 @@ The 2024 World Server Throwing Championship (WSTC) organizers are[calling for en
 
 ![Server throwing athletes](https://cdn.mos.cms.futurecdn.net/wtmZvaBCUd7W2J88EkoF6b-320-80.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: CloudFest)
 
  If we had to place a bet on the winner’s nationality, it would probably be Dutch, as the country where the sport seems to have become established. We discovered that some of the WTSC partners have already promoted server throwing in Dutch events. The winner of a Dutch national championship event[in 2022](https://dutchcloudcommunity.nl/agenda/summer-bbq-dutch-cloud-community-2022/) managed to fling a 10kg+ (22 pounds +) server 12.23 meters (over 40 feet).
 
  We think there is plenty of room for improvement on the 2022 winning throw. Remember, the world record distance for throwing a 16-pound shot put is nearly 75 feet. For another comparison, in the Swedish sport of Stångstörtning, a roughly 57-pound log is tossed, with the world record distance being 32 feet. Much will depend on how well-tuned and trained the WSTC 2024 athletes are…
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -59,14 +41,11 @@ The 2024 World Server Throwing Championship (WSTC) organizers are[calling for en
 
  The CloudFest 2024 event occurs at Europa-park in Rust,[Germany](https://www.tomshardware.com/pc-components/gpus/intel-submits-schematics-for-1nm-chip-fabs-in-germany-two-new-fabs-open-in-2027) , from March 18 to 24\. It is described as a must-attend event for anyone who works in[the cloud](https://www.tomshardware.com/reviews/cloud-computing-security,2829-2.html) , with a packed schedule featuring keynotes, panel discussions, masterclasses, networking events, and more. Only paying attendees can sign up for the chance to show off their server-throwing prowess. Tickets start at 499 euros.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -77,41 +56,26 @@ The 2024 World Server Throwing Championship (WSTC) organizers are[calling for en
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-decoding-the-usage-of-pfp-across-social-networks-including-tiktok/"><u>[New] 2024 Approved  Decoding the Usage of 'PFP' Across Social Networks, Including TikTok</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-converting-horizontals-for-igtv-tips-and-techniques-explored/"><u>[New] Converting Horizontals for IGTV  Tips & Techniques Explored</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-moonlight-mastery-a-photographers-guidebook-to-nighttime-imagery/"><u>[Updated] In 2024, Moonlight Mastery  A Photographer's Guidebook to Nighttime Imagery</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-unveiling-the-beginning-an-in-depth-guide-to-tracking-originality-on-insta/"><u>[Updated] In 2024, Unveiling The Beginning  An In-Depth Guide to Tracking Originality on Insta</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-navigating-the-changing-landscape-of-instagram-stories/"><u>[Updated] Navigating the Changing Landscape of Instagram Stories</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-infinix-note-30-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Infinix Note 30 Activity | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-premier-5-ios-backdrop-change-applications-for-iphones-x-8-7/"><u>2024 Approved  Premier 5 iOS Backdrop Change Applications for iPhones (X, 8, 7)</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/3-solutions-to-find-your-oppo-a78-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>3 Solutions to Find Your Oppo A78 Current Location of a Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-oneplus-ace-2v-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for OnePlus Ace 2V | Dr.fone</u></a></li>
-<li><a href="https://fox-info.techidaily.com/a-pictures-worth-a-thousand-dollars-online-top-photo-cloud-services-reviewed-for-2024/"><u>A Picture's Worth a Thousand Dollars Online  Top Photo Cloud Services Reviewed for 2024</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/cookiebot-revolutionizing-web-analytics-and-personalization-for-a-tailored-user-journey/"><u>Cookiebot: Revolutionizing Web Analytics and Personalization for a Tailored User Journey</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-update-and-download-of-canon-printerscanner-drivers-for-windows-users/"><u>Easy Update & Download of Canon Printer/Scanner Drivers for Windows Users</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/fixing-the-amazon-echo-online-connection-problems-a-comprehensive-guide/"><u>Fixing the Amazon Echo Online Connection Problems - A Comprehensive Guide</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-oneplus-nord-n30-se-drfone-by-drfone-virtual-android/"><u>How to Detect and Remove Spyware on OnePlus Nord N30 SE? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-samsung-galaxy-z-fold-5-drfone-by-drfone-virtual-android/"><u>How to Spy on Text Messages from Computer & Samsung Galaxy Z Fold 5 | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-infinix-smart-7-hd-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Infinix Smart 7 HD by Phone Number | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-oppo-a38-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Oppo A38 Location without Installing Software? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-oneplus-11-5g-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor OnePlus 11 5G Activity | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-xiaomi-redmi-a2plus-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Xiaomi Redmi A2+ Activity | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-3-ways-to-track-vivo-v27-pro-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Track Vivo V27 Pro without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-vivo-y55s-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for Vivo Y55s 5G (2023) | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-xiaomi-redmi-12-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for Xiaomi Redmi 12 5G | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-vivo-y27-5g-for-free-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track a Lost Vivo Y27 5G for Free? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-turn-off-google-location-to-stop-tracking-you-on-motorola-moto-g23-drfone-by-drfone-virtual-android/"><u>In 2024, How to Turn Off Google Location to Stop Tracking You on Motorola Moto G23 | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-turn-off-google-location-to-stop-tracking-you-on-nokia-g42-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Turn Off Google Location to Stop Tracking You on Nokia G42 5G | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-realme-gt-neo-5-se-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on Realme GT Neo 5 SE with and without jailbreak | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-nokia-c02-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Best Spy Watches For your Nokia C02 | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-lava-agni-2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Car Locator Apps for Lava Agni 2 5G | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/never-miss-a-beat-with-smart-planning-for-whatsapp-updates-on-key-occasions/"><u>Never Miss a Beat with Smart Planning for WhatsApp Updates on Key Occasions</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-unveiling-the-backbone-of-music-techniques-to-extract-and-adapt-rhythmic-structures-for-2024/"><u>New Unveiling the Backbone of Music Techniques to Extract and Adapt Rhythmic Structures for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-nokia-g310-drfone-by-drfone-virtual-android/"><u>Top 10 Best Spy Watches For your Nokia G310 | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-vivo-x100-pro-drfone-by-drfone-virtual-android/"><u>Top 10 Best Spy Watches For your Vivo X100 Pro | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-4-ways-to-trace-vivo-y56-5g-location-drfone-by-drfone-virtual-android/"><u>Top 4 Ways to Trace Vivo Y56 5G Location | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-5-tracking-apps-to-track-realme-gt-5-without-them-knowing-drfone-by-drfone-virtual-android/"><u>Top 5 Tracking Apps to Track Realme GT 5 without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/top-nintendo-switch-evaluation-unmatched-portability-for-gamers/"><u>Top Nintendo Switch Evaluation: Unmatched Portability for Gamers</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-troubleshooting-tips-for-preventing-the-outer-worlds-from-crashing-on-your-pc/"><u>Ultimate Troubleshooting Tips for Preventing The Outer Worlds From Crashing on Your PC</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-vivo-x90s-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Vivo X90S | Dr.fone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-steps-to-restore-visual-clarity-to-youtube-videos/"><u>[New] 2024 Approved Steps to Restore Visual Clarity to YouTube Videos</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-the-ultimate-7-fps-gaming-list/"><u>[New] The Ultimate 7 FPS Gaming List</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-top-10-best-sites-for-downloading-youtube-template-videos/"><u>[New] Top 10 Best Sites for Downloading YouTube Template Videos</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-haunting-shots-next-gen-action-hddc/"><u>[Updated] Haunting Shots Next-Gen Action HDDC</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-troubleshooting-excessive-obs-bitrate/"><u>[Updated] In 2024, Troubleshooting Excessive OBS Bitrate</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-ways-to-track-infinix-smart-8-pro-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track Infinix Smart 8 Pro without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/best-anti-tracker-software-for-realme-c53-drfone-by-drfone-virtual-android/"><u>Best Anti Tracker Software For Realme C53 | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/expert-insights-on-maximizing-productivity-the-docked-steam-deck-way/"><u>Expert Insights on Maximizing Productivity: The Docked Steam Deck Way</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/from-novice-to-nexus-steps-for-earning-your-verified-status-on-discord-for-2024/"><u>From Novice to Nexus Steps for Earning Your Verified Status on Discord for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-vivo-x100-drfone-by-drfone-virtual-android/"><u>In 2024, How Do I Stop Someone From Tracking My Vivo X100? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-lava-yuva-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Lava Yuva 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-xiaomi-redmi-note-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Spy on Text Messages from Computer & Xiaomi Redmi Note 12 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-motorola-razr-40-ultra-for-free-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track a Lost Motorola Razr 40 Ultra for Free? | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/upgrade-to-the-latest-hp-scanjet-drivers-download-now-for-better-compatibility-with-windows/"><u>Upgrade to the Latest HP Scanjet Drivers - Download Now for Better Compatibility with Windows</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
