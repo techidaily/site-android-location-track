@@ -1,7 +1,7 @@
 ---
 title: 2 Ways to Monitor OnePlus 11R Activity | Dr.fone
-date: 2024-07-22T00:09:34.765Z
-updated: 2024-07-23T00:09:34.765Z
+date: 2024-09-18T21:07:06.384Z
+updated: 2024-09-19T16:21:53.436Z
 tags: 
   - virtual location change
   - location track
@@ -21,9 +21,6 @@ Also, to protect your child from the perils prevalent in society, it is essentia
 
 In this article, learn about two software that works as Android/iPhone monitor tools and help you gather all the information that you need about your kid, who he/she interacts with, and their activities.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: Why We Need to Monitor Child’s Phone Activity?
 
 Why monitor cell phone activity? This question crosses the mind of every parent at some point or the other. Parental control and phone spy tools make it easy for parents to monitor phone activities and ensure children’s safety at all times. Parents are aware of where their kid is, who he/she is with, their actions, and their social media interactions, which are important inputs for parents to analyze their kid’s behavior and whether or not their child is in a safe company.
@@ -36,14 +33,6 @@ To protect your child’s future and know for sure that he/she is using their ce
 
 Given below are two great software to monitor cell phone activity easily. Give them a good read and use them to monitor phone activity on Android/iPhone.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ## Part 2: How to Monitor Phone Activity with mSpy?
 
 [mSpy](http://mspy.go2cloud.org/SH7G6) is a cell phone monitoring App/Spy tool, which is helpful to keep a tab on the activities of your kid's Android/iPhone. You can monitor text messages, calls, [GPS locations](https://www.wondershare.com/virtual-location/mock-location.html), photos, browsing history, videos, etc. with this software. This software functions silently and does not let your kid know that he/she is being monitored. To use this software:
@@ -58,9 +47,6 @@ Step 3. Lastly, finish setting up mSpy by following the instructions on the e-ma
 
 ![Monitor Phone Activity with mSpy-access your Control Panel](https://images.wondershare.com/drfone/article/2017/10/15081767715179.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 3: How to Monitor Phone Activity with Famisafe?
 
 <iframe allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/qcV7v1DtAzI" id="video-iframe-t"></iframe>
@@ -73,23 +59,12 @@ Given below is a step-by-step guide to use Famisafe and monitor iPhone/Android i
 
 Step 1. First and foremost, go to Google Play or App Store to download **Famisafe** on the parental device first and then use the email to register an account for Famisafe. After that, go to Google Play or App Store to download **Famisafe Jr** on your kid's device and then follow the guide to tie up the kid's device.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![monitor phone activity with Famisafe-create an account](https://images.wondershare.com/drfone/article/2022/03/famisafe-login.jpg)
 
 Step 2. Set the rules for kids' devices. After you activate the account and connect the kid's device, you can check the Activity report of the kid's device, view the kid's browser history or block the websites you don't want the kids to access, and so on.
 
 ![monitor phone activity with Famisafe-feed in the necessary information](https://images.wondershare.com/drfone/article/2022/03/famisafe-android-features.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
 ## Part 4: Some Tips to Ensure Your Child’s Online Safety
 
 - To be able to monitor phone activity with the help of spy tools listed above is great, but you can also make sure that your child is safe on the web by following these simple tips:
@@ -102,9 +77,6 @@ No advertising on the website.
 
 We hope you find this guide and instructions herein useful. We recommend you to use Famisafe for its features and discrete cell phone monitoring techniques. Share it with your near and dear one as well and promotes online child safety.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 9 Best Phone Monitoring Apps for OnePlus 11R
 
 Cell phone monitoring software is readily available these days and it must be put to good use to ensure the safety of your kids/spouse/near and dear ones/employees.
@@ -117,9 +89,6 @@ mSpy is a cell phone monitoring software and tracking App for Android/iPhone. It
 
 To know more and sign up on mSpy, visit [https://www.mspy.com/](http://mspy.go2cloud.org/SH96F)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Phone Monitoring Apps-mSpy](https://images.wondershare.com/drfone/article/2017/10/15081775088395.jpg)
 
 **Features:**
@@ -170,9 +139,6 @@ FlexiSPY phone monitoring App is a cross-platform phone spy tool that offers sol
 
 To know more, visit: <https://flexispy.com/en/mobile-child-safety.htm>
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Phone Monitoring Apps-FlexiSPY](https://images.wondershare.com/drfone/article/2017/10/15081776155715.jpg)
 
 **Features:**
@@ -225,9 +191,6 @@ MobiStealth is a monitor App to keep track of your kids/spouse/employees. This s
 
 To know more, visit <http://mobistealth.com/parental-control-software>
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Phone Monitoring Apps-MobiStealth](https://images.wondershare.com/drfone/article/2017/10/15082189186424.jpg)
 
 **Features:**
@@ -278,9 +241,6 @@ Spyera, the cell phone monitoring software, is mostly used by parents to spy on 
 
 Visit <https://spyera.com/> and know more.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Phone Monitoring Apps-Spyera](https://images.wondershare.com/drfone/article/2017/10/15081777995796.jpg)
 
 **Features:**
@@ -305,9 +265,6 @@ This phone monitoring App is a unique tool to analyze screen time spent by your 
 
 To know more, visit <https://screentimelabs.com/>
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Phone Monitoring Apps-Screen Time Parental Control](https://images.wondershare.com/drfone/article/2017/10/15081778326970.jpg)
 
 **Features:**
@@ -327,8 +284,12 @@ To know more, visit <https://screentimelabs.com/>
 - Does not support monitoring calls/ messages etc.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 9: Norton Family Premier
 
 This smartphone monitor App helps your family explore the web safely. It offers excellent filter tools and sends informative reports regarding whereabouts and kids’ activities. It also helps your kids balance time between studies and web browsing. It makes the web a safer place for your kids.
@@ -369,48 +330,59 @@ Keep on reading, as the following article will assist you to choose the right tr
 
 Step 1: Get them Spy app. Download and install mSpy from the website directly ( [https://www.mspy.com/](http://mspy.go2cloud.org/SH7G6)). Choose the subscription plan and complete the order form.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 ![how to trace a cell phone with mSpy-install mSpy](https://images.wondershare.com/drfone/article/2017/11/15096681293188.jpg)
 
 Step 2:Provide valid email addresses and receive email installation procedures.
 
 Step 3: Now install the app and wait for the completion of setup.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 ![how to trace a cell phone with mSpy-install and set up](https://images.wondershare.com/drfone/article/2017/11/15096681544965.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1304648">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 4: Before proceeding, ensure you can access the OnePlus 11R device physically. Go to inbox to view the confirmation mail with login information.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![how to trace a cell phone with mSpy-access the OnePlus 11R device](https://images.wondershare.com/drfone/article/2017/11/15096888659365.jpg)
 
 Step 5: Now you can start the process of how to trace a cell phone.
 
 ![how to trace a cell phon with mSpye-start the process](https://images.wondershare.com/drfone/article/2017/11/15096887687020.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 6: After completion of the installation process, mSpy will start to trace out the activities on the target device of a kid or an employee. Furthermore, you can view and manage the information directly from the web and learn how to trace a cell phone.
 
 ![how to trace a cell phone with mSpy-view and manage the information](https://images.wondershare.com/drfone/article/2017/11/15096682305397.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 2: How to Trace Phone Using Android Device Manager?
 
 If you ask, how to trace a mobile phone through Android, the Android device manager will help you to locate mobile in the easiest way.
 
 Step 1: Download the android device manager and install it on your iPhone if you don’t have the default Android device manager.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
 ![how to trace a cell phone-Download and install](https://images.wondershare.com/drfone/article/2017/11/15096682617611.jpg)
 
 Step 2: Open up settings. Choose Google. Now go to Security and choose Android device manager.
@@ -419,9 +391,6 @@ Step 2: Open up settings. Choose Google. Now go to Security and choose Android d
 
 Step 3: Enable remotely locate the OnePlus 11R device and allow remote lock and erase.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![how to trace a cell phone-allow remote lock and erase](https://images.wondershare.com/drfone/article/2017/11/15096685535891.jpg)
 
 Step 4: When you move on to the android device manager, check the enable status and then visit android.com/device manager. Log in to your Gmail account.
@@ -432,9 +401,6 @@ After doing the above settings, this tool will assist you to locate the phone.
 
 ![how to trace a cell phone-Android Device Manager](https://images.wondershare.com/drfone/article/2017/11/15096892277102.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![how to trace a cell phone-assist you to locate](https://images.wondershare.com/drfone/article/2017/11/15096686348162.jpg)
 
 ## Part 3: How to trace iPhone with Find My iPhone?
@@ -461,9 +427,6 @@ Step 2: Now choose the option “Find my iPhone” at the menu and enter the App
 
 Step 3: After the entry of Apple ID sign in to the account and now choose the target device to track your iPhone.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![how to trace a cell phone-choose the target device](https://images.wondershare.com/drfone/article/2017/11/15096686909511.jpg)
 
 Lost mode: Music will alert the person who has your iPhone.
@@ -475,6 +438,13 @@ Lost mode: Music will alert the person who has your iPhone.
 If your phone was lost, you can make use of GPS technology to track out the phone. Install the GPS Tracker into the target phone. With the presence of a GPS App on phone, hereafter, you can trace out the call history.GPS not only gives detail about call history but also everything like messages, browsing history, location, etc. Just download and install GPS into the target phone and every detail is in your hand after the installation of GPS.
 
 ![how to trace a cell phone-use GPS Tracker](https://images.wondershare.com/drfone/article/2017/11/15096687951412.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 The perfect real-time GPS tracker you have never used this kind of feature. It gives a battery life for two weeks and you can access it from anywhere. You can’t miss any alerts and notifications once you installed them on your iPhone. The exact geo-fencing is wide up as the main part to trace your iPhone.
 
@@ -494,9 +464,6 @@ Note: GPS tracks the mobile instantly as per your requirements. That will help y
 
 We have solid proof that the above methods are successful. Now it’s easy to track your cell phone at any time and at any cause. These methods are user-friendly and no technical knowledge is needed to implement. Trace your iPhone instantly and catch black sheep consciously.
 
-
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -509,7 +476,17 @@ We have solid proof that the above methods are successful. Now it’s easy to tr
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-expert-tips-for-maximizing-visual-impact-via-google-meet-filters-and-masks/"><u>[Updated] In 2024, Expert Tips for Maximizing Visual Impact via Google Meet Filters & Masks</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-ultimate-guide-on-how-to-create-srt-file-plus-tips/"><u>[Updated] Ultimate Guide on How to Create SRT File (Plus Tips)</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-itel-p55-5g-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Itel P55 5G Activity | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-prime-picks-best-photo-displayers/"><u>2024 Approved Prime Picks Best Photo Displayers</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-messages-from-your-itel-by-fonelab-android-recover-messages/"><u>How to recover old messages from your Itel</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-cutting-through-the-noise-optimal-thumbnail-sizes/"><u>In 2024, Cutting Through the Noise Optimal Thumbnail Sizes</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-realme-v30t-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Realme V30T Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-leaders-shaping-immersive-digital-experiences/"><u>In 2024, Leaders Shaping Immersive Digital Experiences</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/the-best-of-the-rest-10-final-cut-pro-x-alternatives-you-need-to-know/"><u>The Best of the Rest 10 Final Cut Pro X Alternatives You Need to Know</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-tracking-apps-to-track-vivo-y36-without-them-knowing-drfone-by-drfone-virtual-android/"><u>Top 5 Tracking Apps to Track Vivo Y36 without Them Knowing | Dr.fone</u></a></li>
+</ul></div>
 

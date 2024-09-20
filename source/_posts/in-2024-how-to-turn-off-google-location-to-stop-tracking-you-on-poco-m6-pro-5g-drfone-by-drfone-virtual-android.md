@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Turn Off Google Location to Stop Tracking You on Poco M6 Pro 5G | Dr.fone
-date: 2024-09-09T22:23:32.184Z
-updated: 2024-09-14T05:26:55.899Z
+date: 2024-09-12T19:43:12.323Z
+updated: 2024-09-19T23:31:55.597Z
 tags: 
   - virtual location change
   - location track
@@ -95,6 +95,13 @@ Let’s say you don’t want to cut the entire location access across your smart
 
 ![disallow location access on google](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-9.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 3: Toggle off the Timeline feature on your Google Account
 
 Timeline is a special Google feature that keeps a record of your location check-ins and routes taken for future reference. You can review it on the Google Maps app in case you need to visit the same place again. On the other hand, you can easily toggle it off if you don’t want Google tracking down your specific whereabouts. Here’s the guide on how to do it in easy steps.
@@ -115,6 +122,13 @@ Timeline is a special Google feature that keeps a record of your location check-
 
 ![data and privacy settings](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-12.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 5:** Find and click **Timeline.**
 
 ![timeline settings](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-13.jpg)
@@ -123,19 +137,6 @@ Timeline is a special Google feature that keeps a record of your location check-
 
 ![turn off timeline settings](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-14.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 #### For web users
 
 **Step 1:** Visit the [<u>official website</u>](https://myactivity.google.com/myactivity) of My Google Activity. Right after, log in to the Gmail account you particularly use on your Poco M6 Pro 5G mobile device.
@@ -143,6 +144,13 @@ Timeline is a special Google feature that keeps a record of your location check-
 **Step 2:** On the main dashboard, click **Timeline.**
 
 ![my google activity settings](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-15.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 3:** Scroll it down and then click the **Turn Off** button.
 
@@ -224,13 +232,6 @@ The presence of the Cydia app on your device when you didn’t perform a jailbre
 
 ![Detect Spyware on iPhone-via the Cydia App](https://images.wondershare.com/drfone/article/2017/10/15074740091683.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 #### **3\. A warm iPhone**
 
 Do you notice that your iPhone is warm even when you are not using it? If this happens, it is very likely that there is an app running in the background. Most spyware apps are designed to run in the background so this is a big indicator of spy activity.
@@ -285,16 +286,16 @@ Now, hit the Google map icon in your device and locate the exact position of the
 
 ![share location](https://images.wondershare.com/drfone/2023/virtuallocation/share-location.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 2: Location sharing request on Google Map
 
 Open the Google map in your phone and the ' Menu' option hit 'Location Sharing’ from the list. Then select the person whom you want to track the location details and send the request by tapping the ' Request' button. When the target device owner responds to your request then immediately you can trace out the location on the Google map in your gadget precisely.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115943/19272" target="_top" id="2115943">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115943" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115943/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Solution 1: Use URL clicks to track the location of a mobile number
 
@@ -307,6 +308,13 @@ Step 1: In the target phone, disclose the Google maps
 Step 2: Select 'Location Sharing’ option from the 'Menu'
 
 ![location sharing](https://images.wondershare.com/drfone/2023/virtuallocation/location-sharing.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 3: You have to choose people by hitting the 'Add People' option and then proceed with the next step. Then press 'Copy to Clipboard' and share the link to your device.
 
@@ -321,13 +329,6 @@ The Mobile Number Tracker software assists you to identify the real-time locatio
 Step 1: You must visit 'phonetracker-geek.com’ website and hit 'Track a mobile number ‘on its home page
 
 ![phone tracker](https://images.wondershare.com/drfone/2023/virtuallocation/phone-tracker.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123467/16836" target="_top" id="2123467">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123467" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123467/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step 2: Enter the following details like Phone number which requires tracking, your email, address or phone number to contact you and hit ' Track it' button
 
@@ -356,19 +357,6 @@ Step 3: You will be able to view the location details of your friends if they ha
 ![friends location](https://images.wondershare.com/drfone/2023/virtuallocation/friends-location.jpg)
 
 This method holds good only if the Facebook app has access to the location details of your friends. In case if any members have denied the location sharing option on this Facebook account then it is impossible to track the location using this method.
-
-<!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Conclusion
 
@@ -410,21 +398,15 @@ AR game tricks
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-the-ultimate-guide-to-crafting-mc-village-dwellings/"><u>[New] 2024 Approved The Ultimate Guide to Crafting MC Village Dwellings</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-duplex-monitoring-transcription/"><u>[New] Duplex Monitoring Transcription</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-first-steps-on-the-path-equipment-for-beginners/"><u>[Updated] First Steps on the Path Equipment for Beginners</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-mastering-the-art-of-telegram-web-navigation/"><u>[Updated] In 2024, Mastering the Art of Telegram Web Navigation</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-superior-cinematic-introductions-set/"><u>[Updated] Superior Cinematic Introductions Set</u></a></li>
-<li><a href="https://win-answers.techidaily.com/battling-continuous-crashes-in-war-thunder-proven-strategies-to-enhance-game-performance-2024-version/"><u>Battling Continuous Crashes in War Thunder: Proven Strategies to Enhance Game Performance (2024 Version)</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-pictures-from-honor-magic-6-by-fonelab-android-recover-pictures/"><u>How to recover deleted pictures from Honor Magic 6.</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-tecno-pop-8-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for Tecno Pop 8 | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-infinix-gt-10-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Best Anti Tracker Software For Infinix GT 10 Pro | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-tecno-pova-5-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On Tecno Pova 5 for Parents | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-tecno-camon-20-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Phone Number Locators To Track Tecno Camon 20 Location | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-9-google-pixel-8-pro-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>In 2024, Top 9 Google Pixel 8 Pro Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-google-pixel-7a-without-him-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Two Ways to Track My Boyfriends Google Pixel 7a without Him Knowing | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/step-by-step-solution-for-alienware-command-center-malfunctions/"><u>Step-by-Step Solution for Alienware Command Center Malfunctions</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/two-ways-to-track-my-boyfriends-itel-a05s-without-him-knowing-drfone-by-drfone-virtual-android/"><u>Two Ways to Track My Boyfriends Itel A05s without Him Knowing | Dr.fone</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/wireless-setup-for-officejet-pro-m110-series-a-complete-walkthrough/"><u>Wireless Setup for Officejet Pro M110 Series: A Complete Walkthrough</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-a-detailed-guide-to-ending-your-linkedin-user-experience/"><u>[New] 2024 Approved A Detailed Guide to Ending Your LinkedIn User Experience</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-ways-to-track-xiaomi-redmi-note-12-pro-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track Xiaomi Redmi Note 12 Pro 5G without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Xiaomi Redmi Note 12 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/experience-unmatched-precision-and-comfort-in-depth-look-at-the-keychron-q1-he-the-long-awaited-wireless-mx-version/"><u>Experience Unmatched Precision and Comfort - In-Depth Look at the Keychron Q1 HE, The Long-Awaited Wireless MX Version</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-oppo-a79-5g-drfone-by-drfone-virtual-android/"><u>How to Detect and Remove Spyware on Oppo A79 5G? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-sharefake-location-on-whatsapp-for-vivo-y02t-drfone-by-drfone-virtual-android/"><u>How to Share/Fake Location on WhatsApp for Vivo Y02T | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-palettes-power-in-film-editing-techniques/"><u>In 2024, The Palette's Power in Film Editing Techniques</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/meme-design-excellence-guide-for-2024/"><u>Meme Design Excellence Guide for 2024</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-pictures-on-a05s-without-backup-by-fonelab-android-recover-pictures/"><u>The way to recover deleted pictures on A05s without backup.</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-6-appsservices-to-trace-any-oppo-a78-5g-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>Top 6 Apps/Services to Trace Any Oppo A78 5G Location By Mobile Number | Dr.fone</u></a></li>
 </ul></div>
 

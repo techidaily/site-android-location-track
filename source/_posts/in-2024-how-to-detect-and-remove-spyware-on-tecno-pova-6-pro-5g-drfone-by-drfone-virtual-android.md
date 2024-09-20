@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Detect and Remove Spyware on Tecno Pova 6 Pro 5G? | Dr.fone
-date: 2024-09-10T02:57:51.898Z
-updated: 2024-09-14T08:13:04.295Z
+date: 2024-09-15T01:19:08.528Z
+updated: 2024-09-20T01:10:08.212Z
 tags: 
   - virtual location change
   - location track
@@ -117,13 +117,6 @@ We all know that Google is committed to offering us new products and improving i
 
 There’s no denying that Google uses location information to give us the best experience possible. However, it doesn’t necessarily mean there is no risk at all. We cannot rule out the possibility of data breaches and disclosure of location information that is supposed to be private. If you’re worried about this kind of situation, you can prevent it from happening in a snap of a finger. Check out the four methods below on how to turn off Google location tracking on your Tecno Pova 6 Pro 5G smartphone.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Method 1: Turn off the location services on your Tecno Pova 6 Pro 5G mobile device
 
 “How to stop Google from tracking me?” Well, it’s actually very easy. You just need to deactivate the location service on your Tecno Pova 6 Pro 5G mobile device. After that, Google and other GPS-based applications on your smartphone will immediately lose access to your location data. Do you want to try it now? Check out the tutorial below on how to turn off Google location tracking by deactivating the location services on your phone.
@@ -148,13 +141,6 @@ Let’s say you don’t want to cut the entire location access across your smart
 
 ![app list](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115924/19272" target="_top" id="2115924">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115924" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115924/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 3:** Find and click **Google** on the list.
 
 ![google on app list](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-6.jpg)
@@ -167,16 +153,16 @@ Let’s say you don’t want to cut the entire location access across your smart
 
 ![location access for google](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-8.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 6:** Lastly, click **Don’t Allow.** Alternatively, you may instead select **Allow Only While Using the App** or **Ask Every Time** if you wish to grant Google conditional access to your location data.
 
 ![disallow location access on google](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-9.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 3: Toggle off the Timeline feature on your Google Account
 
@@ -206,19 +192,6 @@ Timeline is a special Google feature that keeps a record of your location check-
 
 ![turn off timeline settings](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-14.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 #### For web users
 
 **Step 1:** Visit the [<u>official website</u>](https://myactivity.google.com/myactivity) of My Google Activity. Right after, log in to the Gmail account you particularly use on your Tecno Pova 6 Pro 5G mobile device.
@@ -230,6 +203,13 @@ Timeline is a special Google feature that keeps a record of your location check-
 **Step 3:** Scroll it down and then click the **Turn Off** button.
 
 ![turn off timeline](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-16.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 4: Remove visits on Google Maps
 
@@ -269,6 +249,13 @@ Google surely understands that some users are uncomfortable sharing their wherea
 
 ![enter your preferred location](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 6:** The description of your chosen location will be then flashed on the screen. Read the details and make sure they are accurate. After that, click **Move Here** to proceed.
 
 ![read location description](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
@@ -280,6 +267,19 @@ Google surely understands that some users are uncomfortable sharing their wherea
 ## Conclusion
 
 At some point, we cannot deny that Google location services make our lives a lot more convenient. Imagine you can easily locate a particular place and get directions by simply browsing Google Maps. No need to borrow an Atlas from the library just to find a location you want to visit. However, in exchange for this convenience, you have to share location access with Google. Some users are not confident to access this privilege at the expense of their privacy. Don’t worry. That’s totally fine. If you’re one of them, this article can help you turn off Google location tracking on your Tecno Pova 6 Pro 5G. Is there a more conservative approach to address this issue? Luckily, there is. Download [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) on your computer and take advantage of its Virtual Location feature. It can help modify your whereabouts and simulate GPS movements without going outdoors.
+
+<!-- affiliate ads begin -->
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Two Ways to Track My Boyfriend's Tecno Pova 6 Pro 5G without Him Knowing
 
@@ -307,6 +307,13 @@ When I wanted to learn how can I track my boyfriend’s phone, I tried various t
 
 ![track my boyfriend’s phone via mSpy-access its web-based dashboard](https://images.wondershare.com/drfone/article/2017/10/15082600392625.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Even though mSpy provides similar features to that of KidsGuard Pro, it only works on rooted (and jailbroken) devices. Additionally, it is comparatively more expensive than KidsGuard Pro and doesn’t truly have a full-invisible mode. Any smart user can detect the spying app, which might land you in trouble.
 
 ## Part 2: How to Track My Boyfriend's Phone via KidsGuard Pro?
@@ -318,13 +325,6 @@ Since it runs in stealth mode, it allowed me to track my boyfriend’s phone wit
 1\. Firstly, visit KidsGuard Pro’s official website right [here](https://panel.clevguard.com/sign-up?dev_tp=android) and create your new account. You need to sign-up with your email id and set up a strong password.
 
 ![track my boyfriend’s phone-sign up KidsGuard Pro ](https://images.wondershare.com/drfone/article/2022/03/create-an-account-for-clevguard.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 2\. Secondly, after buying the product, you need to download the KidsGuard Pro app on your target device. Please go to the My Products and Orders Management page and click "Setup Guide" to follow the instructions carefully and complete all settings on the target device.
 
@@ -356,20 +356,17 @@ Since KidsGuard Pro is compatible with all the leading Android and iOS devices, 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-poptoons-ultimate-insight-24-annual/"><u>[New] 2024 Approved PopToons Ultimate Insight '24 Annual</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-top-ranked-e-learning-presentation-palette/"><u>[New] In 2024, Top-Ranked E-Learning Presentation Palette</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-photo-perfection-instructions-for-text-overlay-on-windowsmacos/"><u>[New] Photo Perfection Instructions for Text Overlay on Windows/MacOS</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/2024-approved-video-integration-youtube-images-in-slide-decks/"><u>2024 Approved Video Integration YouTube Images in Slide Decks</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/exploring-the-future-together-top-vr-gear/"><u>Exploring the Future Together Top VR Gear</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-realme-11-proplus-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Realme 11 Pro+ | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-7-ways-to-lock-apps-on-apple-iphone-se-2020-and-ipad-securely-by-drfone-ios/"><u>In 2024, 7 Ways to Lock Apps on Apple iPhone SE (2020) and iPad Securely</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-xiaomi-redmi-k70e-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for Xiaomi Redmi K70E | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-vivo-y55s-5g-2023-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For Vivo Y55s 5G (2023)</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-oppo-find-n3-flip-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on Oppo Find N3 Flip with and without jailbreak | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-the-ultimate-guide-to-sharing-audio-with-youtube/"><u>In 2024, The Ultimate Guide to Sharing Audio with YouTube</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-4-ways-to-trace-oppo-find-x7-ultra-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 4 Ways to Trace Oppo Find X7 Ultra Location | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-6-appsservices-to-trace-any-oppo-a78-5g-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, Top 6 Apps/Services to Trace Any Oppo A78 5G Location By Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-vivo-s18-for-parents-drfone-by-drfone-virtual-android/"><u>Top 10 Telegram Spy Tools On Vivo S18 for Parents | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/two-ways-to-track-my-boyfriends-meizu-21-pro-without-him-knowing-drfone-by-drfone-virtual-android/"><u>Two Ways to Track My Boyfriends Meizu 21 Pro without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-creating-immersive-360-photos-with-apples-smartphone-for-2024/"><u>[New] Creating Immersive 360 Photos with Apple's Smartphone for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-ken-burns-effect-techniques-for-camtasia-users/"><u>[Updated] 2024 Approved Ken Burns Effect Techniques for Camtasia Users</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-can-we-bypass-vivo-v29e-frp-by-drfone-android/"><u>How Can We Bypass Vivo V29e FRP?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-infinix-hot-30i-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on Infinix Hot 30i Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-ways-to-track-poco-x5-pro-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Track Poco X5 Pro without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-graphics-relic-package/"><u>In 2024, Graphics Relic Package</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-oppo-find-x7-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How Do I Stop Someone From Tracking My Oppo Find X7 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-asus-rog-phone-7-ultimate-for-free-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track a Lost Asus ROG Phone 7 Ultimate for Free? | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/simple-and-fast-dv-converter-unrestricted-video-playback-at-its-best/"><u>Simple & Fast DV Converter: Unrestricted Video Playback at Its Best!</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/starks-serenade-where-to-find-your-game-of-thrones-ringtones-for-2024/"><u>Stark's Serenade Where to Find Your Game of Thrones Ringtones for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-htc-u23-drfone-by-drfone-virtual-android/"><u>Top 10 Best Spy Watches For your HTC U23 | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/ultimate-guide-to-downloading-and-installing-nvme-controllers-on-windows-systems/"><u>Ultimate Guide to Downloading and Installing NVMe Controllers on Windows Systems</u></a></li>
 </ul></div>
 

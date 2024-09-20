@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Turn Off Google Location to Stop Tracking You on Infinix GT 10 Pro | Dr.fone
-date: 2024-09-10T20:31:59.514Z
-updated: 2024-09-14T01:57:53.406Z
+date: 2024-09-18T01:51:13.361Z
+updated: 2024-09-20T00:52:56.062Z
 tags: 
   - virtual location change
   - location track
@@ -96,10 +96,10 @@ Let’s say you don’t want to cut the entire location access across your smart
 ![disallow location access on google](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-9.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 3: Toggle off the Timeline feature on your Google Account
@@ -122,6 +122,13 @@ Timeline is a special Google feature that keeps a record of your location check-
 
 ![data and privacy settings](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-12.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 5:** Find and click **Timeline.**
 
 ![timeline settings](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-13.jpg)
@@ -137,6 +144,13 @@ Timeline is a special Google feature that keeps a record of your location check-
 **Step 2:** On the main dashboard, click **Timeline.**
 
 ![my google activity settings](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-15.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 3:** Scroll it down and then click the **Turn Off** button.
 
@@ -162,13 +176,6 @@ If Timeline is previously activated on your Infinix GT 10 Pro, chances are Googl
 
 **Step 5:** Pick a location and click the **Three-dotted menu** button next to it. From there, select **Remove All Visits.**
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120863/26400?prodsku=Mercury" target="_top" id="2120863">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120863" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120863/26400?prodsku=Mercury" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 3. Keep Your Whereabouts Private With [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
 
 Google surely understands that some users are uncomfortable sharing their whereabouts with the platform. That’s why you’re given the option to turn off Google location tracking on your Infinix GT 10 Pro smartphone. However, take note that doing so might gravely affect the functionality of some Google products. If you don’t want it to happen, there’s an alternative solution you can try. Rather than denying Google access to your location, why not change it instead and register a fake one? Yes. That can absolutely help you conceal your whereabouts without compromising the quality of Google services. Don’t worry. It’s a piece of cake. Wondershare Dr.Fone can help you a lot in this regard. It has a potent Virtual Location feature capable of modifying your whereabouts and simulating GPS movements. Do you want to try it now? Here’s a short guide for you.
@@ -190,6 +197,13 @@ Google surely understands that some users are uncomfortable sharing their wherea
 **Step 6:** The description of your chosen location will be then flashed on the screen. Read the details and make sure they are accurate. After that, click **Move Here** to proceed.
 
 ![read location description](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 7:** The location registered on your Infinix GT 10 Pro mobile device will now be replaced with your modified whereabouts. Verify the changes applied on your smartphone by checking Google Maps and searching for your current location. One way or another, it must show the altered result.
 
@@ -277,13 +291,6 @@ Just like any other thing in our digital world today, the internet has its good 
 
 ![browsing the internet](https://images.wondershare.com/drfone/article/2024/02/anti-tracker-software-1.JPG)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Anti-tracker software generally immobilizes suspicious websites or plugins on your browsing device and prevents them from stealing your data online. It’s quite different from Virtual Private Networks because VPNs only encrypt browsing traffic and IP address. But regardless, both of them can indeed help you maintain anonymity when surfing online. Just choose the best anti-tracking software that matches your needs and works perfectly with your situation.
 
 One way or another, anti-tracker software can be of great help to you. Check out the list of benefits below to understand it very well. For sure, the information provided below can guide you towards the best anti-tracking software options.
@@ -301,13 +308,6 @@ What happens if hackers get their hands on your browsing history? Well, there ar
 ### It prevents advertisers from using your private information
 
 It is nice if the ads that show up while we’re browsing include products we’re personally interested in. Hence, we cannot deny that giving legitimate advertisers access to our preferences is somehow beneficial to a certain degree. However, there are some third-party affiliates that are quite aggressive in tracking our browsing data. We should get rid of that the moment we spot them red-handed. It’s best to use anti-tracker software just to be sure.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### It protects us from internet scams
 
@@ -355,16 +355,16 @@ Another anti-tracker software you can trust is AVG AntiTrack. It has amazing int
 | --- | --- |
 | $54.99 | $64.99 |
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135476/26400" target="_top" id="2135476">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135476/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### [<u>Avast AntiTrack</u>](https://www.avast.com/en-ph/antitrack#pc)
 
 ![best anti tracking software avast](https://images.wondershare.com/drfone/article/2024/02/anti-tracker-software-8.JPG)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Last but not the least is Avast AntiTrack. Avast has been in service for a long time already as a security solution for Windows, macOS, and mobile devices. It has anti-tracker software that keeps your personal computer safe from unwanted monitoring. Avast AntiTrack blocks any attempts to access your browsing activities and online information. Furthermore, you can also see what specific websites or plugins track you down. Amazing, right? Check out the subscription plans listed below. But before anything, take note that Avast AntiTrack is currently available on computers only.
 
@@ -427,18 +427,18 @@ It’s true that a part of you is out in the open once you go online and surf th
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-shining-through-hd-is-it-a-wise-pick-for-hdr/"><u>[Updated] 2024 Approved Shining Through HD Is It a Wise Pick for HDR?</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-peak-traffic-times-for-stellar-video-performance/"><u>[Updated] In 2024, Peak Traffic Times for Stellar Video Performance</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-mastering-google-docs-transcription-functionality/"><u>[Updated] Mastering Google Docs Transcription Functionality</u></a></li>
-<li><a href="https://solve-news.techidaily.com/abbyy-and-blue-prism-unite-to-deliver-revolutionary-automation-solutions/"><u>ABBYY and Blue Prism Unite to Deliver Revolutionary Automation Solutions</u></a></li>
-<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-motorola-moto-g04-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On Motorola Moto G04 | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-motorola-edge-2023-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Motorola Edge 2023 to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-turn-off-google-location-to-stop-tracking-you-on-oppo-k11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Turn Off Google Location to Stop Tracking You on Oppo K11 5G | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-use-phone-clone-to-migrate-your-itel-a70-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Use Phone Clone to Migrate Your Itel A70 Data? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-nokia-c22-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On Nokia C22 for Parents | Dr.fone</u></a></li>
-<li><a href="https://facebook.techidaily.com/llifes-comeback-story-will-it-play-out-in-metaverse-times/"><u>LLife's Comeback Story: Will It Play Out In Metaverse Times?</u></a></li>
-<li><a href="https://techtrends.techidaily.com/premier-picture-voicemail-programs-to-try-in-amoons-and-that-could-be-an-interesting-anglemoon-photography-apps-or-software-for-astronomers-and-space-enthus47/"><u>Premier Picture Voicemail Programs to Try in Amoons, and that Could Be an Interesting Angle—Moon Photography Apps or Software for Astronomers and Space Enthusiasts</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-4-ways-to-trace-xiaomi-mix-fold-3-location-drfone-by-drfone-virtual-android/"><u>Top 4 Ways to Trace Xiaomi Mix Fold 3 Location | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/two-ways-to-track-my-boyfriends-oppo-reno-10-5g-without-him-knowing-drfone-by-drfone-virtual-android/"><u>Two Ways to Track My Boyfriends Oppo Reno 10 5G without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-best-practices-for-windows-8-screenshots-and-recordings/"><u>[New] 2024 Approved Best Practices for Windows 8 Screenshots and Recordings</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-deciphering-old-facebook-threads-a-step-by-step-mobile-and-desktop-guide/"><u>[Updated] 2024 Approved Deciphering Old Facebook Threads A Step-by-Step Mobile & Desktop Guide</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-ways-to-track-oneplus-nord-n30-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track OnePlus Nord N30 5G without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/a-plateful-full-of-fun-the-ultimate-overcooked-2-gaming-experience-breakdown/"><u>A Plateful Full of Fun - The Ultimate Overcooked! 2 Gaming Experience Breakdown</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/dealing-with-a-broken-spacebar-on-your-windows-10-pc-expert-tips-and-tricks/"><u>Dealing with a Broken Spacebar on Your Windows 10 PC – Expert Tips & Tricks</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-find-lost-iphone-14-pro-backup-files-on-windows-pc-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to find lost iPhone 14 Pro Backup files on Windows PC? | Stellar</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-make-the-most-of-your-apple-iphone-8-lock-screen-with-notifications-drfone-by-drfone-ios/"><u>How to Make the Most of Your Apple iPhone 8 Lock Screen with Notifications? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-infinix-note-30-vip-racing-edition-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Infinix Note 30 VIP Racing Edition Location by Number | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-honor-magic-v2-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Honor Magic V2 | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-can-i-unlock-my-iphone-14-pro-max-after-forgetting-my-pin-code-by-drfone-ios/"><u>In 2024, How Can I Unlock My iPhone 14 Pro Max After Forgetting my PIN Code?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-vivo-v27e-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Tracking Apps to Track Vivo V27e without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/premium-cloud-services-on-android-the-ultimate-2024-compilation/"><u>Premium Cloud Services on Android The Ultimate 2024 Compilation</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-tracking-apps-to-track-xiaomi-14-ultra-without-them-knowing-drfone-by-drfone-virtual-android/"><u>Top 5 Tracking Apps to Track Xiaomi 14 Ultra without Them Knowing | Dr.fone</u></a></li>
 </ul></div>
 

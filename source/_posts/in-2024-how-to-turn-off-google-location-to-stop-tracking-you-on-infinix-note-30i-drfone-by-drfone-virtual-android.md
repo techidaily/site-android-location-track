@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Turn Off Google Location to Stop Tracking You on Infinix Note 30i | Dr.fone
-date: 2024-09-13T00:34:56.878Z
-updated: 2024-09-13T19:25:22.456Z
+date: 2024-09-13T18:34:32.849Z
+updated: 2024-09-19T23:06:11.998Z
 tags: 
   - virtual location change
   - location track
@@ -91,6 +91,19 @@ Let’s say you don’t want to cut the entire location access across your smart
 
 ![location access for google](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-8.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 6:** Lastly, click **Don’t Allow.** Alternatively, you may instead select **Allow Only While Using the App** or **Ask Every Time** if you wish to grant Google conditional access to your location data.
 
 ![disallow location access on google](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-9.jpg)
@@ -107,23 +120,9 @@ Timeline is a special Google feature that keeps a record of your location check-
 
 ![google app profile icon](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-10.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 3:** Click **Google Account.**
 
 ![google app account](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-11.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 4:** Click **Data Privacy.**
 
@@ -207,6 +206,13 @@ If you also wish to use the distance marker on Google Maps, then you might have 
 
 ![google maps distance radius 1](https://images.wondershare.com/drfone/2023/virtuallocation/google-maps-distance-radius-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 1: Draw a Radius Circle on Google Maps
 
 You might already know that Google Maps provides a map of the entire world for us to navigate. Though, there are times when users like to draw a radius on Google Maps for a particular location. Presently, the native feature of Google Maps does not have a distance radius tool. Therefore, to draw a radius on Google Maps, you would have to use an application that has its own interface. One of them is Map Developers that is based on Google Maps and has simply provided a solution to draw a radius on the map.
@@ -258,16 +264,16 @@ This is one of the most resourceful features of Google Maps that a lot of people
 
 ![google maps distance radius 9](https://images.wondershare.com/drfone/2023/virtuallocation/google-maps-distance-radius-9.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 This technique will let you measure distance between any addresses on Google Maps. It doesn’t matter if it is your present location or not. If you want to measure distance in some other location, then just enter its name in the search bar to load it. In this way, you can measure distance anywhere in the world by sitting in your home.
 
 This brings us to the end of this extensive guide on using Google Maps distance and radius features. As you can see, I have provided a smart and user-friendly solution to draw radius distance on Google Maps. Besides that, you can also follow the above guide to measure distance between two addresses on Google Maps. In the same way, you can also let Google Maps calculate distance between multiple locations as well. Go ahead and try these Google Maps distance and radius hacks and share your experience with us in the comments below.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
 
@@ -315,13 +321,6 @@ Step 1. Get started by heading over to iCloud, and logging in with your credenti
 
 ![sign in to iCloud](https://drfone.wondershare.com/images/article/2017/10/icloud.com-login.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123475/16836" target="_top" id="2123475">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123475" border="0" alt="https://techidaily.com" width="300" height="75"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123475/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 If you are greeted with the two factor authentication process, which asks you to insert a code that was sent to your devices, you can simply skip it by heading to the quick access link at the bottom.
 
 ![skip the two factor authentication process](https://images.wondershare.com/drfone/article/2017/10/15075180348414.jpg) ![head to the quick access link](https://images.wondershare.com/drfone/article/2017/10/15075180363658.jpg)
@@ -347,6 +346,13 @@ Note that this solution will only work if you have Location Services enabled on 
 It’s no surprise that both Apple and the search giant are fond of gathering information on all sorts of things, most notably your location. Google stores this information on its Timeline, so without ado, head to the Google Timeline.
 
 ![head to the Google Timeline to track your iPhone](https://images.wondershare.com/drfone/article/2017/10/example-trip-google-timeline.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 2. Select the present date from the left hand panel.
 
@@ -380,18 +386,18 @@ Step 3. Once the tracking iPhone’s location is shared with your device, a popu
 
 Step 4. When you’re ready to begin tracking, open up the Find My Friends app, click on their contact (your contact in this case) to see its exact location in real time.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 5: Solution 5. Using mSpy to track an iPhone
 
 One of the biggest reasons of using [mSpy](http://mspy.go2cloud.org/SH7G6) is that you can do much more than just track your iPhone. With 25 features on tap, [mSpy](http://mspy.go2cloud.org/SH7G6) is geared towards keeping track of your iPhone as well as those using it. This remotely managed software is compatible with iOS, Windows and Mac OS, and can be easily accessed from any browser.
 
 ![Use mSpy to track an iPhone](https://images.wondershare.com/drfone/article/2017/10/15075194046097.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 It is designed for both home and commercial use, so whether you’d like to keep track of your kid’s text messages employee emails, mSpy can truly be your best friend. Things you can keep tabs on include instant messages such as from WhatsApp, emails, multimedia messages, incoming and outgoing calls and GPS locations.
 
@@ -427,17 +433,20 @@ There you go! Lost your iPhone? We've provided you with 5 different ways to loca
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-identifying-unresponsiveness-signs-someone-has-blocked-on-snapchat-for-2024/"><u>[New] Identifying Unresponsiveness Signs Someone Has Blocked on Snapchat for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-outlining-expenditures-the-price-tag-of-video-capturing-tunes/"><u>[New] In 2024, Outlining Expenditures The Price Tag of Video Capturing Tunes</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-game-streaming-tool-analysis-choose-obs-or-shadowplay-for-2024/"><u>[Updated] Game Streaming Tool Analysis Choose OBS or ShadowPlay for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/6-best-snapchat-video-editors-on-android-and-iphone-for-2024/"><u>6 Best Snapchat Video Editors on Android and iPhone for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/comprehensive-analysis-and-assessment-unveiling-the-power-of-vllo-video-editor/"><u>Comprehensive Analysis & Assessment: Unveiling the Power of VLLO Video Editor</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-tecno-pop-8-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for Tecno Pop 8 | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-tecno-phantom-v-fold-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Tecno Phantom V Fold by Phone Number | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-honor-play-40c-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on Honor Play 40C Without Them Knowing? | Dr.fone</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-innovative-techniques-for-compelling-youtube-beginnings/"><u>In 2024, Innovative Techniques for Compelling YouTube Beginnings</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-tecno-camon-20-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Phone Number Locators To Track Tecno Camon 20 Location | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/quell-winblueerror-addressing-wdf-api-concerns/"><u>Quell WinBlueError: Addressing WDF API Concerns</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/two-ways-to-track-my-boyfriends-itel-a05s-without-him-knowing-drfone-by-drfone-virtual-android/"><u>Two Ways to Track My Boyfriends Itel A05s without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-a-comprehensive-list-of-the-best-10-low-cost-video-production-schools-on-youtube-for-2024/"><u>[New] A Comprehensive List of the Best 10 Low-Cost Video Production Schools on YouTube for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-essential-6-platforms-fostering-corporate-connections-for-2024/"><u>[New] Essential 6 Platforms Fostering Corporate Connections for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-premier-winpodcast-options-reviewed/"><u>[New] Premier WinPodcast Options Reviewed</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-ways-to-track-vivo-v30-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track Vivo V30 without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/describe-a-symbiotic-relationship-between-photoautotrophs-and-heterotrophs-in-agriculture/"><u>Describe a Symbiotic Relationship Between Photoautotrophs and Heterotrophs in Agriculture.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/easiest-guide-how-to-clone-tecno-spark-10-5g-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Easiest Guide How to Clone Tecno Spark 10 5G Phone? | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/explore-the-best-in-class-pc-vr-headsets/"><u>Explore the Best-In-Class PC VR Headsets</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-dual-boot-your-steam-deck-to-windows-and-steamos/"><u>How to Dual Boot Your Steam Deck to Windows and SteamOS</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-samsung-galaxy-s24-ultra-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Samsung Galaxy S24 Ultra Activity | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-oppo-f23-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Oppo F23 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-vivo-g2-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Vivo G2 | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-samsung-galaxy-a05-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Samsung Galaxy A05 to Mac? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-motorola-razr-40-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How to Spy on Text Messages from Computer & Motorola Razr 40 Ultra | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-vivo-s18-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Best Spy Watches For your Vivo S18 | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-samsung-galaxy-m34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Samsung Galaxy M34 5G | Dr.fone</u></a></li>
 </ul></div>
 
