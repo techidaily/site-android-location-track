@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Intercept Text Messages on Infinix Smart 8 HD | Dr.fone
-date: 2024-09-12T04:35:54.957Z
-updated: 2024-09-14T10:07:07.433Z
+date: 2024-09-30T23:54:29.172Z
+updated: 2024-10-03T00:51:08.121Z
 tags: 
   - virtual location change
   - location track
@@ -101,6 +101,13 @@ In this article, we will discuss how Google employs location access on your mobi
 
 Location data generally helps us find reliable directions and pinpoint a particular place. But apart from that, this piece of information actually serves a bigger purpose. Google, in particular, employs location data to provide high-quality services tailored to specific preferences and necessities of the users. Each Google product relies heavily on location information and utilizes it for various reasons. To understand it better, check out the list below.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### It is an essential component of most Google services
 
 ![google products](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-1.JPG)
@@ -131,6 +138,13 @@ We all know that Google is committed to offering us new products and improving i
 
 There’s no denying that Google uses location information to give us the best experience possible. However, it doesn’t necessarily mean there is no risk at all. We cannot rule out the possibility of data breaches and disclosure of location information that is supposed to be private. If you’re worried about this kind of situation, you can prevent it from happening in a snap of a finger. Check out the four methods below on how to turn off Google location tracking on your Infinix Smart 8 HD smartphone.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 1: Turn off the location services on your Infinix Smart 8 HD mobile device
 
 “How to stop Google from tracking me?” Well, it’s actually very easy. You just need to deactivate the location service on your Infinix Smart 8 HD mobile device. After that, Google and other GPS-based applications on your smartphone will immediately lose access to your location data. Do you want to try it now? Check out the tutorial below on how to turn off Google location tracking by deactivating the location services on your phone.
@@ -142,6 +156,13 @@ There’s no denying that Google uses location information to give us the best e
 **Step 3:** Find and click **Location.**
 
 ![location services](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 4:** Lastly, click **Close** to confirm the changes.
 
@@ -162,6 +183,13 @@ Let’s say you don’t want to cut the entire location access across your smart
 **Step 4:** Click **Permissions.**
 
 ![google app permissions](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-7.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 5:** Click **Location.**
 
@@ -187,16 +215,16 @@ Timeline is a special Google feature that keeps a record of your location check-
 
 ![google app account](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-11.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 4:** Click **Data Privacy.**
 
 ![data and privacy settings](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-12.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 5:** Find and click **Timeline.**
 
@@ -213,6 +241,13 @@ Timeline is a special Google feature that keeps a record of your location check-
 **Step 2:** On the main dashboard, click **Timeline.**
 
 ![my google activity settings](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-15.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
+  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 3:** Scroll it down and then click the **Turn Off** button.
 
@@ -232,18 +267,18 @@ If Timeline is previously activated on your Infinix Smart 8 HD, chances are Goog
 
 ![google maps your timeline](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-18.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 4:** Click **Places.** Scroll down and then click **Visited All Places** just below the map.
 
 ![google maps places](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-19.jpg)
 
 **Step 5:** Pick a location and click the **Three-dotted menu** button next to it. From there, select **Remove All Visits.**
-
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114265/17093" target="_top" id="2114265">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114265" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114265/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 3. Keep Your Whereabouts Private With [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
 
@@ -333,13 +368,6 @@ This service is free of cost and you need not have to pay for tracking the locat
 
 ![track location](https://images.wondershare.com/drfone/2023/virtuallocation/track-location.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115931/19272" target="_top" id="2115931">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115931" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115931/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Solution 3: Track location and another identity of someone using Facebook
 
 Due to the advent of social media worldwide, you are now able to locate the live location details of your friends and family across boundaries precisely. It is enough if you follow the below instructions for a precise location tracking.
@@ -348,27 +376,20 @@ Step 1: Open the Facebook in your device
 
 ![facebook app](https://images.wondershare.com/drfone/2023/virtuallocation/facebook-app.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 2: Choose 'Nearby Friends' in the 'Menu'
 
 ![nearby friends](https://images.wondershare.com/drfone/2023/virtuallocation/nearby-friends.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 3: You will be able to view the location details of your friends if they have enabled the location sharing on this app. You can find out the last location at the time of their recent login in this platform.
 
 ![friends location](https://images.wondershare.com/drfone/2023/virtuallocation/friends-location.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 This method holds good only if the Facebook app has access to the location details of your friends. In case if any members have denied the location sharing option on this Facebook account then it is impossible to track the location using this method.
 
@@ -410,5 +431,24 @@ AR game tricks
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-lightweight-recording-tool-windows-compatible/"><u>[New] 2024 Approved Lightweight Recording Tool, Windows Compatible</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-navigate-funimates-complexities-with-ease-for-2024/"><u>[New] Navigate Funimate's Complexities with Ease for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-2023s-leading-vr-game-development-tools/"><u>[Updated] 2023'S Leading VR Game Development Tools</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-the-insiders-guide-adding-borders-in-instagram-footage-for-2024/"><u>[Updated] The Insider's Guide Adding Borders in Instagram Footage for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-samsung-galaxy-s24-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Samsung Galaxy S24 | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-infinix-smart-8-plus-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Infinix Smart 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-realme-12-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on Realme 12 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-honor-x50-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Honor X50 Activity | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for Sony Xperia 10 V | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-lock-on-apple-iphone-15-pro-max-by-drfone-ios/"><u>In 2024, How to Bypass iCloud Lock on Apple iPhone 15 Pro Max</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-vivo-s17t-drfone-by-drfone-virtual-android/"><u>In 2024, How to Spy on Text Messages from Computer & Vivo S17t | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-oppo-find-x7-ultra-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On Oppo Find X7 Ultra for Parents | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-and-easy-installation-guide-for-microsoft-wireless-mouse-5000-drivers/"><u>Quick and Easy Installation Guide for Microsoft Wireless Mouse 5000 Drivers</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/secure-shots-easy-methods-for-masking-facial-details-for-2024/"><u>Secure Shots Easy Methods for Masking Facial Details for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-wasteland-2-directors-cut-analysis-an-engrossing-tactical-role-playing-game/"><u>The Wasteland 2 - Director's Cut Analysis: An Engrossing Tactical Role-Playing Game</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-9-realme-v30t-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 Realme V30T Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-9-vivo-s18e-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 Vivo S18e Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+</ul></div>
 

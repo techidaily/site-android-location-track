@@ -1,7 +1,7 @@
 ---
 title: In 2024, Solutions to Spy on Honor X9a with and without jailbreak | Dr.fone
-date: 2024-09-26T21:04:01.521Z
-updated: 2024-09-27T17:26:56.773Z
+date: 2024-09-29T18:12:14.613Z
+updated: 2024-10-03T04:41:28.365Z
 tags: 
   - virtual location change
   - location track
@@ -54,10 +54,10 @@ Step 3: You can then log in to TurthSpy with your log in information and access 
 ![Spy using Spyware with jailbreak-log in to TurthSpy](https://images.wondershare.com/drfone/article/2017/10/15079742762274.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Both mSpy and TruthSpy will provide you with all the information you need about the target device. The only difference is, you need to jailbreak the Honor X9a device if TruthSpy will be able to access it. Jailbreaking the
@@ -102,6 +102,13 @@ Step 1: Click the "Export" button on the upper right corner.
 
 ![export gps data](https://images.wondershare.com/drfone/article/2022/02/track-cell-phone-with-flexispy-03.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 2: Click the "Download" button on the pop-up window that appears.
 
 ![download gps datay](https://images.wondershare.com/drfone/article/2022/02/track-cell-phone-with-flexispy-04.jpg)
@@ -116,13 +123,6 @@ Step 2: Generally iCloud account has sharing options for all other devices. We h
 
 ![track a cell phone without them knowing-share my location](https://images.wondershare.com/drfone/article/2017/11/15100182891050.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 3: Now swipe from bottom to end, click on the “Airdrop” option from the settings. You will have two options such as “Everyone” and “Contacts only”.
 
 Step 4: Move to the target device, in the “Find my friends” app click the option “add”. Now your contact picture will get displayed. Click on your profile photo > select the option “Share indefinitely” to track a cell phone without them knowing.
@@ -133,13 +133,6 @@ Step 5: The target device location will be shared with you. You will get a pop-u
 
 ![track a cell phone without them knowing-click Don’t share](https://images.wondershare.com/drfone/article/2017/11/15100183459135.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 6: Now go to your device, open the “Find my friends” app and click the icon of the target device. You will get a notification, where they are now when they leave from the place etc.
 
 ![track a cell phone without them knowing-get a notification](https://images.wondershare.com/drfone/article/2017/11/15100183691634.jpg)
@@ -147,6 +140,19 @@ Step 6: Now go to your device, open the “Find my friends” app and click the 
 Note: If you want to hide the “Find my friends” app from the target device you can use the dock method which will be easy but the folder method is very tough.
 
 ![track a cell phone without them knowing-hide the Find my friends app](https://images.wondershare.com/drfone/article/2017/11/15100183889994.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1328679">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 4: Frequently Asked Questions
 
@@ -186,6 +192,13 @@ The sections below will show you how to stop someone from tracking your iPhone w
 
 If you have an iPhone, the following methods can be used to stop someone from tracking your device
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1) Use [Dr.Fone - Virtual Location(iOS/Android)](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
 
 This is a tool that you can use to change the virtual location of your device(iOS or Android). The tool comes with powerful features that enable you to teleport to any part of the world within an instant, and even start to move around a map as if you were physically in the area.
@@ -224,6 +237,13 @@ In order to see how to use dr. fone to teleport your device to another location,
 
 - Finally, toggle the "Significant Locations" to the "OFF" position. The switch will turn grey, indicating that the service has been turned off.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 3) Turn off location tracking of specific apps
 
 You may turn off location tracking for specific apps that you feel might be used to track your position. This is how you go about turning them off.
@@ -236,13 +256,6 @@ You may turn off location tracking for specific apps that you feel might be used
 
 ![how to disable location tracking for specific apps on iPhone](https://images.wondershare.com/drfone/2020/disable-location-tracking-iphone-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 4) Disable Share My Location service
 
 - Access the "settings" app from your Home Screen
@@ -252,14 +265,14 @@ You may turn off location tracking for specific apps that you feel might be used
 
 ![Disable Share My Location on iPhone](https://images.wondershare.com/drfone/2020/disable-location-tracking-iphone-4.jpg)
 
-- Now toggle the button to the right to turn it into the "OFF" position
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+- Now toggle the button to the right to turn it into the "OFF" position
 
 ### 5) Disable location-based notifications or alerts
 
@@ -313,6 +326,13 @@ Nord VPN is a great tool to fake your GPS location and stop people from tracking
 
 ![pokemon go spoofers iphone 8](https://images.wondershare.com/drfone/article/2019/09/pokemon-go-spoofers-iphone-8.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 4) Fake GPS Go
 
 This is an app that you can download to your android device from Google Play Store. It is safe and will not affect the normal functioning of your device. Simply get it from Google Play Store, install it, and launch it. When it is up and running, you have to use the map interface to pin the new location that you want to teleport to. Anyone who may be tracking you will instantly be fooled that you are in the new location. You may also move around using the Joystick feature just as if you are on the ground in the teleport location.
@@ -323,24 +343,10 @@ This is an app that you can download to your android device from Google Play Sto
 
 ![android pokemon go spoofing 4](https://images.wondershare.com/drfone/article/2019/09/android-pokemon-go-spoofing-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - Launch Fake GPS go and the grant it the required access. Go back to "Developer Options" and then go down until you find Fake GPS Go. Toggle it to the "ON" position.
 - Now go back to "Mock Location App" and then choose Fake GPS Go. You will now be able to fake your location and stop people from tracking your device.
 
 ![android pokemon go spoofing 5](https://images.wondershare.com/drfone/article/2019/09/android-pokemon-go-spoofing-5.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - To actually change the virtual location of your device, launch Fake GPs Go once more and then access the map interface. Choose a location far from your actual location and then pin it as your "real" location. This will instantly show that you have moved to this new location and throw off people who are tracking your Honor X9a.
 
@@ -361,10 +367,10 @@ This is yet another tool that you can use to fake your GPS location and fool peo
 ![android pokemon go spoofing 8](https://images.wondershare.com/drfone/article/2019/09/android-pokemon-go-spoofing-8.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## In Conclusion
@@ -385,24 +391,21 @@ If you want to stop Google from tracking your location, these are the methods th
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-unlocking-creative-power-for-youtube-intros-in-imovie/"><u>[Updated] 2024 Approved Unlocking Creative Power for YouTube Intros in iMovie</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-crafting-a-cash-cascade-on-youtube-strategies-beyond-the-ad-model-for-2024/"><u>[Updated] Crafting a Cash Cascade on YouTube Strategies Beyond the Ad Model for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/approved-break-free-from-the-norms-crafting-your-own-streamer-identity/"><u>2024 Approved Break Free From The Norms Crafting Your Own Streamer Identity</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-personal-exploration-of-3d-printing-in-3dr/"><u>2024 Approved Personal Exploration of 3D Printing in '3DR'</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/3-ways-to-track-tecno-spark-go-2023-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track Tecno Spark Go (2023) without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-honor-magic5-ultimate-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on Honor Magic5 Ultimate | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-motorola-g54-5g-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Motorola G54 5G Activity | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-xiaomi-redmi-note-13-proplus-5g-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track Xiaomi Redmi Note 13 Pro+ 5G without App | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-vivo-v29-pro-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Vivo V29 Pro by Phone Number | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-6-appsservices-to-trace-any-xiaomi-civi-3-disney-100th-anniversary-edition-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, Top 6 Apps/Services to Trace Any Xiaomi Civi 3 Disney 100th Anniversary Edition Location By Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-oneplus-ace-2v-without-him-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Two Ways to Track My Boyfriends OnePlus Ace 2V without Him Knowing | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/magixs-acid-pro-critique-with-comparison-tools-for-2024/"><u>Magix's ACID Pro Critique with Comparison Tools for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/master-iphone-photo-watermarks-the-top-apps-reviewed-for-2024/"><u>Master iPhone Photo Watermarks The Top Apps Reviewed for 2024</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-honor-magic-6-lite-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Honor Magic 6 Lite | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/solutions-to-spy-on-vivo-y36-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>Solutions to Spy on Vivo Y36 with and without jailbreak | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-5-tracking-apps-to-track-realme-gt-neo-5-without-them-knowing-drfone-by-drfone-virtual-android/"><u>Top 5 Tracking Apps to Track Realme GT Neo 5 without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/trustworthy-storage-solutions-unveiling-our-findings-on-western-digitals-data-lifeguard-tool/"><u>Trustworthy Storage Solutions: Unveiling Our Findings on Western Digital's Data LifeGuard Tool</u></a></li>
-<li><a href="https://win-forum.techidaily.com/unlock-your-computers-full-potential-easy-bios-entry-in-windows-11-explained/"><u>Unlock Your Computer's Full Potential: Easy BIOS Entry in Windows 11 Explained</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-adobe-premiere-pro-vs-sony-vegas-pro-a-side-by-side-comparison/"><u>Updated 2024 Approved Adobe Premiere Pro vs Sony Vegas Pro A Side-by-Side Comparison</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-elevate-your-tiktok-game-expert-mac-video-editing-guide/"><u>[New] 2024 Approved Elevate Your TikTok Game Expert Mac Video Editing Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-harnessing-technology-the-art-of-capturing-ios-devices-in-media/"><u>[New] In 2024, Harnessing Technology The Art of Capturing iOS Devices in Media</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-snappy-photo-assembly-your-quick-google-collages-blueprint/"><u>[New] Snappy Photo Assembly Your Quick Google Collages Blueprint</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-capturing-timeless-moments-iphones-prolonged-shots-guide/"><u>[Updated] 2024 Approved Capturing Timeless Moments IPhone’s Prolonged Shots Guide</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-design-gif-for-sharing/"><u>[Updated] In 2024, Design Gif for Sharing</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-solutions-to-find-your-vivo-x-fold-2-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>3 Solutions to Find Your Vivo X Fold 2 Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/5-ways-to-track-poco-f5-pro-5g-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Poco F5 Pro 5G without App | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/flipboard-celebs-snapchat-reels-for-2024/"><u>Flipboard Celebs' Snapchat Reels for 2024</u></a></li>
+<li><a href="https://fox-where.techidaily.com/free-kisscartoon-downloader-get-your-favorite-anime-episodes-with-ease/"><u>Free KissCartoon Downloader: Get Your Favorite Anime Episodes with Ease</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-motorola-razr-40-ultra-drfone-by-drfone-virtual-android/"><u>How to Spy on Text Messages from Computer & Motorola Razr 40 Ultra | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-realme-12-5g-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Realme 12 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-nokia-c32-drfone-by-drfone-virtual-android/"><u>In 2024, How Do I Stop Someone From Tracking My Nokia C32? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-vivo-g2-location-by-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Vivo G2 Location by Number | Dr.fone</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/-and-easy-channels-personalize-your-youtube-url-now-for-2024/"><u>Quick and Easy Channels Personalize Your YouTube URL Now for 2024</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/rejoicing-in-high-customer-approval-averaging-245/"><u>Rejoicing in High Customer Approval - Averaging 245%</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-realme-gt-3-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for Realme GT 3 | Dr.fone</u></a></li>
 </ul></div>
 
