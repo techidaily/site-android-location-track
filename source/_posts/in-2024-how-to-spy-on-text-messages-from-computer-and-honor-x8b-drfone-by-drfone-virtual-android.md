@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Spy on Text Messages from Computer & Honor X8b | Dr.fone
-date: 2024-09-03T13:45:12.763Z
-updated: 2024-09-04T13:45:12.763Z
+date: 2024-10-06T03:37:50.851Z
+updated: 2024-10-08T00:51:13.918Z
 tags: 
   - virtual location change
   - location track
@@ -59,9 +59,14 @@ Step 3: You should be able to log in to your web-based control panel and view th
 
 ![Spy on text messages from computer via mSpy](https://images.wondershare.com/drfone/article/2017/10/15074696134452.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 The above three solutions enable users to monitor more than just text messages. They give parents the ability to keep track of what their children are saying to one another or who they are talking to. While there are many applications to spy monitoring software, perhaps the most important is in ensuring the safety of our young people.
-
-
 
 ## How to Check Distance and Radius on Google Maps For your Honor X8b
 
@@ -72,10 +77,10 @@ If you also wish to use the distance marker on Google Maps, then you might have 
 ![google maps distance radius 1](https://images.wondershare.com/drfone/2023/virtuallocation/google-maps-distance-radius-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 1: Draw a Radius Circle on Google Maps
@@ -91,20 +96,8 @@ You might already know that Google Maps provides a map of the entire world for u
 
 ![google maps distance radius 3](https://images.wondershare.com/drfone/2023/virtuallocation/google-maps-distance-radius-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2030373/7443" target="_top" id="2030373">
-  <img src="//a.impactradius-go.com/display-ad/7443-2030373" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030373/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 If you want, you can later delete this circle or draw multiple circles in different colors to mark them in any location of your choice.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2: Determine the Distance with Radius on Google Maps
 
 Apart from drawing a circle or radius on Google Maps, a lot of people would like to specify its distance as well. For instance, you might wish to specify a radius of specific miles or kilometers for a place on Google Maps. As stated above, the native feature of Google Maps is presently missing the distance radius feature. The good news is that there are tons of websites out there that have presented the same feature on the original layer of Google Maps.
@@ -115,12 +108,6 @@ Consider the example of the circle tool of Map Developers that we have discussed
 
 ![google maps distance radius 4](https://images.wondershare.com/drfone/2023/virtuallocation/google-maps-distance-radius-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 - _KML Circle Generator_
 
 If you know the exact longitude and latitude of the place, then you can also take the assistance of KML Circle Generator. In this, you would have to specify the exact coordinates of the place and the Google Maps distance radius value. After entering the relevant details, you can proceed and draw the radius distance on Google Maps.
@@ -143,40 +130,14 @@ This is one of the most resourceful features of Google Maps that a lot of people
 
 ![google maps distance radius 8](https://images.wondershare.com/drfone/2023/virtuallocation/google-maps-distance-radius-8.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 1. If you want to continue, then just click anywhere else on the map and that will be considered as the next spot. Therefore, you can just click as many times as you want to let Google Maps calculate distance between multiple locations.
 
 ![google maps distance radius 9](https://images.wondershare.com/drfone/2023/virtuallocation/google-maps-distance-radius-9.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
-  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 This technique will let you measure distance between any addresses on Google Maps. It doesn’t matter if it is your present location or not. If you want to measure distance in some other location, then just enter its name in the search bar to load it. In this way, you can measure distance anywhere in the world by sitting in your home.
 
 This brings us to the end of this extensive guide on using Google Maps distance and radius features. As you can see, I have provided a smart and user-friendly solution to draw radius distance on Google Maps. Besides that, you can also follow the above guide to measure distance between two addresses on Google Maps. In the same way, you can also let Google Maps calculate distance between multiple locations as well. Go ahead and try these Google Maps distance and radius hacks and share your experience with us in the comments below.
 
-
-
-<!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="540" height="960" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
 
 1-Click Location Changer for both iOS and Android
@@ -203,12 +164,6 @@ AR game tricks
 
 ![virtual location](https://images.wondershare.com/drfone/article/2023/06/virtual-location-horizontal.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Change Phone GPS Location Easily**
 
 - ● Teleport GPS location to anywhere
@@ -217,12 +172,6 @@ AR game tricks
 
 [Try Now](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Track Honor X8b Location without Installing Software?
 
 There are several reasons why you may want to track cell, whether to check up on your kids to make sure they at the mall and not the pub, or to ensure your employees are indeed stuck in a traffic jam and not at the local casino. Owing to the surge in GPS and mobile technology, tracking your cell phone’s exact location is rather easy given the myriad software available. But what if you didn’t have any software installed to begin with when you lost your cell phone? So the big question that’s probably on your mind is how to track a cell phone location without installing software? And the good news is that there are several ways to track a cell phone’s mobile location without having to install software, so let’s get right to what we feel are great solutions.
@@ -233,18 +182,6 @@ Making it to the top of the list is none other than [Spyera](https://spyera.com/
 
 ![track a cell phone using Spyera](https://images.wondershare.com/drfone/article/2022/03/clone-phone-number-spyera.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="80" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2: How to Track A Cell Phone Location without Installing Software?
 
 #### **How to Track a Cell Location using iCloud?**
@@ -264,11 +201,12 @@ Step 4. Click on the Find iPhone button located in the second row.
 ![track a cell phone-use Apple’s iCloud](https://images.wondershare.com/drfone/article/2017/10/15082095511390.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Step 5. From here, you will need to click the dropdown labeled All Devices and select the target device. Once you select the Honor X8b device you wish to locate, you can either erase your iPhone, send an audible alert or lock the Honor X8b device.
 
 ![track a cell phone-select the Honor X8b device you wish to locate](https://images.wondershare.com/drfone/article/2017/10/15082095893194.jpeg)
@@ -280,17 +218,12 @@ If you’re an Android user, Google’s Android Device Manager presently known a
 ![track a cell phone-use Android Device Manager](https://images.wondershare.com/drfone/article/2017/10/15082096225606.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="80" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Step 1. As long as you have your Google account connected with your Honor X8b (again something you will have done when you first received the phone), you can now begin tracking by heading to Find My Device on the web.
 
 Step 2. Sign in with your Google credentials, and you will be greeted with a dashboard that will show you where your cell phone is along with several other options.
@@ -302,11 +235,12 @@ Step 3. You can now do one of three things apart from viewing your cell location
 ![track a cell phone-view your cell location](https://images.wondershare.com/drfone/article/2017/10/15082099518488.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 #### **Another Google Solution:**
 
 Google recently has implemented some of the ADM features right into the web browser, meaning you can simply as the Search Giant to locate it for you from a simple web search. Of course, you will have to be logged into your Google account for this solution to work.
@@ -316,11 +250,12 @@ Step 1. Open the main Google search page and type in "find My Honor X8b", and yo
 ![track a cell phone-type in ](https://images.wondershare.com/drfone/article/2017/10/15082098089360.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
-  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 3: How to Track a Cell Phone Location via mSpy?
 
 We’ve just given you two solutions to how to track a cell phone location without installing software, but they are limited in the features they offer, meaning you can just check cell phone location. But there may be times when you may feel the need to get a comprehensive look or rather a mirror image of what your cell phone is being used for. And for that, there is [mSpy](http://mspy.go2cloud.org/SH7G6), an app that allows you to not only track Your Honor X8b location but rings in with several other handy features.
@@ -335,28 +270,29 @@ Step 2. Next, you will have to set up the app with information on your target de
 
 ![track a cell phone via mSpy-setup the app](https://images.wondershare.com/drfone/article/2017/10/15082100515661.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 3. You can select from several options in the left hand, two of the most noteworthy being geo-fencing and WhatsApp. Geo-fencing is a great feature to monitor both your kids and employees and basically, allows you to set up parameters and alert you when they are breached.
 
 ![track a cell phone via mSpy-select from several options](https://images.wondershare.com/drfone/article/2017/10/15082100786594.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 WhatsApp is a highly secure chat application, but mSpy backed by the latest technology also allows you to monitor its messages both incoming and outgoing. Simply click on the WhatsApp tab and you will be presented with a list of WhatsApp messages that you can further sort through by date.
 
 ![track a cell phone via mSpy-sort through WhatsApp messages by date](https://images.wondershare.com/drfone/article/2017/10/15082101238393.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 There are several instances such as in the excitement of getting a new phone that we may overlook the need to install software to track a cell phone. But both Google and Apple are generous enough to offer a solution to track your cell phone location without having to install any third-party software. But if you’re like to do a lot more than just track your cell phone’s location, mSpy with its expensive list of features sets the gold standard in this space.
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -370,5 +306,19 @@ There are several instances such as in the excitement of getting a new phone tha
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-streamline-your-youtube-shorts-thumbnail-process/"><u>[New] In 2024, Streamline Your YouTube Shorts Thumbnail Process</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-iphone-tricks-turn-your-images-upside-down-sideways/"><u>[New] IPhone Tricks Turn Your Images Upside-Down, Sideways</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-apex-1-written-by-assistant/"><u>[Updated] Apex 1 Written by Assistant</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-webcam-safety-the-best-cam-cover-picks/"><u>[Updated] Webcam Safety The Best Cam Cover Picks</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-ways-to-track-samsung-galaxy-z-flip-5-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track Samsung Galaxy Z Flip 5 without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/5-ways-to-track-lava-yuva-2-pro-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Lava Yuva 2 Pro without App | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/asus-z37download-asus-z370-e-drivers-quick-and-easy-step-by-step-tutorial/"><u>ASUS Z37([DOWNLOAD] ASUS Z370-E Drivers | Quick & Easy): Step-by-Step Tutorial</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-tecno-spark-20c-drfone-by-drfone-virtual-android/"><u>How Do I Stop Someone From Tracking My Tecno Spark 20C? | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-ringtone-repository-prime-picks-for-downloadable-calls/"><u>In 2024, Ringtone Repository Prime Picks for Downloadable Calls</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-oneplus-11r-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on OnePlus 11R with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-vivo-y100-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Car Locator Apps for Vivo Y100 | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/steelseries-gg-engine-malfunctioning-heres-what-you-can-do-for-a-windows-solution/"><u>SteelSeries GG Engine Malfunctioning? Here's What You Can Do for a Windows Solution</u></a></li>
+</ul></div>
 
