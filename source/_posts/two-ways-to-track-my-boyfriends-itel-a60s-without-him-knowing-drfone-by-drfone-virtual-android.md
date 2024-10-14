@@ -1,7 +1,7 @@
 ---
 title: Two Ways to Track My Boyfriends Itel A60s without Him Knowing | Dr.fone
-date: 2024-10-05T18:15:42.546Z
-updated: 2024-10-07T16:59:06.763Z
+date: 2024-10-10T05:54:09.786Z
+updated: 2024-10-14T04:11:01.492Z
 tags: 
   - virtual location change
   - location track
@@ -61,6 +61,13 @@ Since it runs in stealth mode, it allowed me to track my boyfriend’s phone wit
 
 ![track my boyfriend’s phone-log-in to KidsGuard Pro’s dashboard](https://images.wondershare.com/drfone/article/2022/03/android-control-panel.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4\. Furthermore, you can simply visit the desired section from the left panel to get in-depth access. For instance, by visiting the “Locations” section, you can view the real-time location of the Itel A60s device, the previously visited places, and more.
 
 After following these instructions, I was also able to track my boyfriend without much trouble. KidsGuard Pro also provides a seamless way to track the social media activity on the target device, record calls, listen to its surroundings, etc. Furthermore, you can enable its Keylogging feature as well to get a comprehensive record of everything typed on the Itel A60s device. By using these amazing features, I was able to track my boyfriend’s phone without getting detected.
@@ -93,6 +100,13 @@ Finally, point the Itel A60s device's camera toward the QR code displayed on the
 
 ![use whatsapp web](https://images.wondershare.com/drfone/article/2023/07/track-whatsapp-messages-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
+  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 2. Use WhatsApp Linked Devices to Track WhatsApp Messages
 
 WhatsApp Linked Devices is a feature introduced by WhatsApp. It allows users to connect their WhatsApp accounts to multiple devices simultaneously. This feature enables seamless synchronization of messages across devices. Thus, it can be used to track WhatsApp messages. To set up WhatsApp Linked Devices, you will need physical access to the targeted device.
@@ -101,18 +115,18 @@ Launch WhatsApp on the Itel A60s device, go to the menu, and select "Linked Devi
 
 ![link whatsapp to another device](https://images.wondershare.com/drfone/article/2023/07/track-whatsapp-messages-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Method 3. Use Google Drive Backup to Read Someone’s WhatsApp Messages
 
 WhatsApp provides the option to back up chats and media to cloud storage platforms like Google Drive. This feature is primarily designed for users to restore their data. However, It can be utilized to access and read someone else's WhatsApp messages. That is possible if you have access to their Google account.
 
 To use this method, you will need to physically access the Itel A60s device or need a device with the targeted Google account logged in. Here navigate to Google Drive and find the WhatsApp backup file. Download these files on your device and use a third-party tool to decrypt the files.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3: How To Track WhatsApp Messages Without Them Knowing?
 
@@ -131,6 +145,13 @@ After purchasing the mSpy package of your choice, open the email to receive logi
 **Step 1:** After selecting "Android" as the smartphone type, get physical access to the Itel A60s device. Now enable “Installation from Unknown Sources” and disable Google Play Protect. When done, tap “Proceed” in your mSpy account, which will take you to a screen with the URL.
 
 ![allow installation from unknown sources](https://images.wondershare.com/drfone/article/2023/07/track-whatsapp-messages-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 2:** Take the URL and type it into the Google Chrome browser of the targeted Android device. It is important to remember that you need to use Google Chrome, as other browsers won’t work. Once the URL is typed in, press “Go.”
 
@@ -181,10 +202,10 @@ Spyera allows you to monitor and track group chats on WhatsApp. You can view the
 ![access the spyera dashboard](https://images.wondershare.com/drfone/article/2023/07/track-whatsapp-messages-11.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 3. Track WhatsApp Messages with MaxxSpy
@@ -210,13 +231,6 @@ The best location spoofer app available in this regard is Wondershare [Dr.Fone -
 1. It provides a joystick to ensure your movement is realistic when playing AR games.
 2. With Dr.Fone - Virtual Location, you can change your location on social media apps like Snapchat, WhatsApp.
 3. By using this app, you can also access geo-restricted content and websites.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Step-by-Step Instructions To Spoof WhatsApp Location via Wondershare Dr.Fone
 
@@ -267,10 +281,10 @@ In conclusion, tracking WhatsApp messages can be helpful in various scenarios. T
 When it comes to spoofing your WhatsApp location to avoid being tracked by others, one recommended solution is Dr.Fone - Virtual Location. It offers a reliable and effective way to change your GPS location. By using this tool, you can easily set a different location on your device. Moreover, It will add an added layer of privacy and security.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How Do I Stop Someone From Tracking My Itel A60s?
@@ -278,13 +292,6 @@ When it comes to spoofing your WhatsApp location to avoid being tracked by other
 It has now become very easy to track a Smartphone using the GPS features of the phone. This can be done by tracking the phone number based on information derived from mobile carriers and also from the GPS chip on the phone which is used by certain apps in order to function well.
 
 You may not want your GPS location tracked by anyone or by apps on your device. When playing games like Pokémon Go, the geo-location data on your device is used to pinpoint where you are for purposes of gameplay. In the same manner, malicious people can track you same way. Here you will learn how to stop someone from tracking your phone in simple and easy ways.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 1: How do people track your phone?
 
@@ -305,13 +312,6 @@ If you have an iPhone, the following methods can be used to stop someone from tr
 ### 1) Use [Dr.Fone - Virtual Location(iOS/Android)](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
 
 This is a tool that you can use to change the virtual location of your device(iOS or Android). The tool comes with powerful features that enable you to teleport to any part of the world within an instant, and even start to move around a map as if you were physically in the area.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
 
@@ -369,10 +369,10 @@ You may turn off location tracking for specific apps that you feel might be used
 ![Disable Share My Location on iPhone](https://images.wondershare.com/drfone/2020/disable-location-tracking-iphone-4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 - Now toggle the button to the right to turn it into the "OFF" position
@@ -388,6 +388,13 @@ At the top of the screen, tap on "Location Services" as you did before
 Now scroll down the list and click on the "System services" option
 
 ![select System Services option](https://images.wondershare.com/drfone/2020/disable-location-tracking-iphone-5.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Toggle the button on the right side of "Location-Based Alerts" into the "OFF" position
 
@@ -428,13 +435,6 @@ Google Location Sharing. This will turn off location sharing if you use it to co
 Nord VPN is a great tool to fake your GPS location and stop people from tracking your phone. It works by masking your true IP address and then using servers in another location to fake your position. This tool is great for stopping people from tracking you using browser-based apps. It also does affect the GPS chip and stop it from transmitting your true location. Nord VPN has servers in countries all over the world, which means you can move your location to another continent to fool those who may be tracking you.
 
 ![pokemon go spoofers iphone 8](https://images.wondershare.com/drfone/article/2019/09/pokemon-go-spoofers-iphone-8.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 4) Fake GPS Go
 
@@ -487,22 +487,21 @@ If you want to stop Google from tracking your location, these are the methods th
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-clean-slates-mastering-the-eraser-tool-in-photoshop/"><u>[New] Clean Slates Mastering the Eraser Tool in Photoshop</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-discover-the-top-8-cost-free-videography-suites-for-digital-filmmakers/"><u>[New] In 2024, Discover the Top 8 Cost-Free Videography Suites for Digital Filmmakers</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ulse-picking-playlists-hot-tracks-for-viral-youtube-shorts-for-2024/"><u>[New] Pulse-Picking Playlists Hot Tracks for Viral YouTube Shorts for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-how-to-upload-youtube-shorts-video-from-computer-and-mobile/"><u>[Updated] 2024 Approved How to Upload YouTube Shorts Video From Computer and Mobile?</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-mastering-media-importer-strategies-in-windows-10/"><u>[Updated] Mastering Media Importer Strategies in Windows 10</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/3-solutions-to-find-your-honor-90-pro-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>3 Solutions to Find Your Honor 90 Pro Current Location of a Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/3-ways-to-track-infinix-gt-10-pro-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track Infinix GT 10 Pro without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-tecno-phantom-v-flip-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on Tecno Phantom V Flip | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-iphone-12-pro-max-without-backup-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Restore iPhone 12 Pro Max without Backup | Stellar</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-oppo-reno-11f-5g-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost Oppo Reno 11F 5G for Free? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-motorola-edge-40-pro-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Motorola Edge 40 Pro Location without Installing Software? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-samsung-galaxy-a23-5g-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Samsung Galaxy A23 5G Location without Installing Software? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-samsung-galaxy-xcover-6-pro-tactical-edition-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on Samsung Galaxy XCover 6 Pro Tactical Edition Without Them Knowing? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-lava-blaze-2-drfone-by-drfone-virtual-android/"><u>In 2024, How to Check Distance and Radius on Google Maps For your Lava Blaze 2 | Dr.fone</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-seo-innovation-pivotal-tech-to-elevate-your-vids/"><u>In 2024, SEO Innovation Pivotal Tech to Elevate Your Vids</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/into-the-depths-mastering-gopros-time-lapse-techniques/"><u>Into the Depths Mastering GoPro's Time-Lapse Techniques</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-preserve-your-memories-burning-videos-to-dvd-on-windows-and-mac-for-2024/"><u>Updated Preserve Your Memories Burning Videos to DVD on Windows and Mac for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-best-affordable-pc-cases-and-accessories-under-100/"><u>[New] In 2024, Best Affordable PC Cases & Accessories (Under $100)</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-enhancing-your-youtube-presence-with-split-screen-techniques/"><u>[New] In 2024, Enhancing Your YouTube Presence with Split-Screen Techniques</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-secrets-of-seamless-video-editing-using-windows-11-tools/"><u>[Updated] 2024 Approved Secrets of Seamless Video Editing Using Windows 11 Tools</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-essentials-of-drafting-engaging-vlogger-speeches-for-2024/"><u>[Updated] Essentials of Drafting Engaging Vlogger Speeches for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-from-sketches-to-screens-animation-via-windows-movie-maker/"><u>[Updated] From Sketches to Screens Animation via Windows Movie Maker</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-navigating-kinemasters-features-and-comparing-to-leading-online-games/"><u>2024 Approved Navigating KineMaster's Features and Comparing to Leading Online Games</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-huawei-p60-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset Huawei P60 | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-redmi-13c-support-avchd-video-by-aiseesoft-video-converter-play-mts-on-android/"><u>Does Redmi 13C support AVCHD video?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-nokia-c110-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on Nokia C110 | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-motorola-edge-40-pro-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track Motorola Edge 40 Pro without App | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-samsung-galaxy-f34-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Tracking Apps to Track Samsung Galaxy F34 5G without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-6-appsservices-to-trace-any-realme-v30-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, Top 6 Apps/Services to Trace Any Realme V30 Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/solutions-to-spy-on-motorola-edge-40-pro-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>Solutions to Spy on Motorola Edge 40 Pro with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/strategies-to-address-non-definable-values-in-winos/"><u>Strategies to Address Non-Definable Values in WinOS</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-7-phone-number-locators-to-track-realme-v30-location-drfone-by-drfone-virtual-android/"><u>Top 7 Phone Number Locators To Track Realme V30 Location | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/two-ways-to-track-my-boyfriends-realme-12-5g-without-him-knowing-drfone-by-drfone-virtual-android/"><u>Two Ways to Track My Boyfriends Realme 12 5G without Him Knowing | Dr.fone</u></a></li>
 </ul></div>
 

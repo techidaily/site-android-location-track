@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Turn Off Google Location to Stop Tracking You on Infinix Smart 8 | Dr.fone
-date: 2024-10-06T05:38:15.299Z
-updated: 2024-10-07T16:38:51.908Z
+date: 2024-10-08T05:37:09.889Z
+updated: 2024-10-13T18:36:55.102Z
 tags: 
   - virtual location change
   - location track
@@ -45,6 +45,13 @@ The same thing goes for Google search results. This query engine uses location d
 
 Google uses location data to keep your accounts safe from potential attacks and security breaches. How so? Well, Google immediately sends alerts whenever your account is used from an unusual location. Another thing is that strange activities on your account are promptly detected with the aid of location information. Simply put, allowing Google to access your whereabouts is the least you can do to protect your digital assets. Hence, don’t turn off Google location tracking on your Infinix Smart 8 smartphone if you need such assistance.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### It is utilized for research and further improvements of Google services
 
 ![google services](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-3.JPG)
@@ -67,13 +74,6 @@ There’s no denying that Google uses location information to give us the best e
 
 ![location services](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 4:** Lastly, click **Close** to confirm the changes.
 
 ### Method 2: Deactivate the Google App’s location access on your Infinix Smart 8 mobile device
@@ -86,6 +86,13 @@ Let’s say you don’t want to cut the entire location access across your smart
 
 ![app list](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 3:** Find and click **Google** on the list.
 
 ![google on app list](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-6.jpg)
@@ -93,6 +100,13 @@ Let’s say you don’t want to cut the entire location access across your smart
 **Step 4:** Click **Permissions.**
 
 ![google app permissions](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-7.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 5:** Click **Location.**
 
@@ -122,19 +136,6 @@ Timeline is a special Google feature that keeps a record of your location check-
 
 ![data and privacy settings](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-12.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1304648">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 5:** Find and click **Timeline.**
 
 ![timeline settings](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-13.jpg)
@@ -142,6 +143,13 @@ Timeline is a special Google feature that keeps a record of your location check-
 **Step 6:** Scroll down and then tap the **Turn Off** button.
 
 ![turn off timeline settings](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-14.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### For web users
 
@@ -154,13 +162,6 @@ Timeline is a special Google feature that keeps a record of your location check-
 **Step 3:** Scroll it down and then click the **Turn Off** button.
 
 ![turn off timeline](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-16.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 4: Remove visits on Google Maps
 
@@ -180,14 +181,14 @@ If Timeline is previously activated on your Infinix Smart 8, chances are Google 
 
 ![google maps places](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-19.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 5:** Pick a location and click the **Three-dotted menu** button next to it. From there, select **Remove All Visits.**
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3. Keep Your Whereabouts Private With [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
 
@@ -202,6 +203,13 @@ Google surely understands that some users are uncomfortable sharing their wherea
 **Step 4:** After completing the downloading process, Wondershare Dr.Fone - Virtual Location will open in a separate window. From there, navigate to the top-right menu bar and then click **Teleport Mode.**
 
 ![wondershare drfone teleport mode](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 5:** Head over to the search bar at the top-left corner of the screen and then enter your desired location. Choose one from the suggestions that Wondershare Dr.Fone displays on the screen. Right after, click the **Enter** icon.
 
@@ -294,13 +302,6 @@ Compatible with iPad, iPhone, and iPod Touch
 Control if you need gasoline through Bluetooth
 
 ![Car Locator Apps-Automatic](https://images.wondershare.com/drfone/article/2017/10/15081723208344.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 URL:
 
@@ -430,13 +431,6 @@ Premium 5: U$ 32 per year
 
 Premium 10: U$ 55 per year
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 3: Kidlogger
 
 Name: Kidlogger
@@ -446,10 +440,10 @@ Introduction: This iPhone monitoring software is completely free, works on Mac, 
 ![iPhone Monitoring Software-Kidlogger](https://images.wondershare.com/drfone/article/2017/10/15081574993695.jpg) **Features:**
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Time spend playing games.
@@ -510,13 +504,6 @@ Premier: U$ 49.99
 
 Premium: U$ 59.99
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 5: Canary
 
 Name: Canary
@@ -558,6 +545,13 @@ Name: Teen Safe
 Introduction: It's iPhone monitoring available for Android and iOS devices. It allows you to see what the child is doing with his device and is useful for identifying bullying situations, it also allows you to track the terminal without your teenager noticing it. It gives parents access to their children's entire telephone details.
 
 ![iPhone Monitoring Software-Teen Safe](https://images.wondershare.com/drfone/article/2017/10/15081575569908.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Features:**
 
@@ -697,20 +691,15 @@ South Korea to regulate and safeguard teenage activities online have come up wit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-economical-choices-in-action-cinematography/"><u>[New] Economical Choices in Action Cinematography</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-prove-your-skills-with-flawless-ps4-screen-capture-for-gamers/"><u>[New] Prove Your Skills with Flawless PS4 Screen Capture for Gamers</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/5-ways-to-track-vivo-y27-5g-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Vivo Y27 5G without App | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-vivo-s18-pro-drfone-by-drfone-virtual-android/"><u>How Do I Stop Someone From Tracking My Vivo S18 Pro? | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-seamlessly-upgrade-your-microsoft-sculpt-ergonomic-keyboards-software/"><u>How To Seamlessly Upgrade Your Microsoft Sculpt Ergonomic Keyboard's Software</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-realme-note-50-drfone-by-drfone-virtual-android/"><u>How to Spy on Text Messages from Computer & Realme Note 50 | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-realme-c33-2023-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Realme C33 2023 Location by Number | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-honor-x50-gt-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Honor X50 GT</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-vivo-y28-5g-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Vivo Y28 5G FRP Android 10/11/12/13</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-asus-rog-phone-7-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Remove Spyware on Asus ROG Phone 7? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-vivo-v27e-drfone-by-drfone-virtual-android/"><u>In 2024, The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Vivo V27e | Dr.fone</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/reimagining-home-setups-with-a-webcam/"><u>Reimagining Home Setups with a Webcam</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-7-phone-number-locators-to-track-sony-xperia-1-v-location-drfone-by-drfone-virtual-android/"><u>Top 7 Phone Number Locators To Track Sony Xperia 1 V Location | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-complete-fixes-for-persistent-discord-streaming-issues/"><u>Troubleshooting Complete Fixes for Persistent Discord Streaming Issues</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-how-to-reverse-a-tiktok-video-with-ease-an-ultimate-guide-for-2024/"><u>Updated How to Reverse A TikTok Video with Ease An Ultimate Guide for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-explore-best-iphone-selfie-boosters-all-free-and-upgraded/"><u>[New] Explore Best iPhone Selfie Boosters - All Free and Upgraded</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-professional-iphone-hdr-techniques-unveiled/"><u>[Updated] Professional iPhone HDR Techniques Unveiled</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-nokia-c12-pro-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Nokia C12 Pro Activity | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-short-film-script-example/"><u>2024 Approved Short Film Script Example</u></a></li>
+<li><a href="https://win-webster.techidaily.com/complete-guide-omitting-specific-files-or-folders-during-an-aomei-backup-session/"><u>Complete Guide: Omitting Specific Files or Folders During an AOMEI Backup Session</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-ways-to-track-itel-p55-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Track Itel P55 without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-realme-narzo-n55-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Realme Narzo N55 Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-pulsating-performance-audio-addition-to-videos-on-win11/"><u>In 2024, Pulsating Performance Audio Addition to Videos on Win11</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/top-4-platforms-for-free-skype-ringtones/"><u>Top 4 Platforms for Free Skype Ringtones</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-tracking-apps-to-track-realme-gt-3-without-them-knowing-drfone-by-drfone-virtual-android/"><u>Top 5 Tracking Apps to Track Realme GT 3 without Them Knowing | Dr.fone</u></a></li>
 </ul></div>
 

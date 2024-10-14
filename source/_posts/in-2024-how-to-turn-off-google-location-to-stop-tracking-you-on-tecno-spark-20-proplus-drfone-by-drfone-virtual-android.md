@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Turn Off Google Location to Stop Tracking You on Tecno Spark 20 Pro+ | Dr.fone
-date: 2024-10-02T16:50:25.333Z
-updated: 2024-10-08T11:52:45.105Z
+date: 2024-10-11T23:51:17.541Z
+updated: 2024-10-14T01:26:04.739Z
 tags: 
   - virtual location change
   - location track
@@ -29,13 +29,6 @@ Location data generally helps us find reliable directions and pinpoint a particu
 
 ![google products](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-1.JPG)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Of course, Google Maps and Weather will not work without access to location data. It is the main component that allows this kind of application to function exactly as it should. That’s why you should think twice before you turn off Google location tracking. Keep it activated on your mobile device if you’re in need of real-time weather updates or reliable coordinates.
 
 ### It is used for targeted advertisements
@@ -62,13 +55,6 @@ We all know that Google is committed to offering us new products and improving i
 
 There’s no denying that Google uses location information to give us the best experience possible. However, it doesn’t necessarily mean there is no risk at all. We cannot rule out the possibility of data breaches and disclosure of location information that is supposed to be private. If you’re worried about this kind of situation, you can prevent it from happening in a snap of a finger. Check out the four methods below on how to turn off Google location tracking on your Tecno Spark 20 Pro+ smartphone.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Method 1: Turn off the location services on your Tecno Spark 20 Pro+ mobile device
 
 “How to stop Google from tracking me?” Well, it’s actually very easy. You just need to deactivate the location service on your Tecno Spark 20 Pro+ mobile device. After that, Google and other GPS-based applications on your smartphone will immediately lose access to your location data. Do you want to try it now? Check out the tutorial below on how to turn off Google location tracking by deactivating the location services on your phone.
@@ -83,6 +69,13 @@ There’s no denying that Google uses location information to give us the best e
 
 **Step 4:** Lastly, click **Close** to confirm the changes.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 2: Deactivate the Google App’s location access on your Tecno Spark 20 Pro+ mobile device
 
 Let’s say you don’t want to cut the entire location access across your smartphone because other apps might malfunction. That’s fine. There is a way to deactivate the Google app’s location permission while the other apps remain unaffected. Are you more inclined to implement this decentralized approach? Check out the tutorial provided below.
@@ -92,6 +85,13 @@ Let’s say you don’t want to cut the entire location access across your smart
 **Step 2:** Click **Apps.**
 
 ![app list](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-5.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 3:** Find and click **Google** on the list.
 
@@ -121,23 +121,9 @@ Timeline is a special Google feature that keeps a record of your location check-
 
 ![google app profile icon](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-10.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 3:** Click **Google Account.**
 
 ![google app account](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-11.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 4:** Click **Data Privacy.**
 
@@ -150,6 +136,13 @@ Timeline is a special Google feature that keeps a record of your location check-
 **Step 6:** Scroll down and then tap the **Turn Off** button.
 
 ![turn off timeline settings](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-14.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### For web users
 
@@ -173,9 +166,23 @@ If Timeline is previously activated on your Tecno Spark 20 Pro+, chances are Goo
 
 ![google maps profile](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-17.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 3:** Then click **Your Timeline.**
 
 ![google maps your timeline](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-18.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 4:** Click **Places.** Scroll down and then click **Visited All Places** just below the map.
 
@@ -205,6 +212,13 @@ Google surely understands that some users are uncomfortable sharing their wherea
 
 ![read location description](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 7:** The location registered on your Tecno Spark 20 Pro+ mobile device will now be replaced with your modified whereabouts. Verify the changes applied on your smartphone by checking Google Maps and searching for your current location. One way or another, it must show the altered result.
 
 **NOTE:** If you want to restore your original location settings, simply disconnect your smartphone from the computer and restart it.
@@ -222,19 +236,6 @@ If you want to know about the solution that how to stop someone from spying on m
 Many ways are used by the tracking tools to make sure that the children are always monitored. Some of the features include geo-fencing, app tracking, location, movements, and remote device locking. The page contents are also analyzed rather than database filtering to make sure that the Tecno Spark 20 Pro+ devices get in remote control of the parents.
 
 The other implementations that will be applied by such applications are keyword profanity and remote content locking as well. The two-factor authentication will also get more control to the parents and will allow them to capture the activities of the child with ease. If you want to know how to prevent the police from tracking your phone then it is advised to read this article thoroughly to get the best ideas.
-
-<!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 1.1 Some apps that Parents use for Tracking and how these Work?
 
@@ -285,13 +286,6 @@ The center on button is to be clicked to locate your device.
 
 ![virtual location 3](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 4: Teleportation**
 
 The third icon on the top right is to be clicked so that spoofing begins.
@@ -310,6 +304,13 @@ The location will be locked with and the Tecno Spark 20 Pro+ device will also sh
 
 ![virtual location 6](https://images.wondershare.com/drfone/guide/virtual-location-06.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 4: Install Anti-Spy Tool to Avoid Tracking
 
 If you want to know how to stop someone from tracking your phone then an anti-spy tool must be used to get the work done.
@@ -325,6 +326,13 @@ Phone Guardian is the best and the most used apps that will protect your iOS and
 It has both and free and paid versions to make sure that you get the best results. For most of the users, the free application will do the trick. It is the best app that is also available as a web application to restrict your parents from prying on your phone.
 
 ![phone guardian iPhone and android](https://drfone.wondershare.com/2020/phone_guardian_iPhone_and_android.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -354,19 +362,6 @@ Step 3. Hover over to the All Devices dropdown menu and choose your iPhone.
 
 ![choose your iPhone](https://images.wondershare.com/drfone/article/2017/10/15075181861335.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1304648">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 4. The tracking process will now begin, and you should be able to see it displayed on an interactive map if successful.
 
 ![begin to track the phone](https://images.wondershare.com/drfone/article/2017/10/15075182429793.jpg)
@@ -380,13 +375,6 @@ Note that this solution will only work if you have Location Services enabled on 
 It’s no surprise that both Apple and the search giant are fond of gathering information on all sorts of things, most notably your location. Google stores this information on its Timeline, so without ado, head to the Google Timeline.
 
 ![head to the Google Timeline to track your iPhone](https://images.wondershare.com/drfone/article/2017/10/example-trip-google-timeline.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step 2. Select the present date from the left hand panel.
 
@@ -460,19 +448,21 @@ There you go! Lost your iPhone? We've provided you with 5 different ways to loca
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-mastering-movies-with-top-10-professional-cinema-gear/"><u>[New] Mastering Movies with Top 10 Professional Cinema Gear</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/6-solutions-to-address-your-steam-vr-headset-detection-issues/"><u>6 Solutions to Address Your Steam VR Headset Detection Issues</u></a></li>
-<li><a href="https://driver-install.techidaily.com/compatible-printer-jet-pro-8710-software-windows-edition/"><u>Compatible Printer: Jet Pro 8710 Software, Windows Edition</u></a></li>
-<li><a href="https://win-blog.techidaily.com/effortless-entry-into-palworld-navigate-past-eos-login-challenges-using-our-6-proven-methods/"><u>Effortless Entry Into Palworld: Navigate Past EOS Login Challenges Using Our 6 Proven Methods</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-tecno-pova-5-pro-drfone-by-drfone-virtual-android/"><u>How to Detect and Remove Spyware on Tecno Pova 5 Pro? | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-effortlessly-sign-up-for-a-playstation-network-psn-profile/"><u>How to Effortlessly Sign Up for a PlayStation Network (PSN) Profile</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-vivo-y78-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Remove Spyware on Vivo Y78 5G? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-samsung-galaxy-a23-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Spy on Text Messages from Computer & Samsung Galaxy A23 5G | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-xiaomi-14-pro-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on Xiaomi 14 Pro with and without jailbreak | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-samsung-galaxy-s23-fe-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Phone Number Locators To Track Samsung Galaxy S23 FE Location | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-unlock-the-world-of-vr-with-your-phone-in-minutes/"><u>In 2024, Unlock the World of VR with Your Phone in Minutes</u></a></li>
-<li><a href="https://games-able.techidaily.com/1719167776043-navigate-through-tech-troubles-with-new-nvidia-drivers/"><u>Navigate Through Tech Troubles with New Nvidia Drivers.</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/-endorsed-methods-for-video-marketing-success-for-2024/"><u>Top 8 Endorsed Methods for Video Marketing Success for 2024</u></a></li>
-<li><a href="https://solve-hot.techidaily.com/understanding-end-user-license-agreement-warnings/"><u>Understanding End-User License Agreement Warnings</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-how-to-create-a-negative-like-image-look/"><u>[Updated] In 2024, How to Create a Negative-Like Image Look</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-unveiling-the-hidden-treasures-youtubes-top-makeup-talents/"><u>2024 Approved Unveiling the Hidden Treasures YouTube's Top Makeup Talents</u></a></li>
+<li><a href="https://win-dash.techidaily.com/amd-radeon-rx-6800-xt-graphics-card-drivers-compatible-with-windows-11-10-8-and-7-download-now/"><u>AMD Radeon RX 6800 XT Graphics Card Drivers: Compatible with Windows 11, 10, 8 & 7 - Download Now</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/expert-guide-to-free-pc-software-for-capturing-tv/"><u>Expert Guide to Free PC Software for Capturing TV</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/expert-strategies-for-3d-lut-implementation-in-photoshop/"><u>Expert Strategies for 3D LUT Implementation in Photoshop</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-oppo-find-x7-ultra-drfone-by-drfone-virtual-android/"><u>How to Detect and Remove Spyware on Oppo Find X7 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-realme-v30t-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost Realme V30T for Free? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-samsung-galaxy-a54-5g-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Samsung Galaxy A54 5G by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-oppo-a2-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Oppo A2 | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-oppo-find-n3-flip-for-free-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track a Lost Oppo Find N3 Flip for Free? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-xiaomi-13-ultra-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on Xiaomi 13 Ultra Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-oppo-a58-4g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Tracking Apps to Track Oppo A58 4G without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/master-the-art-of-sharing-ultra-hd-4k-footage-on-facebook-a-comprehensive-converter-tool-and-tutorial-resource/"><u>Master the Art of Sharing Ultra HD 4K Footage on Facebook: A Comprehensive Converter Tool & Tutorial Resource</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-the-solution-to-eliminate-steamvr-error-message-308/"><u>Mastering the Solution to Eliminate SteamVR Error Message 308</u></a></li>
+<li><a href="https://network-issues.techidaily.com/rapid-fix-for-uninterrupted-streaming/"><u>Rapid Fix for Uninterrupted Streaming</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-comprehensive-guide-on-computer-hardware/"><u>Tom's Tech Review: Comprehensive Guide on Computer Hardware</u></a></li>
 </ul></div>
 

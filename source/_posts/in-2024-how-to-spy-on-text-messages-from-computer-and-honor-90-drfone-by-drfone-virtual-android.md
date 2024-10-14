@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Spy on Text Messages from Computer & Honor 90 | Dr.fone
-date: 2024-10-05T20:07:46.782Z
-updated: 2024-10-08T07:19:49.650Z
+date: 2024-10-06T18:32:41.349Z
+updated: 2024-10-13T17:04:04.941Z
 tags: 
   - virtual location change
   - location track
@@ -31,13 +31,6 @@ Step 3: Once set up is complete, you can go to your eyeZy dashboard on any other
 
 ![Spy on Text Messages from another Android phone using eyeZy](https://images.wondershare.com/drfone/article/2022/03/spy-on-text-messages-eyezy.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 2: How to Spy on text messages from another iPhone
 
 For iPhone users, one of the best spy apps to use is Auto Forward. This app allows users to spy on another iPhone without the target device’s owner knowing. It has a major advantage in that it allows the user to see all messages including those the owner of the Honor 90 device may have deleted. You can also see both sent and received messages.
@@ -51,6 +44,13 @@ Step 2: Log in to your account (that you would have created before installing th
 Step 3: The app will automatically access all messages on the target device. It will however only work if you have the target device’s Apple login details.
 
 ![Spy on text messages from another iPhone via Auto Forward](https://images.wondershare.com/drfone/article/2017/10/15074689453332.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3: How to Spy on text messages from computer
 
@@ -100,10 +100,16 @@ To know more and sign up on mSpy, visit [https://www.mspy.com/](http://mspy.go2c
 - The app needs to be downloaded on the target device.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
-  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: Highster Mobile
@@ -130,13 +136,6 @@ To know more, visit <http://www.highstermobilespy.com/>
 
 - The user panel lacks certain features.
 - Lack of instructions on the interface.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 3: Flexispy
 
@@ -223,13 +222,6 @@ Visit <http://www.mobilespyagent.com/> to know more.
 
 ![Phone Monitoring Apps-Mobile Spy Agent](https://images.wondershare.com/drfone/article/2017/10/15081777565839.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Features:**
 
 - Track GPS Locations, browser history, incoming/ outgoing calls, SMS, etc.
@@ -254,6 +246,13 @@ Spyera, the cell phone monitoring software, is mostly used by parents to spy on 
 Visit <https://spyera.com/> and know more.
 
 ![Phone Monitoring Apps-Spyera](https://images.wondershare.com/drfone/article/2017/10/15081777995796.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Features:**
 
@@ -356,13 +355,6 @@ Please read on for the top 10 best spy watches.
 3. Scan the QR code on the package with your smartphone to access top-secret intel about Spy Gear
 4. Cost: $13.91
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 3: An Alternative: Try mSpy
 
 Taking pictures and videos discreetly from your spy watch may seem grand and fanciful, like 007. But real spy work actually happens behind a computer screen. In the age of information technology, people keep all their most valuable information stored on phones. As such, if you have access to someone's phone, you have access to all their secrets. However, breaking into someone's phone doesn't require years of hacking and coding practice as most people believe. All you need is a decent app that can take care of everything for you. [mSpy](http://mspy.go2cloud.org/SH7G6) is that app.
@@ -370,6 +362,19 @@ Taking pictures and videos discreetly from your spy watch may seem grand and fan
 While there are a lot of other spy apps out there worth browsing through, both for Android and [iPhone](https://drfone.wondershare.com/track/iphone-monitoring.html), mSpy is the most reliable, reasonable, and feature-heavy of them all.
 
 ![best spy watches](https://images.wondershare.com/drfone/article/2016/12/14830056776035.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Pros
 
@@ -389,6 +394,13 @@ You can learn everything you need to know about mSpy from their [FAQ page](https
 
 You can also learn how to install mSpy from this tutorial.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 4: #8 Sound Audio Recorder Spy Watch
 
 ![top 10 spy watches](https://images.wondershare.com/drfone/others/spy-watch-03.jpg)
@@ -406,6 +418,13 @@ You can also learn how to install mSpy from this tutorial.
 
 ![spy watches](https://images.wondershare.com/drfone/others/spy-watch-04.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### EasyDy Bluetooth Android Watch Phone with Camera E118 Features
 
 1. Call via watch independently. Or connect Android phone to make Bluetooth calls.
@@ -414,13 +433,6 @@ You can also learn how to install mSpy from this tutorial.
 4. Switch phone music via watch wirelessly, play / pause / next song / previous song.
 5. Pedometer, Sedentary Reminder, Sleep Monitor.
 6. Cost: $16.99
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 6: #6 Efine® 16GB Spy Watch
 
@@ -450,13 +462,6 @@ You can also learn how to install mSpy from this tutorial.
 ## Part 8: #4 Oumeiou HD 1080P 8GB Fashion Men's Waterproof Spy Watch
 
 ![spy watch](https://images.wondershare.com/drfone/article/2016/12/14830083711664.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Oumeiou HD 1080P 8GB Fashion Men's Waterproof Spy Watch Features
 
@@ -499,15 +504,28 @@ You can also learn how to install mSpy from this tutorial.
 6. 16GB internal flash memory.
 7. Cost: £92.19
 
+<!-- affiliate ads begin -->
+<span id="1982456">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 11: #1 007-Watch 8GB HD 1080P Waterproof Spy Camera Watch
 
 ![buy spy watches](https://images.wondershare.com/drfone/article/2016/12/14830091436582.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 007-Watch 8GB HD 1080P Waterproof Spy Camera Watch Features
@@ -540,20 +558,21 @@ Do comment down below and let us know what you think of these great spy watches 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-streamlined-strategies-for-powerpoint-recordings/"><u>[New] In 2024, Streamlined Strategies for PowerPoint Recordings</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-innovative-video-marketing-youtube-trailers-with-filmora/"><u>[Updated] In 2024, Innovative Video Marketing YouTube Trailers with Filmora</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-screen-seizing-specialists-the-best-browser-recorder-tools-ranked-for-2024/"><u>[Updated] Screen Seizing Specialists The Best Browser Recorder Tools Ranked for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-top-church-streaming-services-for-the-digital-age/"><u>[Updated] Top Church Streaming Services for the Digital Age</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/gopros-maximized-vision-analyzing-max-360-and-hero-11-video-capabilities/"><u>GoPro's Maximized Vision Analyzing Max 360 & Hero 11 Video Capabilities</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-sony-xperia-1-v-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Sony Xperia 1 V Activity | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-3-ways-to-track-vivo-v27-pro-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Track Vivo V27 Pro without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-vivo-y36-location-by-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Vivo Y36 Location by Number | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-turn-off-google-location-to-stop-tracking-you-on-realme-12-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Turn Off Google Location to Stop Tracking You on Realme 12 5G | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-oppo-a79-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Car Locator Apps for Oppo A79 5G | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-9-xiaomi-redmi-note-13-pro-5g-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>In 2024, Top 9 Xiaomi Redmi Note 13 Pro 5G Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ltimate-guide-to-using-youtube-on-iosandroid-devices/"><u>The Ultimate Guide to Using YouTube on iOS/Android Devices</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/transform-your-phone-with-funimate-the-ultimate-apk-guide-for-2024/"><u>Transform Your Phone with Funimate - The Ultimate APK Guide for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-frozen-windows-11-updates-solutions-and-tips/"><u>Troubleshooting Frozen Windows 11 Updates: Solutions & Tips</u></a></li>
-<li><a href="https://os-tips.techidaily.com/ultimate-tutorial-restoring-accidentally-erased-voice-notes-from-an-ios-device/"><u>Ultimate Tutorial: Restoring Accidentally Erased Voice Notes From an iOS Device</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-evaluating-ffmpeg-for-pure-audio-recapture-for-2024/"><u>[Updated] Evaluating FFmpeg for Pure Audio Recapture for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-tweet-titans-social-networks-10-most-shared-posts/"><u>[Updated] In 2024, Tweet Titans Social Network’s 10 Most Shared Posts</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-navigating-instagram-copyright/"><u>[Updated] Navigating Instagram Copyright</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-xiaomi-mix-fold-3-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Xiaomi Mix Fold 3 Activity | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-11-essential-steps-for-fb-video-showcasing-success/"><u>2024 Approved 11 Essential Steps for FB Video Showcasing Success</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easily-convert-your-mp2-audio-to-flac-using-movavis-no-cost-web-service/"><u>Easily Convert Your MP2 Audio to FLAC Using Movavi's No-Cost Web Service</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-can-we-bypass-zte-nubia-flip-5g-frp-by-drfone-android/"><u>How Can We Bypass ZTE Nubia Flip 5G FRP?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-infinix-smart-7-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost Infinix Smart 7 for Free? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-xiaomi-redmi-note-12-5g-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost Xiaomi Redmi Note 12 5G for Free? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-itel-s23plus-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Itel S23+ Location by Number | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-can-i-unlock-my-iphone-8-plus-after-forgetting-my-pin-code-drfone-by-drfone-ios/"><u>In 2024, How Can I Unlock My iPhone 8 Plus After Forgetting my PIN Code? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-vivo-v29e-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Vivo V29e | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-9-samsung-galaxy-m14-5g-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 Samsung Galaxy M14 5G Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/tutoriel-simple-a-pause-pour-recouvrer-les-donnees-perdues-sur-lordinateur-portable-hp/"><u>Tutoriel Simple À Pause Pour Recouvrer Les Données Perdues Sur L'Ordinateur Portable HP</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-nokia-c300-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Nokia C300 | Dr.fone</u></a></li>
+<li><a href="https://solve-news.techidaily.com/win-movavis-1000-prize-with-just-2-minutes-of-video-editing-apply-now/"><u>Win Movavi's $1,000 Prize with Just 2 Minutes of Video Editing: Apply Now!</u></a></li>
 </ul></div>
 
