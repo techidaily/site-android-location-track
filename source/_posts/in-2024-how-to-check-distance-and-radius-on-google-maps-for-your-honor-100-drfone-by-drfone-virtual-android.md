@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Check Distance and Radius on Google Maps For your Honor 100 | Dr.fone
-date: 2024-10-17T21:08:18.745Z
-updated: 2024-10-20T03:23:39.589Z
+date: 2024-10-23T16:53:20.290Z
+updated: 2024-10-25T20:06:19.681Z
 tags: 
   - virtual location change
   - location track
@@ -52,13 +52,6 @@ If you know the exact longitude and latitude of the place, then you can also tak
 
 ![google maps distance radius 5](https://images.wondershare.com/drfone/2023/virtuallocation/google-maps-distance-radius-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 3: Determine the Distance between two Addresses on Google Maps
 
 This is one of the most resourceful features of Google Maps that a lot of people are not aware of. Using its native interface, you can find a straight line distance on Google Maps. That is, it won’t be the driving distance, but the exact distance between 2 places on Google Maps. If you want, you can add other spots to let Google Maps calculate distance between multiple locations as well. To learn how to measure distance between two addresses on Google Maps, follow these steps:
@@ -82,6 +75,13 @@ This is one of the most resourceful features of Google Maps that a lot of people
 This technique will let you measure distance between any addresses on Google Maps. It doesn’t matter if it is your present location or not. If you want to measure distance in some other location, then just enter its name in the search bar to load it. In this way, you can measure distance anywhere in the world by sitting in your home.
 
 This brings us to the end of this extensive guide on using Google Maps distance and radius features. As you can see, I have provided a smart and user-friendly solution to draw radius distance on Google Maps. Besides that, you can also follow the above guide to measure distance between two addresses on Google Maps. In the same way, you can also let Google Maps calculate distance between multiple locations as well. Go ahead and try these Google Maps distance and radius hacks and share your experience with us in the comments below.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
 
@@ -129,13 +129,6 @@ Please read on for the top 10 best spy watches.
 
 - **Recommended location faker tool: [Virtual Location - teleport your iPhone GPS to any place in the world with just 1 click](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)!**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 1: #10 Spy Gear- Field Agent Spy Watch
 
 ![top 10 best spy watches](https://images.wondershare.com/drfone/others/spy-watch-01.jpg)
@@ -181,13 +174,46 @@ While there are a lot of other spy apps out there worth browsing through, both f
 
 ![best spy watches](https://images.wondershare.com/drfone/article/2016/12/14830056908803.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983549">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 You can learn everything you need to know about mSpy from their [FAQ page](https://www.mspy.com/faq.html).
 
 You can also learn how to install mSpy from this tutorial.
 
+<!-- affiliate ads begin -->
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 4: #8 Sound Audio Recorder Spy Watch
 
 ![top 10 spy watches](https://images.wondershare.com/drfone/others/spy-watch-03.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Sound Audio Recorder Spy Watch Features
 
@@ -201,20 +227,6 @@ You can also learn how to install mSpy from this tutorial.
 ## Part 5: #7 EasyDy Bluetooth Android Watch Phone with Camera E118
 
 ![spy watches](https://images.wondershare.com/drfone/others/spy-watch-04.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### EasyDy Bluetooth Android Watch Phone with Camera E118 Features
 
@@ -253,13 +265,6 @@ You can also learn how to install mSpy from this tutorial.
 ## Part 8: #4 Oumeiou HD 1080P 8GB Fashion Men's Waterproof Spy Watch
 
 ![spy watch](https://images.wondershare.com/drfone/article/2016/12/14830083711664.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Oumeiou HD 1080P 8GB Fashion Men's Waterproof Spy Watch Features
 
@@ -348,6 +353,13 @@ The majority of online advertisements scattered all over the internet are run by
 
 ![google search results](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-2.JPG)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 The same thing goes for Google search results. This query engine uses location data to provide information relevant to the specific needs of the user. Let’s say you’re currently residing in Japan and looking for nearby coffee shops. Of course, it will be unhelpful if Google dispenses a list of coffee shops that aren’t located in your country. That’s why you shouldn’t turn off Google location tracking on your smartphone if you’re looking for precise and pertinent answers.
 
 ### It is used by Google to implement certain security protocols
@@ -378,13 +390,6 @@ There’s no denying that Google uses location information to give us the best e
 
 **Step 4:** Lastly, click **Close** to confirm the changes.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Method 2: Deactivate the Google App’s location access on your Honor 100 mobile device
 
 Let’s say you don’t want to cut the entire location access across your smartphone because other apps might malfunction. That’s fine. There is a way to deactivate the Google app’s location permission while the other apps remain unaffected. Are you more inclined to implement this decentralized approach? Check out the tutorial provided below.
@@ -403,9 +408,23 @@ Let’s say you don’t want to cut the entire location access across your smart
 
 ![google app permissions](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-7.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 5:** Click **Location.**
 
 ![location access for google](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-8.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 6:** Lastly, click **Don’t Allow.** Alternatively, you may instead select **Allow Only While Using the App** or **Ask Every Time** if you wish to grant Google conditional access to your location data.
 
@@ -430,13 +449,6 @@ Timeline is a special Google feature that keeps a record of your location check-
 **Step 4:** Click **Data Privacy.**
 
 ![data and privacy settings](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-12.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 5:** Find and click **Timeline.**
 
@@ -478,13 +490,6 @@ If Timeline is previously activated on your Honor 100, chances are Google Maps h
 
 **Step 5:** Pick a location and click the **Three-dotted menu** button next to it. From there, select **Remove All Visits.**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 3. Keep Your Whereabouts Private With [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
 
 Google surely understands that some users are uncomfortable sharing their whereabouts with the platform. That’s why you’re given the option to turn off Google location tracking on your Honor 100 smartphone. However, take note that doing so might gravely affect the functionality of some Google products. If you don’t want it to happen, there’s an alternative solution you can try. Rather than denying Google access to your location, why not change it instead and register a fake one? Yes. That can absolutely help you conceal your whereabouts without compromising the quality of Google services. Don’t worry. It’s a piece of cake. Wondershare Dr.Fone can help you a lot in this regard. It has a potent Virtual Location feature capable of modifying your whereabouts and simulating GPS movements. Do you want to try it now? Here’s a short guide for you.
@@ -506,6 +511,13 @@ Google surely understands that some users are uncomfortable sharing their wherea
 **Step 6:** The description of your chosen location will be then flashed on the screen. Read the details and make sure they are accurate. After that, click **Move Here** to proceed.
 
 ![read location description](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 7:** The location registered on your Honor 100 mobile device will now be replaced with your modified whereabouts. Verify the changes applied on your smartphone by checking Google Maps and searching for your current location. One way or another, it must show the altered result.
 
@@ -529,24 +541,18 @@ At some point, we cannot deny that Google location services make our lives a lot
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-navigating-netizens-youtubes-footprint-in-facebook-for-2024/"><u>[New] Navigating Netizens YouTube’s Footprint in Facebook for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/he-ultimate-guide-to-sharing-audio-with-youtube-for-2024/"><u>[New] The Ultimate Guide to Sharing Audio with YouTube for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-optimal-obs-configuration-for-budget-pcs/"><u>[Updated] 2024 Approved Optimal OBS Configuration for Budget PCs</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-avoiding-compression-larger-youtube-videos/"><u>[Updated] Avoiding Compression Larger YouTube Videos</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-best-tablet-gear-beyond-the-hype-a-must-try-photo-editing-list/"><u>[Updated] Best Tablet Gear Beyond the Hype A Must-Try Photo Editing List</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-no-hassle-just-hilarity-embark-on-the-ifunny-meme-journey/"><u>[Updated] No Hassle, Just Hilarity Embark on the iFunny Meme Journey</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-unseen-marvels-of-vr-elite-headset-comparisons/"><u>2024 Approved Unseen Marvels of VR Elite Headset Comparisons</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-honor-magic-6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How Do I Stop Someone From Tracking My Honor Magic 6 Pro? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-tecno-spark-go-2023-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Tecno Spark Go (2023) Location without Installing Software? | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-oppo-a2frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Oppo A2FRP Lock</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/in-2024-tiny-videos-deciphered-crucial-elements/"><u>In 2024, Tiny Videos Deciphered Crucial Elements!</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-infinix-zero-5g-2023-turbo-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Tracking Apps to Track Infinix Zero 5G 2023 Turbo without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-itel-p55t-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Phone Number Locators To Track Itel P55T Location | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unleash-creative-potential-applying-effects-and-filters-on-zoom/"><u>In 2024, Unleash Creative Potential Applying Effects and Filters on Zoom</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/solutions-to-spy-on-tecno-spark-10c-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>Solutions to Spy on Tecno Spark 10C with and without jailbreak | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-4-ways-to-trace-honor-x9b-location-drfone-by-drfone-virtual-android/"><u>Top 4 Ways to Trace Honor X9b Location | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-5-tracking-apps-to-track-honor-x8b-without-them-knowing-drfone-by-drfone-virtual-android/"><u>Top 5 Tracking Apps to Track Honor X8b without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-5-tracking-apps-to-track-infinix-hot-40i-without-them-knowing-drfone-by-drfone-virtual-android/"><u>Top 5 Tracking Apps to Track Infinix Hot 40i without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-6-appsservices-to-trace-any-infinix-smart-7-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>Top 6 Apps/Services to Trace Any Infinix Smart 7 Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-top-quality-economical-cam-recorder/"><u>[New] 2024 Approved Top Quality Economical Cam Recorder</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-snaps-for-cash-a-guide-to-profitability-for-2024/"><u>[New] Snaps for Cash A Guide to Profitability for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-the-filmmakers-guide-to-using-standardized-color-luts/"><u>[New] The Filmmaker's Guide to Using Standardized Color Luts</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-explore-top-5-non-samsung-360-cameras-today-for-2024/"><u>[Updated] Explore Top 5 Non-Samsung 360 Cameras Today for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-instagram-photo-perfection-applying-stylish-borders/"><u>[Updated] Instagram Photo Perfection Applying Stylish Borders</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-strategic-setup-youtube-gaming-banners-made-easy-for-2024/"><u>[Updated] Strategic Setup YouTube Gaming Banners Made Easy for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-the-perpetual-load-screen-in-minecraft/"><u>How to Fix the Perpetual Load Screen in Minecraft</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-honor-magic-5-pro-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Honor Magic 5 Pro Location by Number | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-samsung-galaxy-z-fold-5-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Samsung Galaxy Z Fold 5 Location by Number | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-motorola-moto-g73-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Check Distance and Radius on Google Maps For your Motorola Moto G73 5G | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/ten-clever-conversation-clues-that-crack-a-smile-in-messages/"><u>Ten Clever Conversation Clues That Crack a Smile in Messages</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ssential-guide-to-smartphone-based-youtube-thumbnails/"><u>The Essential Guide to Smartphone-Based YouTube Thumbnails</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-oppo-find-x7-ultra-for-parents-drfone-by-drfone-virtual-android/"><u>Top 10 Telegram Spy Tools On Oppo Find X7 Ultra for Parents | Dr.fone</u></a></li>
 </ul></div>
 

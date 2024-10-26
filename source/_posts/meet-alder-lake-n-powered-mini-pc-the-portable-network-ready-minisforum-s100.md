@@ -1,7 +1,7 @@
 ---
 title: Meet Alder Lake-N Powered Mini PC - The Portable, Network-Ready Minisforum S100
-date: 2024-08-30T00:24:36.439Z
-updated: 2024-08-31T00:24:36.439Z
+date: 2024-10-20T00:02:34.895Z
+updated: 2024-10-25T17:25:47.826Z
 tags:
   - desktop
 categories:
@@ -55,14 +55,11 @@ The Xyber Team launched its Xyber XPC Mini Desktop Computer campaign on[Indiegog
 
  We’d love to get on this mini-PC Cybertruck and run it at its pace. Some expect it to perform similarly to other handhelds powered by the AMD Z1 Extreme, like the ROG Ally and Lenovo Legion Go, but we will only know once we make the Xyber XPC go through our[benchmarks](https://www.tomshardware.com/tag/benchmark) .
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -71,8 +68,33 @@ The Xyber Team launched its Xyber XPC Mini Desktop Computer campaign on[Indiegog
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-lens-of-loom-perfecting-your-video-weave/"><u>[New] In 2024, Lens of Loom Perfecting Your Video Weave</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ips-for-crafting-an-engaging-video-closure-on-youtub-for-2024/"><u>[New] Tips for Crafting an Engaging Video Closure on YouTub for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-youtube-content-creators-optimal-stabilizer-companies/"><u>[Updated] In 2024, YouTube Content Creators Optimal Stabilizer Companies</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-best-low-lag-techniques-for-efficient-screen-snaps/"><u>2024 Approved Best Low-Lag Techniques for Efficient Screen Snaps</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/aero-tech-machine-varieties-for-2024/"><u>Aero Tech Machine Varieties for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/comprehensive-guide-to-the-logitech-c615-webcam-balancing-cost-and-efficiency/"><u>Comprehensive Guide to the Logitech C615 Webcam - Balancing Cost & Efficiency</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/gmail-cleanup-how-to-empty-entire-inbox-using-gmail-mobile-application/"><u>Gmail Cleanup: How to Empty Entire Inbox Using Gmail Mobile Application</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-honor-magic-vs-2-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Remove Spyware on Honor Magic Vs 2? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-infinix-hot-40i-for-free-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track a Lost Infinix Hot 40i for Free? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-itel-p55t-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Itel P55T by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-poco-x5-location-by-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Poco X5 Location by Number | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-prime-selection-of-websites-for-youtube-video-intro-download/"><u>In 2024, Prime Selection of Websites for YouTube Video Intro Download</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-thinking-about-changing-your-netflix-region-without-a-vpn-on-xiaomi-redmi-k70-drfone-by-drfone-virtual-android/"><u>In 2024, Thinking About Changing Your Netflix Region Without a VPN On Xiaomi Redmi K70? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-9-tecno-spark-20-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>In 2024, Top 9 Tecno Spark 20 Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/1722915169376-the-big-four-of-online-networking-connect-on-facebook-twitter-insta-and-you/"><u>The Big Four of Online Networking: Connect on Facebook, Twitter, Insta & You.</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-infinix-hot-40i-for-parents-drfone-by-drfone-virtual-android/"><u>Top 10 Telegram Spy Tools On Infinix Hot 40i for Parents | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-tecno-pop-8-for-parents-drfone-by-drfone-virtual-android/"><u>Top 10 Telegram Spy Tools On Tecno Pop 8 for Parents | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-6-appsservices-to-trace-any-honor-magic5-ultimate-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>Top 6 Apps/Services to Trace Any Honor Magic5 Ultimate Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-9-itel-a70-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 Itel A70 Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+</ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
