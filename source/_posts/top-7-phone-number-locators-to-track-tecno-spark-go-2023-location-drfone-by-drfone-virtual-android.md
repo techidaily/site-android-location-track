@@ -1,7 +1,7 @@
 ---
 title: Top 7 Phone Number Locators To Track Tecno Spark Go (2023) Location | Dr.fone
-date: 2024-08-30T00:15:17.269Z
-updated: 2024-08-31T00:15:17.269Z
+date: 2024-10-24T17:39:55.156Z
+updated: 2024-10-31T18:59:48.600Z
 tags: 
   - virtual location change
   - location track
@@ -86,9 +86,6 @@ This app allows you to track virtual phone numbers, lets you find your target ph
 
 ![phone number locator-Mobile Number Tracker](https://images.wondershare.com/drfone/article/2017/11/15099056111058.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Features**
 
 - It assists GSM, State, and CDMA device providers.
@@ -108,9 +105,6 @@ This app allows you to track virtual phone numbers, lets you find your target ph
 - The quality of the services has been questioned by their followers.
 - It's mandatory to have an Internet connection.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## 4\. Caller ID & Number Locator
 
 This app takes the cup for the day. With the phone number locator feature, it also comes with a call identifier.
@@ -118,6 +112,13 @@ This app takes the cup for the day. With the phone number locator feature, it al
 With this, you can search and pinpoint the location of any mobile number or a fixed-line phone number in the world. This locator will run a database check to pull the exact location out for you, and moreover, it prints the same on the Google map to show you the target's phone's geographical location! Sounds cool, eh?
 
 ![phone number locator-Caller ID and Number Locator](https://images.wondershare.com/drfone/article/2017/11/15099056309953.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Features**
 
@@ -198,9 +199,6 @@ It works expeditiously as they have got a working database system. With the read
 - The services might be free but you need to pay $0.99 for the extra graphics.
 - The utilization of the app may be affected if it's continuously run.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 7\. Mobile Number Tracker Pro
 
 This app has got unrivaled tracking features that will let you know who the unwelcome caller is by the end of the search.
@@ -211,9 +209,6 @@ It's really quick in showing the results, details, and that's what makes this ap
 
 ![phone number locator-Mobile Number Tracker Pro](https://images.wondershare.com/drfone/article/2017/11/15099057098598.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 **Features**
 
 - Its database spans more than 200 countries all over the globe.
@@ -237,18 +232,12 @@ Where do you think these creators of number locators gather all this personal in
 
 How can I track my boyfriend’s phone? If you also have the same question, then this would be the last post you’ll read. A while back, I was a little suspicious of my boyfriend’s behavior and wanted to track my boyfriend’s phone. As I did some research, I discovered that even though there are lots of spying tools out there, only a handful of them yields the desired results. I handpicked two apps to track my boyfriend and they certainly met my expectations. Therefore, I have provided a stepwise tutorial to use them right here.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 ## Part 1: How to Track My Boyfriend's Phone via mSpy?
 
 When I wanted to learn how can I track my boyfriend’s phone, I tried various third-party solutions. I tried [mSpy](http://mspy.go2cloud.org/SH96F) .
 
 ![track my boyfriend’s phone-via mSpy](https://images.wondershare.com/drfone/article/2017/10/15082599886089.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 1\. To use mSpy, you need to visit its website right [here](http://mspy.go2cloud.org/SH96F) and create your new account. Ideally, you need to follow similar steps as KidsGuard Pro’s installation to use mSpy.
 
 2\. After creating your mSpy account and getting a paid subscription, you need to access the target device.
@@ -257,9 +246,6 @@ When I wanted to learn how can I track my boyfriend’s phone, I tried various t
 
 ![track my boyfriend’s phone via mSpy-download from Unknown Sources](https://images.wondershare.com/drfone/article/2017/10/15082600151360.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 4\. Afterward, you can go to its website and download the app.
 
 5\. Install and perform the setup of the app with your own account credentials.
@@ -269,9 +255,12 @@ When I wanted to learn how can I track my boyfriend’s phone, I tried various t
 ![track my boyfriend’s phone via mSpy-access its web-based dashboard](https://images.wondershare.com/drfone/article/2017/10/15082600392625.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Even though mSpy provides similar features to that of KidsGuard Pro, it only works on rooted (and jailbroken) devices. Additionally, it is comparatively more expensive than KidsGuard Pro and doesn’t truly have a full-invisible mode. Any smart user can detect the spying app, which might land you in trouble.
 
 ## Part 2: How to Track My Boyfriend's Phone via KidsGuard Pro?
@@ -285,8 +274,18 @@ Since it runs in stealth mode, it allowed me to track my boyfriend’s phone wit
 ![track my boyfriend’s phone-sign up KidsGuard Pro ](https://images.wondershare.com/drfone/article/2022/03/create-an-account-for-clevguard.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<span id="1993645">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 2\. Secondly, after buying the product, you need to download the KidsGuard Pro app on your target device. Please go to the My Products and Orders Management page and click "Setup Guide" to follow the instructions carefully and complete all settings on the target device.
 
 ![complete the settings](https://images.wondershare.com/drfone/article/2022/03/click-android-setup-guide.jpg)
@@ -303,13 +302,18 @@ After following these instructions, I was also able to track my boyfriend withou
 
 Since KidsGuard Pro is compatible with all the leading Android and iOS devices, you can take its assistance without facing any setbacks. I used it to track my boyfriend’s phone and so can you. Nevertheless, before you proceed, make sure that you are not doing anything illegal. You should either own the phone you are tracking or inform the other person beforehand. This will prevent you from any unforeseen situation. Now when you know better, you can easily use KidsGuard Pro to track any Android or iOS device. Go ahead and give KidsGuard Pro a try and let us know about your experience in the comments below.
 
-
-
 ## How to Track a Lost Tecno Spark Go (2023) for Free?
 
 A cell phone is a rather small device when compared to other things you may haul around on a daily basis such as a purse or wallet and even a bunch of keys. Hence, forgetting it somewhere or having it stolen is highly likely. However, with the increase in modern mobile technology, there are several apps that can help you track your lost cell phone’s whereabouts. But you’ve already paid a premium price for your cell phone, so what you really should do is learn how to track a lost phone for free?
 
 And if you haven’t done so already, you should also install apps whether paid or free that do more than GPS location tracking such as monitoring incoming and outgoing calls, text and multimedia messages. So if you’re wondering how to track your lost phone for free, we’ve got a few solutions that will help you do just that, and others that bring to the table a wide range of great features.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 1: How to Track lost iPhone for Free?
 
@@ -321,9 +325,6 @@ Step 1. You will first need to ensure that the Find My iPhone feature is enabled
 
 ![track your lost phone for free with iCloud](https://images.wondershare.com/drfone/article/2017/10/15080421681564.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Step 2. Now it’s time to hit the cloud—iCloud we mean! First things first—head to <www.iCloud.com> from any browser and login with your credentials. From the dashboard, click on Find iPhone in the second row and enter your Apple ID and password if prompted. Since you may have several Apple devices connected with the same iCloud account, click on All Devices at the top, and select the Tecno Spark Go (2023) device you wish to track from the dropdown.
 
 ![Track lost iPhone for free-click on Find iPhone and All Devices](https://images.wondershare.com/drfone/article/2017/10/15080422049397.jpeg)
@@ -332,9 +333,6 @@ Step 3. That’s really all there is to it! Once you select your device, you can
 
 ![Track lost iPhone for frees-start to track](https://images.wondershare.com/drfone/article/2017/10/15080422409247.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2: How to Track Lost Android Mobile Location?
 
 If you’ve misplaced your Tecno Spark Go (2023) cell phone, have no fear, because there are few ways to help you track its location. There are a few things to do before you can begin tracking an Android device such as have an active and connected Google account (something you already set up when you bought the Tecno Spark Go (2023) device), and locations services on the Tecno Spark Go (2023) device enabled. Even though your mobile manufacturer may offer their own exclusive solution to track your phone, Google’s Find My Device (formerly Android Device Manager) is probably the most easiest and trusted way to go with. Here’s how to track your lost phone with Google’s ADM.
@@ -343,21 +341,17 @@ Step 1. Most latest Android phones are already equipped with the Find My Service
 
 ![Track Lost Android Mobile Location with Google’s ADM-install Find My Service](https://images.wondershare.com/drfone/article/2017/10/15080422869617.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 Step 2. Next, tap Find My Device, and check the box besides it. Tap the back button once and then again to return to the main settings menu.
 
 ![Track Lost Android Mobile Location-return to the main settings menu](https://images.wondershare.com/drfone/article/2017/10/15080423235837.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Step 3. To turn location services on, tap locations in the settings menu, tap mode so its turns green and then select high accuracy.
 
 ![Track with Google’s ADM-turn location services on](https://images.wondershare.com/drfone/article/2017/10/15080423753576.jpeg)
@@ -379,11 +373,12 @@ Sometimes however, you will want to do a lot more than track a device such as kn
 ![Track Mobile Phone via Spyera](https://images.wondershare.com/drfone/article/2022/03/clone-phone-number-spyera.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
+
 ## Part 4: How to Track someone’s Phone via mSpy?
 
 [mSpy](http://mspy.go2cloud.org/SH7G6) is similar to [Spyera](https://spyera.com/) in the features it offers, and is hailed as the best parental monitoring software available. It too offers several premium features including the ability to manage calls, read emails, monitor internet use and of course track GPS location in real time. When it comes to plans, mSpy offers you three plans to choose from namely Basic, Premium and Bundle Kit.
@@ -392,22 +387,29 @@ Step 1. After you’ve selected the best plan for your needs, you will have to r
 
 ![Track someone’s Phone via mSpy-register the software](https://images.wondershare.com/drfone/article/2017/10/15080426397756.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 Step 2. Next, install and set it up on the target device, and then access the dashboard to begin tracking.
 
 ![Track someone’s Phone via mSpy-access the dashboard to begin tracking](https://images.wondershare.com/drfone/article/2017/10/15080426725286.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 [mSpy](http://mspy.go2cloud.org/SH7G6) also offers the ability to setup a virtual fence, and alerts you automatically when those parameters have been breached, allowing you to see detailed records of where your cell phone is wandering.
 
 ![Track someone’s Phone via mSpy-see detailed records](https://images.wondershare.com/drfone/article/2017/10/15080427082157.jpg)
 
-When it comes to finding a solution to locating your cell phone in the event it goes missing, you will be spoilt for choice with the number of options available. But we've given you 4 premium answers to how to find cell phone including some app that go above and beyond simply displaying your device's GPS location.
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
+When it comes to finding a solution to locating your cell phone in the event it goes missing, you will be spoilt for choice with the number of options available. But we've given you 4 premium answers to how to find cell phone including some app that go above and beyond simply displaying your device's GPS location.
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -421,5 +423,16 @@ When it comes to finding a solution to locating your cell phone in the event it 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-unleashing-online-music-potential-with-imovie-and-youtube/"><u>[New] In 2024, Unleashing Online Music Potential with iMovie & YouTube</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unveiling-the-very-best-storytelling-yt-channels-of-2023/"><u>2024 Approved Unveiling the Very Best Storytelling YT Channels of 2023</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/5-ways-to-track-oppo-find-n3-flip-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Oppo Find N3 Flip without App | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/craft-your-own-text-adventure-game-unleash-the-power-of-chatgpt-for-immersive-role-playing-experiences/"><u>Craft Your Own Text Adventure Game: Unleash the Power of ChatGPT for Immersive Role-Playing Experiences</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-poco-x5-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on Poco X5 | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-14-pro-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-by-drfone-ios/"><u>How to Unlock Apple iPhone 14 Pro With an Apple Watch & What to Do if It Doesnt Work</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-oppo-a2-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Best Spy Watches For your Oppo A2 | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-oppo-reno-11-5g-without-him-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Two Ways to Track My Boyfriends Oppo Reno 11 5G without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-notification-settings-on-android-a-comprehensive-walkthrough/"><u>Mastering Notification Settings on Android: A Comprehensive Walkthrough</u></a></li>
+</ul></div>
 
