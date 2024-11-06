@@ -1,7 +1,7 @@
 ---
 title: Top 10 Telegram Spy Tools On Itel S23 for Parents | Dr.fone
-date: 2024-08-25T06:23:06.746Z
-updated: 2024-08-26T06:23:06.746Z
+date: 2024-11-03T02:05:10.617Z
+updated: 2024-11-06T12:14:45.106Z
 tags: 
   - virtual location change
   - location track
@@ -69,22 +69,12 @@ Costs $29.99 per month.
 
 Download it from <http://www.highstermobi.com>
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 ## 3\. [Flexispy](https://www.flexispy.com/)
 
 FlexiSPY is compatible with mobile platforms such as iPhone, Android, iPad, Nokia Symbian and Blackberry. Enables recording and monitoring of text messages, GPS locations, phone calls, Viber, Facebook, BBM, WhatsApp chats, iMessages, Skype messages, videos and photos, websites surfed and email.
 
 ![telegram spy](https://images.wondershare.com/drfone/article/2016/11/14793062201955.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Pros
 
 • Two versions available: Extreme and Premium.  
@@ -136,9 +126,6 @@ This one is compatible with any iPhone, Android and Blackberry phone as also iPa
 
 ![telegram spy](https://images.wondershare.com/drfone/article/2016/11/14792926167438.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 Pros
 
 • Enables blocking device access or phone calls during certain periods of the day.  
@@ -163,6 +150,13 @@ This one monitors and records SMS, phone books, call history, emails, location, 
 
 ![telegram spy](https://images.wondershare.com/drfone/article/2016/11/14792927164388.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Pros
 
 • Ideal for Android and iOS operating systems and becomes active stealthily as the target mobile is booted.  
@@ -177,9 +171,6 @@ Cost: $189 for three months; $ 489 for 1 year
 
 Downloadable from <https://spyera.com>
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 7\. Teensafe
 
 Monitor all of your teenager’s sent, received and deleted texts. Also track iMessages, Kik Messenger and WhatsApp through Teensafe which is compatible with iPhones, iPads and Androids.
@@ -206,9 +197,6 @@ Cost: 7-day no-cost trial. Subscription starts from $14.95 per month. It may be 
 
 Downloadable at <http://www.teensafe.com/>
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## 8\. Mobistealth
 
 This one tracks and records all calls and text messages. It allows viewing of surfing history and all URLs visited including those containing videos. You get full access to the target phone’s contact list and also incoming and outgoing pictures.
@@ -237,9 +225,6 @@ With TheOneSpy, several target phones may be monitored using one license. Additi
 
 ![telegram spy](https://images.wondershare.com/drfone/article/2016/11/14792934045968.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Pros
 
 • Allows you to listen and record all surroundings of the target phone.  
@@ -255,18 +240,6 @@ Cost: 3 months -- $55; 6 months -- $99; 12 months -- $140.
 
 Download it at: <https://www.theonespy.com/>
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 10\. MOBILESPYAGENT
 
 This app works in full covert mode and makes all texts and calls accessible. All multimedia files, memos, notes and contact lists are accessible. Also, it allows viewing of the entire history of the web browser and also numerous social networks.
@@ -290,8 +263,6 @@ Downloadable at <http://www.Mobilespyagent.Com/>
 
 While all these are some great spy apps, mSpy is one of the best bets out there for you.
 
-
-
 ## Top 5 Car Locator Apps for Itel S23
 
 Confess, How many times have you had to walk the streets to find your car? Either because you are in an unfamiliar city and you did not know how to return, or because you are thinking of something else while parking, you did not pay attention surely more than one occasion. To solve this type of problem, we propose a series of apps to find your car that will surely be useful when you park and make you remember that particular place thanks to the GPS locator for the car so check the following options and choose the best one for you and your car.
@@ -313,6 +284,13 @@ Take photos from the parking location.
 It is a free application
 
 ![Car Locator Apps-find my car](https://images.wondershare.com/drfone/article/2017/10/15082184344228.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 URL for iPhone:
 
@@ -340,6 +318,13 @@ Has database for more than 500 cities in America, Europe, and more countries.
 
 ![Car Locator Apps-Parkme](https://images.wondershare.com/drfone/article/2017/10/15081722994485.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 URL for iPhone:
 
 <https://itunes.apple.com/es/app/parkme-parking/id417605484?mt=8>
@@ -347,6 +332,13 @@ URL for iPhone:
 URL for Android:
 
 <https://play.google.com/store/apps/details?id=com.parkme.consumer&hl=es>
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Option 3: Automatic
 
@@ -372,9 +364,6 @@ URL:
 
 <https://itunes.apple.com/us/app/automatic-classic/id596594365?mt=8>
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 ## Option 4: Google Maps (It will be available in the next version)
 
 Introduction: This application is implementing new features for drivers to find parking more easily. It tries to help those forgetful drivers who park but then do not know where they parked the vehicle. For them, Maps is responsible for collecting information on the time in which they have been stopped after moving by car, if we have the mobile connected to the car by Bluetooth, the application understands that we have been using a vehicle, and shows the parking with a round blue icon with a capital P inside. If this does not appear, it can also be saved in another way. Once parked you can open the map of the application and click on the blue point of location. At that time it gives us the option to Save your parking leaving the blue icon mentioned above.
@@ -391,10 +380,14 @@ Shows available parking.
 
 ![Car Locator Apps-Google Maps](https://images.wondershare.com/drfone/article/2017/10/15081723711372.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 URL is not available yet.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Option 5: Waze
 
@@ -416,9 +409,6 @@ It is free and very easy to use.
 
 ![Car Locator Apps-Waze](https://images.wondershare.com/drfone/article/2017/10/15081724223630.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 URL for Android:
 
 <https://play.google.com/store/apps/details?id=com.waze&hl=en>
@@ -429,9 +419,6 @@ URL for iPhone:
 
 So, now onwards, you do not need to pay to get a GPS locator for the car, as you can see, there are many available options that you can use and choose to locate your car for free for both iOS and Android devices. You can take our recommendations from these different options. Just connect your car with your device, does not matter it's operative system and start receiving information on where your car is and about the feasibility of parking area as well.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ## 2 Ways to Monitor Itel S23 Activity
 
 Your child’s security is priceless, and we understand that. As a parent, one constantly lives under pressure to protect their kids and ensure that a child is not using his/her cell phone for illegal/immoral purposes. Thus, we have 2 ways to monitor phone activity and keep a tab on your kid’s social media activities, call logs, messages, physical movements, etc.
@@ -452,9 +439,6 @@ To protect your child’s future and know for sure that he/she is using their ce
 
 Given below are two great software to monitor cell phone activity easily. Give them a good read and use them to monitor phone activity on Android/iPhone.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ## Part 2: How to Monitor Phone Activity with mSpy?
 
 [mSpy](http://mspy.go2cloud.org/SH7G6) is a cell phone monitoring App/Spy tool, which is helpful to keep a tab on the activities of your kid's Android/iPhone. You can monitor text messages, calls, [GPS locations](https://www.wondershare.com/virtual-location/mock-location.html), photos, browsing history, videos, etc. with this software. This software functions silently and does not let your kid know that he/she is being monitored. To use this software:
@@ -466,18 +450,23 @@ Step 2. Next up, gain physical access to your kid’s Android/iPhone. Download t
 ![Monitor Phone Activity with mSpy](https://images.wondershare.com/drfone/article/2017/10/15081767157541.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Step 3. Lastly, finish setting up mSpy by following the instructions on the e-mail to access your Control Panel. Then visit the web-based interface- Dashboard. When you’re at your Dashboard, start tracking and monitoring the target Android/iPhone remotely. Check the screenshots below to get a better idea.
 
 ![Monitor Phone Activity with mSpy-access your Control Panel](https://images.wondershare.com/drfone/article/2017/10/15081767715179.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
 ## Part 3: How to Monitor Phone Activity with Famisafe?
 
 <iframe allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/qcV7v1DtAzI" id="video-iframe-t"></iframe>
@@ -492,16 +481,17 @@ Step 1. First and foremost, go to Google Play or App Store to download **Famisaf
 
 ![monitor phone activity with Famisafe-create an account](https://images.wondershare.com/drfone/article/2022/03/famisafe-login.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 Step 2. Set the rules for kids' devices. After you activate the account and connect the kid's device, you can check the Activity report of the kid's device, view the kid's browser history or block the websites you don't want the kids to access, and so on.
 
 ![monitor phone activity with Famisafe-feed in the necessary information](https://images.wondershare.com/drfone/article/2022/03/famisafe-android-features.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 4: Some Tips to Ensure Your Child’s Online Safety
 
 - To be able to monitor phone activity with the help of spy tools listed above is great, but you can also make sure that your child is safe on the web by following these simple tips:
@@ -513,7 +503,6 @@ Step 2. Set the rules for kids' devices. After you activate the account and conn
 - Make sure you are the first person your child approaches whenever he/she is in trouble.
 
 We hope you find this guide and instructions herein useful. We recommend you to use Famisafe for its features and discrete cell phone monitoring techniques. Share it with your near and dear one as well and promotes online child safety.
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -527,5 +516,21 @@ We hope you find this guide and instructions herein useful. We recommend you to 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-2023s-best-fb-link-exporters-available-for-free-online-for-2024/"><u>[New] 2023'S Best FB Link Exporters - Available for FREE Online for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-swiftly-secure-your-favorite-tiktoks/"><u>[New] 2024 Approved Swiftly Secure Your Favorite TikToks</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-windows-premier-video-conferencing-apps-5-1/"><u>[New] In 2024, Windows' Premier Video Conferencing Apps #5-#1</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-fine-tuning-focus-a-compreeher-guide-for-videoleap-users/"><u>[Updated] Fine-Tuning Focus A Compreeher Guide for Videoleap Users</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-quick-guide-to-free-online-facebook-video-to-mp4-converter-hd-tutorial/"><u>[Updated] In 2024, Quick Guide to Free Online Facebook Video to MP4 Converter (HD) Tutorial</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-ultimate-enterprise-cloud-solutions/"><u>[Updated] Ultimate Enterprise Cloud Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-resolve-the-no-audio-device-detected-problem-in-windows-11/"><u>How to Resolve the No Audio Device Detected Problem in Windows 11</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-samsung-galaxy-a05-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Samsung Galaxy A05 Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-vivo-y100-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on Vivo Y100 with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-the-venn-of-virtuality-metaverse-and-multiverse-analysis/"><u>In 2024, The Venn of Virtuality Metaverse & Multiverse Analysis</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-realme-11-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Car Locator Apps for Realme 11 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-vivo-y55s-5g-2023-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Phone Number Locators To Track Vivo Y55s 5G (2023) Location | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/lenovo-thinkphone-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Lenovo ThinkPhone ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-6-appsservices-to-trace-any-asus-rog-phone-7-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>Top 6 Apps/Services to Trace Any Asus ROG Phone 7 Location By Mobile Number | Dr.fone</u></a></li>
+</ul></div>
 
