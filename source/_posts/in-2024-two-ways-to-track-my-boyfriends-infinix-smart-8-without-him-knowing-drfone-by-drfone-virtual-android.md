@@ -1,7 +1,7 @@
 ---
 title: In 2024, Two Ways to Track My Boyfriends Infinix Smart 8 without Him Knowing | Dr.fone
-date: 2024-11-15T17:59:51.186Z
-updated: 2024-11-16T20:26:12.276Z
+date: 2024-11-19T17:48:07.524Z
+updated: 2024-11-25T22:04:49.372Z
 tags: 
   - virtual location change
   - location track
@@ -41,6 +41,10 @@ When I wanted to learn how can I track my boyfriend’s phone, I tried various t
 
 Even though mSpy provides similar features to that of KidsGuard Pro, it only works on rooted (and jailbroken) devices. Additionally, it is comparatively more expensive than KidsGuard Pro and doesn’t truly have a full-invisible mode. Any smart user can detect the spying app, which might land you in trouble.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: How to Track My Boyfriend's Phone via KidsGuard Pro?
 
 As I wanted to learn how can I track my boyfriend’s phone, I stumbled upon an amazing tool – [KidsGuard Pro](https://www.clevguard.com/android-parental-control/). It provided a highly reliable and secure way to track a device’s location, its vital content, and so much more. Easy to download and use, KidsGuard Pro doesn’t require you to root your Infinix Smart 8. After installing it on the target device, you can track it from the web dashboard control panel remotely.
@@ -51,9 +55,17 @@ Since it runs in stealth mode, it allowed me to track my boyfriend’s phone wit
 
 ![track my boyfriend’s phone-sign up KidsGuard Pro ](https://images.wondershare.com/drfone/article/2022/03/create-an-account-for-clevguard.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2\. Secondly, after buying the product, you need to download the KidsGuard Pro app on your target device. Please go to the My Products and Orders Management page and click "Setup Guide" to follow the instructions carefully and complete all settings on the target device.
 
 ![complete the settings](https://images.wondershare.com/drfone/article/2022/03/click-android-setup-guide.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 <iframe allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/kXtNaHFBoXo" id="video-iframe-t"></iframe>
 
@@ -67,16 +79,13 @@ After following these instructions, I was also able to track my boyfriend withou
 
 Since KidsGuard Pro is compatible with all the leading Android and iOS devices, you can take its assistance without facing any setbacks. I used it to track my boyfriend’s phone and so can you. Nevertheless, before you proceed, make sure that you are not doing anything illegal. You should either own the phone you are tracking or inform the other person beforehand. This will prevent you from any unforeseen situation. Now when you know better, you can easily use KidsGuard Pro to track any Android or iOS device. Go ahead and give KidsGuard Pro a try and let us know about your experience in the comments below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Ways to stop parent tracking your Infinix Smart 8
 
 If you want to know about the solution that how to stop someone from spying on my cell phone then it is simple processes that you need to follow. This article has been written to make sure that you get all the information about the topic and get to implement the strategies that will garner highly positive results. In this article, the best location spoofing apps will be used to get the results. You will also get to know the proven technologies that will get the work done with ease and perfection.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 1: How does the parent tracking tool work?
 
@@ -84,19 +93,16 @@ Many ways are used by the tracking tools to make sure that the children are alwa
 
 The other implementations that will be applied by such applications are keyword profanity and remote content locking as well. The two-factor authentication will also get more control to the parents and will allow them to capture the activities of the child with ease. If you want to know how to prevent the police from tracking your phone then it is advised to read this article thoroughly to get the best ideas.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1.1 Some apps that Parents use for Tracking and how these Work?
 
 - **Qustodio –** It is one of the apps that is mostly used for tracking. The devices that are configured with it are Ma, iOS, and Android.
 - **Kaspersky –** It comes with a premium price and creates a geo fencing which would not allow the child to browse freely. The activities are continuously monitored.
 - **Circle Home Plus –** It monitors the home as well as the remote network that your child is using. The best thing is that it does not let your child know about the monitoring.
 - **Net Nanny –** This is an application that parents use to monitor the child with web filters, screen recording, and app blocking features. It’s a bit pricy with all the features included.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1.2 Why Should We Prevent Parents from Tracking?
 
@@ -112,25 +118,15 @@ For iOS users the process is simple and it does not require any additional insta
 
 ![turn off location iPhone](https://drfone.wondershare.com/2020/turn_off_location_iPhone.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 You can also turn off find my friend to get the best results. To do this go to settings > Apple ID > in case of iOS 12 tap share my location > turn off share my location. If you are using an earlier version of iOS tap iCloud > share my location > turn off.
 
 In iCloud sign in > select me > deselect share my location to finish the process.
 
 ![turnoff find my friend iPhone](https://drfone.wondershare.com/2020/turnoff_find_my_friend_iPhone.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 3: How to Use Location Spoofer Tool to Prevent Parent from Tracking?
 
@@ -148,24 +144,25 @@ Connect iDevice to the system and click on get started to begin the process of v
 
 ![virtual location 1](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3: Locate yourself**
 
 The center on button is to be clicked to locate your device.
 
 ![virtual location 3](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 4: Teleportation**
 
 The third icon on the top right is to be clicked so that spoofing begins.
 
 ![virtual location 04](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 5: Move to the desired location**
 
@@ -198,13 +195,6 @@ It has both and free and paid versions to make sure that you get the best result
 ## Conclusion
 
 Dr. Fone's virtual location is the best and the most advanced program that will allow the users to overcome the problem of spoofing and tracking. It is not only easy to use but has proven to be proving with 100% reliable results. With the best and the easiest modes embedded it is a program that will get you the best results. If you want to know the best way to get your parents to refrain from tracking then this is the program that is the answer to all your questions.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Top 5 Tracking Apps to Track Infinix Smart 8 without Them Knowing
 
@@ -258,6 +248,10 @@ _Cons_
 
 ![Tracking Apps to Track Phone-mSpy](https://images.wondershare.com/drfone/article/2017/10/15082606875769.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3: FlexiSPY
 
 FlexiSPY is another popular tracking app that provides productive results without providing any notification to the end-user. You can use its Android or iOS app to track phone without them knowing. Before using its dashboard, you need to access the Infinix Smart 8 device and install the app. Afterward, you can access its contacts, call logs, browsing history, and so much more.
@@ -283,13 +277,6 @@ _Cons_
 • Pretty expensive compared to other spying apps
 
 ![Tracking Apps to Track Phone-flexispy](https://images.wondershare.com/drfone/article/2017/10/15082607195947.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 4: The One Spy
 
@@ -317,6 +304,10 @@ _Cons_
 
 ![Tracking Apps to Track Phone-The One Spy](https://images.wondershare.com/drfone/article/2017/10/15082607535154.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 5: Hoverwatch
 
 Hoverwatch is one of the most widely used solutions to track Android devices, Windows PC, and Mac systems. Using Hoverwatch as an app to track phone without them knowing is pretty easy. Just sign-up to create your account, install the app on the target device, and access all the major information related to it on its web-based dashboard. It works with all the major social media apps and also tracks the real-time location of the Infinix Smart 8 device.
@@ -343,13 +334,6 @@ _Cons_
 
 ![Tracking Apps to Track Phone-hoverwatch](https://images.wondershare.com/drfone/article/2017/10/15082607943523.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Now when you know about some of the best tracking apps out there, you can easily use them to keep an eye on your loved ones. Mostly, these solutions are used by parents to track the whereabouts and the activity of their kids. Though, it can also be used by concerned individuals to track their partners, friends, parents, employees, and more. You can use these apps on your own device without much trouble. Nevertheless, if you are tracking someone else’s smartphone, then you should be aware of the consequences. To avoid any unforeseen situation, it is recommended to inform them before installing the app.
 
 <ins class="adsbygoogle"
@@ -366,20 +350,19 @@ Now when you know about some of the best tracking apps out there, you can easily
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-harness-your-contents-potential-with-ideal-post-days/"><u>[New] 2024 Approved Harness Your Content's Potential with Ideal Post Days</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-ultimate-chromebook-snapshot-tool/"><u>[New] 2024 Approved Ultimate Chromebook Snapshot Tool</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-enhance-gameplay-the-ultimate-guide-to-using-steams-switch-controller/"><u>[Updated] 2024 Approved Enhance Gameplay The Ultimate Guide to Using Steam's Switch Controller</u></a></li>
-<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-honor-v-purse-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Honor V Purse? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-3-ways-to-track-oneplus-12r-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Track OnePlus 12R without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-vivo-v29e-for-free-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track a Lost Vivo V29e for Free? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-samsung-galaxy-a23-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on Samsung Galaxy A23 5G Without Them Knowing? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-realme-12-proplus-5g-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On Realme 12 Pro+ 5G for Parents | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-vivo-v30-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Car Locator Apps for Vivo V30 Pro | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-nokia-xr21-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Nokia XR21 | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-which-is-the-best-fake-gps-joystick-app-on-samsung-galaxy-f04-drfone-by-drfone-virtual-android/"><u>In 2024, Which is the Best Fake GPS Joystick App On Samsung Galaxy F04? | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-poco-f5-pro-5gfrp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Poco F5 Pro 5GFRP Lock</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/solutions-to-spy-on-asus-rog-phone-7-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>Solutions to Spy on Asus ROG Phone 7 with and without jailbreak | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/unlock-a-disable-iphone-6-using-icloud-website-by-drfone-ios-unlock-ios-unlock/"><u>Unlock a disable iPhone 6 using icloud website</u></a></li>
-<li><a href="https://win-dash.techidaily.com/upgrade-your-hp-laserjet-m506-secure-the-newest-printer-driver-software-here/"><u>Upgrade Your HP LaserJet M506: Secure the Newest Printer Driver Software Here!</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-minisculecam-record-evaluation-and-comparisons/"><u>[New] MinisculeCam Record Evaluation & Comparisons</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-photos-with-a-musical-edge-online/"><u>[New] Photos with a Musical Edge Online</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-crafting-a-youtube-future-scaling-up-or-staying-independent/"><u>2024 Approved Crafting a YouTube Future Scaling Up or Staying Independent?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-change-your-xiaomi-redmi-k70-pro-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How to Change Your Xiaomi Redmi K70 Pro Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-xiaomi-redmi-a2plus-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Xiaomi Redmi A2+ to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-tecno-spark-20-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from Tecno Spark 20 Phones with/without a PC</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-itel-p55-location-by-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Itel P55 Location by Number | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-infinix-smart-8-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on Infinix Smart 8 with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-9-tecno-spark-go-2023-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>In 2024, Top 9 Tecno Spark Go (2023) Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://win-bits.techidaily.com/left-to-right-magnetic-appeal-redefine-reading-order-with-easymagazine-designer/"><u>Left-to-Right Magnetic Appeal: Redefine Reading Order with EasyMagazine Designer</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/re-establish-connection-7-steps-to-solve-windows-usb-wi-fi-adapter-problem/"><u>Re-Establish Connection: 7 Steps to Solve Windows' USB Wi-Fi Adapter Problem</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-tecno-pop-8-drfone-by-drfone-virtual-android/"><u>Top 10 Best Spy Watches For your Tecno Pop 8 | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-7-phone-number-locators-to-track-itel-a60-location-drfone-by-drfone-virtual-android/"><u>Top 7 Phone Number Locators To Track Itel A60 Location | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-9-infinix-note-30-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 Infinix Note 30 Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
 </ul></div>
 

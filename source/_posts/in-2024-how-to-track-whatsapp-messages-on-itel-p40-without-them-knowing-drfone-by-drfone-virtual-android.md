@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Track WhatsApp Messages on Itel P40 Without Them Knowing? | Dr.fone
-date: 2024-11-11T18:40:40.672Z
-updated: 2024-11-16T20:30:45.626Z
+date: 2024-11-21T23:59:15.268Z
+updated: 2024-11-25T18:31:32.294Z
 tags: 
   - virtual location change
   - location track
@@ -47,18 +47,15 @@ Launch WhatsApp on the Itel P40 device, go to the menu, and select "Linked Devic
 
 ![link whatsapp to another device](https://images.wondershare.com/drfone/article/2023/07/track-whatsapp-messages-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 3. Use Google Drive Backup to Read Someone’s WhatsApp Messages
 
 WhatsApp provides the option to back up chats and media to cloud storage platforms like Google Drive. This feature is primarily designed for users to restore their data. However, It can be utilized to access and read someone else's WhatsApp messages. That is possible if you have access to their Google account.
 
 To use this method, you will need to physically access the Itel P40 device or need a device with the targeted Google account logged in. Here navigate to Google Drive and find the WhatsApp backup file. Download these files on your device and use a third-party tool to decrypt the files.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 3: How To Track WhatsApp Messages Without Them Knowing?
 
@@ -104,26 +101,25 @@ After purchasing the mSpy package of your choice, open the email to receive logi
 
 ![verify the apple id](https://images.wondershare.com/drfone/article/2023/07/track-whatsapp-messages-8.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3:** After the verification is complete, press "Proceed." On the following screen, you can read about the available data and click “Finish” to complete the process. It will take up to 24 hours for mSpy to extract iCloud data.
 
 ![press the finish button](https://images.wondershare.com/drfone/article/2023/07/track-whatsapp-messages-9.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1531879">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 4:** Once mSpy has accessed the data, select “WhatsApp” from the left side to access WhatsApp chats. Here you can track all the incoming and outgoing messages remotely.
 
 ![use mspy iphone dashboard](https://images.wondershare.com/drfone/article/2023/07/track-whatsapp-messages-10.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 2. Track WhatsApp Messages with Spyera
 
@@ -181,13 +177,6 @@ Now, use the search box on the top left to enter your desired location. Once the
 
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 5: How To See Deleted Messages on WhatsApp?
 
 WhatsApp allows users to delete messages they have sent within a specific time frame. It can sometimes leave you wondering what was initially said. However, a few methods can help you see deleted messages on WhatsApp. One of the best ways to view these deleted messages is [Dr.Fone - Data & Photo Recovery](https://drfone.wondershare.com/drfone-app-for-android.html) app.
@@ -212,19 +201,6 @@ No, tracking WhatsApp messages on someone else's device requires physical access
 
 WhatsApp provides users with the option to back up their chat history to iCloud. While these backups can help restore chats, they are not designed for real-time tracking purposes. To access the conversations in the backup files, you will need to use a tool or service with decryption capabilities. It is due to the fact that WhatsApp chats are end-to-end encrypted.
 
-<!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 In conclusion, tracking WhatsApp messages can be helpful in various scenarios. These scenarios range from monitoring your conversations to ensuring the safety of loved ones. Throughout this article, we have explored different methods on **how to track WhatsApp messages**. Each one had its advantages and limitations.
@@ -244,13 +220,6 @@ mSpy is a cell phone monitoring software and tracking App for Android/iPhone. It
 To know more and sign up on mSpy, visit [https://www.mspy.com/](http://mspy.go2cloud.org/SH96F)
 
 ![Phone Monitoring Apps-mSpy](https://images.wondershare.com/drfone/article/2017/10/15081775088395.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Features:**
 
@@ -329,13 +298,6 @@ Visit <http://phonesheriff.com/parental.html> to know more.
 
 ![Phone Monitoring Apps-PhoneSheriff](https://images.wondershare.com/drfone/article/2017/10/15081776649600.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Features:**
 
 - Protects the Itel P40 device against spyware.
@@ -352,6 +314,10 @@ Visit <http://phonesheriff.com/parental.html> to know more.
 
 - Tedious and long installation process.
 - Websites cannot be blocked remotely.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 5: MobiStealth
 
@@ -403,13 +369,6 @@ Visit <http://www.mobilespyagent.com/> to know more.
 - Poor customer support.
 - Limited features and lacks online instructions.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 7: Spyera
 
 Spyera, the cell phone monitoring software, is mostly used by parents to spy on their kids. It has options to intercept calls and snoop on children using a spy camera. It also has spying software for PC (Windows/Mac) and tablets. It enables live call listening, ambient listening, and spying on multimedia files. It allows live call recording and capturing key logs. Its alert wizard can be set up to keep the tracker informed at all times.
@@ -433,6 +392,10 @@ Visit <https://spyera.com/> and know more.
 
 - Expensive and not preferred by many.
 - No live customer service.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 8: Screen Time Parental Control
 
@@ -492,6 +455,10 @@ If you also wish to use the distance marker on Google Maps, then you might have 
 
 ![google maps distance radius 1](https://images.wondershare.com/drfone/2023/virtuallocation/google-maps-distance-radius-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: Draw a Radius Circle on Google Maps
 
 You might already know that Google Maps provides a map of the entire world for us to navigate. Though, there are times when users like to draw a radius on Google Maps for a particular location. Presently, the native feature of Google Maps does not have a distance radius tool. Therefore, to draw a radius on Google Maps, you would have to use an application that has its own interface. One of them is Map Developers that is based on Google Maps and has simply provided a solution to draw a radius on the map.
@@ -507,6 +474,10 @@ You might already know that Google Maps provides a map of the entire world for u
 
 If you want, you can later delete this circle or draw multiple circles in different colors to mark them in any location of your choice.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: Determine the Distance with Radius on Google Maps
 
 Apart from drawing a circle or radius on Google Maps, a lot of people would like to specify its distance as well. For instance, you might wish to specify a radius of specific miles or kilometers for a place on Google Maps. As stated above, the native feature of Google Maps is presently missing the distance radius feature. The good news is that there are tons of websites out there that have presented the same feature on the original layer of Google Maps.
@@ -516,13 +487,6 @@ Apart from drawing a circle or radius on Google Maps, a lot of people would like
 Consider the example of the circle tool of Map Developers that we have discussed above. In this, you can just enter the name of a specific place on Google Maps. Now, you can specify the distance of radius in miles or kilometers. This will automatically draw the specific distance radius on Google Maps for the designated location.
 
 ![google maps distance radius 4](https://images.wondershare.com/drfone/2023/virtuallocation/google-maps-distance-radius-4.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - _KML Circle Generator_
 
@@ -550,6 +514,10 @@ This is one of the most resourceful features of Google Maps that a lot of people
 
 ![google maps distance radius 9](https://images.wondershare.com/drfone/2023/virtuallocation/google-maps-distance-radius-9.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 This technique will let you measure distance between any addresses on Google Maps. It doesn’t matter if it is your present location or not. If you want to measure distance in some other location, then just enter its name in the search bar to load it. In this way, you can measure distance anywhere in the world by sitting in your home.
 
 This brings us to the end of this extensive guide on using Google Maps distance and radius features. As you can see, I have provided a smart and user-friendly solution to draw radius distance on Google Maps. Besides that, you can also follow the above guide to measure distance between two addresses on Google Maps. In the same way, you can also let Google Maps calculate distance between multiple locations as well. Go ahead and try these Google Maps distance and radius hacks and share your experience with us in the comments below.
@@ -567,6 +535,10 @@ This brings us to the end of this extensive guide on using Google Maps distance 
 **3981454** people have downloaded it
 
 ## You Might Also Like
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Location-based apps
 
@@ -602,19 +574,14 @@ AR game tricks
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-maximizing-viewership-live-stream-optimization-techniques/"><u>[New] In 2024, Maximizing Viewership Live Stream Optimization Techniques</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-investigating-unmodified-audio-from-ffmpeg-output/"><u>[New] Investigating Unmodified Audio From FFmpeg Output</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-samsung-galaxy-s24-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Samsung Galaxy S24 Activity | Dr.fone</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-synthesis-of-song-elements-the-crossfade-approach/"><u>2024 Approved Synthesis of Song Elements The Crossfade Approach</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-power-supplies-for-hero5-official-and-alternative-models/"><u>2024 Approved Ultimate Power Supplies for Hero5 Official & Alternative Models</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/cheap-and-effective-action-cam-picks-top-6-list/"><u>Cheap and Effective ACTION Cam Picks – Top 6 List</u></a></li>
-<li><a href="https://article-posts.techidaily.com/drone-selections-on-a-budget-affordable-options-above-for-2024/"><u>Drone Selections on a Budget Affordable Options Above for 2024</u></a></li>
-<li><a href="https://win-online.techidaily.com/effective-strategies-overcoming-onedrive-synchronization-problems-in-windows-11-xp/"><u>Effective Strategies: Overcoming OneDrive Synchronization Problems in Windows 11 (XP)</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-avi-files-of-note-30i-with-video-repair-utility-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and AVI files of Note 30i with Video Repair Utility on Mac?</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-itel-p55-5g-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Itel P55 5G Location by Number | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-honor-magic5-ultimate-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your Honor Magic5 Ultimate Current Location of a Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-itel-p55plus-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your Itel P55+ Current Location of a Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-vivo-v29-pro-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your Vivo V29 Pro Current Location of a Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-samsung-galaxy-m34-drfone-by-drfone-virtual-android/"><u>In 2024, How to Spy on Text Messages from Computer & Samsung Galaxy M34 | Dr.fone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-understanding-auto-hdr-and-smart-exposure-techniques-in-photos-for-2024/"><u>[New] Understanding Auto HDR and Smart Exposure Techniques in Photos for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-acquiring-unmarked-visuals-for-your-business/"><u>In 2024, Acquiring Unmarked Visuals for Your Business</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-itel-p55t-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on Itel P55T Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-zte-nubia-z60-ultra-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On ZTE Nubia Z60 Ultra for Parents | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-oppo-k11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Oppo K11 5G? | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/key-tips-for-sourcing-elite-filmmakers-for-2024/"><u>Key Tips for Sourcing Elite Filmmakers for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/recipes-that-resonate-best-practices-for-eating-themed-titles-for-2024/"><u>Recipes That Resonate Best Practices for Eating-Themed Titles for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-4-ways-to-trace-honor-100-pro-location-drfone-by-drfone-virtual-android/"><u>Top 4 Ways to Trace Honor 100 Pro Location | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-9-poco-c51-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 Poco C51 Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
 </ul></div>
 

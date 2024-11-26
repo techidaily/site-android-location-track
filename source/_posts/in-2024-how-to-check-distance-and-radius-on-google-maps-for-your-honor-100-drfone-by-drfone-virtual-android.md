@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Check Distance and Radius on Google Maps For your Honor 100 | Dr.fone
-date: 2024-11-09T18:30:41.459Z
-updated: 2024-11-16T20:31:17.765Z
+date: 2024-11-20T02:52:08.104Z
+updated: 2024-11-25T17:02:40.284Z
 tags: 
   - virtual location change
   - location track
@@ -68,16 +68,13 @@ This is one of the most resourceful features of Google Maps that a lot of people
 
 ![google maps distance radius 8](https://images.wondershare.com/drfone/2023/virtuallocation/google-maps-distance-radius-8.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 1. If you want to continue, then just click anywhere else on the map and that will be considered as the next spot. Therefore, you can just click as many times as you want to let Google Maps calculate distance between multiple locations.
 
 ![google maps distance radius 9](https://images.wondershare.com/drfone/2023/virtuallocation/google-maps-distance-radius-9.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 This technique will let you measure distance between any addresses on Google Maps. It doesn’t matter if it is your present location or not. If you want to measure distance in some other location, then just enter its name in the search bar to load it. In this way, you can measure distance anywhere in the world by sitting in your home.
 
@@ -183,10 +180,7 @@ You can also learn how to install mSpy from this tutorial.
 ![top 10 spy watches](https://images.wondershare.com/drfone/others/spy-watch-03.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Sound Audio Recorder Spy Watch Features
@@ -197,13 +191,6 @@ You can also learn how to install mSpy from this tutorial.
 4. COMPATIBLE WITH MAC AND PC - Our drives are formatted using FAT32 to ensure maximum compatibility with both Mac and PC. Easily transfer these digital audio recorder files to MAC or PC.
 5. HELP WITH YOUR BRILLIANT IDEAS COME - This handy hidden voice recorder makes it easy for you to record those ideas to access at your convenience. Take it anywhere anytime, like a normal watch to latch onto the next really big idea. Welcome guide, our worry-free 12-month warranty, and friendly customer service.
 6. Cost: $30.87
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
-  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 5: #7 EasyDy Bluetooth Android Watch Phone with Camera E118
 
@@ -230,13 +217,6 @@ You can also learn how to install mSpy from this tutorial.
 4. 16GB internal flash memory.
 5. Cost: £20.99
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
-  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 7: #5 Mengshen® Full HD 1920×1080P Night Vision 8GB Waterproof Watch
 
 ![top 10 best spy watches to spy](https://images.wondershare.com/drfone/article/2016/12/14830080807368.jpg)
@@ -253,6 +233,10 @@ You can also learn how to install mSpy from this tutorial.
 ## Part 8: #4 Oumeiou HD 1080P 8GB Fashion Men's Waterproof Spy Watch
 
 ![spy watch](https://images.wondershare.com/drfone/article/2016/12/14830083711664.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Oumeiou HD 1080P 8GB Fashion Men's Waterproof Spy Watch Features
 
@@ -299,6 +283,10 @@ You can also learn how to install mSpy from this tutorial.
 
 ![buy spy watches](https://images.wondershare.com/drfone/article/2016/12/14830091436582.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 007-Watch 8GB HD 1080P Waterproof Spy Camera Watch Features
 
 1. Classic James Bond 007 watch.
@@ -314,6 +302,10 @@ You can also learn how to install mSpy from this tutorial.
 These are some of the best spy watches online which will leave you feeling like Agent 007 yourself, completely capable of discreetly recording any conversations and images in parties, meetings, etc. However, nothing quite beats having access to someone's phone, so it would be great if you can couple your spy watch with a great spy app such as mSpy.
 
 Do comment down below and let us know what you think of these great spy watches and which one do you most prefer? We'd love to hear from you.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Turn Off Google Location to Stop Tracking You on Honor 100
 
@@ -385,16 +377,13 @@ Let’s say you don’t want to cut the entire location access across your smart
 
 ![google on app list](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 4:** Click **Permissions.**
 
 ![google app permissions](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-7.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 5:** Click **Location.**
 
@@ -403,6 +392,10 @@ Let’s say you don’t want to cut the entire location access across your smart
 **Step 6:** Lastly, click **Don’t Allow.** Alternatively, you may instead select **Allow Only While Using the App** or **Ask Every Time** if you wish to grant Google conditional access to your location data.
 
 ![disallow location access on google](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-9.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 3: Toggle off the Timeline feature on your Google Account
 
@@ -432,6 +425,10 @@ Timeline is a special Google feature that keeps a record of your location check-
 
 ![turn off timeline settings](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-14.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### For web users
 
 **Step 1:** Visit the [<u>official website</u>](https://myactivity.google.com/myactivity) of My Google Activity. Right after, log in to the Gmail account you particularly use on your Honor 100 mobile device.
@@ -440,16 +437,13 @@ Timeline is a special Google feature that keeps a record of your location check-
 
 ![my google activity settings](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-15.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3:** Scroll it down and then click the **Turn Off** button.
 
 ![turn off timeline](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-16.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 4: Remove visits on Google Maps
 
@@ -460,13 +454,6 @@ If Timeline is previously activated on your Honor 100, chances are Google Maps h
 **Step 2:** Click the **Profile** icon at the top-right corner of the screen.
 
 ![google maps profile](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-17.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 3:** Then click **Your Timeline.**
 
@@ -496,6 +483,10 @@ Google surely understands that some users are uncomfortable sharing their wherea
 
 ![enter your preferred location](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 6:** The description of your chosen location will be then flashed on the screen. Read the details and make sure they are accurate. After that, click **Move Here** to proceed.
 
 ![read location description](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
@@ -503,13 +494,6 @@ Google surely understands that some users are uncomfortable sharing their wherea
 **Step 7:** The location registered on your Honor 100 mobile device will now be replaced with your modified whereabouts. Verify the changes applied on your smartphone by checking Google Maps and searching for your current location. One way or another, it must show the altered result.
 
 **NOTE:** If you want to restore your original location settings, simply disconnect your smartphone from the computer and restart it.
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -529,17 +513,17 @@ At some point, we cannot deny that Google location services make our lives a lot
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-navigating-photo-and-video-files-in-windows-10-like-a-pro/"><u>[New] In 2024, Navigating Photo & Video Files in Windows 10 Like a Pro</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-sculpting-soundscapes-the-fading-trick-for-2024/"><u>[Updated] Sculpting Soundscapes The Fading Trick for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-10-ultimate-webcam-reviews-for-informed-buyers/"><u>2024 Approved 10 Ultimate Webcam Reviews for Informed Buyers</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-webinar-recording-a-step-by-step-masterclass-guide/"><u>2024 Approved Webinar Recording A Step-by-Step Masterclass Guide</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-vivo-s17-pro-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost Vivo S17 Pro for Free? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-lava-yuva-3-pro-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on Lava Yuva 3 Pro Without Them Knowing? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-motorola-razr-40-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How Do I Stop Someone From Tracking My Motorola Razr 40 Ultra? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-9-nokia-c12-plus-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>In 2024, Top 9 Nokia C12 Plus Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/master-techniques-for-longevity-in-gopro-batteries-for-2024/"><u>Master Techniques for Longevity in GoPro Batteries for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-path-to-creativity-start-microsoft-paint-windows-11-edition/"><u>The Path to Creativity: Start Microsoft Paint, Windows 11 Edition</u></a></li>
-<li><a href="https://win-superb.techidaily.com/wav-to-mp3-movavi/"><u>WAV to MP3 결속: 원탁스위트 내에서 자유롭게 바이널로 전환 - Movavi</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-realme-c67-4g-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Realme C67 4G | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-complete-minecraft-filming-guidebook/"><u>[New] In 2024, Complete Minecraft Filming Guidebook</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-instantaneous-gif-transformation-leading-online-platforms-ranked-for-2024/"><u>[Updated] Instantaneous GIF Transformation Leading Online Platforms Ranked for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-inside-look-how-youtube-funds-are-transforming-content-creation/"><u>2024 Approved Inside Look How YouTube Funds Are Transforming Content Creation</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-mastering-audio-extraction-youtube-to-mp3-in-macos/"><u>2024 Approved Mastering Audio Extraction YouTube to MP3 in MacOS</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/expert-analysis-of-lihan-lhfm1039-transmitter-for-bluetooth-and-fm-integration-in-vehicles/"><u>Expert Analysis of Lihan LHFM1039 Transmitter for Bluetooth and FM Integration in Vehicles</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-enable-usb-debugging-on-a-locked-vivo-v30-lite-5g-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Vivo V30 Lite 5G Phone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-resolve-the-persistent-stuttering-issue-in-deathloop-on-your-pc/"><u>How to Resolve the Persistent Stuttering Issue in Deathloop on Your PC</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-tecno-camon-20-premier-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Tracking Apps to Track Tecno Camon 20 Premier 5G without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-infinix-hot-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Infinix Hot 30 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/top-10-ios-devices-best-video-players-unveiled-for-2024/"><u>Top 10 iOS Devices' Best Video Players Unveiled for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-4-ways-to-trace-zte-nubia-z60-ultra-location-drfone-by-drfone-virtual-android/"><u>Top 4 Ways to Trace ZTE Nubia Z60 Ultra Location | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/winning-the-battle-against-dead-laptop-mousepads-on-windows-10-8-and-7-expert-hacks-unveiled/"><u>Winning the Battle Against Dead Laptop Mousepads on Windows 10, 8 & 7 - Expert Hacks Unveiled</u></a></li>
 </ul></div>
 
