@@ -1,7 +1,7 @@
 ---
 title: "The Shocking Electricity Demand of One AI GPU: Equivalent to Powering More Than 1.3 Million Residences Yearly"
-date: 2024-08-17T16:41:06.773Z
-updated: 2024-08-18T16:41:06.773Z
+date: 2024-12-04T19:50:58.053Z
+updated: 2024-12-05T23:23:04.348Z
 tags:
   - desktop
 categories:
@@ -31,6 +31,10 @@ Strangely enough, the past few months of 2024 have seen prominent discussions of
 
  This means that if he could get the NAS running through the fastest available port on the board, AGP, he could achieve the speed he's looking for. We've embedded the original video of him achieving this below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -45,14 +49,11 @@ Strangely enough, the past few months of 2024 have seen prominent discussions of
 
  As you can see, the modding community is still hard at work wringing more functionality out of old gear, either for entertainment or out of necessity.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -61,8 +62,26 @@ Strangely enough, the past few months of 2024 have seen prominent discussions of
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-ideal-5-add-ons-to-enhance-sea-footage/"><u>[Updated] In 2024, Ideal 5 Add-Ons to Enhance Sea Footage</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-simple-steps-to-record-your-youtube-streams/"><u>[Updated] Simple Steps to Record Your YouTube Streams</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-tiny-tycoons-car-contests/"><u>[Updated] Tiny Tycoons' Car Contests</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-evolves-key-features-you-need-to-know-in-the-latest-version/"><u>ChatGPT Evolves: Key Features You Need to Know in the Latest Version</u></a></li>
+<li><a href="https://blog-min.techidaily.com/gif-wmvrgba/"><u>GIFへの変換: WMVファイルができるだけスムーズにRGBA形式に。</u></a></li>
+<li><a href="https://program-issues.techidaily.com/google-meet-webcam-malfunction-heres-how-to-fix-it/"><u>Google Meet Webcam Malfunction? Here's How to Fix It!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-fix-audio-problems-with-your-chromecast-streamer/"><u>How to Fix Audio Problems with Your Chromecast Streamer</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-honor-x7b-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for Honor X7b | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-poco-c51-drfone-by-drfone-virtual-android/"><u>In 2024, Best Anti Tracker Software For Poco C51 | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-tecno-spark-go-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Best Anti Tracker Software For Tecno Spark Go (2023) | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-poco-m6-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Spy on Text Messages from Computer & Poco M6 5G | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-oppo-find-x7-phone-without-password-by-drfone-android/"><u>In 2024, How To Unlock Oppo Find X7 Phone Without Password?</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-screen-snapping-on-a-mac-explained/"><u>In 2024, Screen Snapping on a Mac Explained</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-itel-p40-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Itel P40 | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-infinix-hot-40-pro-drfone-by-drfone-virtual-android/"><u>Top 10 Best Spy Watches For your Infinix Hot 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-4-ways-to-trace-honor-90-pro-location-drfone-by-drfone-virtual-android/"><u>Top 4 Ways to Trace Honor 90 Pro Location | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-tracking-apps-to-track-honor-80-pro-straight-screen-edition-without-them-knowing-drfone-by-drfone-virtual-android/"><u>Top 5 Tracking Apps to Track Honor 80 Pro Straight Screen Edition without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-7-phone-number-locators-to-track-honor-magic-6-location-drfone-by-drfone-virtual-android/"><u>Top 7 Phone Number Locators To Track Honor Magic 6 Location | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unmatched-immersion-discovering-top-notch-audio-excellence-beyond-sony-and-jbl-featured-on-zdnet/"><u>Unmatched Immersion: Discovering Top-Notch Audio Excellence Beyond Sony & JBL, Featured on ZDNet</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
