@@ -1,7 +1,7 @@
 ---
 title: Ways to stop parent tracking your Google Pixel Fold | Dr.fone
-date: 2024-08-17T16:26:48.980Z
-updated: 2024-08-18T16:26:48.980Z
+date: 2024-12-07T18:50:34.485Z
+updated: 2024-12-11T16:08:48.609Z
 tags: 
   - virtual location change
   - location track
@@ -31,8 +31,9 @@ The other implementations that will be applied by such applications are keyword 
 - **Net Nanny –** This is an application that parents use to monitor the child with web filters, screen recording, and app blocking features. It’s a bit pricy with all the features included.
 
 <!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 1.2 Why Should We Prevent Parents from Tracking?
 
 If you want to know how to stop your phone from being tracked by parents then it is important to know the reasons. If I consider myself as a child then I don’t think that I would like this idea one bit. Now, why should I prevent the parents from reaching out to My Google Pixel Fold remotely?
@@ -48,17 +49,15 @@ For iOS users the process is simple and it does not require any additional insta
 ![turn off location iPhone](https://drfone.wondershare.com/2020/turn_off_location_iPhone.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 You can also turn off find my friend to get the best results. To do this go to settings > Apple ID > in case of iOS 12 tap share my location > turn off share my location. If you are using an earlier version of iOS tap iCloud > share my location > turn off.
 
 In iCloud sign in > select me > deselect share my location to finish the process.
 
 ![turnoff find my friend iPhone](https://drfone.wondershare.com/2020/turnoff_find_my_friend_iPhone.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 3: How to Use Location Spoofer Tool to Prevent Parent from Tracking?
 
 [Dr. Fone Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) is the best program that can be used to make sure that the tracking from the parent side is hampered. It is the best answer to the question i.e. how to stop your phone from being tracked by police. This section will explain the steps in detail on how to use it.
@@ -69,29 +68,31 @@ Download and install the program to begin the process.
 
 ![drfone home](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2: Virtual Location Enable**
 
 Connect iDevice to the system and click on get started to begin the process of virtual location enablement.
 
 ![virtual location 1](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 **Step 3: Locate yourself**
 
 The center on button is to be clicked to locate your device.
 
 ![virtual location 3](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Step 4: Teleportation**
 
 The third icon on the top right is to be clicked so that spoofing begins.
 
 ![virtual location 04](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 5: Move to the desired location**
 
@@ -99,10 +100,6 @@ Click on move here and you will be transferred to the location that has been sel
 
 ![virtual location 5](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 **Step 6: Completion of the process**
 
 The location will be locked with and the Google Pixel Fold device will also show the location selected on the program.
@@ -125,25 +122,27 @@ It has both and free and paid versions to make sure that you get the best result
 
 ![phone guardian iPhone and android](https://drfone.wondershare.com/2020/phone_guardian_iPhone_and_android.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ## Conclusion
 
 Dr. Fone's virtual location is the best and the most advanced program that will allow the users to overcome the problem of spoofing and tracking. It is not only easy to use but has proven to be proving with 100% reliable results. With the best and the easiest modes embedded it is a program that will get you the best results. If you want to know the best way to get your parents to refrain from tracking then this is the program that is the answer to all your questions.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Detect and Remove Spyware on Google Pixel Fold?
 
 As scary as it sounds, it is actually quite possible that someone is spying on your iPhone. These hackers and sometimes amateurs make use of sophisticated spy software to infiltrate your device and have access to your information. If you have reason to suspect that someone might have access to your iPhone, it is important to take the steps to figure out just how they gained access to the Google Pixel Fold device and how to eliminate the threat. This article will help you with both.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: Can Someone Spy on my iPhone?
 
 The biggest question most iPhone users have is; can someone spy on my iPhone? The truth is, it is actually quite easy to spy on an iPhone remotely thanks to the availability of many kinds of spy or monitoring programs. A hacker can also gain access to your device’s information through phishing websites. If you have ever seen those ads while browsing that tell you’ve won something spectacular even though you didn’t enter a competition, clicking on the ad often leads to a phishing website where your information could be severely compromised.
 
 It is important to note that this can happen to anyone partly due to the sophisticated ways that hackers can infiltrate a device. Thanks to spying software, the person spying on your iPhone doesn’t even need to be a sophisticated hacker. They can be your spouse or employer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: How to Detect Spyware on iPhone?
 
@@ -155,9 +154,6 @@ Most spyware will use up your data to work. That’s because they have to receiv
 
 ![Detect Spyware on iPhone-via Data Usage Spikes](https://images.wondershare.com/drfone/article/2017/10/15074739266945.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 #### **2\. The Cydia App**
 
 The presence of the Cydia app on your device when you didn’t perform a jailbreak is another indicator of spyware. Do a Spotlight search for “Cydia” to see if you find it. But the Cydia app can be very difficult to detect because sometimes it can be hidden. To eliminate the possibility, enter “4433\*29342” into the spotlight search.
@@ -174,9 +170,6 @@ Do you notice that your iPhone is warm even when you are not using it? If this h
 
 When you hear background noises during a call that have nothing to do with location, there may be active spyware on your device. This particularly happens when the spyware is there to monitor your phone calls.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 ## Part 3: How to Remove Spyware from iPhone?
 
 Having a Spyware app on your device can be dangerous on many levels. Not only is the person spying on you violating your privacy, but they are also capable of getting vital information from your device like your address or bank information. Therefore, it is imperative that you take steps to remove the spyware o your device as soon as possible. The following are just some of the things you can do.
@@ -196,23 +189,17 @@ To do it go to Settings > General > Software Update and tap “Download and Inst
 ![Remove Spyware from iPhone-Update your iOS](https://images.wondershare.com/drfone/article/2017/10/15074749074576.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 #### **3\. Restore your Device**
 
 Restoring your iPhone in iTunes can also be quite effective in getting rid of spyware. Like an update, a restore often eliminates the spyware by deleting all bugs affecting the system. Be advised however that a restore will often erase all data and contents on the Google Pixel Fold device so be sure to have a backup handy before doing this.
 
 ![Remove Spyware from iPhone-Restore your Device](https://images.wondershare.com/drfone/article/2017/10/15074748849333.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Considering how easy it is for someone to spy on you, the best thing you can do is remain vigilant. If you notice some of the signs we’ve mentioned in Part 2 above, take the necessary steps to remove the spyware. It is also important to avoid clicking on suspicious links especially in emails from people you don’t know.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Top 5 Tracking Apps to Track Google Pixel Fold without Them Knowing
 
 Gone are the days when our smartphones were simply used to perform a few basic tasks. With the advancement in technology, we can use them to access our emails on the go, share updates on social media, and do so much more. Additionally, we can use an Android or iOS device app to track phones without them knowing. After installing a spying app on the target device, you can gain in-depth access to the Google Pixel Fold device without being detected. To help you do the same, we have listed some of the best tracking apps and tools in this post.
@@ -242,8 +229,9 @@ _Cons_
 ![tracking apps to track phone-spyera](https://images.wondershare.com/drfone/article/2022/02/apps-to-track-phone-without-them-knowing.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 2: mSpy
 
 If you are looking for another solution to track an Android or iOS device, then you can also try mSpy. Just like Spyera, the tool also has a dashboard that can be accessed from any other device. Installing the app is pretty easy and it will let you obtain all the crucial information like the Google Pixel Fold device’s location, call logs, browser history, and more.
@@ -268,9 +256,6 @@ _Cons_
 
 ![Tracking Apps to Track Phone-mSpy](https://images.wondershare.com/drfone/article/2017/10/15082606875769.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 3: FlexiSPY
 
 FlexiSPY is another popular tracking app that provides productive results without providing any notification to the end-user. You can use its Android or iOS app to track phone without them knowing. Before using its dashboard, you need to access the Google Pixel Fold device and install the app. Afterward, you can access its contacts, call logs, browsing history, and so much more.
@@ -296,6 +281,10 @@ _Cons_
 • Pretty expensive compared to other spying apps
 
 ![Tracking Apps to Track Phone-flexispy](https://images.wondershare.com/drfone/article/2017/10/15082607195947.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4: The One Spy
 
@@ -324,8 +313,9 @@ _Cons_
 ![Tracking Apps to Track Phone-The One Spy](https://images.wondershare.com/drfone/article/2017/10/15082607535154.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 5: Hoverwatch
 
 Hoverwatch is one of the most widely used solutions to track Android devices, Windows PC, and Mac systems. Using Hoverwatch as an app to track phone without them knowing is pretty easy. Just sign-up to create your account, install the app on the target device, and access all the major information related to it on its web-based dashboard. It works with all the major social media apps and also tracks the real-time location of the Google Pixel Fold device.
@@ -354,9 +344,6 @@ _Cons_
 
 Now when you know about some of the best tracking apps out there, you can easily use them to keep an eye on your loved ones. Mostly, these solutions are used by parents to track the whereabouts and the activity of their kids. Though, it can also be used by concerned individuals to track their partners, friends, parents, employees, and more. You can use these apps on your own device without much trouble. Nevertheless, if you are tracking someone else’s smartphone, then you should be aware of the consequences. To avoid any unforeseen situation, it is recommended to inform them before installing the app.
 
-
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -369,5 +356,19 @@ Now when you know about some of the best tracking apps out there, you can easily
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-metaverse-milestones-top-10-movies-that-transcend-our-own-universe/"><u>[Updated] In 2024, Metaverse Milestones Top 10 Movies That Transcend Our Own Universe</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-screen-recording-pros-bandicam-or-camtasia/"><u>[Updated] In 2024, Screen Recording Pros Bandicam or Camtasia?</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-navigating-technical-hurdles-for-a-smooth-live-broadcast-experience-for-2024/"><u>[Updated] Navigating Technical Hurdles for a Smooth Live Broadcast Experience for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-ways-to-track-vivo-v27-pro-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track Vivo V27 Pro without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-oppo-find-x7-ultra-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Oppo Find X7 Ultra | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/best-anti-tracker-software-for-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-virtual-android/"><u>Best Anti Tracker Software For Samsung Galaxy S23 Tactical Edition | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/boosting-graphics-performance-resolving-low-framerate-challenges-in-modern-video-games/"><u>Boosting Graphics Performance: Resolving Low Framerate Challenges in Modern Video Games</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-sony-xperia-5-v-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Sony Xperia 5 V | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-xiaomi-redmi-k70-pro-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Xiaomi Redmi K70 Pro by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-honor-magic-6-lite-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Honor Magic 6 Lite | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-apple-id-activation-lock-from-iphone-14-by-drfone-ios/"><u>In 2024, How to Unlock Apple ID Activation Lock From iPhone 14?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/resolved-dvd-master-title-sequence-glitches-now-fixed/"><u>Resolved: DVD Master Title Sequence Glitches Now Fixed</u></a></li>
+</ul></div>
 
