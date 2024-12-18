@@ -1,7 +1,7 @@
 ---
 title: In 2024, Solutions to Spy on Tecno Camon 20 Pro 5G with and without jailbreak | Dr.fone
-date: 2024-12-09T20:13:01.790Z
-updated: 2024-12-11T22:34:28.622Z
+date: 2024-12-15T07:20:08.946Z
+updated: 2024-12-18T03:56:53.093Z
 tags: 
   - virtual location change
   - location track
@@ -29,6 +29,10 @@ Step 1: Begin by activating iCloud Backup on the target device. Go to Settings a
 
 ![Spy on iPhone without Jailbreak-activate iCloud Backup](https://images.wondershare.com/drfone/article/2017/10/15079744896475.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 2: The first step is to create an account with mSpy. You can then purchase a subscription based on the type of information you need from the target device and the duration you want to spend spying on the Tecno Camon 20 Pro 5G device.
 
 ![Spy on iPhone without Jailbreak-create an account with mSpy](https://images.wondershare.com/drfone/article/2017/10/15079746911961.jpg)
@@ -47,31 +51,23 @@ Step 1: Begin by performing a jailbreak on the target device. There are several 
 
 ![Spy using Spyware with jailbreak-Pangu software](https://images.wondershare.com/drfone/article/2017/10/15074779011456.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 2: Once the Tecno Camon 20 Pro 5G device is successfully jailbroken, create an account with TruthSpy, purchase a subscription and you will receive instructions on how to install the software on the jailbroken device.
 
 Step 3: You can then log in to TurthSpy with your log in information and access all types of data on the target iPhone from any bowser.
 
 ![Spy using Spyware with jailbreak-log in to TurthSpy](https://images.wondershare.com/drfone/article/2017/10/15079742762274.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Both mSpy and TruthSpy will provide you with all the information you need about the target device. The only difference is, you need to jailbreak the Tecno Camon 20 Pro 5G device if TruthSpy will be able to access it. Jailbreaking the
 
 device will however make it easier for the Tecno Camon 20 Pro 5G device’s owner to find the spyware and remove it before you are able to complete your activities. It is therefore preferable to use a program like mSpy that requires no jailbreak.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Track Tecno Camon 20 Pro 5G Location by Number
 
 If you need to know where is your partner, you can quickly locate him/her through a GPS facility on your cell phone. On the other hand, underestimating the worse of the things that can cause a mobile in the hand to get lost or stolen is a common mistake. These days the new technology is advancing more and more and it makes a parent's role even more challenging especially with young kids. Therefore we could say that software for tracking cellular is something essential that is why in this article, we will help you to track a cell phone location by number.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 1: Can I Track A Cell Phone with Just the Number?
 
@@ -100,7 +96,7 @@ We want to introduce you to GPS CellPhone Locator. With this software, you can t
 You can try this online software to hack a device and track cell phone location by number visiting its website <http://www.gpscellphonelocator.com/>
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 3: Alternative - How to Track A Cell Phone Location via mSpy
@@ -127,11 +123,11 @@ Step 4: Now you can monitor the target mobile with your mSpy account and will ha
 
 ![track a cell phone location via mSpy](https://images.wondershare.com/drfone/article/2017/10/15077054622036.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Now you will be able to track cell phone location by number using mSpy with these simple steps. You will receive real-time information from the target device every time you need it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4: How to track a cell phone with FlexiSPY
 
@@ -151,11 +147,19 @@ Step 3: View the historical and current GPS location from inside your online acc
 
 There are different methods of knowing where is the mobile you are looking for although it will depend on the operating system you have, and the procedures for finding someone else's phone are similar. Fortunately, the iPhone, Android, and Windows Phone provide solutions to find the location of a mobile and you can track location by phone number using some of the options we have offered in this article.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Track a Lost Tecno Camon 20 Pro 5G for Free?
 
 A cell phone is a rather small device when compared to other things you may haul around on a daily basis such as a purse or wallet and even a bunch of keys. Hence, forgetting it somewhere or having it stolen is highly likely. However, with the increase in modern mobile technology, there are several apps that can help you track your lost cell phone’s whereabouts. But you’ve already paid a premium price for your cell phone, so what you really should do is learn how to track a lost phone for free?
 
 And if you haven’t done so already, you should also install apps whether paid or free that do more than GPS location tracking such as monitoring incoming and outgoing calls, text and multimedia messages. So if you’re wondering how to track your lost phone for free, we’ve got a few solutions that will help you do just that, and others that bring to the table a wide range of great features.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: How to Track lost iPhone for Free?
 
@@ -176,7 +180,7 @@ Step 3. That’s really all there is to it! Once you select your device, you can
 ![Track lost iPhone for frees-start to track](https://images.wondershare.com/drfone/article/2017/10/15080422409247.jpeg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: How to Track Lost Android Mobile Location?
@@ -187,6 +191,10 @@ Step 1. Most latest Android phones are already equipped with the Find My Service
 
 ![Track Lost Android Mobile Location with Google’s ADM-install Find My Service](https://images.wondershare.com/drfone/article/2017/10/15080422869617.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 2. Next, tap Find My Device, and check the box besides it. Tap the back button once and then again to return to the main settings menu.
 
 ![Track Lost Android Mobile Location-return to the main settings menu](https://images.wondershare.com/drfone/article/2017/10/15080423235837.jpeg)
@@ -194,10 +202,6 @@ Step 2. Next, tap Find My Device, and check the box besides it. Tap the back but
 Step 3. To turn location services on, tap locations in the settings menu, tap mode so its turns green and then select high accuracy.
 
 ![Track with Google’s ADM-turn location services on](https://images.wondershare.com/drfone/article/2017/10/15080423753576.jpeg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 4. From the same window, tap Location History and turn it on and subsequently tap the button beside your device name to activate.
 
@@ -208,7 +212,7 @@ Step 4. When you need to locate your device, type find my device in a web browse
 ![Track with Google’s ADM-locate your device](https://images.wondershare.com/drfone/article/2017/10/15080424492002.jpeg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 3: How to Track Mobile Phone via Spyera?
@@ -218,6 +222,10 @@ Sometimes however, you will want to do a lot more than track a device such as kn
 [Spyera](https://spyera.com/) is an award winning software and is compatible with both Android and iOS devices. It is available in a choice of two plans—Monthily and Annual plans, and offers myriad features apart from GPS location tracking including the ability to browse contacts, access calendar, read notes and reminders view installed apps, check browser history and track both text and multimedia messages, all from a remote location.
 
 ![Track Mobile Phone via Spyera](https://images.wondershare.com/drfone/article/2022/03/clone-phone-number-spyera.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4: How to Track someone’s Phone via mSpy?
 
@@ -231,17 +239,9 @@ Step 2. Next, install and set it up on the target device, and then access the da
 
 ![Track someone’s Phone via mSpy-access the dashboard to begin tracking](https://images.wondershare.com/drfone/article/2017/10/15080426725286.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [mSpy](http://mspy.go2cloud.org/SH7G6) also offers the ability to setup a virtual fence, and alerts you automatically when those parameters have been breached, allowing you to see detailed records of where your cell phone is wandering.
 
 ![Track someone’s Phone via mSpy-see detailed records](https://images.wondershare.com/drfone/article/2017/10/15080427082157.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 When it comes to finding a solution to locating your cell phone in the event it goes missing, you will be spoilt for choice with the number of options available. But we've given you 4 premium answers to how to find cell phone including some app that go above and beyond simply displaying your device's GPS location.
 
@@ -259,21 +259,20 @@ When it comes to finding a solution to locating your cell phone in the event it 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-mastering-fb-video-sizes-understanding-ratios-and-adjustments/"><u>[New] 2024 Approved Mastering FB Video Sizes Understanding Ratios and Adjustments</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-master-class-adding-podcasts-to-instagram-features-for-2024/"><u>[New] Master Class Adding Podcasts to Instagram Features for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-gimbal-guide-for-smooth-flights-for-2024/"><u>[Updated] Gimbal Guide for Smooth Flights for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-xiaomi-redmi-12-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Xiaomi Redmi 12 Activity | Dr.fone</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-navigating-the-world-of-pc-screencasters-with-ease/"><u>2024 Approved Navigating the World of PC Screencasters with Ease</u></a></li>
-<li><a href="https://techidaily.com/hard-reset-tecno-camon-20-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Tecno Camon 20 in 3 Efficient Ways | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-htc-u23-pro-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your HTC U23 Pro Current Location of a Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-honor-magic-6-pro-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track Honor Magic 6 Pro without App | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-vivo-y100a-drfone-by-drfone-virtual-android/"><u>In 2024, Best Anti Tracker Software For Vivo Y100A | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-lava-storm-5g-for-free-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track a Lost Lava Storm 5G for Free? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-oppo-a78-5g-without-him-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Two Ways to Track My Boyfriends Oppo A78 5G without Him Knowing | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-oppo-a59-5g-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Oppo A59 5G Phone FRP Lock</u></a></li>
-<li><a href="https://techtrends.techidaily.com/overcoming-safe-mode-glitches-on-your-sony-ps4-step-by-step-fixing/"><u>Overcoming Safe Mode Glitches on Your Sony PS4 - Step by Step Fixing</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-samsung-galaxy-a15-4g-drfone-by-drfone-virtual-android/"><u>Top 10 Best Spy Watches For your Samsung Galaxy A15 4G | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/unravel-the-power-of-wmp-in-audio-transition-from-cds/"><u>Unravel the Power of WMP in Audio Transition From Cds</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-lava-blaze-pro-5g-device-by-drfone-android/"><u>What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Lava Blaze Pro 5G Device</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-secrets-of-soaring-wealth-joshis-youtube-path/"><u>[Updated] 2024 Approved Secrets of Soaring Wealth Joshi's Youtube Path</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-amplify-your-videos-value-anywhere-on-multiple-devices/"><u>[Updated] In 2024, Amplify Your Video's Value Anywhere on Multiple Devices</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-poco-m6-pro-4g-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Poco M6 Pro 4G Activity | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-art-of-memes-9-essential-elements-for-gif-perfection/"><u>2024 Approved The Art of Memes 9 Essential Elements for GIF Perfection</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/downloading-samfw-frp-tool-30-for-realme-narzo-60-pro-5g-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Realme Narzo 60 Pro 5G</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/ensuring-your-safety-a-step-by-step-guide-to-verifying-the-security-of-downloads/"><u>Ensuring Your Safety - A Step-by-Step Guide to Verifying the Security of Downloads</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/from-gifs-to-videos-in-a-snap-top-online-platforms-for-content-upgraders/"><u>From GIFs to Videos in a Snap Top Online Platforms for Content Upgraders</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-vivo-g2-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost Vivo G2 for Free? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-oneplus-12r-drfone-by-drfone-virtual-android/"><u>In 2024, Best Anti Tracker Software For OnePlus 12R | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-vivo-v30-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Vivo V30 | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-xiaomi-redmi-note-12-pro-4g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on Xiaomi Redmi Note 12 Pro 4G Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-vivo-y36-without-him-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Two Ways to Track My Boyfriends Vivo Y36 without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-huawei-nova-y91-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Huawei Nova Y91 | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/infusing-personality-into-instagram-stories-with-unique-icons/"><u>Infusing Personality Into Instagram Stories with Unique Icons</u></a></li>
+<li><a href="https://games-able.techidaily.com/understanding-the-functionality-of-google-play-games-on-windows/"><u>Understanding the Functionality of Google Play Games on Windows</u></a></li>
 </ul></div>
 

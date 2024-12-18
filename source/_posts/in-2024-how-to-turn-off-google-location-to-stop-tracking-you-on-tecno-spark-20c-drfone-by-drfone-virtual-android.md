@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Turn Off Google Location to Stop Tracking You on Tecno Spark 20C | Dr.fone
-date: 2024-08-17T16:25:08.765Z
-updated: 2024-08-18T16:25:08.765Z
+date: 2024-12-11T23:55:00.258Z
+updated: 2024-12-18T01:11:12.608Z
 tags: 
   - virtual location change
   - location track
@@ -40,15 +40,11 @@ The majority of online advertisements scattered all over the internet are run by
 ![google search results](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-2.JPG)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 The same thing goes for Google search results. This query engine uses location data to provide information relevant to the specific needs of the user. Let’s say you’re currently residing in Japan and looking for nearby coffee shops. Of course, it will be unhelpful if Google dispenses a list of coffee shops that aren’t located in your country. That’s why you shouldn’t turn off Google location tracking on your smartphone if you’re looking for precise and pertinent answers.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ### It is used by Google to implement certain security protocols
 
 Google uses location data to keep your accounts safe from potential attacks and security breaches. How so? Well, Google immediately sends alerts whenever your account is used from an unusual location. Another thing is that strange activities on your account are promptly detected with the aid of location information. Simply put, allowing Google to access your whereabouts is the least you can do to protect your digital assets. Hence, don’t turn off Google location tracking on your Tecno Spark 20C smartphone if you need such assistance.
@@ -60,15 +56,13 @@ Google uses location data to keep your accounts safe from potential attacks and 
 We all know that Google is committed to offering us new products and improving its existing services. That’s indeed beneficial to all of us, especially in today’s ever-changing world. But definitely, it’s not possible if Google doesn’t have adequate location information from the pool of its users. Why so? Simply because location data determines the latest community trends and helps specialists find the perfect basis for fresh developments. Do you want to contribute something to the advancement of Google products? If so, you can start by giving Google access to the location data on your Tecno Spark 20C smartphone.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 2. Top 4 Techniques to Turn Off Google Location Tracking on Android
 
 There’s no denying that Google uses location information to give us the best experience possible. However, it doesn’t necessarily mean there is no risk at all. We cannot rule out the possibility of data breaches and disclosure of location information that is supposed to be private. If you’re worried about this kind of situation, you can prevent it from happening in a snap of a finger. Check out the four methods below on how to turn off Google location tracking on your Tecno Spark 20C smartphone.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 ### Method 1: Turn off the location services on your Tecno Spark 20C mobile device
 
 “How to stop Google from tracking me?” Well, it’s actually very easy. You just need to deactivate the location service on your Tecno Spark 20C mobile device. After that, Google and other GPS-based applications on your smartphone will immediately lose access to your location data. Do you want to try it now? Check out the tutorial below on how to turn off Google location tracking by deactivating the location services on your phone.
@@ -81,15 +75,12 @@ There’s no denying that Google uses location information to give us the best e
 
 ![location services](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 **Step 4:** Lastly, click **Close** to confirm the changes.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 2: Deactivate the Google App’s location access on your Tecno Spark 20C mobile device
 
 Let’s say you don’t want to cut the entire location access across your smartphone because other apps might malfunction. That’s fine. There is a way to deactivate the Google app’s location permission while the other apps remain unaffected. Are you more inclined to implement this decentralized approach? Check out the tutorial provided below.
@@ -116,9 +107,6 @@ Let’s say you don’t want to cut the entire location access across your smart
 
 ![disallow location access on google](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-9.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 ### Method 3: Toggle off the Timeline feature on your Google Account
 
 Timeline is a special Google feature that keeps a record of your location check-ins and routes taken for future reference. You can review it on the Google Maps app in case you need to visit the same place again. On the other hand, you can easily toggle it off if you don’t want Google tracking down your specific whereabouts. Here’s the guide on how to do it in easy steps.
@@ -131,9 +119,6 @@ Timeline is a special Google feature that keeps a record of your location check-
 
 ![google app profile icon](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-10.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 **Step 3:** Click **Google Account.**
 
 ![google app account](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-11.jpg)
@@ -143,8 +128,9 @@ Timeline is a special Google feature that keeps a record of your location check-
 ![data and privacy settings](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-12.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **Step 5:** Find and click **Timeline.**
 
 ![timeline settings](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-13.jpg)
@@ -153,9 +139,6 @@ Timeline is a special Google feature that keeps a record of your location check-
 
 ![turn off timeline settings](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-14.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 #### For web users
 
 **Step 1:** Visit the [<u>official website</u>](https://myactivity.google.com/myactivity) of My Google Activity. Right after, log in to the Gmail account you particularly use on your Tecno Spark 20C mobile device.
@@ -165,18 +148,13 @@ Timeline is a special Google feature that keeps a record of your location check-
 ![my google activity settings](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-15.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **Step 3:** Scroll it down and then click the **Turn Off** button.
 
 ![turn off timeline](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-16.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 ### Method 4: Remove visits on Google Maps
 
 If Timeline is previously activated on your Tecno Spark 20C, chances are Google Maps has recorded all your recent visits. Don’t worry. You can easily delete them and finally turn off Google location tracking once and for all. Here’s a short guide on how to do it in easy steps.
@@ -200,8 +178,6 @@ If Timeline is previously activated on your Tecno Spark 20C, chances are Google 
 ## Part 3. Keep Your Whereabouts Private With [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
 
 Google surely understands that some users are uncomfortable sharing their whereabouts with the platform. That’s why you’re given the option to turn off Google location tracking on your Tecno Spark 20C smartphone. However, take note that doing so might gravely affect the functionality of some Google products. If you don’t want it to happen, there’s an alternative solution you can try. Rather than denying Google access to your location, why not change it instead and register a fake one? Yes. That can absolutely help you conceal your whereabouts without compromising the quality of Google services. Don’t worry. It’s a piece of cake. Wondershare Dr.Fone can help you a lot in this regard. It has a potent Virtual Location feature capable of modifying your whereabouts and simulating GPS movements. Do you want to try it now? Here’s a short guide for you.
-
-
 
 **Step 1:** Download Wondershare Dr.Fone from its [<u>official website.</u>](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) Subsequently, install it on your computer.
 
@@ -229,8 +205,6 @@ Google surely understands that some users are uncomfortable sharing their wherea
 
 At some point, we cannot deny that Google location services make our lives a lot more convenient. Imagine you can easily locate a particular place and get directions by simply browsing Google Maps. No need to borrow an Atlas from the library just to find a location you want to visit. However, in exchange for this convenience, you have to share location access with Google. Some users are not confident to access this privilege at the expense of their privacy. Don’t worry. That’s totally fine. If you’re one of them, this article can help you turn off Google location tracking on your Tecno Spark 20C. Is there a more conservative approach to address this issue? Luckily, there is. Download [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) on your computer and take advantage of its Virtual Location feature. It can help modify your whereabouts and simulate GPS movements without going outdoors.
 
-
-
 ## How to Track Tecno Spark 20C Location by Number
 
 If you need to know where is your partner, you can quickly locate him/her through a GPS facility on your cell phone. On the other hand, underestimating the worse of the things that can cause a mobile in the hand to get lost or stolen is a common mistake. These days the new technology is advancing more and more and it makes a parent's role even more challenging especially with young kids. Therefore we could say that software for tracking cellular is something essential that is why in this article, we will help you to track a cell phone location by number.
@@ -243,9 +217,6 @@ Here, we need to mention that it depends upon the tool that you would use, wheth
 
 Also, each Android device is linked to a Google account, and the Internet giant offers a service called Device Manager. If you have enabled this service, then it is possible to track your mobile through the Gmail account from a computer or other devices. Also, in case of lost or stealth of an iPhone, using the “Search my iPhone” option/ app on our iOS devices, you can track the phone by number.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2: How to Hack a Phone Using Number to track Its Location
 
 Years ago, locating a cell phone and tracking a device by hacking was not possible except for government agencies and state security agencies. The mobile locator is a triangulation with telephone antennas whose technique is based on seeing the response time of the smartphone with these antennas. This technique is also known as GSM localization. Currently, you also have access to the necessary technology to know the location of the mobile thanks to its number. Track a cell phone location by number is possible and here we will teach you how to do it.
@@ -265,9 +236,9 @@ We want to introduce you to GPS CellPhone Locator. With this software, you can t
 You can try this online software to hack a device and track cell phone location by number visiting its website <http://www.gpscellphonelocator.com/>
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 3: Alternative - How to Track A Cell Phone Location via mSpy
 
 In this third part of the article, we want to recommend you an alternative software to track the phone by number and receive information in a secret mode. We are talking about [mSpy](http://mspy.go2cloud.org/SH7G6), this excellent software allows you to have a real-time location in case you need to locate a person by its device.
@@ -294,9 +265,6 @@ Step 4: Now you can monitor the target mobile with your mSpy account and will ha
 
 Now you will be able to track cell phone location by number using mSpy with these simple steps. You will receive real-time information from the target device every time you need it.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 4: How to track a cell phone with FlexiSPY
 
 Another third-party alternative to track someone’s phone is using [FlexiSPY](https://www.flexispy.com/) which offers you a complete solution to track device location.
@@ -313,10 +281,6 @@ Step 3: View the historical and current GPS location from inside your online acc
 
 ![track the location history](https://images.wondershare.com/drfone/article/2022/02/track-a-cell-phone-location-by-number-01.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 There are different methods of knowing where is the mobile you are looking for although it will depend on the operating system you have, and the procedures for finding someone else's phone are similar. Fortunately, the iPhone, Android, and Windows Phone provide solutions to find the location of a mobile and you can track location by phone number using some of the options we have offered in this article.
 
 ## How to Track Tecno Spark 20C Location without Installing Software?
@@ -324,20 +288,15 @@ There are different methods of knowing where is the mobile you are looking for a
 There are several reasons why you may want to track cell, whether to check up on your kids to make sure they at the mall and not the pub, or to ensure your employees are indeed stuck in a traffic jam and not at the local casino. Owing to the surge in GPS and mobile technology, tracking your cell phone’s exact location is rather easy given the myriad software available. But what if you didn’t have any software installed to begin with when you lost your cell phone? So the big question that’s probably on your mind is how to track a cell phone location without installing software? And the good news is that there are several ways to track a cell phone’s mobile location without having to install software, so let’s get right to what we feel are great solutions.
 
 <!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 1: How to Track Cell Phone using Spyera?
 
 Making it to the top of the list is none other than [Spyera](https://spyera.com/features/), a highly acclaimed piece of software that allows you to do a whole lot more than just check cell phone location. Even though this article is about how to track a cell phone location without installing software, Spyera works much better than free solutions because can keep tabs on several metrics of your cell phone including monitoring incoming calls. text and multimedia messages from WhatsApp, browser history, access calendars, and contacts, and view installed apps. One of the noteworthy features of Spyera is that it is available in a choice of two plans (monthly and annual plans) and is easy to install, works great on both Android and iOS platforms, and allows you to track cell phone location remotely.
 
 ![track a cell phone using Spyera](https://images.wondershare.com/drfone/article/2022/03/clone-phone-number-spyera.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2: How to Track A Cell Phone Location without Installing Software?
 
 #### **How to Track a Cell Location using iCloud?**
@@ -356,9 +315,6 @@ Step 4. Click on the Find iPhone button located in the second row.
 
 ![track a cell phone-use Apple’s iCloud](https://images.wondershare.com/drfone/article/2017/10/15082095511390.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Step 5. From here, you will need to click the dropdown labeled All Devices and select the target device. Once you select the Tecno Spark 20C device you wish to locate, you can either erase your iPhone, send an audible alert or lock the Tecno Spark 20C device.
 
 ![track a cell phone-select the Tecno Spark 20C device you wish to locate](https://images.wondershare.com/drfone/article/2017/10/15082095893194.jpeg)
@@ -369,21 +325,19 @@ If you’re an Android user, Google’s Android Device Manager presently known a
 
 ![track a cell phone-use Android Device Manager](https://images.wondershare.com/drfone/article/2017/10/15082096225606.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Step 1. As long as you have your Google account connected with your Tecno Spark 20C (again something you will have done when you first received the phone), you can now begin tracking by heading to Find My Device on the web.
 
 Step 2. Sign in with your Google credentials, and you will be greeted with a dashboard that will show you where your cell phone is along with several other options.
 
 ![track a cell phone-Sign in with your Google credentials](https://images.wondershare.com/drfone/article/2017/10/15082099019590.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Step 3. You can now do one of three things apart from viewing your cell location i.e. play sound, lock or erase device.
 
 ![track a cell phone-view your cell location](https://images.wondershare.com/drfone/article/2017/10/15082099518488.jpeg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### **Another Google Solution:**
 
@@ -393,10 +347,6 @@ Step 1. Open the main Google search page and type in "find My Tecno Spark 20C", 
 
 ![track a cell phone-type in ](https://images.wondershare.com/drfone/article/2017/10/15082098089360.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ## Part 3: How to Track a Cell Phone Location via mSpy?
 
 We’ve just given you two solutions to how to track a cell phone location without installing software, but they are limited in the features they offer, meaning you can just check cell phone location. But there may be times when you may feel the need to get a comprehensive look or rather a mirror image of what your cell phone is being used for. And for that, there is [mSpy](http://mspy.go2cloud.org/SH7G6), an app that allows you to not only track Your Tecno Spark 20C location but rings in with several other handy features.
@@ -412,21 +362,22 @@ Step 2. Next, you will have to set up the app with information on your target de
 ![track a cell phone via mSpy-setup the app](https://images.wondershare.com/drfone/article/2017/10/15082100515661.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Step 3. You can select from several options in the left hand, two of the most noteworthy being geo-fencing and WhatsApp. Geo-fencing is a great feature to monitor both your kids and employees and basically, allows you to set up parameters and alert you when they are breached.
 
 ![track a cell phone via mSpy-select from several options](https://images.wondershare.com/drfone/article/2017/10/15082100786594.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 WhatsApp is a highly secure chat application, but mSpy backed by the latest technology also allows you to monitor its messages both incoming and outgoing. Simply click on the WhatsApp tab and you will be presented with a list of WhatsApp messages that you can further sort through by date.
 
 ![track a cell phone via mSpy-sort through WhatsApp messages by date](https://images.wondershare.com/drfone/article/2017/10/15082101238393.jpg)
 
-There are several instances such as in the excitement of getting a new phone that we may overlook the need to install software to track a cell phone. But both Google and Apple are generous enough to offer a solution to track your cell phone location without having to install any third-party software. But if you’re like to do a lot more than just track your cell phone’s location, mSpy with its expensive list of features sets the gold standard in this space.
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
+There are several instances such as in the excitement of getting a new phone that we may overlook the need to install software to track a cell phone. But both Google and Apple are generous enough to offer a solution to track your cell phone location without having to install any third-party software. But if you’re like to do a lot more than just track your cell phone’s location, mSpy with its expensive list of features sets the gold standard in this space.
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -440,5 +391,20 @@ There are several instances such as in the excitement of getting a new phone tha
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-capture-time-bending-reels-with-slow-motion-hacks-on-ig-for-2024/"><u>[New] Capture Time-Bending Reels with Slow Motion Hacks on IG for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-tweettwirling-the-ultimate-guide-to-fun-and-friendly-gifs-2-written-by-authors-name/"><u>[New] TweetTwirling The Ultimate Guide to Fun and Friendly Gifs, 2 Written by [Author's Name]</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-toggle-picture-in-picture-feature-for-youtube-app/"><u>[Updated] In 2024, Toggle Picture-in-Picture Feature for Youtube App</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-teachers-guide-to-use-video-in-teaching/"><u>[Updated] Teacher's Guide To Use Video In Teaching</u></a></li>
+<li><a href="https://fox-access.techidaily.com/capturing-the-best-on-iphone-8-techniques-for-pro-video-shoots/"><u>Capturing the Best on iPhone 8 Techniques for Pro Video Shoots</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/detailed-close-ups-made-easy-in-videoleap-editing/"><u>Detailed Close-Ups Made Easy in Videoleap Editing</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-infinix-smart-8-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost Infinix Smart 8 for Free? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-samsung-galaxy-xcover-7-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost Samsung Galaxy XCover 7 for Free? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-honor-x50iplus-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Honor X50i+ Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-xiaomi-redmi-12-5g-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Xiaomi Redmi 12 5G Activity | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-ways-to-track-lava-yuva-2-pro-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Track Lava Yuva 2 Pro without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-top-techniques-for-high-resolution-webcam-videos/"><u>In 2024, Top Techniques for High-Resolution WebCam Videos</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/top-7-sonic-alterations-mastering-the-art-of-digital-audio-transformation-for-2024/"><u>Top 7 Sonic Alterations Mastering the Art of Digital Audio Transformation for 2024</u></a></li>
+</ul></div>
 

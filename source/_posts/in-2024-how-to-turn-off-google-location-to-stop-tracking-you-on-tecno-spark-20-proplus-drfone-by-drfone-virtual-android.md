@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Turn Off Google Location to Stop Tracking You on Tecno Spark 20 Pro+ | Dr.fone
-date: 2024-12-05T00:39:27.620Z
-updated: 2024-12-11T18:51:49.290Z
+date: 2024-12-12T03:54:09.957Z
+updated: 2024-12-18T05:12:47.872Z
 tags: 
   - virtual location change
   - location track
@@ -25,9 +25,17 @@ In this article, we will discuss how Google employs location access on your mobi
 
 Location data generally helps us find reliable directions and pinpoint a particular place. But apart from that, this piece of information actually serves a bigger purpose. Google, in particular, employs location data to provide high-quality services tailored to specific preferences and necessities of the users. Each Google product relies heavily on location information and utilizes it for various reasons. To understand it better, check out the list below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### It is an essential component of most Google services
 
 ![google products](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-1.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Of course, Google Maps and Weather will not work without access to location data. It is the main component that allows this kind of application to function exactly as it should. That’s why you should think twice before you turn off Google location tracking. Keep it activated on your mobile device if you’re in need of real-time weather updates or reliable coordinates.
 
@@ -69,6 +77,10 @@ There’s no denying that Google uses location information to give us the best e
 
 **Step 4:** Lastly, click **Close** to confirm the changes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 2: Deactivate the Google App’s location access on your Tecno Spark 20 Pro+ mobile device
 
 Let’s say you don’t want to cut the entire location access across your smartphone because other apps might malfunction. That’s fine. There is a way to deactivate the Google app’s location permission while the other apps remain unaffected. Are you more inclined to implement this decentralized approach? Check out the tutorial provided below.
@@ -80,12 +92,16 @@ Let’s say you don’t want to cut the entire location access across your smart
 ![app list](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-5.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 3:** Find and click **Google** on the list.
 
 ![google on app list](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 4:** Click **Permissions.**
 
@@ -119,10 +135,6 @@ Timeline is a special Google feature that keeps a record of your location check-
 
 ![data and privacy settings](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-12.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 5:** Find and click **Timeline.**
 
 ![timeline settings](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-13.jpg)
@@ -138,10 +150,6 @@ Timeline is a special Google feature that keeps a record of your location check-
 **Step 2:** On the main dashboard, click **Timeline.**
 
 ![my google activity settings](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-15.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 3:** Scroll it down and then click the **Turn Off** button.
 
@@ -189,10 +197,6 @@ Google surely understands that some users are uncomfortable sharing their wherea
 
 ![read location description](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 7:** The location registered on your Tecno Spark 20 Pro+ mobile device will now be replaced with your modified whereabouts. Verify the changes applied on your smartphone by checking Google Maps and searching for your current location. One way or another, it must show the altered result.
 
 **NOTE:** If you want to restore your original location settings, simply disconnect your smartphone from the computer and restart it.
@@ -232,10 +236,6 @@ For iOS users the process is simple and it does not require any additional insta
 
 ![turn off location iPhone](https://drfone.wondershare.com/2020/turn_off_location_iPhone.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 You can also turn off find my friend to get the best results. To do this go to settings > Apple ID > in case of iOS 12 tap share my location > turn off share my location. If you are using an earlier version of iOS tap iCloud > share my location > turn off.
 
 In iCloud sign in > select me > deselect share my location to finish the process.
@@ -243,7 +243,7 @@ In iCloud sign in > select me > deselect share my location to finish the process
 ![turnoff find my friend iPhone](https://drfone.wondershare.com/2020/turnoff_find_my_friend_iPhone.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 3: How to Use Location Spoofer Tool to Prevent Parent from Tracking?
@@ -268,15 +268,15 @@ The center on button is to be clicked to locate your device.
 
 ![virtual location 3](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 4: Teleportation**
 
 The third icon on the top right is to be clicked so that spoofing begins.
 
 ![virtual location 04](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 5: Move to the desired location**
 
@@ -291,11 +291,7 @@ The location will be locked with and the Tecno Spark 20 Pro+ device will also sh
 ![virtual location 6](https://images.wondershare.com/drfone/guide/virtual-location-06.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 4: Install Anti-Spy Tool to Avoid Tracking
@@ -348,10 +344,6 @@ Step 4. The tracking process will now begin, and you should be able to see it di
 
 Step 5. Once you know the exact location of your device, you can do one of three things—activate lost mode, trigger an acoustic signal or erase all data.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 2: Solution 2 - Google to the Rescue
 
 Note that this solution will only work if you have Location Services enabled on your iPhone.
@@ -359,6 +351,10 @@ Note that this solution will only work if you have Location Services enabled on 
 It’s no surprise that both Apple and the search giant are fond of gathering information on all sorts of things, most notably your location. Google stores this information on its Timeline, so without ado, head to the Google Timeline.
 
 ![head to the Google Timeline to track your iPhone](https://images.wondershare.com/drfone/article/2017/10/example-trip-google-timeline.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 2. Select the present date from the left hand panel.
 
@@ -391,6 +387,10 @@ Step 3. Once the tracking iPhone’s location is shared with your device, a popu
 ![use another phone to track the missing one](https://images.wondershare.com/drfone/article/2017/10/15075192666907.jpg)
 
 Step 4. When you’re ready to begin tracking, open up the Find My Friends app, click on their contact (your contact in this case) to see its exact location in real time.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 5: Solution 5. Using mSpy to track an iPhone
 
@@ -432,14 +432,19 @@ There you go! Lost your iPhone? We've provided you with 5 different ways to loca
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/ed-perfect-your-video-edits-step-by-step-on-youtube-cutting-for-2024/"><u>[Updated] Perfect Your Video Edits Step-by-Step on YouTube Cutting for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-realme-v30t-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Realme V30T Activity | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/3-solutions-to-find-your-samsung-galaxy-a34-5g-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>3 Solutions to Find Your Samsung Galaxy A34 5G Current Location of a Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/3-ways-to-track-vivo-y78plus-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track Vivo Y78+ without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/full-guide-to-iphone-14-pro-icloud-bypass-by-drfone-ios/"><u>Full guide to iPhone 14 Pro iCloud Bypass</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-lava-agni-2-5g-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on Lava Agni 2 5G | Dr.fone</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-incorporate-subtitles-for-improved-viewing-wmp-guide/"><u>In 2024, Incorporate Subtitles for Improved Viewing WMP Guide</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-leading-video-to-twitter-platforms/"><u>In 2024, Leading Video To Twitter Platforms</u></a></li>
-<li><a href="https://techidaily.com/why-considering-an-upgrade-to-samsungs-latest-galaxy-z-fold-6-makes-sense/"><u>Why Considering an Upgrade to Samsung's Latest Galaxy Z Fold 6 Makes Sense.</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-proven-ways-to-enhance-your-fb-presence-and-boost-engagement/"><u>[New] 2024 Approved Proven Ways to Enhance Your FB Presence and Boost Engagement</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-demystifying-youtubes-keyword-power-play/"><u>[New] Demystifying YouTube's Keyword Power Play</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-how-to-make-your-youtube-moments-come-alive-creating-dynamic-gifs/"><u>[Updated] How to Make Your YouTube Moments Come Alive Creating Dynamic GIFs</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-discovering-this-years-finest-pc-vr-devices/"><u>[Updated] In 2024, Discovering This Year's Finest PC VR Devices</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-ways-to-track-tecno-spark-20-pro-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track Tecno Spark 20 Pro without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-vivo-x100-pro-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on Vivo X100 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-xiaomi-redmi-note-12-4g-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on Xiaomi Redmi Note 12 4G | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-tecno-spark-go-2023-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your Tecno Spark Go (2023) Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-xiaomi-redmi-note-13-5g-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your Xiaomi Redmi Note 13 5G Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-oneplus-open-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for OnePlus Open | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-top-8-online-photo-montage-maker/"><u>In 2024, Top 8 Online Photo Montage Maker</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/samsung-galaxy-showdown-s10plus-vs-s20-performance-analysis/"><u>Samsung Galaxy Showdown: S10+ Vs. S20 Performance Analysis</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-mobile-phones-endorsed-by-zdnet-editors-authentic-reviews-and-testimonials/"><u>Top Mobile Phones Endorsed by ZDNet Editors - Authentic Reviews & Testimonials</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-and-correcting-windows-error-0x80072f8f-for-pcs-running-on-windows-11-or-10/"><u>Troubleshooting and Correcting Windows Error 0X80072F8F for PCs Running on Windows 11 or 10</u></a></li>
 </ul></div>
 

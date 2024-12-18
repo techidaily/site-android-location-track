@@ -1,7 +1,7 @@
 ---
 title: In 2024, 5 Ways to Track Nubia Z50 Ultra without App | Dr.fone
-date: 2024-08-03T11:11:14.010Z
-updated: 2024-08-04T11:11:14.010Z
+date: 2024-12-11T05:29:14.050Z
+updated: 2024-12-18T03:58:07.197Z
 tags: 
   - virtual location change
   - location track
@@ -18,8 +18,9 @@ thumbnail: https://thmb.techidaily.com/9420d8c67dc649498f45244e433ec706e66933c2b
 The Find My Nubia Z50 Ultra app is a great addition to your iPhone, and as the name suggests helps you to not only track your phone in the event it is stolen, but also lock it so that it cannot be misused. But what if you don’ have the app installed? Does that mean that you have to bid adieu to your iPhone forever? Not really, because we are about to reveal to you 5 different ways to track your iPhone without app, so you can hopefully find your phone in the condition it went astray.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 1: Solution 1 – Apple’s iCloud to the rescue
 
 Take note that this solution will not work if you haven’t activated the Find My iPhone service when you set up your device. If you have, here’s how to go about it.
@@ -34,10 +35,11 @@ If you are greeted with the two factor authentication process, which asks you to
 
 Step 2. From the dashboard, locate the Find iPhone icon on the second row and click on it.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![locate the Find iPhone icon](https://images.wondershare.com/drfone/article/2017/10/15075181495657.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 3. Hover over to the All Devices dropdown menu and choose your iPhone.
 
@@ -49,9 +51,6 @@ Step 4. The tracking process will now begin, and you should be able to see it di
 
 Step 5. Once you know the exact location of your device, you can do one of three things—activate lost mode, trigger an acoustic signal or erase all data.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 2: Solution 2 - Google to the Rescue
 
 Note that this solution will only work if you have Location Services enabled on your iPhone.
@@ -66,6 +65,10 @@ Step 3. Scroll to the bottom of the timeline, and select the latest location upd
 
 Step 4. If your location is the same as your previous updates, your phone hasn’t moved so you go and get it from that location. Contrarily, if your phone has moved, you should contact authorities, and not go after the thief alone because you never know the type of person they are.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3: Solution 3 - Using Google Photos to Track your iPhone
 
 If the above Google features do not work for you, the search giant has one more service that can help aka Google Photos.
@@ -74,14 +77,8 @@ This option is somewhat complex, and requires that you have the Google Photos ap
 
 Well, if you have the aforementioned prerequisites, head over to photos.google.com to visit your most recently uploaded photos. If you happen to notice any recent photos, click on them and check their location by clicking on the right sidebar. Again, if you do find the location using this method, it is best to contact your local authorities.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Use Google Photos to Track your iPhone](https://images.wondershare.com/drfone/article/2017/10/15075191479909.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 4: Solution 4. Have another iPhone? Use it to Track one that’s gone missing
 
 This method requires that you have Find My Friend enabled on both your missing iPhone and the one you’re going to use to track it. Good news is that starting from iOS 9, this feature is stock and will already be installed on the Nubia Z50 Ultra device.
@@ -99,15 +96,13 @@ Step 3. Once the tracking iPhone’s location is shared with your device, a popu
 Step 4. When you’re ready to begin tracking, open up the Find My Friends app, click on their contact (your contact in this case) to see its exact location in real time.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 5: Solution 5. Using mSpy to track an iPhone
 
 One of the biggest reasons of using [mSpy](http://mspy.go2cloud.org/SH7G6) is that you can do much more than just track your iPhone. With 25 features on tap, [mSpy](http://mspy.go2cloud.org/SH7G6) is geared towards keeping track of your iPhone as well as those using it. This remotely managed software is compatible with iOS, Windows and Mac OS, and can be easily accessed from any browser.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Use mSpy to track an iPhone](https://images.wondershare.com/drfone/article/2017/10/15075194046097.jpg)
 
 It is designed for both home and commercial use, so whether you’d like to keep track of your kid’s text messages employee emails, mSpy can truly be your best friend. Things you can keep tabs on include instant messages such as from WhatsApp, emails, multimedia messages, incoming and outgoing calls and GPS locations.
@@ -122,6 +117,10 @@ Step 2. Next open the confirmation email from your computer and click the link t
 
 ![go to the mSpy control panel dashboard](https://images.wondershare.com/drfone/article/2017/10/15075195078932.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 3. Simply follow the onscreen instructions to install mSpy on the Nubia Z50 Ultra device you wish to monitor.
 
 Step 4. The interface is highly intuitive, so all the information you need is featured on as single screen. To track your iPhone using mSpy, simply open up the dashboard, click on the top left hand corner to select the Nubia Z50 Ultra device you’d like information on and then click on locations tab to view its exact whereabouts in real time.
@@ -130,9 +129,6 @@ Step 4. The interface is highly intuitive, so all the information you need is fe
 
 There you go! Lost your iPhone? We've provided you with 5 different ways to locate it, and we hope that one of them could help you recover your device.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 ## How to Track a Lost Nubia Z50 Ultra for Free?
 
 A cell phone is a rather small device when compared to other things you may haul around on a daily basis such as a purse or wallet and even a bunch of keys. Hence, forgetting it somewhere or having it stolen is highly likely. However, with the increase in modern mobile technology, there are several apps that can help you track your lost cell phone’s whereabouts. But you’ve already paid a premium price for your cell phone, so what you really should do is learn how to track a lost phone for free?
@@ -147,16 +143,14 @@ But before we move ahead and explain how to track your lost phone for free with 
 
 Step 1. You will first need to ensure that the Find My iPhone feature is enabled on your device. This can be easily done by first launching the settings app on your iPhone, tapping on Apple ID at the top, and then iCloud and then Find My iPhone. Lastly, tab to enable it.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 ![track your lost phone for free with iCloud](https://images.wondershare.com/drfone/article/2017/10/15080421681564.jpeg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 2. Now it’s time to hit the cloud—iCloud we mean! First things first—head to <www.iCloud.com> from any browser and login with your credentials. From the dashboard, click on Find iPhone in the second row and enter your Apple ID and password if prompted. Since you may have several Apple devices connected with the same iCloud account, click on All Devices at the top, and select the Nubia Z50 Ultra device you wish to track from the dropdown.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Track lost iPhone for free-click on Find iPhone and All Devices](https://images.wondershare.com/drfone/article/2017/10/15080422049397.jpeg)
 
 Step 3. That’s really all there is to it! Once you select your device, you can do one of three things—play sound, activate lost mode or erase the Nubia Z50 Ultra device to prevent compromise of information.
@@ -171,6 +165,10 @@ Step 1. Most latest Android phones are already equipped with the Find My Service
 
 ![Track Lost Android Mobile Location with Google’s ADM-install Find My Service](https://images.wondershare.com/drfone/article/2017/10/15080422869617.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 2. Next, tap Find My Device, and check the box besides it. Tap the back button once and then again to return to the main settings menu.
 
 ![Track Lost Android Mobile Location-return to the main settings menu](https://images.wondershare.com/drfone/article/2017/10/15080423235837.jpeg)
@@ -181,16 +179,14 @@ Step 3. To turn location services on, tap locations in the settings menu, tap mo
 
 Step 4. From the same window, tap Location History and turn it on and subsequently tap the button beside your device name to activate.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Track with Google’s ADM-activate the Nubia Z50 Ultra device](https://images.wondershare.com/drfone/article/2017/10/15080424126895.jpeg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 4. When you need to locate your device, type find my device in a web browser and select what usually is the first link. Enter your email and password associated with your device account, and you will be presented with a dashboard, from where you can send an audible tone to your device even if it were on silent, lock your phone or erase it.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Track with Google’s ADM-locate your device](https://images.wondershare.com/drfone/article/2017/10/15080424492002.jpeg)
 
 ## Part 3: How to Track Mobile Phone via Spyera?
@@ -199,9 +195,6 @@ Sometimes however, you will want to do a lot more than track a device such as kn
 
 [Spyera](https://spyera.com/) is an award winning software and is compatible with both Android and iOS devices. It is available in a choice of two plans—Monthily and Annual plans, and offers myriad features apart from GPS location tracking including the ability to browse contacts, access calendar, read notes and reminders view installed apps, check browser history and track both text and multimedia messages, all from a remote location.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ![Track Mobile Phone via Spyera](https://images.wondershare.com/drfone/article/2022/03/clone-phone-number-spyera.jpg)
 
 ## Part 4: How to Track someone’s Phone via mSpy?
@@ -210,9 +203,6 @@ Sometimes however, you will want to do a lot more than track a device such as kn
 
 Step 1. After you’ve selected the best plan for your needs, you will have to register the software.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 ![Track someone’s Phone via mSpy-register the software](https://images.wondershare.com/drfone/article/2017/10/15080426397756.jpg)
 
 Step 2. Next, install and set it up on the target device, and then access the dashboard to begin tracking.
@@ -221,16 +211,10 @@ Step 2. Next, install and set it up on the target device, and then access the da
 
 [mSpy](http://mspy.go2cloud.org/SH7G6) also offers the ability to setup a virtual fence, and alerts you automatically when those parameters have been breached, allowing you to see detailed records of where your cell phone is wandering.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 ![Track someone’s Phone via mSpy-see detailed records](https://images.wondershare.com/drfone/article/2017/10/15080427082157.jpg)
 
 When it comes to finding a solution to locating your cell phone in the event it goes missing, you will be spoilt for choice with the number of options available. But we've given you 4 premium answers to how to find cell phone including some app that go above and beyond simply displaying your device's GPS location.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Turn Off Google Location to Stop Tracking You on Nubia Z50 Ultra
 
 The location services that Google provides to Android smartphones are indeed useful in many ways. For instance, you can use Google Maps to check a particular place you want to visit and obtain reliable directions to help you get there. Another thing, Google can also give you the exact location of your Nubia Z50 Ultra in case you lost it somewhere. Indeed, Google’s GPS tracking feature comes in very handy whenever you need such assistance.
@@ -239,9 +223,6 @@ It’s true to say that Google's location monitoring services offer tons of bene
 
 In this article, we will discuss how Google employs location access on your mobile device. We will also provide some quick tutorials on how to turn off Google location tracking in easy steps. Continue reading below to learn more.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1. Understanding How Google Uses Location Data
 
 Location data generally helps us find reliable directions and pinpoint a particular place. But apart from that, this piece of information actually serves a bigger purpose. Google, in particular, employs location data to provide high-quality services tailored to specific preferences and necessities of the users. Each Google product relies heavily on location information and utilizes it for various reasons. To understand it better, check out the list below.
@@ -258,9 +239,6 @@ The majority of online advertisements scattered all over the internet are run by
 
 ### It is used by Google to provide accurate search results
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ![google search results](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-2.JPG)
 
 The same thing goes for Google search results. This query engine uses location data to provide information relevant to the specific needs of the user. Let’s say you’re currently residing in Japan and looking for nearby coffee shops. Of course, it will be unhelpful if Google dispenses a list of coffee shops that aren’t located in your country. That’s why you shouldn’t turn off Google location tracking on your smartphone if you’re looking for precise and pertinent answers.
@@ -279,10 +257,6 @@ We all know that Google is committed to offering us new products and improving i
 
 There’s no denying that Google uses location information to give us the best experience possible. However, it doesn’t necessarily mean there is no risk at all. We cannot rule out the possibility of data breaches and disclosure of location information that is supposed to be private. If you’re worried about this kind of situation, you can prevent it from happening in a snap of a finger. Check out the four methods below on how to turn off Google location tracking on your Nubia Z50 Ultra smartphone.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ### Method 1: Turn off the location services on your Nubia Z50 Ultra mobile device
 
 “How to stop Google from tracking me?” Well, it’s actually very easy. You just need to deactivate the location service on your Nubia Z50 Ultra mobile device. After that, Google and other GPS-based applications on your smartphone will immediately lose access to your location data. Do you want to try it now? Check out the tutorial below on how to turn off Google location tracking by deactivating the location services on your phone.
@@ -293,9 +267,6 @@ There’s no denying that Google uses location information to give us the best e
 
 **Step 3:** Find and click **Location.**
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ![location services](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-4.jpg)
 
 **Step 4:** Lastly, click **Close** to confirm the changes.
@@ -308,16 +279,10 @@ Let’s say you don’t want to cut the entire location access across your smart
 
 **Step 2:** Click **Apps.**
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ![app list](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-5.jpg)
 
 **Step 3:** Find and click **Google** on the list.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![google on app list](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-6.jpg)
 
 **Step 4:** Click **Permissions.**
@@ -330,9 +295,6 @@ Let’s say you don’t want to cut the entire location access across your smart
 
 **Step 6:** Lastly, click **Don’t Allow.** Alternatively, you may instead select **Allow Only While Using the App** or **Ask Every Time** if you wish to grant Google conditional access to your location data.
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![disallow location access on google](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-9.jpg)
 
 ### Method 3: Toggle off the Timeline feature on your Google Account
@@ -345,16 +307,14 @@ Timeline is a special Google feature that keeps a record of your location check-
 
 **Step 2:** Click your **Profile** icon at the top-right corner of the screen.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![google app profile icon](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-10.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 3:** Click **Google Account.**
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 ![google app account](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-11.jpg)
 
 **Step 4:** Click **Data Privacy.**
@@ -367,9 +327,6 @@ Timeline is a special Google feature that keeps a record of your location check-
 
 **Step 6:** Scroll down and then tap the **Turn Off** button.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![turn off timeline settings](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-14.jpg)
 
 #### For web users
@@ -378,21 +335,16 @@ Timeline is a special Google feature that keeps a record of your location check-
 
 **Step 2:** On the main dashboard, click **Timeline.**
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ![my google activity settings](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-15.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 3:** Scroll it down and then click the **Turn Off** button.
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![turn off timeline](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-16.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 4: Remove visits on Google Maps
 
 If Timeline is previously activated on your Nubia Z50 Ultra, chances are Google Maps has recorded all your recent visits. Don’t worry. You can easily delete them and finally turn off Google location tracking once and for all. Here’s a short guide on how to do it in easy steps.
@@ -405,9 +357,6 @@ If Timeline is previously activated on your Nubia Z50 Ultra, chances are Google 
 
 **Step 3:** Then click **Your Timeline.**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![google maps your timeline](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-18.jpg)
 
 **Step 4:** Click **Places.** Scroll down and then click **Visited All Places** just below the map.
@@ -420,8 +369,6 @@ If Timeline is previously activated on your Nubia Z50 Ultra, chances are Google 
 
 Google surely understands that some users are uncomfortable sharing their whereabouts with the platform. That’s why you’re given the option to turn off Google location tracking on your Nubia Z50 Ultra smartphone. However, take note that doing so might gravely affect the functionality of some Google products. If you don’t want it to happen, there’s an alternative solution you can try. Rather than denying Google access to your location, why not change it instead and register a fake one? Yes. That can absolutely help you conceal your whereabouts without compromising the quality of Google services. Don’t worry. It’s a piece of cake. Wondershare Dr.Fone can help you a lot in this regard. It has a potent Virtual Location feature capable of modifying your whereabouts and simulating GPS movements. Do you want to try it now? Here’s a short guide for you.
 
-
-
 **Step 1:** Download Wondershare Dr.Fone from its [<u>official website.</u>](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) Subsequently, install it on your computer.
 
 **Step 2:** Launch the newly installed software on your desktop. Once it fully loads up, connect your Nubia Z50 Ultra smartphone using a data cable. Follow the on-screen instructions to make sure that the connection between the two devices is stable enough to handle the succeeding procedures.
@@ -430,16 +377,10 @@ Google surely understands that some users are uncomfortable sharing their wherea
 
 **Step 4:** After completing the downloading process, Wondershare Dr.Fone - Virtual Location will open in a separate window. From there, navigate to the top-right menu bar and then click **Teleport Mode.**
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 ![wondershare drfone teleport mode](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
 
 **Step 5:** Head over to the search bar at the top-left corner of the screen and then enter your desired location. Choose one from the suggestions that Wondershare Dr.Fone displays on the screen. Right after, click the **Enter** icon.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 ![enter your preferred location](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
 
 **Step 6:** The description of your chosen location will be then flashed on the screen. Read the details and make sure they are accurate. After that, click **Move Here** to proceed.
@@ -454,9 +395,6 @@ Google surely understands that some users are uncomfortable sharing their wherea
 
 At some point, we cannot deny that Google location services make our lives a lot more convenient. Imagine you can easily locate a particular place and get directions by simply browsing Google Maps. No need to borrow an Atlas from the library just to find a location you want to visit. However, in exchange for this convenience, you have to share location access with Google. Some users are not confident to access this privilege at the expense of their privacy. Don’t worry. That’s totally fine. If you’re one of them, this article can help you turn off Google location tracking on your Nubia Z50 Ultra. Is there a more conservative approach to address this issue? Luckily, there is. Download [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) on your computer and take advantage of its Virtual Location feature. It can help modify your whereabouts and simulate GPS movements without going outdoors.
 
-
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -469,5 +407,16 @@ At some point, we cannot deny that Google location services make our lives a lot
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/updated-top-picks-expert-recommended-8-convertors-from-sub-to-srt-for-2024/"><u>[Updated] Top Picks Expert-Recommended 8 Convertors From Sub to Srt for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/5-ways-to-track-vivo-x90s-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Vivo X90S without App | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/clear-the-silence-unmute-yourself-in-google-meet-windows/"><u>Clear the Silence: Unmute Yourself in Google Meet (Windows)</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/expert-techniques-for-perfecting-your-prints-in-photoshop/"><u>Expert Techniques for Perfecting Your Prints in Photoshop</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/how-can-you-accelerate-your-computers-performance-expert-tips-from-yl-computing/"><u>How Can You Accelerate Your Computer's Performance: Expert Tips From YL Computing</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-14-plus-to-android-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 14 Plus to Android? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-vivo-s17t-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Vivo S17t | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-motorola-g24-power-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on Motorola G24 Power Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-xiaomi-redmi-note-13-pro-5g-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On Xiaomi Redmi Note 13 Pro 5G for Parents | Dr.fone</u></a></li>
+</ul></div>
 

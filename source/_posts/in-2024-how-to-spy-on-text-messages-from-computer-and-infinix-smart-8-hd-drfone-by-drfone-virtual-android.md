@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Spy on Text Messages from Computer & Infinix Smart 8 HD | Dr.fone
-date: 2024-12-10T16:32:17.168Z
-updated: 2024-12-11T21:35:42.646Z
+date: 2024-12-11T03:08:27.861Z
+updated: 2024-12-18T03:56:53.160Z
 tags: 
   - virtual location change
   - location track
@@ -32,7 +32,7 @@ Step 3: Once set up is complete, you can go to your eyeZy dashboard on any other
 ![Spy on Text Messages from another Android phone using eyeZy](https://images.wondershare.com/drfone/article/2022/03/spy-on-text-messages-eyezy.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: How to Spy on text messages from another iPhone
@@ -49,6 +49,10 @@ Step 3: The app will automatically access all messages on the target device. It 
 
 ![Spy on text messages from another iPhone via Auto Forward](https://images.wondershare.com/drfone/article/2017/10/15074689453332.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3: How to Spy on text messages from computer
 
 If you want to spy on someone else’s text messages on your computer, a monitoring program like [mSpy](http://mspy.go2cloud.org/SH7G6) might be a good choice. As one of the best spy apps in the business, mSpy gives you the ability to monitor any device both Android and iOS remotely from any computer. It is easy to install and will provide you with additional information about the target device including call history, browsing history, and even email tracking.
@@ -63,7 +67,15 @@ Step 3: You should be able to log in to your web-based control panel and view th
 
 ![Spy on text messages from computer via mSpy](https://images.wondershare.com/drfone/article/2017/10/15074696134452.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 The above three solutions enable users to monitor more than just text messages. They give parents the ability to keep track of what their children are saying to one another or who they are talking to. While there are many applications to spy monitoring software, perhaps the most important is in ensuring the safety of our young people.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Top 5 Tracking Apps to Track Infinix Smart 8 HD without Them Knowing
 
@@ -93,10 +105,6 @@ _Cons_
 
 ![tracking apps to track phone-spyera](https://images.wondershare.com/drfone/article/2022/02/apps-to-track-phone-without-them-knowing.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 2: mSpy
 
 If you are looking for another solution to track an Android or iOS device, then you can also try mSpy. Just like Spyera, the tool also has a dashboard that can be accessed from any other device. Installing the app is pretty easy and it will let you obtain all the crucial information like the Infinix Smart 8 HD device’s location, call logs, browser history, and more.
@@ -120,6 +128,10 @@ _Cons_
 • The stealth mode sometimes malfunctions and can be detected by the user.
 
 ![Tracking Apps to Track Phone-mSpy](https://images.wondershare.com/drfone/article/2017/10/15082606875769.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: FlexiSPY
 
@@ -173,14 +185,6 @@ _Cons_
 
 ![Tracking Apps to Track Phone-The One Spy](https://images.wondershare.com/drfone/article/2017/10/15082607535154.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 5: Hoverwatch
 
 Hoverwatch is one of the most widely used solutions to track Android devices, Windows PC, and Mac systems. Using Hoverwatch as an app to track phone without them knowing is pretty easy. Just sign-up to create your account, install the app on the target device, and access all the major information related to it on its web-based dashboard. It works with all the major social media apps and also tracks the real-time location of the Infinix Smart 8 HD device.
@@ -209,17 +213,9 @@ _Cons_
 
 Now when you know about some of the best tracking apps out there, you can easily use them to keep an eye on your loved ones. Mostly, these solutions are used by parents to track the whereabouts and the activity of their kids. Though, it can also be used by concerned individuals to track their partners, friends, parents, employees, and more. You can use these apps on your own device without much trouble. Nevertheless, if you are tracking someone else’s smartphone, then you should be aware of the consequences. To avoid any unforeseen situation, it is recommended to inform them before installing the app.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5 Ways to Track Infinix Smart 8 HD without App
 
 The Find My Infinix Smart 8 HD app is a great addition to your iPhone, and as the name suggests helps you to not only track your phone in the event it is stolen, but also lock it so that it cannot be misused. But what if you don’ have the app installed? Does that mean that you have to bid adieu to your iPhone forever? Not really, because we are about to reveal to you 5 different ways to track your iPhone without app, so you can hopefully find your phone in the condition it went astray.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 1: Solution 1 – Apple’s iCloud to the rescue
 
@@ -234,16 +230,24 @@ If you are greeted with the two factor authentication process, which asks you to
 ![skip the two factor authentication process](https://images.wondershare.com/drfone/article/2017/10/15075180348414.jpg) ![head to the quick access link](https://images.wondershare.com/drfone/article/2017/10/15075180363658.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step 2. From the dashboard, locate the Find iPhone icon on the second row and click on it.
 
 ![locate the Find iPhone icon](https://images.wondershare.com/drfone/article/2017/10/15075181495657.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 3. Hover over to the All Devices dropdown menu and choose your iPhone.
 
 ![choose your iPhone](https://images.wondershare.com/drfone/article/2017/10/15075181861335.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 4. The tracking process will now begin, and you should be able to see it displayed on an interactive map if successful.
 
@@ -275,6 +279,10 @@ Well, if you have the aforementioned prerequisites, head over to photos.google.c
 
 ![Use Google Photos to Track your iPhone](https://images.wondershare.com/drfone/article/2017/10/15075191479909.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 4: Solution 4. Have another iPhone? Use it to Track one that’s gone missing
 
 This method requires that you have Find My Friend enabled on both your missing iPhone and the one you’re going to use to track it. Good news is that starting from iOS 9, this feature is stock and will already be installed on the Infinix Smart 8 HD device.
@@ -291,10 +299,6 @@ Step 3. Once the tracking iPhone’s location is shared with your device, a popu
 
 Step 4. When you’re ready to begin tracking, open up the Find My Friends app, click on their contact (your contact in this case) to see its exact location in real time.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 5: Solution 5. Using mSpy to track an iPhone
 
 One of the biggest reasons of using [mSpy](http://mspy.go2cloud.org/SH7G6) is that you can do much more than just track your iPhone. With 25 features on tap, [mSpy](http://mspy.go2cloud.org/SH7G6) is geared towards keeping track of your iPhone as well as those using it. This remotely managed software is compatible with iOS, Windows and Mac OS, and can be easily accessed from any browser.
@@ -309,23 +313,19 @@ Step 1. You first need to choose between one of three plans, and your login cred
 
 ![choose the plan and get the login credentials ](https://images.wondershare.com/drfone/article/2017/10/15075194573263.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 2. Next open the confirmation email from your computer and click the link to go to the mSpy control panel aka dashboard.
 
 ![go to the mSpy control panel dashboard](https://images.wondershare.com/drfone/article/2017/10/15075195078932.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 3. Simply follow the onscreen instructions to install mSpy on the Infinix Smart 8 HD device you wish to monitor.
 
 Step 4. The interface is highly intuitive, so all the information you need is featured on as single screen. To track your iPhone using mSpy, simply open up the dashboard, click on the top left hand corner to select the Infinix Smart 8 HD device you’d like information on and then click on locations tab to view its exact whereabouts in real time.
 
 ![view the exact whereabouts of your phone by mSpy](https://images.wondershare.com/drfone/article/2017/10/15075195819649.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 There you go! Lost your iPhone? We've provided you with 5 different ways to locate it, and we hope that one of them could help you recover your device.
 
@@ -343,24 +343,16 @@ There you go! Lost your iPhone? We've provided you with 5 different ways to loca
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://android-location-track.techidaily.com/3-ways-to-track-vivo-s18e-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track Vivo S18e without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/a-visual-delight-on-a-dime-explore-how-the-hisense-u8h-4k-tv-impresses-in-our-latest-zdnet-review/"><u>A Visual Delight on a Dime: Explore How the Hisense U8H 4K TV Impresses in Our Latest ZDNET Review</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/chrome-video-translators-top-5-video-translation-chrome-extensions/"><u>Chrome Video Translators Top 5 Video Translation Chrome Extensions</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/customizing-your-monitor-setup-expert-tips-from-yl-computings-yl-software/"><u>Customizing Your Monitor Setup - Expert Tips From YL Computing's YL Software</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/ditching-vimeo-the-ultimate-list-of-excellent-alternatives/"><u>Ditching Vimeo The Ultimate List of Excellent Alternatives</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/gifts-that-speak-volumes-a-compendium-of-custom-box-shops-online-for-2024/"><u>Gifts That Speak Volumes A Compendium of Custom Box Shops Online for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-realme-c33-2023-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on Realme C33 2023 Without Them Knowing? | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-vivo-s17-pro-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Vivo S17 Pro Location Settings | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-vivo-s18-for-free-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track a Lost Vivo S18 for Free? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-turn-off-google-location-to-stop-tracking-you-on-lava-yuva-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Turn Off Google Location to Stop Tracking You on Lava Yuva 2 Pro | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-vivo-y78-5g-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On Vivo Y78 5G for Parents | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-vivo-x90s-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Vivo X90S | Dr.fone</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-top-10-windows-and-mac-compatible-music-arrangement-tools/"><u>New 2024 Approved Top 10 Windows & Mac Compatible Music Arrangement Tools</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/still-using-pattern-locks-with-vivo-s17e-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Vivo S17e? Tips, Tricks and Helpful Advice</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-4-ways-to-trace-samsung-galaxy-f34-5g-location-drfone-by-drfone-virtual-android/"><u>Top 4 Ways to Trace Samsung Galaxy F34 5G Location | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/top-5-huawei-nova-y91-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>Top 5 Huawei Nova Y91 Bypass FRP Tools for PC That Actually Work</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-6-appsservices-to-trace-any-realme-narzo-60-5g-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>Top 6 Apps/Services to Trace Any Realme Narzo 60 5G Location By Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-9-samsung-galaxy-a05s-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 Samsung Galaxy A05s Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/troubleshooting-a-non-booting-hard-drive-on-your-pc-fast-solutions-for-windows-10-8-and-7/"><u>Troubleshooting a Non-Booting Hard Drive on Your PC: Fast Solutions for Windows 10, 8 & 7</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-orchestrate-acoustics-within-presentation-ppts-for-2024/"><u>[New] Orchestrate Acoustics Within Presentation PPTS for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-capturing-the-spirit-2023s-most-shared-tweets/"><u>2024 Approved Capturing the Spirit 2023'S Most Shared Tweets</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/creating-interactive-web-platforms-with-gpt-3-integration/"><u>Creating Interactive Web Platforms with GPT-3 Integration</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/hone-your-urdu-skills-in-10-minute-sessions/"><u>Hone Your Urdu Skills in 10-Minute Sessions</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-xiaomi-redmi-13c-5g-drfone-by-drfone-virtual-android/"><u>How Do I Stop Someone From Tracking My Xiaomi Redmi 13C 5G? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-samsung-galaxy-a15-4g-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Samsung Galaxy A15 4G Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-xiaomi-redmi-note-12-proplus-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on Xiaomi Redmi Note 12 Pro+ 5G Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-music-from-infinix-smart-7-hd-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from Infinix Smart 7 HD to iPod | Dr.fone</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/panduan-resipi-data-ke-tersusunan-dalam-hd-eksternal-proses-jalannya-dan-hiasan-tekniknya/"><u>Panduan Resipi Data Ke Tersusunan Dalam HD Eksternal: Proses Jalannya Dan Hiasan Tekniknya</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-motorola-edge-40-neo-for-parents-drfone-by-drfone-virtual-android/"><u>Top 10 Telegram Spy Tools On Motorola Edge 40 Neo for Parents | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1726026554459-windows-11iso-3/"><u>Windows 11におけるISO ファイルの効率的な適用手段: 3つの斬新な解法</u></a></li>
 </ul></div>
 
