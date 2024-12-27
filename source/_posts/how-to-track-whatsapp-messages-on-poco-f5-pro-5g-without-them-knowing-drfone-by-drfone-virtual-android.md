@@ -1,7 +1,7 @@
 ---
 title: How to Track WhatsApp Messages on Poco F5 Pro 5G Without Them Knowing? | Dr.fone
-date: 2024-08-25T06:00:10.589Z
-updated: 2024-08-26T06:00:10.589Z
+date: 2024-12-24T19:40:29.726Z
+updated: 2024-12-26T18:59:31.386Z
 tags: 
   - virtual location change
   - location track
@@ -21,9 +21,6 @@ WhatsApp promises that all messages are encrypted, giving users another great re
 
 _**Pro Tip:** Are you being tracked by others? You can [fake your WhatsApp location](https://drfone.wondershare.com/virtual-location/fake-location-on-whatsapp.html) to avoid this._
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: Can You Track Messages on WhatsApp?
 
 Before going after **how to spy on someone's WhatsApp**, it is essential to find out if it is possible in the first place. WhatsApp is renowned for its end-to-end encryption. It is a security feature that ensures messages remain private. Moreover, these messages are accessible only to the intended recipients. This encryption makes it extremely challenging to intercept or track WhatsApp messages.
@@ -42,23 +39,14 @@ Finally, point the Poco F5 Pro 5G device's camera toward the QR code displayed o
 
 ![use whatsapp web](https://images.wondershare.com/drfone/article/2023/07/track-whatsapp-messages-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 ### Method 2. Use WhatsApp Linked Devices to Track WhatsApp Messages
 
 WhatsApp Linked Devices is a feature introduced by WhatsApp. It allows users to connect their WhatsApp accounts to multiple devices simultaneously. This feature enables seamless synchronization of messages across devices. Thus, it can be used to track WhatsApp messages. To set up WhatsApp Linked Devices, you will need physical access to the targeted device.
 
 Launch WhatsApp on the Poco F5 Pro 5G device, go to the menu, and select "Linked Devices." Now tap "Link a device" and use the QR code scanner to scan the code on your device. Once devices are linked, it will allow you to track the WhatsApp messages of the targeted person. Using this method needs physical access to the targeted device along with stable internet.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
 ![link whatsapp to another device](https://images.wondershare.com/drfone/article/2023/07/track-whatsapp-messages-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 ### Method 3. Use Google Drive Backup to Read Someone’s WhatsApp Messages
 
 WhatsApp provides the option to back up chats and media to cloud storage platforms like Google Drive. This feature is primarily designed for users to restore their data. However, It can be utilized to access and read someone else's WhatsApp messages. That is possible if you have access to their Google account.
@@ -68,6 +56,10 @@ To use this method, you will need to physically access the Poco F5 Pro 5G device
 ## Part 3: How To Track WhatsApp Messages Without Them Knowing?
 
 Regarding tracking someone's WhatsApp messages without their knowledge, it's essential to tread carefully. This section will discuss three popular monitoring applications to answer **how to spy on someone's WhatsApp**. The apps that are often mentioned in this context: mSpy, Spyera, and MaxxSpy.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 1. Track WhatsApp Messages with mSpy
 
@@ -83,6 +75,10 @@ After purchasing the mSpy package of your choice, open the email to receive logi
 
 ![allow installation from unknown sources](https://images.wondershare.com/drfone/article/2023/07/track-whatsapp-messages-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2:** Take the URL and type it into the Google Chrome browser of the targeted Android device. It is important to remember that you need to use Google Chrome, as other browsers won’t work. Once the URL is typed in, press “Go.”
 
 **Step 3:** After the URL is open, you will see a CAPTCHA, which you need to verify. Now use "Download" to start downloading the APK file, and once it is downloaded, install it on the Poco F5 Pro 5G device. Open the app after it is installed and agree to the terms & conditions.
@@ -97,9 +93,6 @@ After purchasing the mSpy package of your choice, open the email to receive logi
 
 **Step 6:** Afterward, choose "WhatsApp" from the left sidebar, and you can track the WhatsApp messages. It will also allow you to track WhatsApp calls, including all incoming and outgoing calls.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 ![access the mspy dashboard](https://images.wondershare.com/drfone/article/2023/07/track-whatsapp-messages-6.jpg)
 
 #### For iPhone
@@ -108,11 +101,12 @@ After purchasing the mSpy package of your choice, open the email to receive logi
 
 ![click on proceed](https://images.wondershare.com/drfone/article/2023/07/track-whatsapp-messages-7.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2:** Start by clicking “Proceed” in your mSpy account and inserting the Apple ID credentials of the targeted device. Now, press "Verify," and if 2FA is enabled, you will see an option to send the verification code. Use the code received on the targeted device to complete the verification process.
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ![verify the apple id](https://images.wondershare.com/drfone/article/2023/07/track-whatsapp-messages-8.jpg)
 
 **Step 3:** After the verification is complete, press "Proceed." On the following screen, you can read about the available data and click “Finish” to complete the process. It will take up to 24 hours for mSpy to extract iCloud data.
@@ -121,10 +115,6 @@ After purchasing the mSpy package of your choice, open the email to receive logi
 
 **Step 4:** Once mSpy has accessed the data, select “WhatsApp” from the left side to access WhatsApp chats. Here you can track all the incoming and outgoing messages remotely.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
 ![use mspy iphone dashboard](https://images.wondershare.com/drfone/article/2023/07/track-whatsapp-messages-10.jpg)
 
 ### Method 2. Track WhatsApp Messages with Spyera
@@ -159,14 +149,15 @@ Maintaining privacy in the digital world has become increasingly important. If y
 
 The best location spoofer app available in this regard is Wondershare [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/). Using this virtual location app, you can fake your GPS location anywhere in the world. It even allows you to upload custom locations and routes.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 ### Key Features of Dr.Fone - Virtual Location
 
 1. It provides a joystick to ensure your movement is realistic when playing AR games.
 2. With Dr.Fone - Virtual Location, you can change your location on social media apps like Snapchat, WhatsApp.
 3. By using this app, you can also access geo-restricted content and websites.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Step-by-Step Instructions To Spoof WhatsApp Location via Wondershare Dr.Fone
 
@@ -177,6 +168,10 @@ Changing your location to anywhere in the world is a breeze with this software. 
 Connect your device to the computer and launch the “Virtual Location” from the Toolbox of Wondershare Dr.Fone. Following this, activate the "Teleport Mode" feature from the top right corner.
 
 ![enable the teleport mode](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 2: Move to Your Desired Location**
 
@@ -194,9 +189,6 @@ The app is available for Android devices and can recover your lost data with a h
 
 ![dr.fone data and photo recovery app](https://images.wondershare.com/drfone/article/2023/07/track-whatsapp-messages-15.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 6: Frequently Asked Questions
 
 When it comes to **WhatsApp tracking**, you may have some questions. Here are the answers to the most frequently asked questions regarding this topic from the internet:
@@ -214,8 +206,9 @@ No, tracking WhatsApp messages on someone else's device requires physical access
 WhatsApp provides users with the option to back up their chat history to iCloud. While these backups can help restore chats, they are not designed for real-time tracking purposes. To access the conversations in the backup files, you will need to use a tool or service with decryption capabilities. It is due to the fact that WhatsApp chats are end-to-end encrypted.
 
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Conclusion
 
 In conclusion, tracking WhatsApp messages can be helpful in various scenarios. These scenarios range from monitoring your conversations to ensuring the safety of loved ones. Throughout this article, we have explored different methods on **how to track WhatsApp messages**. Each one had its advantages and limitations.
@@ -230,9 +223,6 @@ With the increase in the use of smartphones nowadays, the applications for smart
 
 ![fake GPS of mobile device](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 1: How to know whether your text message has been intercepted?
 
 Intercepting a target phone could give us the controls and allow us to spy on various activities happening on the target phone even to the extent of giving us information about what’s happening in the surrounding. It does this by listening to the conversation by turning on the microphone even when the target phone is not in use. So, while the spying application keeps running in the background silently, text messages can be easily intercepted. So, it is imperative to know and read the signs to actually get to know if your text messages are being intercepted. There are some signs which could give you an idea if your text message has been intercepted.
@@ -263,10 +253,11 @@ To be able to intercept text messages from other phones, it is first required to
 
 To start the process, buy mSpy that has to be installed on the target device. mSpy requires account creation and activation. This account with login credentials will be later used to monitor all the activities. You will be asked for an email id in which you will receive the setup procedure.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![intercept text messages-Install mSpy and set it up](https://images.wondershare.com/drfone/article/2016/11/14781232495235.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **2\. Install the application**
 
@@ -280,9 +271,6 @@ Installing in Android
 
 Installing on iOS
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 ![intercept text messages-Installing on iOS](https://images.wondershare.com/drfone/article/2016/11/14781241065208.jpg)
 
 **3\. Start monitoring**
@@ -294,10 +282,9 @@ You can now start intercepting the text messages remotely from other phones. Use
 The above screen is the monitoring console through which we can see all the text messages on the target device. The control panel can be opened on any device i.e. phone or computer through the browser using the login credentials.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 3: What you need to know when using mSpy
 
 **Few things to know when using [mSpy](http://mspy.go2cloud.org/SH7G6):**
@@ -312,7 +299,9 @@ While the working, installation, and setting up of mSpy is very easy, there are 
 
 So, these are the ways to install and start intercepting text messages both for iOS and Android using mSpy and we also listed down a few things that have to be kept in mind while going for mSpy. Hope this helps you in successfully and safely intercepting text messages.
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3 Ways to Track Poco F5 Pro 5G without Them Knowing
 
@@ -328,23 +317,18 @@ Step 1: First of all you need to purchase the subscription from [www.mspy.com/](
 
 Step 2: Now access the target device, once you opt for downloading, there you will be asked to enter the unique ID you received, to authorize the access. As soon you entered the details, the monitoring process will get started.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![track a cell phone without them knowing-access the target device](https://images.wondershare.com/drfone/article/2017/11/15100180578971.jpg)
 
 Step 3: After that, you will be allowed to open Control Panel. From there you can easily go for the process of tracking the target device remotely, under which you can have access to GPS locations, Messages, Call details, and lot more. That you can access from anywhere, such as your system, mobile, laptop, etc.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![track a cell phone without them knowing-the mSpy Control Panel](https://images.wondershare.com/drfone/article/2017/11/15100180804204.jpg)
 
 Following the above simple steps will enable you to track a Cell Phone without them Knowing.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 2: How to track Android or iPhone using FlexiSPY?
 
 [FlexiSPY](https://www.flexispy.com/) is a commonly used tracking system for cell phones. It assures one of the best ways to track a cell phone without them knowing. But you need to jailbreak iPhone before installing FlexiSPY. For android devices, the root service is required for certain advanced features.
@@ -359,18 +343,12 @@ How to Export GPS data:
 
 Step 1: Click the "Export" button on the upper right corner.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
 ![export gps data](https://images.wondershare.com/drfone/article/2022/02/track-cell-phone-with-flexispy-03.jpg)
 
 Step 2: Click the "Download" button on the pop-up window that appears.
 
 ![download gps datay](https://images.wondershare.com/drfone/article/2022/02/track-cell-phone-with-flexispy-04.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 3: How to secretly track someone
 
 If you want to track a cell phone without them knowing secretly, then one interesting solution is the “Find my friends” app introduced by Apple though primarily not for spying purposes, but you can use it to spy on someone's iPhone secretly. This app comes with the facility to get a notification when the target person arrives or leaves a place. Here, if you have access to the target device and the “Find my friends” option then it will give you the solution on how to track a cell phone without them knowing.
@@ -379,25 +357,16 @@ Step1: Enable the option “Share my location” on the target phone. To enable 
 
 Step 2: Generally iCloud account has sharing options for all other devices. We have to ensure the sharing option is correctly viewed as the target device such as “This device”.
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ![track a cell phone without them knowing-share my location](https://images.wondershare.com/drfone/article/2017/11/15100182891050.jpg)
 
 Step 3: Now swipe from bottom to end, click on the “Airdrop” option from the settings. You will have two options such as “Everyone” and “Contacts only”.
 
 Step 4: Move to the target device, in the “Find my friends” app click the option “add”. Now your contact picture will get displayed. Click on your profile photo > select the option “Share indefinitely” to track a cell phone without them knowing.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![track a cell phone without them knowing-Share indefinitely](https://images.wondershare.com/drfone/article/2017/11/15100183209840.jpg)
 
 Step 5: The target device location will be shared with you. You will get a pop-up window “Accept” it. It will again ask if you want to share location so, click on “Don’t share”.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![track a cell phone without them knowing-click Don’t share](https://images.wondershare.com/drfone/article/2017/11/15100183459135.jpg)
 
 Step 6: Now go to your device, open the “Find my friends” app and click the icon of the target device. You will get a notification, where they are now when they leave from the place etc.
@@ -406,9 +375,6 @@ Step 6: Now go to your device, open the “Find my friends” app and click the 
 
 Note: If you want to hide the “Find my friends” app from the target device you can use the dock method which will be easy but the folder method is very tough.
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![track a cell phone without them knowing-hide the Find my friends app](https://images.wondershare.com/drfone/article/2017/11/15100183889994.jpg)
 
 ## Part 4: Frequently Asked Questions
@@ -427,7 +393,6 @@ mSpy activates if installed on the iPhone completely. The process of finding the
 
 We must tell you using mSpy and FlexiSPY are both one of the best methods to track a cell phone. Both the applications have several metrics and would certainly assist in how to track a cell phone without them knowing. We know that tracking a cell phone without them knowing is illegal, but when it comes to our children's safety we have to do this at any cost.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -440,10 +405,20 @@ We must tell you using mSpy and FlexiSPY are both one of the best methods to tra
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-exploring-the-difference-between-ig-reels-and-stories/"><u>[New] Exploring the Difference Between IG Reels & Stories</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-realme-c67-5g-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Realme C67 5G Activity | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-full-application-review-with-az-video-loggers/"><u>2024 Approved Full Application Review with AZ Video Loggers</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/2024-approved-off-line-disconnecting-discord-servers/"><u>2024 Approved Off-Line Disconnecting Discord Servers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-new-era-of-mac-os-embracing-big-sur/"><u>2024 Approved The New Era of Mac OS Embracing Big Sur</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/advancing-photo-quality-on-snapchat-via-zoom/"><u>Advancing Photo Quality on Snapchat via Zoom</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-oneplus-nord-n30-se-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass OnePlus Nord N30 SE FRP In 3 Different Ways</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-oppo-a1-5g-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Oppo A1 5G Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-oneplus-11r-drfone-by-drfone-virtual-android/"><u>In 2024, How to Check Distance and Radius on Google Maps For your OnePlus 11R | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-how-to-reverse-image-search-facebook/"><u>In 2024, How to Reverse Image Search Facebook</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-oneplus-11r-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on OnePlus 11R Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-vivo-y02t-without-him-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Two Ways to Track My Boyfriends Vivo Y02T without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-9-xiaomi-redmi-12-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 Xiaomi Redmi 12 Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+</ul></div>
 

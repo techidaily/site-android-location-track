@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting and Repairing Sound Issues in Windows 10/7
-date: 2024-12-10T18:52:23.416Z
-updated: 2024-12-11T17:38:26.863Z
+date: 2024-12-22T20:55:41.225Z
+updated: 2024-12-26T17:25:08.662Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/e29e93d35845e0087f7b9052aff9cbe637121c31e
 If you ever encounter this**speaker crackling** issue, don’t worry. Many users have reported this problem too.
 
  And luckily they’ve successfully tackled the noise problem with the fixes below. So check them out…
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fixes for speakers crackling
 
@@ -39,25 +43,29 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fd4f29036.jpg)
 2. Right-click on**speakers** and click**Properties** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fdf0b0ffe.jpg)
 3. Click the**Advanced** tab, un-check**the box** before **Allow applications to take exclusive control of this device** . Then click**Apply** \>**OK** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b64024ef26cc.jpg)
 4. Play some audio on your laptop to see if it fixes the sound problem. If not, continue with**5)** to**change the audio format** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5. Still in the**Advanced** tab, select **16 bit, 44100 Hz (CD Quality)** . Then click **Apply** \>**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b6403e757810.jpg)
 6. Hopefully the**speaker crackling** problem has gone by now. If not, you might also want to change it to other audio formats to see if it works. If the problem persists, move on to**Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your audio driver
 
@@ -75,17 +83,9 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63f1315f608.jpg)  
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Restart your computer, play some audio and see if that crackling noise has gone by now.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Adjust **the minimum processor state**
 
@@ -95,15 +95,15 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4c4e6c91572.png)
 2. Click the **High performance** option > **Change plan settings** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612f654c09d.jpg)
 3. Click **Change advanced power settings** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b612fc0bbd6e.jpg)
 4. Double-click on **Processor power management**  \> **Minimum processor state** . Type **100** in **Setting (%)** . Then click **Apply** \> **OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b63fa15d798d.jpg)  
  Depending on the build of Windows you’re using, you might also see **On battery** and **Plugged in** in **Setting (%)** . Change both values to **100** and click **OK** .
@@ -132,21 +132,19 @@ If you ever encounter this**speaker crackling** issue, don’t worry. Many users
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/nderstanding-the-criteria-for-youtube-comment-spotlighting/"><u>[New] Understanding the Criteria for YouTube Comment Spotlighting</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-excellence-in-video-selecting-peak-frame-rates-for-slow-motion-effects/"><u>[Updated] Excellence in Video Selecting Peak Frame Rates for Slow-Motion Effects</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-mastering-twitter-cleanup-top-apps-for-efficient-management-for-2024/"><u>[Updated] Mastering Twitter Cleanup Top Apps for Efficient Management for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-unveiling-igtv-your-ultimate-tutorial/"><u>2024 Approved Unveiling IGTV Your Ultimate Tutorial</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/3-ways-to-track-nokia-130-music-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track Nokia 130 Music without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/3-ways-to-track-vivo-y36-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track Vivo Y36 without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://solve-popular.techidaily.com/die-besten-kostenlosen-tools-fur-den-abgleich-von-dateien-unter-windows-10/"><u>Die Besten Kostenlosen Tools Für Den Abgleich Von Dateien Unter Windows 10</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/essential-mobile-games-for-leisurely-indulgence-for-2024/"><u>Essential Mobile Games for Leisurely Indulgence for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-motorola-moto-g-5g-2023-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>How To Fake GPS On Motorola Moto G 5G (2023) For Mobile Legends? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-realme-11-proplus-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Realme 11 Pro+ by Phone Number | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-oppo-a58-4g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on Oppo A58 4G Without Them Knowing? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-nokia-150-2023-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Nokia 150 (2023) Activity | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-nokia-c12-pro-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track Nokia C12 Pro without App | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-realme-c51-drfone-by-drfone-virtual-android/"><u>In 2024, How to Spy on Text Messages from Computer & Realme C51 | Dr.fone</u></a></li>
-<li><a href="https://facebook.techidaily.com/the-ripple-effect-of-your-facebook-actions-on-brands/"><u>The Ripple Effect of Your Facebook Actions on Brands</u></a></li>
-<li><a href="https://os-tips.techidaily.com/top-5-remedies-to-resolve-your-ipads-onoff-malfunction-issues/"><u>Top 5 Remedies to Resolve Your iPad’s On/Off Malfunction Issues</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-crafting-the-perfect-tiktok-image-with-simple-hacks/"><u>[New] 2024 Approved Crafting the Perfect TikTok Image with Simple Hacks</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-most-advanced-iphone-videography-apps/"><u>[Updated] In 2024, Most Advanced iPhone Videography Apps</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/expert-review-of-the-affordable-dell-g5-5090-tower-outstanding-performance-and-plenty-of-upgrade-options/"><u>Expert Review of the Affordable Dell G5 5090 Tower - Outstanding Performance and Plenty of Upgrade Options</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-detailed-insights-into-youtubes-perfected-aspect-ratios/"><u>In 2024, Detailed Insights Into YouTube's Perfected Aspect Ratios</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-honor-play-40c-drfone-by-drfone-virtual-android/"><u>In 2024, How Do I Stop Someone From Tracking My Honor Play 40C? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-honor-90-gt-drfone-by-drfone-virtual-android/"><u>In 2024, How to Check Distance and Radius on Google Maps For your Honor 90 GT | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-poco-c50-drfone-by-drfone-virtual-android/"><u>In 2024, How to Spy on Text Messages from Computer & Poco C50 | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-infinix-hot-40-location-by-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Infinix Hot 40 Location by Number | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-honor-magic-6-lite-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Phone Number Locators To Track Honor Magic 6 Lite Location | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-9-nubia-red-magic-9-proplus-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>In 2024, Top 9 Nubia Red Magic 9 Pro+ Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/moving-up-achieving-windows-11-success/"><u>Moving Up Achieving Windows 11 Success</u></a></li>
+<li><a href="https://games-able.techidaily.com/understanding-create-failed-windows-error-code-analysis/"><u>Understanding Create Failed - Windows Error Code Analysis</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/unlock-realme-11-pro-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Realme 11 Pro Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-how-to-get-more-nfl-viewers-for-your-sports-live-streaming-channel/"><u>Updated How To Get More NFL Viewers For Your Sports Live Streaming Channel</u></a></li>
 </ul></div>
 

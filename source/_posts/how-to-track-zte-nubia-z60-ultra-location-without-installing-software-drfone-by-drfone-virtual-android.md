@@ -1,7 +1,7 @@
 ---
 title: How to Track ZTE Nubia Z60 Ultra Location without Installing Software? | Dr.fone
-date: 2024-08-17T16:21:20.443Z
-updated: 2024-08-18T16:21:20.443Z
+date: 2024-12-21T22:42:13.917Z
+updated: 2024-12-26T22:39:30.574Z
 tags: 
   - virtual location change
   - location track
@@ -18,13 +18,18 @@ thumbnail: https://thmb.techidaily.com/9f62d3731a8382b4f3dd399792beace27de12660d
 There are several reasons why you may want to track cell, whether to check up on your kids to make sure they at the mall and not the pub, or to ensure your employees are indeed stuck in a traffic jam and not at the local casino. Owing to the surge in GPS and mobile technology, tracking your cell phone’s exact location is rather easy given the myriad software available. But what if you didn’t have any software installed to begin with when you lost your cell phone? So the big question that’s probably on your mind is how to track a cell phone location without installing software? And the good news is that there are several ways to track a cell phone’s mobile location without having to install software, so let’s get right to what we feel are great solutions.
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 1: How to Track Cell Phone using Spyera?
 
 Making it to the top of the list is none other than [Spyera](https://spyera.com/features/), a highly acclaimed piece of software that allows you to do a whole lot more than just check cell phone location. Even though this article is about how to track a cell phone location without installing software, Spyera works much better than free solutions because can keep tabs on several metrics of your cell phone including monitoring incoming calls. text and multimedia messages from WhatsApp, browser history, access calendars, and contacts, and view installed apps. One of the noteworthy features of Spyera is that it is available in a choice of two plans (monthly and annual plans) and is easy to install, works great on both Android and iOS platforms, and allows you to track cell phone location remotely.
 
 ![track a cell phone using Spyera](https://images.wondershare.com/drfone/article/2022/03/clone-phone-number-spyera.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: How to Track A Cell Phone Location without Installing Software?
 
@@ -34,9 +39,6 @@ Apple ships most of its phone with its Find My iPhone feature, for which to work
 
 Step 1. From your iPhone, head to Settings, then tap your Apple ID, then iCloud, and lastly tap Find My iPhone to activate it.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![track a cell phone-activate Find My iPhone](https://images.wondershare.com/drfone/article/2017/10/15082095192265.jpeg)
 
 Step 2. Once successfully activated, you can now track your iPhone’s whereabouts in Apple’s iCloud from any web browser.
@@ -47,30 +49,37 @@ Step 4. Click on the Find iPhone button located in the second row.
 
 ![track a cell phone-use Apple’s iCloud](https://images.wondershare.com/drfone/article/2017/10/15082095511390.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 5. From here, you will need to click the dropdown labeled All Devices and select the target device. Once you select the ZTE Nubia Z60 Ultra device you wish to locate, you can either erase your iPhone, send an audible alert or lock the ZTE Nubia Z60 Ultra device.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![track a cell phone-select the ZTE Nubia Z60 Ultra device you wish to locate](https://images.wondershare.com/drfone/article/2017/10/15082095893194.jpeg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### **How to Track a Cell Location using Android Device Manager?**
 
 If you’re an Android user, Google’s Android Device Manager presently known as Find My Device is activated by default on newer cell phones. Note that if you have an older Android phone, you can download ADM right from the Google Play Store.
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ![track a cell phone-use Android Device Manager](https://images.wondershare.com/drfone/article/2017/10/15082096225606.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 1. As long as you have your Google account connected with your ZTE Nubia Z60 Ultra (again something you will have done when you first received the phone), you can now begin tracking by heading to Find My Device on the web.
 
 Step 2. Sign in with your Google credentials, and you will be greeted with a dashboard that will show you where your cell phone is along with several other options.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![track a cell phone-Sign in with your Google credentials](https://images.wondershare.com/drfone/article/2017/10/15082099019590.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 3. You can now do one of three things apart from viewing your cell location i.e. play sound, lock or erase device.
 
@@ -82,18 +91,6 @@ Google recently has implemented some of the ADM features right into the web brow
 
 Step 1. Open the main Google search page and type in "find My ZTE Nubia Z60 Ultra", and you should be presented with results showing your cell phone’s location.
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![track a cell phone-type in ](https://images.wondershare.com/drfone/article/2017/10/15082098089360.jpg)
 
 ## Part 3: How to Track a Cell Phone Location via mSpy?
@@ -104,40 +101,29 @@ Billed as the ultimate software for parental control, [mSpy](http://mspy.go2clou
 
 Step 1. After selecting the right plan for your needs, you will have to register the software.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![track a cell phone via mSpy-register the software](https://images.wondershare.com/drfone/article/2017/10/15082100202731.jpg)
 
 Step 2. Next, you will have to set up the app with information on your target device and that’s it! You can now access the mSpy dashboard and begin tracking your cell phone location.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 ![track a cell phone via mSpy-setup the app](https://images.wondershare.com/drfone/article/2017/10/15082100515661.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 3. You can select from several options in the left hand, two of the most noteworthy being geo-fencing and WhatsApp. Geo-fencing is a great feature to monitor both your kids and employees and basically, allows you to set up parameters and alert you when they are breached.
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![track a cell phone via mSpy-select from several options](https://images.wondershare.com/drfone/article/2017/10/15082100786594.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 WhatsApp is a highly secure chat application, but mSpy backed by the latest technology also allows you to monitor its messages both incoming and outgoing. Simply click on the WhatsApp tab and you will be presented with a list of WhatsApp messages that you can further sort through by date.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ![track a cell phone via mSpy-sort through WhatsApp messages by date](https://images.wondershare.com/drfone/article/2017/10/15082101238393.jpg)
 
 There are several instances such as in the excitement of getting a new phone that we may overlook the need to install software to track a cell phone. But both Google and Apple are generous enough to offer a solution to track your cell phone location without having to install any third-party software. But if you’re like to do a lot more than just track your cell phone’s location, mSpy with its expensive list of features sets the gold standard in this space.
-
-
 
 ## 2 Ways to Monitor ZTE Nubia Z60 Ultra Activity
 
@@ -160,8 +146,9 @@ To protect your child’s future and know for sure that he/she is using their ce
 Given below are two great software to monitor cell phone activity easily. Give them a good read and use them to monitor phone activity on Android/iPhone.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 2: How to Monitor Phone Activity with mSpy?
 
 [mSpy](http://mspy.go2cloud.org/SH7G6) is a cell phone monitoring App/Spy tool, which is helpful to keep a tab on the activities of your kid's Android/iPhone. You can monitor text messages, calls, [GPS locations](https://www.wondershare.com/virtual-location/mock-location.html), photos, browsing history, videos, etc. with this software. This software functions silently and does not let your kid know that he/she is being monitored. To use this software:
@@ -176,6 +163,10 @@ Step 3. Lastly, finish setting up mSpy by following the instructions on the e-ma
 
 ![Monitor Phone Activity with mSpy-access your Control Panel](https://images.wondershare.com/drfone/article/2017/10/15081767715179.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3: How to Monitor Phone Activity with Famisafe?
 
 <iframe allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/qcV7v1DtAzI" id="video-iframe-t"></iframe>
@@ -188,9 +179,6 @@ Given below is a step-by-step guide to use Famisafe and monitor iPhone/Android i
 
 Step 1. First and foremost, go to Google Play or App Store to download **Famisafe** on the parental device first and then use the email to register an account for Famisafe. After that, go to Google Play or App Store to download **Famisafe Jr** on your kid's device and then follow the guide to tie up the kid's device.
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![monitor phone activity with Famisafe-create an account](https://images.wondershare.com/drfone/article/2022/03/famisafe-login.jpg)
 
 Step 2. Set the rules for kids' devices. After you activate the account and connect the kid's device, you can check the Activity report of the kid's device, view the kid's browser history or block the websites you don't want the kids to access, and so on.
@@ -253,13 +241,9 @@ Step 2: Once you’ve paid for your subscription, mSpy will send you an email wi
 
 Step 3: You should be able to log in to your web-based control panel and view the messages as soon as the installation is complete.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Spy on text messages from computer via mSpy](https://images.wondershare.com/drfone/article/2017/10/15074696134452.jpg)
 
 The above three solutions enable users to monitor more than just text messages. They give parents the ability to keep track of what their children are saying to one another or who they are talking to. While there are many applications to spy monitoring software, perhaps the most important is in ensuring the safety of our young people.
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -273,10 +257,18 @@ The above three solutions enable users to monitor more than just text messages. 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-evaluating-apowersofts-tech-against-other-screen-recorders/"><u>[New] Evaluating Apowersoft's Tech Against Other Screen Recorders</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-solutions-to-find-your-zte-axon-40-lite-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>3 Solutions to Find Your ZTE Axon 40 Lite Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/bypass-icloud-activation-lock-with-imei-code-from-your-apple-iphone-12-pro-by-drfone-ios/"><u>Bypass iCloud Activation Lock with IMEI Code From your Apple iPhone 12 Pro</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-a-step-by-step-journey-through-vo-and-powerpoint-magic/"><u>In 2024, A Step-by-Step Journey Through VO and Powerpoint Magic</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-vivo-y200-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Car Locator Apps for Vivo Y200 | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/speaker-recorder-evaluation-tips/"><u>Speaker Recorder Evaluation Tips</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-6-appsservices-to-trace-any-motorola-razr-40-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>Top 6 Apps/Services to Trace Any Motorola Razr 40 Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/two-ways-to-track-my-boyfriends-oppo-a1x-5g-without-him-knowing-drfone-by-drfone-virtual-android/"><u>Two Ways to Track My Boyfriends Oppo A1x 5G without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/two-ways-to-track-my-boyfriends-oppo-find-x7-without-him-knowing-drfone-by-drfone-virtual-android/"><u>Two Ways to Track My Boyfriends Oppo Find X7 without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ultimate-guide-to-free-dvd-cloning-programs-for-both-macos-and-windows-users/"><u>Ultimate Guide to Free DVD Cloning Programs for Both macOS and Windows Users</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/zdnet-reviews-the-slimmer-alternative-to-apples-vision-pro-case-a-space-saving-marvel/"><u>ZDNet Reviews: The Slimmer Alternative to Apple's Vision Pro Case – A Space-Saving Marvel!</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Check Distance and Radius on Google Maps For your Infinix Zero 30 5G | Dr.fone
-date: 2024-11-11T19:15:51.200Z
-updated: 2024-11-16T18:52:41.778Z
+date: 2024-12-19T17:25:48.457Z
+updated: 2024-12-26T18:33:13.560Z
 tags: 
   - virtual location change
   - location track
@@ -20,6 +20,10 @@ _“Is it possible to use Google Maps to calculate distance between multiple loc
 If you also wish to use the distance marker on Google Maps, then you might have a similar query like this. Apart from navigation, Google Maps can be used for different other applications as well. For instance, you can easily measure distance between two addresses on Google Maps. Besides that, you can also use the Google Maps distance radius feature to focus on a certain area. In this guide, I will let you know how to use Google location distance and radius features in detail.
 
 ![google maps distance radius 1](https://images.wondershare.com/drfone/2023/virtuallocation/google-maps-distance-radius-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: Draw a Radius Circle on Google Maps
 
@@ -60,6 +64,10 @@ This is one of the most resourceful features of Google Maps that a lot of people
 
 ![google maps distance radius 6](https://images.wondershare.com/drfone/2023/virtuallocation/google-maps-distance-radius-6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 1. Now, once the source location is identified, you need to right-click it to get its context menu. From the available options on the context menu, click on “Measure Distance”.
 
 ![google maps distance radius 7](https://images.wondershare.com/drfone/2023/virtuallocation/google-maps-distance-radius-7.jpg)
@@ -73,10 +81,7 @@ This is one of the most resourceful features of Google Maps that a lot of people
 ![google maps distance radius 9](https://images.wondershare.com/drfone/2023/virtuallocation/google-maps-distance-radius-9.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 This technique will let you measure distance between any addresses on Google Maps. It doesn’t matter if it is your present location or not. If you want to measure distance in some other location, then just enter its name in the search bar to load it. In this way, you can measure distance anywhere in the world by sitting in your home.
@@ -95,13 +100,6 @@ This brings us to the end of this extensive guide on using Google Maps distance 
 
 **3981454** people have downloaded it
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## You Might Also Like
 
 ## Location-based apps
@@ -115,6 +113,10 @@ Pokemon Go on PC
 AR game tricks
 
 ![virtual location](https://images.wondershare.com/drfone/article/2023/06/virtual-location-horizontal.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Change Phone GPS Location Easily**
 
@@ -155,13 +157,6 @@ Step 2: Log in to your account (that you would have created before installing th
 Step 3: The app will automatically access all messages on the target device. It will however only work if you have the target device’s Apple login details.
 
 ![Spy on text messages from another iPhone via Auto Forward](https://images.wondershare.com/drfone/article/2017/10/15074689453332.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 3: How to Spy on text messages from computer
 
@@ -217,6 +212,10 @@ Google uses location data to keep your accounts safe from potential attacks and 
 
 We all know that Google is committed to offering us new products and improving its existing services. That’s indeed beneficial to all of us, especially in today’s ever-changing world. But definitely, it’s not possible if Google doesn’t have adequate location information from the pool of its users. Why so? Simply because location data determines the latest community trends and helps specialists find the perfect basis for fresh developments. Do you want to contribute something to the advancement of Google products? If so, you can start by giving Google access to the location data on your Infinix Zero 30 5G smartphone.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2. Top 4 Techniques to Turn Off Google Location Tracking on Android
 
 There’s no denying that Google uses location information to give us the best experience possible. However, it doesn’t necessarily mean there is no risk at all. We cannot rule out the possibility of data breaches and disclosure of location information that is supposed to be private. If you’re worried about this kind of situation, you can prevent it from happening in a snap of a finger. Check out the four methods below on how to turn off Google location tracking on your Infinix Zero 30 5G smartphone.
@@ -232,6 +231,10 @@ There’s no denying that Google uses location information to give us the best e
 **Step 3:** Find and click **Location.**
 
 ![location services](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 4:** Lastly, click **Close** to confirm the changes.
 
@@ -249,6 +252,10 @@ Let’s say you don’t want to cut the entire location access across your smart
 
 ![google on app list](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 4:** Click **Permissions.**
 
 ![google app permissions](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-7.jpg)
@@ -260,20 +267,6 @@ Let’s say you don’t want to cut the entire location access across your smart
 **Step 6:** Lastly, click **Don’t Allow.** Alternatively, you may instead select **Allow Only While Using the App** or **Ask Every Time** if you wish to grant Google conditional access to your location data.
 
 ![disallow location access on google](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-9.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
-  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 3: Toggle off the Timeline feature on your Google Account
 
@@ -288,22 +281,12 @@ Timeline is a special Google feature that keeps a record of your location check-
 ![google app profile icon](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-10.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 3:** Click **Google Account.**
 
 ![google app account](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-11.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 4:** Click **Data Privacy.**
 
@@ -343,6 +326,10 @@ If Timeline is previously activated on your Infinix Zero 30 5G, chances are Goog
 
 ![google maps your timeline](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-18.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 4:** Click **Places.** Scroll down and then click **Visited All Places** just below the map.
 
 ![google maps places](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-19.jpg)
@@ -363,16 +350,13 @@ Google surely understands that some users are uncomfortable sharing their wherea
 
 ![wondershare drfone teleport mode](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 5:** Head over to the search bar at the top-left corner of the screen and then enter your desired location. Choose one from the suggestions that Wondershare Dr.Fone displays on the screen. Right after, click the **Enter** icon.
 
 ![enter your preferred location](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 6:** The description of your chosen location will be then flashed on the screen. Read the details and make sure they are accurate. After that, click **Move Here** to proceed.
 
@@ -400,17 +384,17 @@ At some point, we cannot deny that Google location services make our lives a lot
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-the-ultimate-skype-call-recording-methodology-explained/"><u>[New] 2024 Approved The Ultimate Skype Call Recording Methodology Explained</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-vimeo-cameo-review-video-editor-and-movie-maker-for-iphone/"><u>[Updated] In 2024, Vimeo Cameo Review-Video Editor & Movie Maker for iPhone</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-relaxation-station-leisurely-phone-game-guide/"><u>2024 Approved Relaxation Station Leisurely Phone Game Guide</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/best-anti-tracker-software-for-xiaomi-14-ultra-drfone-by-drfone-virtual-android/"><u>Best Anti Tracker Software For Xiaomi 14 Ultra | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/calls-on-vivo-v30-pro-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Vivo V30 Pro Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/dell-screen-stabilizing-after-glitch-fix/"><u>Dell Screen Stabilizing After Glitch Fix</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/o-estimate-income-from-youtube-video-snippets-for-2024/"><u>How to Estimate Income From YouTube Video Snippets for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-oppo-f23-5g-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Oppo F23 5G Location by Number | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-vivo-s17-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Vivo S17 Pro | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-oppo-a38-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Tracking Apps to Track Oppo A38 without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolved-fixing-audio-issues-in-windows-11/"><u>Resolved: Fixing Audio Issues in Windows 11</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-vivo-s17-drfone-by-drfone-virtual-android/"><u>Top 10 Best Spy Watches For your Vivo S17 | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-digital-nightmare-drawer/"><u>[New] 2024 Approved Digital Nightmare Drawer</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-ace-your-social-media-game-essential-video-marketing-techniques-on-facebook/"><u>[New] Ace Your Social Media Game Essential Video Marketing Techniques on Facebook</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-quick-tricks-randomizing-youtube-videos-on-all-devices/"><u>[New] In 2024, Quick Tricks Randomizing YouTube Videos on All Devices</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/cross-media-broadcasting-4-strategies-to-air-fb-livests-on-tv/"><u>Cross-Media Broadcasting 4 Strategies to Air FB Livests on TV</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/hear-and-engage-speech-technology-gratis-for-2024/"><u>Hear & Engage Speech Technology Gratis for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-honor-90-drfone-by-drfone-virtual-android/"><u>In 2024, How to Check Distance and Radius on Google Maps For your Honor 90 | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-nubia-red-magic-8s-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Car Locator Apps for Nubia Red Magic 8S Pro | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-tecno-spark-20-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Tecno Spark 20 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://solve-news.techidaily.com/mp3-konvertierungen-von-opus-dateien-kostenlos-schnelle-und-einfache-online-umwandlung-bei-movavi/"><u>MP3 Konvertierungen Von Opus-Dateien Kostenlos – Schnelle Und Einfache Online-Umwandlung Bei Movavi</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-poco-c50-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for Poco C50 | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/understanding-aspect-ratio-regulations-on-twitter/"><u>Understanding Aspect Ratio Regulations on Twitter</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-honor-magic-6-pro-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Honor Magic 6 Pro | Dr.fone</u></a></li>
 </ul></div>
 
