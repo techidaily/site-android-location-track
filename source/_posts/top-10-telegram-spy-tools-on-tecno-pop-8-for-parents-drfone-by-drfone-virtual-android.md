@@ -1,7 +1,7 @@
 ---
 title: Top 10 Telegram Spy Tools On Tecno Pop 8 for Parents | Dr.fone
-date: 2024-12-29T22:45:47.710Z
-updated: 2025-01-04T18:36:59.209Z
+date: 2025-01-09T16:58:22.167Z
+updated: 2025-01-12T00:40:58.480Z
 tags: 
   - virtual location change
   - location track
@@ -50,6 +50,10 @@ Downloadable from [www.mspy.com](http://mspy.go2cloud.org/SH7G6)
 This is your app to do everything you want. It's one of the best apps for you. You can do anything from monitoring WhatsApp, Twitter, Facebook, BBM, iMessage, Viber, Skype, Email and Instagram. You can also track location of the Tecno Pop 8 device through GPS Tracking and displays on Google map.
 
 ![telegram spy](https://images.wondershare.com/drfone/article/2016/11/14792923372217.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Pros
 
@@ -103,10 +107,6 @@ The iKeyMonitor tracks SMSs, keystrokes, WhatsApp messages, websites surfed, pas
 
 ![telegram spy](https://images.wondershare.com/drfone/article/2016/11/14792925104640.jpeg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Pros
 
 • Tracks every text message irrespective of the app used.  
@@ -123,10 +123,6 @@ Cons
 Cost: $39.99 for 1 month; For 1 year -- $179.99.
 
 Downloadable at <http://ikeymonitorapp.com>
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. PhoneSheriff
 
@@ -158,6 +154,10 @@ This one monitors and records SMS, phone books, call history, emails, location, 
 
 ![telegram spy](https://images.wondershare.com/drfone/article/2016/11/14792927164388.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Pros
 
 • Ideal for Android and iOS operating systems and becomes active stealthily as the target mobile is booted.  
@@ -171,10 +171,6 @@ Cons
 Cost: $189 for three months; $ 489 for 1 year
 
 Downloadable from <https://spyera.com>
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Teensafe
 
@@ -231,7 +227,7 @@ With TheOneSpy, several target phones may be monitored using one license. Additi
 ![telegram spy](https://images.wondershare.com/drfone/article/2016/11/14792934045968.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Pros
@@ -279,7 +275,7 @@ It is no secret that you can easily spy on any iPhone. Many spy or monitoring pr
 In this article, we look at how you to spy on an iPhone without needing a jailbreak and how to spy on a jailbroken device or jailbreak a device to facilitate spying.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: How to Spy on iPhone without Jailbreak
@@ -295,6 +291,10 @@ Step 1: Begin by activating iCloud Backup on the target device. Go to Settings a
 Step 2: The first step is to create an account with mSpy. You can then purchase a subscription based on the type of information you need from the target device and the duration you want to spend spying on the Tecno Pop 8 device.
 
 ![Spy on iPhone without Jailbreak-create an account with mSpy](https://images.wondershare.com/drfone/article/2017/10/15079746911961.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 3: Once you’ve registered and purchased the subscription, you will receive an email from mSpy with all the information you need to install the program.
 
@@ -328,10 +328,6 @@ However, we should never let our guard down whenever we go online and browse the
 
 In this article, we will delve into the essential benefits of anti-tracker software when surfing the internet. We will also provide a list of the **best anti-tracking software** that you can try to use. Continue reading below to learn more.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1. Everything You Should Know About Anti-Tracker Software
 
 Just like any other thing in our digital world today, the internet has its good and bad sides. One minute, it can be a solution. The next, it can be a problem. That’s why you should keep everything in check whenever you surf the web. Make sure that you are browsing privately on your device and that no one is watching you somewhere. Is there a feasible way to protect yourself from this kind of cyber intrusion? Fortunately, there is. You can install anti-tracker software on your gadget and activate it whenever you use the internet. By far, it’s doing a great job in this regard.
@@ -348,10 +344,6 @@ One way or another, anti-tracker software can be of great help to you. Check out
 
 In today’s digital era, where identity theft is rampant everywhere, privacy matters the most. Keeping our personal data away from public access is the least we can do to protect ourselves. That’s why you should consider installing anti-tracker software on your devices. Somehow, it can give you an assurance that the sensitive information you share online is not out in the open. But, of course, choose the best anti-tracking software that is powerful enough to do that for you.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### It keeps your browsing history private
 
 What happens if hackers get their hands on your browsing history? Well, there are lots of possibilities, and most of them can directly affect you. Information pertaining to the websites you visit on the internet is mostly used by third-party partners for research and advertising. Hackers sell it to them, along with other sensitive information embedded in your browser. Of course, nobody wants that. It’s clearly an invasion of privacy. Therefore, install anti-tracker software on your device to prevent this kind of situation from happening.
@@ -360,11 +352,19 @@ What happens if hackers get their hands on your browsing history? Well, there ar
 
 It is nice if the ads that show up while we’re browsing include products we’re personally interested in. Hence, we cannot deny that giving legitimate advertisers access to our preferences is somehow beneficial to a certain degree. However, there are some third-party affiliates that are quite aggressive in tracking our browsing data. We should get rid of that the moment we spot them red-handed. It’s best to use anti-tracker software just to be sure.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### It protects us from internet scams
 
 ![internet scam frauds](https://images.wondershare.com/drfone/article/2024/02/anti-tracker-software-3.JPG)
 
 Identity theft is one. But to tell you, internet fraud scams come in a variety of forms. Although each of them differs at some point, most of the attacks start from stolen information. That’s why you should do everything in your power to keep your data secure and private. Don’t let anyone get access to it as though your personal details are public materials. Start by being cautious when you share confidential information online. Before you give them out, make sure that the transaction and the website involved are legitimate. Another thing, install anti-tracker software on your device and activate it whenever you go online. Better be safe than sorry.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2. Top 5 Anti-Tracker Software
 
@@ -387,16 +387,12 @@ Norton is a well-known security software available on Windows, macOS, and mobile
 Bitdefender is among the oldest yet most powerful cybersecurity solutions worldwide. It features an anti-tracker browser extension that generally protects your online privacy when you surf the internet. Bitdefender Anti-Tracker extension demobilizes malicious plugins on your browser and restricts them from stealing your information. Aside from that, it also helps the browser load webpage data a little bit faster. Do you want to try the Bitdefender Anti-Tracker software? For one device, the subscription plan is available at around $44.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### [<u>NordVPN</u>](https://nordvpn.com/)
 
 ![best anti tracking software nordvpn](https://images.wondershare.com/drfone/article/2024/02/anti-tracker-software-6.JPG)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 NordVPN is one of the most popular Virtual Private Network providers in the world. It offers privacy protection that generally blocks potential trackers hiding around your web browsers. NordVPN anti-tracker software is capable of removing suspicious internet cookies that monitor your surfing habits and stealing your online profile. As NordVPN gets rid of these trackers, web browsing on your device also becomes a lot more seamless and smoother. Are you interested in NordVPN anti-tracker software? Check out the subscription plans below.
 
@@ -413,6 +409,10 @@ Another anti-tracker software you can trust is AVG AntiTrack. It has amazing int
 | **1 Device** | **10 Devices** |
 | --- | --- |
 | $54.99 | $64.99 |
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### [<u>Avast AntiTrack</u>](https://www.avast.com/en-ph/antitrack#pc)
 
@@ -447,6 +447,10 @@ When it comes to your whereabouts, the anti-tracker software can somehow help yo
 
 ![wondershare drfone teleport mode](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 5:** Hover over to the top-left corner of your screen and then enter your desired location into the search bar. Choose one from the suggested results. After that, click the **Enter** icon to proceed.
 
 ![search location](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
@@ -458,10 +462,6 @@ When it comes to your whereabouts, the anti-tracker software can somehow help yo
 - **Step 7:** The location settings on your device will then be changed, and register the location you’ve selected on your computer. From there, you can now browse the internet without worrying that somebody might be spying on your whereabouts.
 
 ![location change](https://images.wondershare.com/drfone/guide/virtual-location-06.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **NOTE:** If you wish to restore your original location settings, simply close Wondershare Dr.Fone on your computer and restart your mobile device.
 
@@ -483,19 +483,18 @@ It’s true that a part of you is out in the open once you go online and surf th
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-in-2024-how-to-make-text-talk-on-screen-without-spending/"><u>[New] In 2024, How to Make Text Talk on Screen Without Spending</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-advanced-hue-adjustment-strategies-for-professionals-for-2024/"><u>[Updated] Advanced Hue Adjustment Strategies for Professionals for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/capturing-motion-samsungs-time-lapse-guide-for-2024/"><u>Capturing Motion Samsung's Time-Lapse Guide for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-oppo-a56s-5g-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Oppo A56s 5G Location by Number | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-oppo-reno-10-proplus-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on Oppo Reno 10 Pro+ 5G Without Them Knowing? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-samsung-galaxy-m14-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on Samsung Galaxy M14 5G Without Them Knowing? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-lava-blaze-pro-5g-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your Lava Blaze Pro 5G Current Location of a Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-huawei-p60-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On Huawei P60</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-personalizing-presents-top-ten-e-commerce-stores-for-custom-boxes/"><u>In 2024, Personalizing Presents? Top Ten E-Commerce Stores for Custom Boxes</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-9-realme-narzo-60-pro-5g-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>In 2024, Top 9 Realme Narzo 60 Pro 5G Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/loreal-triumphs-with-dual-accolades-for-revolutionary-inclusivity-in-beauty-technology-at-the-2023-consumer-electronics-show-insights-from-zdnet/"><u>L'Oréal Triumphs with Dual Accolades for Revolutionary Inclusivity in Beauty Technology at the 2023 Consumer Electronics Show - Insights From ZDNet</u></a></li>
-<li><a href="https://techidaily.com/repair-broken-or-corrupt-video-files-of-edge-40-neo-by-stellar-video-repair-mobile-video-repair/"><u>Repair broken or corrupt video files of Edge 40 Neo</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/social-media-savvy-making-memorable-facebook-reels-for-2024/"><u>Social Media Savvy Making Memorable Facebook Reels for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-oppo-find-x7-for-parents-drfone-by-drfone-virtual-android/"><u>Top 10 Telegram Spy Tools On Oppo Find X7 for Parents | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-perfecting-your-youtube-experience-stop-previews/"><u>[New] Perfecting Your YouTube Experience - Stop Previews</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-charting-success-navigating-youtube-statistics-with-social-blade/"><u>2024 Approved Charting Success Navigating YouTube Statistics with Social Blade</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-digital-revolution-todays-vr-landscape-and-tomorrows-trials/"><u>2024 Approved The Digital Revolution Today's VR Landscape & Tomorrow's Trials</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-samsung-galaxy-a14-4g-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Samsung Galaxy A14 4G | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-sony-xperia-10-v-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on Sony Xperia 10 V Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-a-leaders-list-of-8-online-havens-for-golden-3d-and-text/"><u>In 2024, A Leader's List of 8 Online Havens for Golden 3D & Text</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-realme-12-pro-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on Realme 12 Pro 5G Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-realme-gt-3-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on Realme GT 3 with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-vivo-t2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Best Spy Watches For your Vivo T2 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-xiaomi-13-ultra-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Phone Number Locators To Track Xiaomi 13 Ultra Location | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/is-fake-gps-location-spoofer-a-good-choice-on-itel-s23plus-drfone-by-drfone-virtual-android/"><u>Is Fake GPS Location Spoofer a Good Choice On Itel S23+? | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/optimal-sound-setup-guide-enhancing-your-movie-librarys-quality-on-digital-platforms-using-handbrake/"><u>Optimal Sound Setup Guide: Enhancing Your Movie Library's Quality on Digital Platforms Using Handbrake</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-oneplus-nord-ce-3-5g-for-parents-drfone-by-drfone-virtual-android/"><u>Top 10 Telegram Spy Tools On OnePlus Nord CE 3 5G for Parents | Dr.fone</u></a></li>
 </ul></div>
 
