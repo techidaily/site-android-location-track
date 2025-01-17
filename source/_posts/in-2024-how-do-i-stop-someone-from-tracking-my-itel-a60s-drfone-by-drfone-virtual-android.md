@@ -1,7 +1,7 @@
 ---
 title: In 2024, How Do I Stop Someone From Tracking My Itel A60s? | Dr.fone
-date: 2025-01-07T00:14:20.899Z
-updated: 2025-01-12T01:24:06.414Z
+date: 2025-01-12T17:45:24.474Z
+updated: 2025-01-17T16:10:24.988Z
 tags: 
   - virtual location change
   - location track
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/50d4bf6106cc2e789648c53429943f049229011e6
 It has now become very easy to track a Smartphone using the GPS features of the phone. This can be done by tracking the phone number based on information derived from mobile carriers and also from the GPS chip on the phone which is used by certain apps in order to function well.
 
 You may not want your GPS location tracked by anyone or by apps on your device. When playing games like Pokémon Go, the geo-location data on your device is used to pinpoint where you are for purposes of gameplay. In the same manner, malicious people can track you same way. Here you will learn how to stop someone from tracking your phone in simple and easy ways.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: How do people track your phone?
 
@@ -61,10 +65,6 @@ In order to see how to use dr. fone to teleport your device to another location,
 
 <iframe allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/FfhgWxnARqo"></iframe>
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2) Disable Significant Locations on iPhone
 
 - Start by launching "Settings" from your Home screen
@@ -89,10 +89,6 @@ You may turn off location tracking for specific apps that you feel might be used
 
 ![how to disable location tracking for specific apps on iPhone](https://images.wondershare.com/drfone/2020/disable-location-tracking-iphone-3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 4) Disable Share My Location service
 
 - Access the "settings" app from your Home Screen
@@ -103,10 +99,6 @@ You may turn off location tracking for specific apps that you feel might be used
 ![Disable Share My Location on iPhone](https://images.wondershare.com/drfone/2020/disable-location-tracking-iphone-4.jpg)
 
 - Now toggle the button to the right to turn it into the "OFF" position
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 5) Disable location-based notifications or alerts
 
@@ -138,7 +130,7 @@ You also need to know how to stop Google from tracking your Itel A60s. This feat
 - Here you can delete all your past activity records so nobody can track you using your location history.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2) Turn off Android Location Tracking
@@ -165,7 +157,7 @@ Nord VPN is a great tool to fake your GPS location and stop people from tracking
 ![pokemon go spoofers iphone 8](https://images.wondershare.com/drfone/article/2019/09/pokemon-go-spoofers-iphone-8.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4) Fake GPS Go
@@ -177,10 +169,6 @@ This is an app that you can download to your android device from Google Play Sto
 - From the "Settings" app, navigate down to "About Phone" and then tap on "Build Number" seven times in order to enable the "Developer Options".
 
 ![android pokemon go spoofing 4](https://images.wondershare.com/drfone/article/2019/09/android-pokemon-go-spoofing-4.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 - Launch Fake GPS go and the grant it the required access. Go back to "Developer Options" and then go down until you find Fake GPS Go. Toggle it to the "ON" position.
 - Now go back to "Mock Location App" and then choose Fake GPS Go. You will now be able to fake your location and stop people from tracking your device.
@@ -205,9 +193,21 @@ This is yet another tool that you can use to fake your GPS location and fool peo
 
 ![android pokemon go spoofing 8](https://images.wondershare.com/drfone/article/2019/09/android-pokemon-go-spoofing-8.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## In Conclusion
 
 If you want to stop Google from tracking your location, these are the methods that you should use to turn off your GPS location on both iOS and Android. You need to know that you are safe all the time and this is a step that you should take when you feel like you are being tracked for nefarious reasons. However, you should do this with caution as the information can also be used in a beneficial manner. The best option is to turn on the GPS when you need it and then turn it off when you do not, or use an iOS spoofing tool.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Top 5 Car Locator Apps for Itel A60s
 
@@ -230,10 +230,6 @@ Take photos from the parking location.
 It is a free application
 
 ![Car Locator Apps-find my car](https://images.wondershare.com/drfone/article/2017/10/15082184344228.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 URL for iPhone:
 
@@ -268,6 +264,10 @@ URL for iPhone:
 URL for Android:
 
 <https://play.google.com/store/apps/details?id=com.parkme.consumer&hl=es>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Option 3: Automatic
 
@@ -311,6 +311,10 @@ Shows available parking.
 
 URL is not available yet.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Option 5: Waze
 
 Introduction: This app, compatible with Android and iOS is intended for users who go by car.
@@ -345,6 +349,10 @@ So, now onwards, you do not need to pay to get a GPS locator for the car, as you
 
 Now the method to track a cell phone without them knowing has become an after one’s fancy. There are several apps that might help you in this case, with wide and advanced features. Hence, with the changes in technology, those days have gone for you with a flock of lies. There is no need to handle this synopsis as in this passage, I am going to share some of the best tracking apps and how to track a cell phone without them knowing.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: How to track Android or iPhone using mSpy?
 
 One of the best methods to track a cell phone without them knowing is [mSpy](http://mspy.go2cloud.org/SH7G6) monitoring package. It is entirely an elite compatible mode and secured app for the care of your beloved ones and for your children too. mSpy is user-friendly for all ages and not a lot of knowledge of technology is needed to access it. This app comes with the strategy of tracking your employee’s movements in your office. This will benefit a lot from your business profile.
@@ -361,15 +369,7 @@ Step 3: After that, you will be allowed to open Control Panel. From there you ca
 
 ![track a cell phone without them knowing-the mSpy Control Panel](https://images.wondershare.com/drfone/article/2017/11/15100180804204.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Following the above simple steps will enable you to track a Cell Phone without them Knowing.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2: How to track Android or iPhone using FlexiSPY?
 
@@ -391,10 +391,6 @@ Step 2: Click the "Download" button on the pop-up window that appears.
 
 ![download gps datay](https://images.wondershare.com/drfone/article/2022/02/track-cell-phone-with-flexispy-04.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 3: How to secretly track someone
 
 If you want to track a cell phone without them knowing secretly, then one interesting solution is the “Find my friends” app introduced by Apple though primarily not for spying purposes, but you can use it to spy on someone's iPhone secretly. This app comes with the facility to get a notification when the target person arrives or leaves a place. Here, if you have access to the target device and the “Find my friends” option then it will give you the solution on how to track a cell phone without them knowing.
@@ -404,6 +400,10 @@ Step1: Enable the option “Share my location” on the target phone. To enable 
 Step 2: Generally iCloud account has sharing options for all other devices. We have to ensure the sharing option is correctly viewed as the target device such as “This device”.
 
 ![track a cell phone without them knowing-share my location](https://images.wondershare.com/drfone/article/2017/11/15100182891050.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 3: Now swipe from bottom to end, click on the “Airdrop” option from the settings. You will have two options such as “Everyone” and “Contacts only”.
 
@@ -453,17 +453,24 @@ We must tell you using mSpy and FlexiSPY are both one of the best methods to tra
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-getting-acquainted-with-quantum-hdr-techniques-for-2024/"><u>[New] Getting Acquainted with Quantum HDR Techniques for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-swift-systems-for-capturing-content/"><u>[New] In 2024, Swift Systems for Capturing Content</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-top-techniques-for-silent-film-capturing-for-2024/"><u>[New] Top Techniques for Silent Film Capturing for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-the-complete-process-recording-youtube-livestream-on-multiple-platforms/"><u>[Updated] The Complete Process Recording YouTube Livestream on Multiple Platforms</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/3-ways-to-track-tecno-camon-30-pro-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track Tecno Camon 30 Pro 5G without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/all-about-usb-20-a-guide-to-fast-transfer-rates-cable-types-and-connectivity-solutions/"><u>All About USB 2.0: A Guide to Fast Transfer Rates, Cable Types, and Connectivity Solutions</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-silence-the-pops-and-cracks-fixing-sound-quality-problems-on-arctis-7-for-windows-users/"><u>How to Silence the Pops & Cracks: Fixing Sound Quality Problems on Arctis 7 for Windows Users</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-oppo-reno-10-pro-5g-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Oppo Reno 10 Pro 5G Location by Number | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-realme-c55-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Realme C55 Location without Installing Software? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/maximizing-time-management-iphone-and-windows-calendar-coordination/"><u>Maximizing Time Management: IPhone and Windows Calendar Coordination</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-4-ways-to-trace-oneplus-nord-ce-3-lite-5g-location-drfone-by-drfone-virtual-android/"><u>Top 4 Ways to Trace OnePlus Nord CE 3 Lite 5G Location | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/unveiling-the-process-for-achieving-facebooks-trusted-marker/"><u>Unveiling the Process for Achieving Facebook's Trusted Marker</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-nba-live-your-ultimate-guide-to-15-streaming-methods-for-2024/"><u>[New] NBA Live Your Ultimate Guide to 15 Streaming Methods for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-expert-tips-for-stunning-photos-on-iphones-for-2024/"><u>[Updated] Expert Tips for Stunning Photos on iPhones for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-solutions-to-find-your-vivo-x-flip-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>3 Solutions to Find Your Vivo X Flip Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/bulk-crafting-stunning-visuals-integrate-canva-with-chatgpt-for-quick-creation/"><u>Bulk Crafting Stunning Visuals: Integrate Canva with ChatGPT for Quick Creation</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dive-deep-configuring-a-triplet-of-tiles-in-windows-11-ui/"><u>Dive Deep: Configuring a Triplet of Tiles in Windows 11 UI</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/dive-into-language-learning-in-virtual-reality-mondly-unveils-vr-edition/"><u>Dive Into Language Learning in Virtual Reality - Mondly Unveils VR Edition</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-vivo-v27-pro-drfone-by-drfone-virtual-android/"><u>How Do I Stop Someone From Tracking My Vivo V27 Pro? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-tecno-spark-10-4g-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Tecno Spark 10 4G in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-samsung-galaxy-a23-5g-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Samsung Galaxy A23 5G Activity | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-samsung-galaxy-a05s-drfone-by-drfone-virtual-android/"><u>In 2024, Best Anti Tracker Software For Samsung Galaxy A05s | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changefake-your-vivo-y56-5g-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Vivo Y56 5G Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-vivo-y77t-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Remove Spyware on Vivo Y77t? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-realme-v30t-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On Realme V30T for Parents | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-4-ways-to-trace-samsung-galaxy-s23plus-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 4 Ways to Trace Samsung Galaxy S23+ Location | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-vivo-s18-without-him-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Two Ways to Track My Boyfriends Vivo S18 without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ways-to-trade-pokemon-go-from-far-away-on-oppo-a59-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to trade pokemon go from far away On Oppo A59 5G? | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/maximize-your-gameplay-top-tier-gaming-display-for-just-199-the-innocn-27g1s-plus-with-crystal-clear-240hz-refresh-rate/"><u>Maximize Your Gameplay: Top-Tier Gaming Display for Just $199 - The Innocn 27G1S Plus with Crystal Clear 240Hz Refresh Rate</u></a></li>
+<li><a href="https://fox-within.techidaily.com/transform-your-desktop-experience-setting-new-wallpapers-on-windows-navigating-the-process-with-expert-advice-from-yl-software/"><u>Transform Your Desktop Experience: Setting New Wallpapers on Windows Navigating the Process with Expert Advice From YL Software</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-lava-yuva-2-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Lava Yuva 2 | Dr.fone</u></a></li>
 </ul></div>
 

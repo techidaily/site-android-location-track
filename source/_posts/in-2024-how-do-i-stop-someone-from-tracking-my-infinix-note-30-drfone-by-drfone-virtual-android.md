@@ -1,7 +1,7 @@
 ---
 title: In 2024, How Do I Stop Someone From Tracking My Infinix Note 30? | Dr.fone
-date: 2025-01-11T00:50:54.246Z
-updated: 2025-01-11T19:00:16.170Z
+date: 2025-01-16T17:31:57.132Z
+updated: 2025-01-17T17:09:21.692Z
 tags: 
   - virtual location change
   - location track
@@ -86,7 +86,7 @@ You may turn off location tracking for specific apps that you feel might be used
 ![how to disable location tracking for specific apps on iPhone](https://images.wondershare.com/drfone/2020/disable-location-tracking-iphone-3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4) Disable Share My Location service
@@ -100,10 +100,6 @@ You may turn off location tracking for specific apps that you feel might be used
 
 - Now toggle the button to the right to turn it into the "OFF" position
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 5) Disable location-based notifications or alerts
 
 Navigate to the "Settings" app on your Home screen
@@ -116,6 +112,10 @@ Now scroll down the list and click on the "System services" option
 
 ![select System Services option](https://images.wondershare.com/drfone/2020/disable-location-tracking-iphone-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Toggle the button on the right side of "Location-Based Alerts" into the "OFF" position
 
 ![Toggle Location-Based Alerts to the “Off” position](https://images.wondershare.com/drfone/2020/iphone-disable-location-based-alerts-6.jpg)
@@ -123,10 +123,6 @@ Toggle the button on the right side of "Location-Based Alerts" into the "OFF" po
 ## Part 3:How to stop my android from being tracked
 
 You also need to know how to stop Google from tracking your Infinix Note 30. This feature can be used to track your device through other apps.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1) Stop Google Tracking on Android device
 
@@ -136,10 +132,6 @@ You also need to know how to stop Google from tracking your Infinix Note 30. Thi
 - You will find "Activity Controls" where you can pause or turn off the service altogether.
 - If you want tighter control of the tracking features, You can also scroll down until you get to "Manage Your Activity Controls"
 - Here you can delete all your past activity records so nobody can track you using your location history.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2) Turn off Android Location Tracking
 
@@ -165,7 +157,7 @@ Nord VPN is a great tool to fake your GPS location and stop people from tracking
 ![pokemon go spoofers iphone 8](https://images.wondershare.com/drfone/article/2019/09/pokemon-go-spoofers-iphone-8.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4) Fake GPS Go
@@ -183,10 +175,6 @@ This is an app that you can download to your android device from Google Play Sto
 
 ![android pokemon go spoofing 5](https://images.wondershare.com/drfone/article/2019/09/android-pokemon-go-spoofing-5.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - To actually change the virtual location of your device, launch Fake GPs Go once more and then access the map interface. Choose a location far from your actual location and then pin it as your "real" location. This will instantly show that you have moved to this new location and throw off people who are tracking your Infinix Note 30.
 
 ![android pokemon go spoofing 6](https://images.wondershare.com/drfone/article/2019/09/android-pokemon-go-spoofing-6.jpg)
@@ -199,6 +187,10 @@ This is yet another tool that you can use to fake your GPS location and fool peo
 - Go to "Settings > Developer options > Mock Location App". Here you will select Fake GPS Free and then grant it the necessary permissions on your device.
 
 ![android pokemon go spoofing 7](https://images.wondershare.com/drfone/article/2019/09/android-pokemon-go-spoofing-7.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - Return to your Home screen and the Launch Fake GPS free. Access the map interface and then check for a location far from your actual position. You may even zoom in and better pinpoint a new location.
 - You will get a notification once you have successfully spoofed your location. You may now close the app and it will still work in the background ensuring that your location stays permanent in the new area you selected.
@@ -215,6 +207,10 @@ Recently Teresa purchased a new smartphone to track the location details of her 
 
 There are multiple methods to **find and trace mobile number with Google map.** You can choose an appropriate strategy which suits your needs perfectly. Apart from Google maps, there is a unique platform to track the location of any mobile number.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Is it possible to find the current mobile number on Google Maps?
 
 Yes, you can **find and trace mobile number with Google maps.** There are ample methods and solutions to access the location of a mobile number on Google maps.
@@ -228,12 +224,16 @@ Now, hit the Google map icon in your device and locate the exact position of the
 ![share location](https://images.wondershare.com/drfone/2023/virtuallocation/share-location.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 2: Location sharing request on Google Map
 
 Open the Google map in your phone and the ' Menu' option hit 'Location Sharing’ from the list. Then select the person whom you want to track the location details and send the request by tapping the ' Request' button. When the target device owner responds to your request then immediately you can trace out the location on the Google map in your gadget precisely.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Solution 1: Use URL clicks to track the location of a mobile number
 
@@ -287,19 +287,15 @@ Step 3: You will be able to view the location details of your friends if they ha
 
 ![friends location](https://images.wondershare.com/drfone/2023/virtuallocation/friends-location.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 This method holds good only if the Facebook app has access to the location details of your friends. In case if any members have denied the location sharing option on this Facebook account then it is impossible to track the location using this method.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Conclusion
 
 Therefore, you had learnt how to **find the current location of a mobile number in Google maps**? A short synopsis on various unique techniques to identify the real-time location of a mobile number has been listed out in the above content. Every method is different and it has its pros and cons. Some methods perform well only if the target phone is connected with the internet platform. Certain solutions give you precise results only when the target phone's location services are enabled. Thus, every method has its constraints and you have to identify a perfect method which meets your requirement appropriately. Utilize these solutions to track your kid’s real-time location details and safeguard your child from unnecessary society threats.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## You Might Also Like
 
@@ -314,6 +310,10 @@ Pokemon Go on PC
 AR game tricks
 
 ![virtual location](https://images.wondershare.com/drfone/article/2023/06/virtual-location-horizontal.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Change Phone GPS Location Easily**
 
@@ -350,10 +350,6 @@ We want to introduce you to GPS CellPhone Locator. With this software, you can t
 - It works perfectly even without an Internet connection.
 
 ![track a phone via GPS CellPhone Locator](https://images.wondershare.com/drfone/article/2017/10/15077054294472.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 You can try this online software to hack a device and track cell phone location by number visiting its website <http://www.gpscellphonelocator.com/>
 
@@ -395,6 +391,10 @@ Step 2: Log into your online account and enable GPS tracking under Control Cente
 
 ![track a cell phone location via flexispy](https://images.wondershare.com/drfone/article/2022/02/track-a-cell-phone-location-by-number.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 3: View the historical and current GPS location from inside your online account.
 
 ![track the location history](https://images.wondershare.com/drfone/article/2022/02/track-a-cell-phone-location-by-number-01.jpg)
@@ -415,18 +415,24 @@ There are different methods of knowing where is the mobile you are looking for a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-expert-tips-for-slide-presentation-with-youtube-for-2024/"><u>[Updated] Expert Tips for Slide Presentation with YouTube for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-transform-the-way-you-view-web-content-using-ms-edges-split-screen-functionality/"><u>2024 Approved Transform the Way You View Web Content Using MS Edge's Split Screen Functionality</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-honor-play-7t-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For Honor Play 7T</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/discover-6-free-ai-models-like-microsofts-gpt-that-compete-with-sota/"><u>Discover 6 FREE AI Models Like Microsoft's GPT That Compete with SOTA</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/fb-video-shape-study-overview/"><u>FB Video Shape Study Overview</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-lava-yuva-2-pro-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your Lava Yuva 2 Pro Phone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-tecno-camon-20-premier-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on Tecno Camon 20 Premier 5G Without Them Knowing? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-vivo-x90s-for-free-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track a Lost Vivo X90S for Free? | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-oppo-reno-10-pro-5g-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Oppo Reno 10 Pro 5G Phone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-samsung-galaxy-a25-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Car Locator Apps for Samsung Galaxy A25 5G | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-motorola-razr-40-ultra-for-parents-drfone-by-drfone-virtual-android/"><u>Top 10 Telegram Spy Tools On Motorola Razr 40 Ultra for Parents | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-nokia-c12-plus-for-parents-drfone-by-drfone-virtual-android/"><u>Top 10 Telegram Spy Tools On Nokia C12 Plus for Parents | Dr.fone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/top-4-desired-functionalities-for-leveraging-my-synthetic-voice-on-ios-devices-by-apple/"><u>Top 4 Desired Functionalities for Leveraging My Synthetic Voice on iOS Devices by Apple</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-becoming-a-youtube-pro-the-ultimate-picture-post-guide-for-2024/"><u>[Updated] Becoming a YouTube Pro The Ultimate Picture Post Guide for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1726225580816-gif-movavi/"><u>完全無料で使えるオンラインGIFフォーマット変換 -Movavi</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/camera-elevation-best-tripods-for-smartphone-shots/"><u>Camera Elevation Best Tripods for Smartphone Shots</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/customizing-video-assets-for-instagram-mastery/"><u>Customizing Video Assets for Instagram Mastery</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/gratuit-versterkken-van-quicktime-bestandjes-online-met-movavi-zelfstandig-opslaan/"><u>Gratuit Versterkken Van QuickTime-Bestandjes Online Met Movavi - Zelfstandig Opslaan</u></a></li>
+<li><a href="https://win-dash.techidaily.com/harvest-time/"><u>Harvest Time</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-intercept-text-messages-on-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-virtual-android/"><u>How to Intercept Text Messages on Samsung Galaxy XCover 6 Pro Tactical Edition | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-set-up-iphone-14-pro-max-face-id-by-drfone-ios-unlock-ios-unlock/"><u>How to Set up iPhone 14 Pro Max Face ID?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-honor-play-7t-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Honor Play 7T by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-nokia-g42-5g-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Nokia G42 5G by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-nokia-130-music-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Tracking Apps to Track Nokia 130 Music without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-6-appsservices-to-trace-any-oppo-a79-5g-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, Top 6 Apps/Services to Trace Any Oppo A79 5G Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigate-through-steams-e84-complications/"><u>Navigate Through Steam's E84 Complications</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/quick-guide-converting-your-disney-dvd-collection-into-digitized-versions/"><u>Quick Guide: Converting Your Disney DVD Collection Into Digitized Versions</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/solutions-to-spy-on-samsung-galaxy-m14-4g-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>Solutions to Spy on Samsung Galaxy M14 4G with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-insiders-handbook-to-resolving-windows-system-error-code-28/"><u>The Insider's Handbook to Resolving Windows System Error Code 28</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-6-appsservices-to-trace-any-oppo-a1x-5g-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>Top 6 Apps/Services to Trace Any Oppo A1x 5G Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-7-phone-number-locators-to-track-oppo-reno-10-5g-location-drfone-by-drfone-virtual-android/"><u>Top 7 Phone Number Locators To Track Oppo Reno 10 5G Location | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-7-phone-number-locators-to-track-samsung-galaxy-a05s-location-drfone-by-drfone-virtual-android/"><u>Top 7 Phone Number Locators To Track Samsung Galaxy A05s Location | Dr.fone</u></a></li>
 </ul></div>
 
