@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Turn Off Google Location to Stop Tracking You on Infinix Smart 8 | Dr.fone
-date: 2025-01-16T18:19:47.345Z
-updated: 2025-01-17T17:55:28.088Z
+date: 2025-01-18T18:55:51.223Z
+updated: 2025-01-23T17:09:24.585Z
 tags: 
   - virtual location change
   - location track
@@ -28,10 +28,6 @@ Location data generally helps us find reliable directions and pinpoint a particu
 ### It is an essential component of most Google services
 
 ![google products](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-1.JPG)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Of course, Google Maps and Weather will not work without access to location data. It is the main component that allows this kind of application to function exactly as it should. That’s why you should think twice before you turn off Google location tracking. Keep it activated on your mobile device if you’re in need of real-time weather updates or reliable coordinates.
 
@@ -95,9 +91,17 @@ Let’s say you don’t want to cut the entire location access across your smart
 
 ![location access for google](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-8.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 6:** Lastly, click **Don’t Allow.** Alternatively, you may instead select **Allow Only While Using the App** or **Ask Every Time** if you wish to grant Google conditional access to your location data.
 
 ![disallow location access on google](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-9.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 3: Toggle off the Timeline feature on your Google Account
 
@@ -110,10 +114,6 @@ Timeline is a special Google feature that keeps a record of your location check-
 **Step 2:** Click your **Profile** icon at the top-right corner of the screen.
 
 ![google app profile icon](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-10.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 3:** Click **Google Account.**
 
@@ -144,7 +144,7 @@ Timeline is a special Google feature that keeps a record of your location check-
 ![turn off timeline](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-16.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 4: Remove visits on Google Maps
@@ -167,10 +167,6 @@ If Timeline is previously activated on your Infinix Smart 8, chances are Google 
 
 **Step 5:** Pick a location and click the **Three-dotted menu** button next to it. From there, select **Remove All Visits.**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 3. Keep Your Whereabouts Private With [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
 
 Google surely understands that some users are uncomfortable sharing their whereabouts with the platform. That’s why you’re given the option to turn off Google location tracking on your Infinix Smart 8 smartphone. However, take note that doing so might gravely affect the functionality of some Google products. If you don’t want it to happen, there’s an alternative solution you can try. Rather than denying Google access to your location, why not change it instead and register a fake one? Yes. That can absolutely help you conceal your whereabouts without compromising the quality of Google services. Don’t worry. It’s a piece of cake. Wondershare Dr.Fone can help you a lot in this regard. It has a potent Virtual Location feature capable of modifying your whereabouts and simulating GPS movements. Do you want to try it now? Here’s a short guide for you.
@@ -188,10 +184,6 @@ Google surely understands that some users are uncomfortable sharing their wherea
 **Step 5:** Head over to the search bar at the top-left corner of the screen and then enter your desired location. Choose one from the suggestions that Wondershare Dr.Fone displays on the screen. Right after, click the **Enter** icon.
 
 ![enter your preferred location](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 6:** The description of your chosen location will be then flashed on the screen. Read the details and make sure they are accurate. After that, click **Move Here** to proceed.
 
@@ -285,10 +277,6 @@ URL:
 
 <https://itunes.apple.com/us/app/automatic-classic/id596594365?mt=8>
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Option 4: Google Maps (It will be available in the next version)
 
 Introduction: This application is implementing new features for drivers to find parking more easily. It tries to help those forgetful drivers who park but then do not know where they parked the vehicle. For them, Maps is responsible for collecting information on the time in which they have been stopped after moving by car, if we have the mobile connected to the car by Bluetooth, the application understands that we have been using a vehicle, and shows the parking with a round blue icon with a capital P inside. If this does not appear, it can also be saved in another way. Once parked you can open the map of the application and click on the blue point of location. At that time it gives us the option to Save your parking leaving the blue icon mentioned above.
@@ -304,10 +292,6 @@ GPS locator for car
 Shows available parking.
 
 ![Car Locator Apps-Google Maps](https://images.wondershare.com/drfone/article/2017/10/15081723711372.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 URL is not available yet.
 
@@ -355,6 +339,10 @@ Introduction: This is a paid iPhone monitoring software available for iOS device
 
 ![iPhone Monitoring Software-mSpy](https://images.wondershare.com/drfone/article/2017/10/15081574644828.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Features:**
 
 Can record conversations in audios.
@@ -391,6 +379,10 @@ Introduction: It is a free iPhone monitoring with advanced features available fo
 
 ![iPhone Monitoring Software-Qustodio](https://images.wondershare.com/drfone/article/2017/10/15081574812205.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Features:**
 
 Take screenshots.
@@ -424,6 +416,10 @@ Name: Kidlogger
 Introduction: This iPhone monitoring software is completely free, works on Mac, Windows, iOS, and Android devices. It shows the number of times kids are using the computer or mobile phone and the list of applications used. The phone also shows the most used contacts, calls, text messages, and chats.
 
 ![iPhone Monitoring Software-Kidlogger](https://images.wondershare.com/drfone/article/2017/10/15081574993695.jpg) **Features:**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Time spend playing games.
 
@@ -526,7 +522,7 @@ Introduction: It's iPhone monitoring available for Android and iOS devices. It a
 ![iPhone Monitoring Software-Teen Safe](https://images.wondershare.com/drfone/article/2017/10/15081575569908.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Features:**
@@ -555,6 +551,10 @@ Pay U$ 14.95 per month
 
 For iOS devices: U$ 9.95 per month.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 7: Footprints
 
 Name: Footprints
@@ -562,10 +562,6 @@ Name: Footprints
 Introduction: This is an iPhone monitoring app for tracking the children and showing their location. Parents can know where their children are, also where they have been and set geographic boundaries and the app will warn you when those barriers are crossed in real-time.
 
 ![iPhone Monitoring Software-Footprints](https://images.wondershare.com/drfone/article/2017/10/15081575773584.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Features:**
 
@@ -587,6 +583,10 @@ URL: <http://www.footprints.net/>
 
 Price: U$ 3.99 per year
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 8: Ignore no More
 
 Name: Ignore no More
@@ -594,10 +594,6 @@ Name: Ignore no More
 Introduction: This iPhone monitoring app is available for iOS and Android devices. It allows you to lock a mobile in the distance and to regain control of the phone, the boy should call the contacts from a list previously created by his parents, only those people will be able to deactivate the code.
 
 ![iPhone Monitoring Software-Ignore no More](https://images.wondershare.com/drfone/article/2017/10/15081575977843.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Features:**
 
@@ -628,6 +624,10 @@ Name: MamaBear
 Introduction: This is an iPhone monitoring software available for iOS and Android devices
 
 ![iPhone Monitoring Software-MamaBear](https://images.wondershare.com/drfone/article/2017/10/15081576229619.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Features:**
 
@@ -675,18 +675,22 @@ South Korea to regulate and safeguard teenage activities online have come up wit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-break-boundaries-get-free-vob-handling-toolset-pc-and-mac-for-2024/"><u>[New] Break Boundaries Get Free VOB Handling Toolset (PC & Mac) for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-deciphering-the-differences-between-youtubes-and-dailymentions-for-2024/"><u>[New] Deciphering the Differences Between YouTubes & DailyMentions for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-expert-guide-to-slow-motion-video-capturing-with-gopro-hero-10/"><u>[New] Expert Guide to Slow Motion Video Capturing with GoPro Hero 10</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-ispring-screen-recorder-review/"><u>[Updated] In 2024, ISpring Screen Recorder Review</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-samsung-galaxy-f04-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Samsung Galaxy F04 Activity | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-advanced-tips-for-zoom-meetings-on-chromebooks/"><u>2024 Approved Advanced Tips for Zoom Meetings on ChromeBooks</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-mp3-from-tweeted-media-a-step-by-step-guide/"><u>2024 Approved MP3 From Tweeted Media A Step-by-Step Guide</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-vivo-v30-lite-5g-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your Vivo V30 Lite 5G Current Location of a Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/innovative-electronics-with-tom-your-trusted-source-for-top-hardware-picks/"><u>Innovative Electronics with Tom: Your Trusted Source for Top Hardware Picks</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/the-complete-list-of-11-advanced-color-correction-and-grading-tutorials-for-2024/"><u>The Complete List of 11 Advanced Color Correction & Grading Tutorials for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-vivo-x100-drfone-by-drfone-virtual-android/"><u>Top 10 Best Spy Watches For your Vivo X100 | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-samsung-galaxy-m54-5g-for-parents-drfone-by-drfone-virtual-android/"><u>Top 10 Telegram Spy Tools On Samsung Galaxy M54 5G for Parents | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-6-appsservices-to-trace-any-lava-agni-2-5g-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>Top 6 Apps/Services to Trace Any Lava Agni 2 5G Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-innovative-approaches-for-image-collections-acquisition/"><u>[New] 2024 Approved Innovative Approaches for Image Collections Acquisition</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-resolution-duel-comparing-gopro-hero-and-polaroid-cube/"><u>[New] 2024 Approved Resolution Duel Comparing GoPro Hero and Polaroid Cube</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-navigating-digital-discussions-with-ease-essential-advice-for-successful-zoom-meetings/"><u>[Updated] In 2024, Navigating Digital Discussions with Ease Essential Advice for Successful Zoom Meetings</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-unveiling-solutions-to-youtube-short-pitfalls/"><u>[Updated] Unveiling Solutions to YouTube Short Pitfalls</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-gopros-hero5-up-against-yis-high-res-adventures/"><u>2024 Approved GoPro's Hero5 Up Against Yi's High-Res Adventures</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-high-def-gaming-gpu-recommendations/"><u>In 2024, High-Def Gaming GPU Recommendations</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-honor-v-purse-location-by-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Honor V Purse Location by Number | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-tecno-spark-10-4g-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Tecno Spark 10 4G by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-itel-p55t-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on Itel P55T Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-watch-hulu-outside-us-on-motorola-moto-g13-drfone-by-drfone-virtual-android/"><u>In 2024, How to Watch Hulu Outside US On Motorola Moto G13 | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-zte-nubia-z60-ultra-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On ZTE Nubia Z60 Ultra for Parents | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-poco-x5-pro-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Phone Number Locators To Track Poco X5 Pro Location | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/is-a-drive-missing-on-windows-heres-how-to-fix-it/"><u>Is a Drive Missing on Windows? Here's How to Fix It</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/solutions-to-spy-on-tecno-spark-20-pro-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>Solutions to Spy on Tecno Spark 20 Pro with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-4-ways-to-trace-tecno-spark-10-5g-location-drfone-by-drfone-virtual-android/"><u>Top 4 Ways to Trace Tecno Spark 10 5G Location | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-9-poco-c51-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 Poco C51 Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-steps-what-to-do-if-your-zoom-camera-isnt-functioning/"><u>Troubleshooting Steps: What To Do If Your Zoom Camera Isn't Functioning</u></a></li>
 </ul></div>
 
