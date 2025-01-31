@@ -1,7 +1,7 @@
 ---
 title: How to Track WhatsApp Messages on Realme 12 5G Without Them Knowing? | Dr.fone
-date: 2024-09-16T17:59:48.221Z
-updated: 2024-09-20T03:44:48.336Z
+date: 2025-01-29T22:54:47.550Z
+updated: 2025-01-30T23:01:04.493Z
 tags: 
   - virtual location change
   - location track
@@ -39,6 +39,10 @@ Finally, point the Realme 12 5G device's camera toward the QR code displayed on 
 
 ![use whatsapp web](https://images.wondershare.com/drfone/article/2023/07/track-whatsapp-messages-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 2. Use WhatsApp Linked Devices to Track WhatsApp Messages
 
 WhatsApp Linked Devices is a feature introduced by WhatsApp. It allows users to connect their WhatsApp accounts to multiple devices simultaneously. This feature enables seamless synchronization of messages across devices. Thus, it can be used to track WhatsApp messages. To set up WhatsApp Linked Devices, you will need physical access to the targeted device.
@@ -52,6 +56,10 @@ Launch WhatsApp on the Realme 12 5G device, go to the menu, and select "Linked D
 WhatsApp provides the option to back up chats and media to cloud storage platforms like Google Drive. This feature is primarily designed for users to restore their data. However, It can be utilized to access and read someone else's WhatsApp messages. That is possible if you have access to their Google account.
 
 To use this method, you will need to physically access the Realme 12 5G device or need a device with the targeted Google account logged in. Here navigate to Google Drive and find the WhatsApp backup file. Download these files on your device and use a third-party tool to decrypt the files.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: How To Track WhatsApp Messages Without Them Knowing?
 
@@ -79,22 +87,12 @@ After purchasing the mSpy package of your choice, open the email to receive logi
 
 ![install the mspy app](https://images.wondershare.com/drfone/article/2023/07/track-whatsapp-messages-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 5:** Now click “Finish” to complete the process and access the mSpy dashboard. After a while, you can see all data from the Android device. If you want to access WhatsApp data, you will need to root the targeted Android device.
 
 ![press the finish button](https://images.wondershare.com/drfone/article/2023/07/track-whatsapp-messages-5.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 6:** Afterward, choose "WhatsApp" from the left sidebar, and you can track the WhatsApp messages. It will also allow you to track WhatsApp calls, including all incoming and outgoing calls.
@@ -111,16 +109,13 @@ After purchasing the mSpy package of your choice, open the email to receive logi
 
 ![verify the apple id](https://images.wondershare.com/drfone/article/2023/07/track-whatsapp-messages-8.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 3:** After the verification is complete, press "Proceed." On the following screen, you can read about the available data and click “Finish” to complete the process. It will take up to 24 hours for mSpy to extract iCloud data.
 
 ![press the finish button](https://images.wondershare.com/drfone/article/2023/07/track-whatsapp-messages-9.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 4:** Once mSpy has accessed the data, select “WhatsApp” from the left side to access WhatsApp chats. Here you can track all the incoming and outgoing messages remotely.
 
@@ -163,6 +158,10 @@ The best location spoofer app available in this regard is Wondershare [Dr.Fone -
 1. It provides a joystick to ensure your movement is realistic when playing AR games.
 2. With Dr.Fone - Virtual Location, you can change your location on social media apps like Snapchat, WhatsApp.
 3. By using this app, you can also access geo-restricted content and websites.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Step-by-Step Instructions To Spoof WhatsApp Location via Wondershare Dr.Fone
 
@@ -218,6 +217,10 @@ It is no secret that you can easily spy on any iPhone. Many spy or monitoring pr
 
 In this article, we look at how you to spy on an iPhone without needing a jailbreak and how to spy on a jailbroken device or jailbreak a device to facilitate spying.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: How to Spy on iPhone without Jailbreak
 
 The majority of spy apps in the market will only work on a jailbroken device or require you to jailbreak an iPhone before you can use them. While a jailbroken device does have its advantages, it can be quite problematic when you want to spy on an iPhone without alerting the owner to your activities. To begin with, you must have the iPhone to jailbreak it, a factor that makes it easier to get caught trying to spy on the Realme 12 5G device. Also, it is quite possible no matter how hard you try to hide the jailbreaking app that the owner will realize you have jailbroken their device.
@@ -239,10 +242,7 @@ Step 4: You can then log in to your [mSpy](http://mspy.go2cloud.org/SH7G6) contr
 ![Spy on iPhone without Jailbreak-log in to your mSpy control panel](https://images.wondershare.com/drfone/article/2017/10/15079748088200.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: How to Spy using Spyware that Requires a Jailbreak
@@ -258,6 +258,10 @@ Step 2: Once the Realme 12 5G device is successfully jailbroken, create an accou
 Step 3: You can then log in to TurthSpy with your log in information and access all types of data on the target iPhone from any bowser.
 
 ![Spy using Spyware with jailbreak-log in to TurthSpy](https://images.wondershare.com/drfone/article/2017/10/15079742762274.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Both mSpy and TruthSpy will provide you with all the information you need about the target device. The only difference is, you need to jailbreak the Realme 12 5G device if TruthSpy will be able to access it. Jailbreaking the
 
@@ -281,6 +285,14 @@ Step 3: Once set up is complete, you can go to your eyeZy dashboard on any other
 
 ![Spy on Text Messages from another Android phone using eyeZy](https://images.wondershare.com/drfone/article/2022/03/spy-on-text-messages-eyezy.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: How to Spy on text messages from another iPhone
 
 For iPhone users, one of the best spy apps to use is Auto Forward. This app allows users to spy on another iPhone without the target device’s owner knowing. It has a major advantage in that it allows the user to see all messages including those the owner of the Realme 12 5G device may have deleted. You can also see both sent and received messages.
@@ -294,13 +306,6 @@ Step 2: Log in to your account (that you would have created before installing th
 Step 3: The app will automatically access all messages on the target device. It will however only work if you have the target device’s Apple login details.
 
 ![Spy on text messages from another iPhone via Auto Forward](https://images.wondershare.com/drfone/article/2017/10/15074689453332.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 3: How to Spy on text messages from computer
 
@@ -330,5 +335,20 @@ The above three solutions enable users to monitor more than just text messages. 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/updated-making-moolah-the-snapchat-way/"><u>[Updated] Making Moolah The Snapchat Way</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-smooth-scene-transitions-with-premieres-fades/"><u>[Updated] Smooth Scene Transitions with Premiere's Fades</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-mov-file-management-made-simple-on-windows-10/"><u>2024 Approved .mov File Management Made Simple on Windows 10</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-xiaomi-redmi-note-13-pro-5g-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Xiaomi Redmi Note 13 Pro 5G</u></a></li>
+<li><a href="https://win-able.techidaily.com/bid-farewell-to-steam-problems-a-quick-solution-to-prevent-crashes/"><u>Bid Farewell to Steam Problems: A Quick Solution to Prevent Crashes</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-samsung-galaxy-a15-4g-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Samsung Galaxy A15 4G Devices | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-nubia-red-magic-8s-pro-location-by-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Nubia Red Magic 8S Pro Location by Number | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-infinix-hot-40i-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Tracking Apps to Track Infinix Hot 40i without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-infinix-note-30-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Phone Number Locators To Track Infinix Note 30 Location | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-honor-x9a-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Honor X9a | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/instamosaic-syncing-videos-across-oses-for-2024/"><u>InstaMosaic Syncing Videos Across OSes for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/masterful-iphone-videography-top-8-expert-filmmaking-advice/"><u>Masterful iPhone Videography Top 8 Expert Filmmaking Advice</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-tecno-spark-10-4g-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Tecno Spark 10 4G | Dr.fone</u></a></li>
+</ul></div>
 

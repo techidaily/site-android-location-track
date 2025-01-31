@@ -1,7 +1,7 @@
 ---
 title: 2 Ways to Monitor Sony Xperia 5 V Activity | Dr.fone
-date: 2024-09-07T10:50:39.631Z
-updated: 2024-09-14T08:18:21.800Z
+date: 2025-01-25T07:41:02.460Z
+updated: 2025-01-31T07:34:33.163Z
 tags: 
   - virtual location change
   - location track
@@ -77,6 +77,10 @@ Step 2. Set the rules for kids' devices. After you activate the account and conn
 
 We hope you find this guide and instructions herein useful. We recommend you to use Famisafe for its features and discrete cell phone monitoring techniques. Share it with your near and dear one as well and promotes online child safety.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Turn Off Google Location to Stop Tracking You on Sony Xperia 5 V
 
 The location services that Google provides to Android smartphones are indeed useful in many ways. For instance, you can use Google Maps to check a particular place you want to visit and obtain reliable directions to help you get there. Another thing, Google can also give you the exact location of your Sony Xperia 5 V in case you lost it somewhere. Indeed, Google’s GPS tracking feature comes in very handy whenever you need such assistance.
@@ -95,22 +99,12 @@ Location data generally helps us find reliable directions and pinpoint a particu
 
 Of course, Google Maps and Weather will not work without access to location data. It is the main component that allows this kind of application to function exactly as it should. That’s why you should think twice before you turn off Google location tracking. Keep it activated on your mobile device if you’re in need of real-time weather updates or reliable coordinates.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### It is used for targeted advertisements
 
 The majority of online advertisements scattered all over the internet are run by Google. It uses location data to ensure the ads that appear on your web browser are relevant to your personal liking. For example, Google Ads will likely flash American products on your smartphones if you’re located in that particular region. Do you want to keep it that way? If so, you should not then turn off Google location tracking on your Sony Xperia 5 V smartphone.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### It is used by Google to provide accurate search results
@@ -122,6 +116,10 @@ The same thing goes for Google search results. This query engine uses location d
 ### It is used by Google to implement certain security protocols
 
 Google uses location data to keep your accounts safe from potential attacks and security breaches. How so? Well, Google immediately sends alerts whenever your account is used from an unusual location. Another thing is that strange activities on your account are promptly detected with the aid of location information. Simply put, allowing Google to access your whereabouts is the least you can do to protect your digital assets. Hence, don’t turn off Google location tracking on your Sony Xperia 5 V smartphone if you need such assistance.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### It is utilized for research and further improvements of Google services
 
@@ -161,13 +159,6 @@ Let’s say you don’t want to cut the entire location access across your smart
 
 ![google on app list](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 4:** Click **Permissions.**
 
 ![google app permissions](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-7.jpg)
@@ -191,6 +182,10 @@ Timeline is a special Google feature that keeps a record of your location check-
 **Step 2:** Click your **Profile** icon at the top-right corner of the screen.
 
 ![google app profile icon](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-10.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 3:** Click **Google Account.**
 
@@ -220,6 +215,10 @@ Timeline is a special Google feature that keeps a record of your location check-
 
 ![turn off timeline](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-16.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 4: Remove visits on Google Maps
 
 If Timeline is previously activated on your Sony Xperia 5 V, chances are Google Maps has recorded all your recent visits. Don’t worry. You can easily delete them and finally turn off Google location tracking once and for all. Here’s a short guide on how to do it in easy steps.
@@ -238,13 +237,6 @@ If Timeline is previously activated on your Sony Xperia 5 V, chances are Google 
 
 ![google maps places](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-19.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 5:** Pick a location and click the **Three-dotted menu** button next to it. From there, select **Remove All Visits.**
 
 ## Part 3. Keep Your Whereabouts Private With [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
@@ -262,10 +254,7 @@ Google surely understands that some users are uncomfortable sharing their wherea
 ![wondershare drfone teleport mode](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120863/26400?prodsku=Mercury" target="_top" id="2120863">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120863" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120863/26400?prodsku=Mercury" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 5:** Head over to the search bar at the top-left corner of the screen and then enter your desired location. Choose one from the suggestions that Wondershare Dr.Fone displays on the screen. Right after, click the **Enter** icon.
@@ -283,6 +272,10 @@ Google surely understands that some users are uncomfortable sharing their wherea
 ## Conclusion
 
 At some point, we cannot deny that Google location services make our lives a lot more convenient. Imagine you can easily locate a particular place and get directions by simply browsing Google Maps. No need to borrow an Atlas from the library just to find a location you want to visit. However, in exchange for this convenience, you have to share location access with Google. Some users are not confident to access this privilege at the expense of their privacy. Don’t worry. That’s totally fine. If you’re one of them, this article can help you turn off Google location tracking on your Sony Xperia 5 V. Is there a more conservative approach to address this issue? Luckily, there is. Download [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) on your computer and take advantage of its Virtual Location feature. It can help modify your whereabouts and simulate GPS movements without going outdoors.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Check Distance and Radius on Google Maps For your Sony Xperia 5 V
 
@@ -307,6 +300,10 @@ You might already know that Google Maps provides a map of the entire world for u
 
 If you want, you can later delete this circle or draw multiple circles in different colors to mark them in any location of your choice.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: Determine the Distance with Radius on Google Maps
 
 Apart from drawing a circle or radius on Google Maps, a lot of people would like to specify its distance as well. For instance, you might wish to specify a radius of specific miles or kilometers for a place on Google Maps. As stated above, the native feature of Google Maps is presently missing the distance radius feature. The good news is that there are tons of websites out there that have presented the same feature on the original layer of Google Maps.
@@ -323,6 +320,10 @@ If you know the exact longitude and latitude of the place, then you can also tak
 
 ![google maps distance radius 5](https://images.wondershare.com/drfone/2023/virtuallocation/google-maps-distance-radius-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3: Determine the Distance between two Addresses on Google Maps
 
 This is one of the most resourceful features of Google Maps that a lot of people are not aware of. Using its native interface, you can find a straight line distance on Google Maps. That is, it won’t be the driving distance, but the exact distance between 2 places on Google Maps. If you want, you can add other spots to let Google Maps calculate distance between multiple locations as well. To learn how to measure distance between two addresses on Google Maps, follow these steps:
@@ -330,6 +331,10 @@ This is one of the most resourceful features of Google Maps that a lot of people
 1. At first, just launch Google Maps on your system and go to the source location on it. You can click on any marked location or anywhere else on the map. Even if you click on any unmarked location, Google will load its coordinates for you.
 
 ![google maps distance radius 6](https://images.wondershare.com/drfone/2023/virtuallocation/google-maps-distance-radius-6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 1. Now, once the source location is identified, you need to right-click it to get its context menu. From the available options on the context menu, click on “Measure Distance”.
 
@@ -393,5 +398,20 @@ AR game tricks
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-complete-screencast-process-methodical-instructional-video/"><u>[New] 2024 Approved Complete Screencast Process Methodical Instructional Video</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-transforming-single-frames-into-motion-narratives-for-2024/"><u>[New] Transforming Single Frames Into Motion Narratives for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-premier-green-screen-tech-how-to-optimize-usage/"><u>[Updated] In 2024, Premier Green Screen Tech How to Optimize Usage</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-honor-90-gt-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Honor 90 GT by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-nubia-z50s-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Best Spy Watches For your Nubia Z50S Pro | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-6-appsservices-to-trace-any-nubia-red-magic-9-proplus-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, Top 6 Apps/Services to Trace Any Nubia Red Magic 9 Pro+ Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/scheduled-erasure-with-stellar-file-eraser-pro-secure-mac-data-management-tool/"><u>Scheduled Erasure with Stellar File Eraser Pro: Secure Mac Data Management Tool</u></a></li>
+<li><a href="https://win-forum.techidaily.com/stop-frozen-windows-programs-in-their-tracks-the-ultimate-forced-quit-solution-using-revouninstaller/"><u>Stop Frozen Windows Programs in Their Tracks: The Ultimate Forced Quit Solution Using RevoUninstaller</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-4-ways-to-trace-poco-c55-location-drfone-by-drfone-virtual-android/"><u>Top 4 Ways to Trace Poco C55 Location | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-5-best-value-3d-printing-offers-of-2024/"><u>Top 5 Best Value 3D Printing Offers of 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unboxing-the-line-messenger-a-detailed-user-experience-report/"><u>Unboxing the LINE Messenger: A Detailed User Experience Report</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-top-4-alternatives-to-adobe-premiere-rush/"><u>Updated In 2024, Top 4 Alternatives to Adobe Premiere Rush</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-identify-missing-or-malfunctioning-your-hardware-drivers-with-windows-device-manager-on-windows-7-by-drivereasy-guide/"><u>Use Device Manager to identify missing or malfunctioning your hardware drivers with Windows Device Manager on Windows 7</u></a></li>
+</ul></div>
 

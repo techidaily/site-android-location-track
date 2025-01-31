@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Turn Off Google Location to Stop Tracking You on Realme 12 5G | Dr.fone
-date: 2024-09-14T21:59:00.907Z
-updated: 2024-09-19T20:17:28.450Z
+date: 2025-01-25T07:10:59.705Z
+updated: 2025-01-31T01:20:34.967Z
 tags: 
   - virtual location change
   - location track
@@ -35,25 +35,11 @@ Of course, Google Maps and Weather will not work without access to location data
 
 The majority of online advertisements scattered all over the internet are run by Google. It uses location data to ensure the ads that appear on your web browser are relevant to your personal liking. For example, Google Ads will likely flash American products on your smartphones if you’re located in that particular region. Do you want to keep it that way? If so, you should not then turn off Google location tracking on your Realme 12 5G smartphone.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### It is used by Google to provide accurate search results
 
 ![google search results](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-2.JPG)
 
 The same thing goes for Google search results. This query engine uses location data to provide information relevant to the specific needs of the user. Let’s say you’re currently residing in Japan and looking for nearby coffee shops. Of course, it will be unhelpful if Google dispenses a list of coffee shops that aren’t located in your country. That’s why you shouldn’t turn off Google location tracking on your smartphone if you’re looking for precise and pertinent answers.
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### It is used by Google to implement certain security protocols
 
@@ -83,6 +69,10 @@ There’s no denying that Google uses location information to give us the best e
 
 **Step 4:** Lastly, click **Close** to confirm the changes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 2: Deactivate the Google App’s location access on your Realme 12 5G mobile device
 
 Let’s say you don’t want to cut the entire location access across your smartphone because other apps might malfunction. That’s fine. There is a way to deactivate the Google app’s location permission while the other apps remain unaffected. Are you more inclined to implement this decentralized approach? Check out the tutorial provided below.
@@ -97,9 +87,17 @@ Let’s say you don’t want to cut the entire location access across your smart
 
 ![google on app list](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 4:** Click **Permissions.**
 
 ![google app permissions](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-7.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 5:** Click **Location.**
 
@@ -132,6 +130,10 @@ Timeline is a special Google feature that keeps a record of your location check-
 **Step 5:** Find and click **Timeline.**
 
 ![timeline settings](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-13.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 6:** Scroll down and then tap the **Turn Off** button.
 
@@ -183,6 +185,10 @@ Google surely understands that some users are uncomfortable sharing their wherea
 
 ![wondershare drfone teleport mode](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 5:** Head over to the search bar at the top-left corner of the screen and then enter your desired location. Choose one from the suggestions that Wondershare Dr.Fone displays on the screen. Right after, click the **Enter** icon.
 
 ![enter your preferred location](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
@@ -195,13 +201,6 @@ Google surely understands that some users are uncomfortable sharing their wherea
 
 **NOTE:** If you want to restore your original location settings, simply disconnect your smartphone from the computer and restart it.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 At some point, we cannot deny that Google location services make our lives a lot more convenient. Imagine you can easily locate a particular place and get directions by simply browsing Google Maps. No need to borrow an Atlas from the library just to find a location you want to visit. However, in exchange for this convenience, you have to share location access with Google. Some users are not confident to access this privilege at the expense of their privacy. Don’t worry. That’s totally fine. If you’re one of them, this article can help you turn off Google location tracking on your Realme 12 5G. Is there a more conservative approach to address this issue? Luckily, there is. Download [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) on your computer and take advantage of its Virtual Location feature. It can help modify your whereabouts and simulate GPS movements without going outdoors.
@@ -209,6 +208,10 @@ At some point, we cannot deny that Google location services make our lives a lot
 ## Top 5 Car Locator Apps for Realme 12 5G
 
 Confess, How many times have you had to walk the streets to find your car? Either because you are in an unfamiliar city and you did not know how to return, or because you are thinking of something else while parking, you did not pay attention surely more than one occasion. To solve this type of problem, we propose a series of apps to find your car that will surely be useful when you park and make you remember that particular place thanks to the GPS locator for the car so check the following options and choose the best one for you and your car.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Option 1: Find My Car
 
@@ -227,6 +230,10 @@ Take photos from the parking location.
 It is a free application
 
 ![Car Locator Apps-find my car](https://images.wondershare.com/drfone/article/2017/10/15082184344228.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 URL for iPhone:
 
@@ -253,6 +260,10 @@ Can check the parking prices also in real time.
 Has database for more than 500 cities in America, Europe, and more countries.
 
 ![Car Locator Apps-Parkme](https://images.wondershare.com/drfone/article/2017/10/15081722994485.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 URL for iPhone:
 
@@ -324,6 +335,10 @@ It is free and very easy to use.
 
 ![Car Locator Apps-Waze](https://images.wondershare.com/drfone/article/2017/10/15081724223630.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 URL for Android:
 
 <https://play.google.com/store/apps/details?id=com.waze&hl=en>
@@ -337,13 +352,6 @@ So, now onwards, you do not need to pay to get a GPS locator for the car, as you
 ## Top 5 Tracking Apps to Track Realme 12 5G without Them Knowing
 
 Gone are the days when our smartphones were simply used to perform a few basic tasks. With the advancement in technology, we can use them to access our emails on the go, share updates on social media, and do so much more. Additionally, we can use an Android or iOS device app to track phones without them knowing. After installing a spying app on the target device, you can gain in-depth access to the Realme 12 5G device without being detected. To help you do the same, we have listed some of the best tracking apps and tools in this post.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 1: Spyera
 
@@ -369,13 +377,6 @@ _Cons_
 
 ![tracking apps to track phone-spyera](https://images.wondershare.com/drfone/article/2022/02/apps-to-track-phone-without-them-knowing.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 2: mSpy
 
 If you are looking for another solution to track an Android or iOS device, then you can also try mSpy. Just like Spyera, the tool also has a dashboard that can be accessed from any other device. Installing the app is pretty easy and it will let you obtain all the crucial information like the Realme 12 5G device’s location, call logs, browser history, and more.
@@ -399,6 +400,10 @@ _Cons_
 • The stealth mode sometimes malfunctions and can be detected by the user.
 
 ![Tracking Apps to Track Phone-mSpy](https://images.wondershare.com/drfone/article/2017/10/15082606875769.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: FlexiSPY
 
@@ -492,5 +497,24 @@ Now when you know about some of the best tracking apps out there, you can easily
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/n-2024-a-comprehensive-walkthrough-for-imovie-and-youtube-collaboration/"><u>[New] In 2024, A Comprehensive Walkthrough for iMovie and YouTube Collaboration</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-tapping-into-built-in-screen-recording-features-of-huaweis-mate-and-p-lineup/"><u>[Updated] In 2024, Tapping Into Built-In Screen Recording Features of Huawei's Mate & P Lineup</u></a></li>
+<li><a href="https://games-able.techidaily.com/bid-farewell-to-single-os-on-steam-deck/"><u>Bid Farewell to Single OS on Steam Deck!</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/discover-hidden-audio-makers-6-stealthy-iosandroid-tools-for-2024/"><u>Discover Hidden Audio Makers 6 Stealthy iOS/Android Tools for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-a-vivo-v29e-easily-by-drfone-android/"><u>How To Unlock a Vivo V29e Easily?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-honor-70-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for Honor 70 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-bypass-apple-iphone-x-passcode-easily-video-inside-drfone-by-drfone-ios/"><u>In 2024, How to Bypass Apple iPhone X Passcode Easily Video Inside | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-google-pixel-7a-drfone-by-drfone-virtual-android/"><u>In 2024, How to Spy on Text Messages from Computer & Google Pixel 7a | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-nubia-red-magic-9-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Best Spy Watches For your Nubia Red Magic 9 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-infinix-hot-40-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On Infinix Hot 40 for Parents | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-poco-m6-5g-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On Poco M6 5G for Parents | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-4-ways-to-trace-google-pixel-7a-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 4 Ways to Trace Google Pixel 7a Location | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-vidmas-technology-in-screen-capturing-spotlighted/"><u>In 2024, Vidma’s Technology in Screen Capturing Spotlighted</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-which-screen-recorder-prevails-bandicam-vs-camtasia/"><u>In 2024, Which Screen Recorder Prevails Bandicam vs Camtasia?</u></a></li>
+<li><a href="https://discover-amazing.techidaily.com/seamlessly-enjoy-your-digital-library-how-to-use-an-app-for-kindle-on-ios-devices/"><u>Seamlessly Enjoy Your Digital Library: How to Use an App for Kindle on iOS Devices</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/solutions-to-spy-on-infinix-gt-10-pro-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>Solutions to Spy on Infinix GT 10 Pro with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-4-ways-to-trace-honor-magic-v2-location-drfone-by-drfone-virtual-android/"><u>Top 4 Ways to Trace Honor Magic V2 Location | Dr.fone</u></a></li>
+</ul></div>
 

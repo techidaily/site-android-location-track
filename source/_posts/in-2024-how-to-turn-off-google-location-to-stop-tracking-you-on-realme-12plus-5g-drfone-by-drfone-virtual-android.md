@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Turn Off Google Location to Stop Tracking You on Realme 12+ 5G | Dr.fone
-date: 2024-09-18T04:07:29.141Z
-updated: 2024-09-20T04:21:44.348Z
+date: 2025-01-30T04:57:30.086Z
+updated: 2025-01-30T23:01:37.911Z
 tags: 
   - virtual location change
   - location track
@@ -35,9 +35,17 @@ Of course, Google Maps and Weather will not work without access to location data
 
 The majority of online advertisements scattered all over the internet are run by Google. It uses location data to ensure the ads that appear on your web browser are relevant to your personal liking. For example, Google Ads will likely flash American products on your smartphones if you’re located in that particular region. Do you want to keep it that way? If so, you should not then turn off Google location tracking on your Realme 12+ 5G smartphone.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### It is used by Google to provide accurate search results
 
 ![google search results](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-2.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The same thing goes for Google search results. This query engine uses location data to provide information relevant to the specific needs of the user. Let’s say you’re currently residing in Japan and looking for nearby coffee shops. Of course, it will be unhelpful if Google dispenses a list of coffee shops that aren’t located in your country. That’s why you shouldn’t turn off Google location tracking on your smartphone if you’re looking for precise and pertinent answers.
 
@@ -48,19 +56,6 @@ Google uses location data to keep your accounts safe from potential attacks and 
 ### It is utilized for research and further improvements of Google services
 
 ![google services](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-3.JPG)
-
-<!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 We all know that Google is committed to offering us new products and improving its existing services. That’s indeed beneficial to all of us, especially in today’s ever-changing world. But definitely, it’s not possible if Google doesn’t have adequate location information from the pool of its users. Why so? Simply because location data determines the latest community trends and helps specialists find the perfect basis for fresh developments. Do you want to contribute something to the advancement of Google products? If so, you can start by giving Google access to the location data on your Realme 12+ 5G smartphone.
 
@@ -82,13 +77,6 @@ There’s no denying that Google uses location information to give us the best e
 
 **Step 4:** Lastly, click **Close** to confirm the changes.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Method 2: Deactivate the Google App’s location access on your Realme 12+ 5G mobile device
 
 Let’s say you don’t want to cut the entire location access across your smartphone because other apps might malfunction. That’s fine. There is a way to deactivate the Google app’s location permission while the other apps remain unaffected. Are you more inclined to implement this decentralized approach? Check out the tutorial provided below.
@@ -103,9 +91,17 @@ Let’s say you don’t want to cut the entire location access across your smart
 
 ![google on app list](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 4:** Click **Permissions.**
 
 ![google app permissions](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-7.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 5:** Click **Location.**
 
@@ -114,26 +110,6 @@ Let’s say you don’t want to cut the entire location access across your smart
 **Step 6:** Lastly, click **Don’t Allow.** Alternatively, you may instead select **Allow Only While Using the App** or **Ask Every Time** if you wish to grant Google conditional access to your location data.
 
 ![disallow location access on google](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-9.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 3: Toggle off the Timeline feature on your Google Account
 
@@ -163,6 +139,10 @@ Timeline is a special Google feature that keeps a record of your location check-
 
 ![turn off timeline settings](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-14.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### For web users
 
 **Step 1:** Visit the [<u>official website</u>](https://myactivity.google.com/myactivity) of My Google Activity. Right after, log in to the Gmail account you particularly use on your Realme 12+ 5G mobile device.
@@ -174,6 +154,10 @@ Timeline is a special Google feature that keeps a record of your location check-
 **Step 3:** Scroll it down and then click the **Turn Off** button.
 
 ![turn off timeline](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-16.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 4: Remove visits on Google Maps
 
@@ -194,6 +178,10 @@ If Timeline is previously activated on your Realme 12+ 5G, chances are Google Ma
 ![google maps places](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-19.jpg)
 
 **Step 5:** Pick a location and click the **Three-dotted menu** button next to it. From there, select **Remove All Visits.**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3. Keep Your Whereabouts Private With [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
 
@@ -220,6 +208,10 @@ Google surely understands that some users are uncomfortable sharing their wherea
 **Step 7:** The location registered on your Realme 12+ 5G mobile device will now be replaced with your modified whereabouts. Verify the changes applied on your smartphone by checking Google Maps and searching for your current location. One way or another, it must show the altered result.
 
 **NOTE:** If you want to restore your original location settings, simply disconnect your smartphone from the computer and restart it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -271,6 +263,10 @@ Step 3: You should be able to log in to your web-based control panel and view th
 
 ![Spy on text messages from computer via mSpy](https://images.wondershare.com/drfone/article/2017/10/15074696134452.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 The above three solutions enable users to monitor more than just text messages. They give parents the ability to keep track of what their children are saying to one another or who they are talking to. While there are many applications to spy monitoring software, perhaps the most important is in ensuring the safety of our young people.
 
 ## How to Track a Lost Realme 12+ 5G for Free?
@@ -293,6 +289,10 @@ Step 2. Now it’s time to hit the cloud—iCloud we mean! First things first—
 
 ![Track lost iPhone for free-click on Find iPhone and All Devices](https://images.wondershare.com/drfone/article/2017/10/15080422049397.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 3. That’s really all there is to it! Once you select your device, you can do one of three things—play sound, activate lost mode or erase the Realme 12+ 5G device to prevent compromise of information.
 
 ![Track lost iPhone for frees-start to track](https://images.wondershare.com/drfone/article/2017/10/15080422409247.jpeg)
@@ -304,13 +304,6 @@ If you’ve misplaced your Realme 12+ 5G cell phone, have no fear, because there
 Step 1. Most latest Android phones are already equipped with the Find My Service, but if you’re missing it, you can download it from the Google Play Store. Click start, tap security, and then device administration.
 
 ![Track Lost Android Mobile Location with Google’s ADM-install Find My Service](https://images.wondershare.com/drfone/article/2017/10/15080422869617.jpeg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step 2. Next, tap Find My Device, and check the box besides it. Tap the back button once and then again to return to the main settings menu.
 
@@ -366,5 +359,24 @@ When it comes to finding a solution to locating your cell phone in the event it 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-beat-the-purchase-free-fb-playlists-download/"><u>[New] 2024 Approved Beat the Purchase Free FB Playlists Download</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-30plus-futuristic-metaverse-musings-arvr/"><u>[New] 30+ Futuristic Metaverse Musings [AR/VR]</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-rx-graphics-retrospect-and-report/"><u>[Updated] In 2024, RX Graphics Retrospect & Report</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-the-ultimate-list-of-funny-youtube-sources-for-downtime/"><u>2024 Approved The Ultimate List of Funny YouTube Sources for Downtime</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortless-audio-driver-updates-for-usb-sound-cards-on-various-windows-operating-systems/"><u>Effortless Audio Driver Updates for USB Sound Cards on Various Windows Operating Systems</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-a-comprehensive-list-of-top-video-making-software-iphone-android/"><u>In 2024, A Comprehensive List of Top Video-Making Software (iPhone, Android)</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-honor-play-8t-drfone-by-drfone-virtual-android/"><u>In 2024, How Do I Stop Someone From Tracking My Honor Play 8T? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-honor-80-pro-straight-screen-edition-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Honor 80 Pro Straight Screen Edition | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-nubia-z50-ultra-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Nubia Z50 Ultra by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-9-tecno-camon-20-premier-5g-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>In 2024, Top 9 Tecno Camon 20 Premier 5G Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-honor-100-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Honor 100 | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-the-ipogo-get-you-banned-and-how-to-solve-it-on-apple-iphone-12-mini-drfone-by-drfone-virtual-ios/"><u>In 2024, Will the iPogo Get You Banned and How to Solve It On Apple iPhone 12 mini | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/radeon-hd-7850-driver-update-free-download-and-installation-tutorial-for-windows-10-users/"><u>Radeon HD 7850 Driver Update: Free Download & Installation Tutorial for Windows 10 Users</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/solutions-to-spy-on-poco-f5-pro-5g-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>Solutions to Spy on Poco F5 Pro 5G with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/stay-ahead-of-tech-trends-with-toms-comprehensive-hardware-reviews/"><u>Stay Ahead of Tech Trends with Tom’s Comprehensive Hardware Reviews</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-9-poco-c55-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 Poco C55 Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-errors-on-roblox-is-the-entire-platform-down-or-just-your-access-point/"><u>Troubleshooting Errors on Roblox: Is The Entire Platform Down or Just Your Access Point?</u></a></li>
+</ul></div>
 
