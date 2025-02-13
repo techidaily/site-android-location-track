@@ -1,7 +1,7 @@
 ---
 title: Solutions to Spy on Itel S23 with and without jailbreak | Dr.fone
-date: 2025-01-25T17:26:03.828Z
-updated: 2025-01-31T04:00:16.113Z
+date: 2025-02-11T17:21:40.970Z
+updated: 2025-02-12T23:02:06.351Z
 tags: 
   - virtual location change
   - location track
@@ -19,6 +19,10 @@ It is no secret that you can easily spy on any iPhone. Many spy or monitoring pr
 
 In this article, we look at how you to spy on an iPhone without needing a jailbreak and how to spy on a jailbroken device or jailbreak a device to facilitate spying.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: How to Spy on iPhone without Jailbreak
 
 The majority of spy apps in the market will only work on a jailbroken device or require you to jailbreak an iPhone before you can use them. While a jailbroken device does have its advantages, it can be quite problematic when you want to spy on an iPhone without alerting the owner to your activities. To begin with, you must have the iPhone to jailbreak it, a factor that makes it easier to get caught trying to spy on the Itel S23 device. Also, it is quite possible no matter how hard you try to hide the jailbreaking app that the owner will realize you have jailbroken their device.
@@ -28,10 +32,6 @@ For the best results you want to use a monitoring program that doesn’t require
 Step 1: Begin by activating iCloud Backup on the target device. Go to Settings and then select “iCloud” to do this. Using mSpy will require iCloud to be activated.
 
 ![Spy on iPhone without Jailbreak-activate iCloud Backup](https://images.wondershare.com/drfone/article/2017/10/15079744896475.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 2: The first step is to create an account with mSpy. You can then purchase a subscription based on the type of information you need from the target device and the duration you want to spend spying on the Itel S23 device.
 
@@ -56,10 +56,6 @@ Step 2: Once the Itel S23 device is successfully jailbroken, create an account w
 Step 3: You can then log in to TurthSpy with your log in information and access all types of data on the target iPhone from any bowser.
 
 ![Spy using Spyware with jailbreak-log in to TurthSpy](https://images.wondershare.com/drfone/article/2017/10/15079742762274.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Both mSpy and TruthSpy will provide you with all the information you need about the target device. The only difference is, you need to jailbreak the Itel S23 device if TruthSpy will be able to access it. Jailbreaking the
 
@@ -97,15 +93,15 @@ Prices start from $16.67/ month
 
 Downloadable from [www.mspy.com](http://mspy.go2cloud.org/SH7G6)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Highster Mobile
 
 This is your app to do everything you want. It's one of the best apps for you. You can do anything from monitoring WhatsApp, Twitter, Facebook, BBM, iMessage, Viber, Skype, Email and Instagram. You can also track location of the Itel S23 device through GPS Tracking and displays on Google map.
 
 ![telegram spy](https://images.wondershare.com/drfone/article/2016/11/14792923372217.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Pros
 
@@ -124,10 +120,6 @@ Cons
 Costs $29.99 per month.
 
 Download it from <http://www.highstermobi.com>
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. [Flexispy](https://www.flexispy.com/)
 
@@ -186,6 +178,10 @@ This one is compatible with any iPhone, Android and Blackberry phone as also iPa
 
 ![telegram spy](https://images.wondershare.com/drfone/article/2016/11/14792926167438.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Pros
 
 • Enables blocking device access or phone calls during certain periods of the day.  
@@ -203,6 +199,10 @@ Cons
 Cost: $49 for six months (for individuals & families); $299 per year (Businesses). Business version offers 5 licenses, for tracking 5 different devices.
 
 Download it at <http://www.phonesheriff.com>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Spyera
 
@@ -230,6 +230,10 @@ Monitor all of your teenager’s sent, received and deleted texts. Also track iM
 
 ![telegram spy](https://images.wondershare.com/drfone/article/2016/11/14792929659462.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Pros
 
 • GPS location with phone’s location history to ensure your  
@@ -249,6 +253,10 @@ Cons
 Cost: 7-day no-cost trial. Subscription starts from $14.95 per month. It may be canceled instantly.
 
 Downloadable at <http://www.teensafe.com/>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. Mobistealth
 
@@ -271,10 +279,6 @@ Cons
 Cost: Basic version for Android : $19.99 (2 weeks); Version for iPhone Pro -- $79.99/ 3 months.
 
 Download it at <http://www.mobistealth.com/>
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 9\. TheOneSpy
 
@@ -303,6 +307,10 @@ This app works in full covert mode and makes all texts and calls accessible. All
 
 ![telegram spy](https://images.wondershare.com/drfone/article/2016/11/14792950996554.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Pros
 
 • Access all apps installed and the games played.  
@@ -320,10 +328,6 @@ Downloadable at <http://www.Mobilespyagent.Com/>
 
 While all these are some great spy apps, mSpy is one of the best bets out there for you.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Top 7 Phone Number Locators To Track Itel S23 Location
 
 Don't we all have those dreaded, unremitting phone calls from an unknown number? Some of us love to not pay a second glance and let it ring to tomorrow. While others don't find a problem with picking up calls from unknown numbers, let us ask you, have you ever regretted taking that call in your life? Maybe, you could have taken a few moments to reconsider... and explore your options!
@@ -335,6 +339,10 @@ Let us present to you this coolest thing you might have yet to hear... phone num
 We will introduce you to the following Phone Number Locators.
 
 - **Recommended android/ios location faker tool: [Virtual Location - the most trustworthy way to fake GPS on iPhone/Android devices](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/).**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. mSpy
 
@@ -389,6 +397,10 @@ This app cannot trace Mobile Ported Numbers and it can only show the State Locat
 - This app isn't globally available as it works only in India, Canada, Pakistan, and the USA.
 - There is no system for tracking any mobile ported number.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Mobile Number Tracker
 
 This app will help you locate a phone based on any number in your locality. Creepy neighbors- watch out!
@@ -396,6 +408,10 @@ This app will help you locate a phone based on any number in your locality. Cree
 This app allows you to track virtual phone numbers, lets you find your target phone's location, and also track the location of unknown mobile numbers. You can even conduct an email address search through this app and the whole service is entirely free!
 
 ![phone number locator-Mobile Number Tracker](https://images.wondershare.com/drfone/article/2017/11/15099056111058.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Features**
 
@@ -416,10 +432,6 @@ This app allows you to track virtual phone numbers, lets you find your target ph
 - The quality of the services has been questioned by their followers.
 - It's mandatory to have an Internet connection.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Caller ID & Number Locator
 
 This app takes the cup for the day. With the phone number locator feature, it also comes with a call identifier.
@@ -427,10 +439,6 @@ This app takes the cup for the day. With the phone number locator feature, it al
 With this, you can search and pinpoint the location of any mobile number or a fixed-line phone number in the world. This locator will run a database check to pull the exact location out for you, and moreover, it prints the same on the Google map to show you the target's phone's geographical location! Sounds cool, eh?
 
 ![phone number locator-Caller ID and Number Locator](https://images.wondershare.com/drfone/article/2017/11/15099056309953.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Features**
 
@@ -460,10 +468,6 @@ You don't have to worry about telemarketers calling you or robocalls anymore. Sp
 
 ![phone number locator-Truecaller](https://images.wondershare.com/drfone/article/2017/11/15099056551018.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Features**
 
 - This renowned app has got a block feature.
@@ -492,10 +496,6 @@ This iPhone-based software works on simple terms- all you must do is copy-paste 
 It works expeditiously as they have got a working database system. With the ready-made information just beneath your fingertips, it makes it even better for you as you can carry on with your expeditions with unknown numbers both offline and online!
 
 ![phone number locator-Number Locator](https://images.wondershare.com/drfone/article/2017/11/15099056808912.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Features**
 
@@ -562,24 +562,16 @@ Where do you think these creators of number locators gather all this personal in
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/nsuring-copyright-compliance-in-youtube-to-mp4/"><u>[New] Ensuring Copyright Compliance in Youtube-to-MP4</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-discovering-one-platform-play-in-apex-legends-without-cross-play-complications-for-2024/"><u>[Updated] Discovering One-Platform Play in Apex Legends Without Cross-Play Complications for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-final-cut-pro-full-using-guide-for-2024/"><u>[Updated] Final Cut Pro Full Using Guide for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-capturing-every-angle-top-choice-pro-360cameras-of-2023/"><u>[Updated] In 2024, Capturing Every Angle Top Choice Pro 360°Cameras of 2023</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-go-from-gaming-to-socializing-streaming-xbox-to-fb-live/"><u>[Updated] In 2024, Go From Gaming to Socializing Streaming Xbox to FB Live</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-infinix-note-30i-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Infinix Note 30i Activity | Dr.fone</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/5-best-photo-video-maker-with-music-you-should-know-for-2024/"><u>5 Best Photo Video Maker With Music You Should Know for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-lava-yuva-2-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Lava Yuva 2 | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-meizu-21-pro-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Meizu 21 Pro | Dr.fone</u></a></li>
-<li><a href="https://solve-info.techidaily.com/addingremoving-users-seamlessly-with-yl-computing-a-step-by-step-guide/"><u>Adding/Removing Users Seamlessly with YL Computing - A Step-by-Step Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ceramic-coatings-are-highly-resistant-to-acidic-environments-but-may-be-less-effective-in-situations-requiring-high-impact-resistance/"><u>Ceramic Coatings Are Highly Resistant to Acidic Environments but May Be Less Effective in Situations Requiring High Impact Resistance.</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/harness-the-power-of-cookiebot-next-gen-personalization-for-your-website/"><u>Harness the Power of Cookiebot: Next-Gen Personalization for Your Website</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-oppo-a78-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Oppo A78 Location by Number | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-3-ways-to-track-honor-x7b-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Track Honor X7b without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-samsung-galaxy-m14-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Check Distance and Radius on Google Maps For your Samsung Galaxy M14 4G | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-oppo-a59-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Best Spy Watches For your Oppo A59 5G | Dr.fone</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ly-path-to-youtubes-hidden-treasure-troves/"><u>Orderly Path to YouTube's Hidden Treasure Troves</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-samsung-galaxy-m54-5g-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for Samsung Galaxy M54 5G | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-7-phone-number-locators-to-track-oneplus-12r-location-drfone-by-drfone-virtual-android/"><u>Top 7 Phone Number Locators To Track OnePlus 12R Location | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-unrivaled-tag-analyzers-your-key-to-hashtag-success-fbtwitterinsta/"><u>[New] In 2024, Unrivaled Tag Analyzers Your Key to Hashtag Success (FB/Twitter/Insta)</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-recordingquality-analysis-for-2024/"><u>[New] RecordingQuality Analysis for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-instagram-image-integration-made-simple/"><u>[Updated] Instagram Image Integration Made Simple</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/comment-combiner-des-videos-mp4-en-une-seule-piece-guide-complet/"><u>Comment Combiner Des Vidéos MP4 en Une Seule Pièce: Guide Complet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/essential-tips-for-selecting-your-ideal-study-companion-a-students-tech-handbook/"><u>Essential Tips for Selecting Your Ideal Study Companion - A Student's Tech Handbook</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-motorola-defy-2-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Motorola Defy 2 | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-realme-gt-5-drfone-by-drfone-virtual-android/"><u>How to Spy on Text Messages from Computer & Realme GT 5 | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-xiaomi-redmi-note-12-5g-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Xiaomi Redmi Note 12 5G Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-motorola-moto-g23-drfone-by-drfone-virtual-android/"><u>In 2024, Best Anti Tracker Software For Motorola Moto G23 | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722965862579-quick-guide-get-your-ft232r-serial-communication-drivers-now/"><u>Quick Guide: Get Your FT232R Serial Communication Drivers Now!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-stop-disco-elysium-from-crashing-on-windows-and-mac/"><u>Troubleshooting Guide: Stop Disco Elysium From Crashing on Windows & Mac</u></a></li>
 </ul></div>
 

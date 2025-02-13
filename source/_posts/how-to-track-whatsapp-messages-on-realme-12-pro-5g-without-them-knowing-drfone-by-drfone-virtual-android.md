@@ -1,7 +1,7 @@
 ---
 title: How to Track WhatsApp Messages on Realme 12 Pro 5G Without Them Knowing? | Dr.fone
-date: 2024-09-13T03:05:24.068Z
-updated: 2024-09-19T22:22:41.753Z
+date: 2025-02-05T23:26:40.910Z
+updated: 2025-02-12T18:15:19.987Z
 tags: 
   - virtual location change
   - location track
@@ -39,6 +39,10 @@ Finally, point the Realme 12 Pro 5G device's camera toward the QR code displayed
 
 ![use whatsapp web](https://images.wondershare.com/drfone/article/2023/07/track-whatsapp-messages-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 2. Use WhatsApp Linked Devices to Track WhatsApp Messages
 
 WhatsApp Linked Devices is a feature introduced by WhatsApp. It allows users to connect their WhatsApp accounts to multiple devices simultaneously. This feature enables seamless synchronization of messages across devices. Thus, it can be used to track WhatsApp messages. To set up WhatsApp Linked Devices, you will need physical access to the targeted device.
@@ -46,13 +50,6 @@ WhatsApp Linked Devices is a feature introduced by WhatsApp. It allows users to 
 Launch WhatsApp on the Realme 12 Pro 5G device, go to the menu, and select "Linked Devices." Now tap "Link a device" and use the QR code scanner to scan the code on your device. Once devices are linked, it will allow you to track the WhatsApp messages of the targeted person. Using this method needs physical access to the targeted device along with stable internet.
 
 ![link whatsapp to another device](https://images.wondershare.com/drfone/article/2023/07/track-whatsapp-messages-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 3. Use Google Drive Backup to Read Someone’s WhatsApp Messages
 
@@ -77,6 +74,10 @@ After purchasing the mSpy package of your choice, open the email to receive logi
 **Step 1:** After selecting "Android" as the smartphone type, get physical access to the Realme 12 Pro 5G device. Now enable “Installation from Unknown Sources” and disable Google Play Protect. When done, tap “Proceed” in your mSpy account, which will take you to a screen with the URL.
 
 ![allow installation from unknown sources](https://images.wondershare.com/drfone/article/2023/07/track-whatsapp-messages-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 2:** Take the URL and type it into the Google Chrome browser of the targeted Android device. It is important to remember that you need to use Google Chrome, as other browsers won’t work. Once the URL is typed in, press “Go.”
 
@@ -166,6 +167,10 @@ Now, use the search box on the top left to enter your desired location. Once the
 
 ![press the move here button](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
 
 ## Part 5: How To See Deleted Messages on WhatsApp?
@@ -177,10 +182,7 @@ The app is available for Android devices and can recover your lost data with a h
 ![dr.fone data and photo recovery app](https://images.wondershare.com/drfone/article/2023/07/track-whatsapp-messages-15.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
-  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 6: Frequently Asked Questions
@@ -205,6 +207,10 @@ In conclusion, tracking WhatsApp messages can be helpful in various scenarios. T
 
 When it comes to spoofing your WhatsApp location to avoid being tracked by others, one recommended solution is Dr.Fone - Virtual Location. It offers a reliable and effective way to change your GPS location. By using this tool, you can easily set a different location on your device. Moreover, It will add an added layer of privacy and security.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How Do I Stop Someone From Tracking My Realme 12 Pro 5G?
 
 It has now become very easy to track a Smartphone using the GPS features of the phone. This can be done by tracking the phone number based on information derived from mobile carriers and also from the GPS chip on the phone which is used by certain apps in order to function well.
@@ -226,6 +232,10 @@ The sections below will show you how to stop someone from tracking your iPhone w
 ## Part 2: How to stop my iPhone from being tracked?
 
 If you have an iPhone, the following methods can be used to stop someone from tracking your device
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1) Use [Dr.Fone - Virtual Location(iOS/Android)](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
 
@@ -288,6 +298,10 @@ You may turn off location tracking for specific apps that you feel might be used
 
 - Now toggle the button to the right to turn it into the "OFF" position
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 5) Disable location-based notifications or alerts
 
 Navigate to the "Settings" app on your Home screen
@@ -304,9 +318,17 @@ Toggle the button on the right side of "Location-Based Alerts" into the "OFF" po
 
 ![Toggle Location-Based Alerts to the “Off” position](https://images.wondershare.com/drfone/2020/iphone-disable-location-based-alerts-6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3:How to stop my android from being tracked
 
 You also need to know how to stop Google from tracking your Realme 12 Pro 5G. This feature can be used to track your device through other apps.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1) Stop Google Tracking on Android device
 
@@ -355,13 +377,6 @@ This is an app that you can download to your android device from Google Play Sto
 
 ![android pokemon go spoofing 5](https://images.wondershare.com/drfone/article/2019/09/android-pokemon-go-spoofing-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
-  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - To actually change the virtual location of your device, launch Fake GPs Go once more and then access the map interface. Choose a location far from your actual location and then pin it as your "real" location. This will instantly show that you have moved to this new location and throw off people who are tracking your Realme 12 Pro 5G.
 
 ![android pokemon go spoofing 6](https://images.wondershare.com/drfone/article/2019/09/android-pokemon-go-spoofing-6.jpg)
@@ -399,13 +414,6 @@ But before we move ahead and explain how to track your lost phone for free with 
 Step 1. You will first need to ensure that the Find My iPhone feature is enabled on your device. This can be easily done by first launching the settings app on your iPhone, tapping on Apple ID at the top, and then iCloud and then Find My iPhone. Lastly, tab to enable it.
 
 ![track your lost phone for free with iCloud](https://images.wondershare.com/drfone/article/2017/10/15080421681564.jpeg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step 2. Now it’s time to hit the cloud—iCloud we mean! First things first—head to <www.iCloud.com> from any browser and login with your credentials. From the dashboard, click on Find iPhone in the second row and enter your Apple ID and password if prompted. Since you may have several Apple devices connected with the same iCloud account, click on All Devices at the top, and select the Realme 12 Pro 5G device you wish to track from the dropdown.
 
@@ -448,10 +456,7 @@ Sometimes however, you will want to do a lot more than track a device such as kn
 ![Track Mobile Phone via Spyera](https://images.wondershare.com/drfone/article/2022/03/clone-phone-number-spyera.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 4: How to Track someone’s Phone via mSpy?
@@ -484,5 +489,22 @@ When it comes to finding a solution to locating your cell phone in the event it 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-top-5-eco-conscious-filmmaking-advances/"><u>[New] In 2024, Top 5 Eco-Conscious Filmmaking Advances</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-essential-10-drone-powerhouses-for-industrial-use/"><u>[Updated] Essential 10 Drone Powerhouses for Industrial Use</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-expert-strategies-for-backdrop-displacement-in-photoshops-offspring-affinity-photo/"><u>[Updated] Expert Strategies for Backdrop Displacement in Photoshop's Offspring, Affinity Photo</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-oneplus-ace-2v-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor OnePlus Ace 2V Activity | Dr.fone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-2023s-premier-entryway-toolkit-across-devices/"><u>In 2024, 2023'S Premier Entryway Toolkit Across Devices</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-nokia-c02-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for Nokia C02 | Dr.fone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-erase-the-obvious-techniques-for-masked-youtube-content/"><u>In 2024, Erase the Obvious Techniques for Masked YouTube Content</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-realme-11-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Remove Spyware on Realme 11 Pro+? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-xiaomi-redmi-note-12r-for-free-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track a Lost Xiaomi Redmi Note 12R for Free? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-realme-11-proplus-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Realme 11 Pro+ Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mpg-to-webm-conversion-tool-convert-videos-for-free-with-movavi/"><u>MPG to WebM Conversion Tool - Convert Videos for Free with Movavi</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/south-korea-rok/"><u>South Korea (ROK)</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-tracking-apps-to-track-samsung-galaxy-f54-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>Top 5 Tracking Apps to Track Samsung Galaxy F54 5G without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/ultimate-guide-restoring-files-from-the-windowsold-folder/"><u>Ultimate Guide: Restoring Files From the 'Windows.old' Folder</u></a></li>
+<li><a href="https://driver-error.techidaily.com/validating-corrected-service-inf-setup/"><u>Validating Corrected Service INF Setup</u></a></li>
+</ul></div>
 

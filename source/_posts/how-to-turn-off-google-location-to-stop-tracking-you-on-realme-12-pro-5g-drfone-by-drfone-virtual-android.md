@@ -1,7 +1,7 @@
 ---
 title: How to Turn Off Google Location to Stop Tracking You on Realme 12 Pro 5G | Dr.fone
-date: 2024-09-15T18:11:21.634Z
-updated: 2024-09-20T02:57:47.186Z
+date: 2025-02-11T20:37:11.634Z
+updated: 2025-02-12T20:04:17.631Z
 tags: 
   - virtual location change
   - location track
@@ -29,6 +29,10 @@ Location data generally helps us find reliable directions and pinpoint a particu
 
 ![google products](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-1.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Of course, Google Maps and Weather will not work without access to location data. It is the main component that allows this kind of application to function exactly as it should. That’s why you should think twice before you turn off Google location tracking. Keep it activated on your mobile device if you’re in need of real-time weather updates or reliable coordinates.
 
 ### It is used for targeted advertisements
@@ -55,13 +59,6 @@ We all know that Google is committed to offering us new products and improving i
 
 There’s no denying that Google uses location information to give us the best experience possible. However, it doesn’t necessarily mean there is no risk at all. We cannot rule out the possibility of data breaches and disclosure of location information that is supposed to be private. If you’re worried about this kind of situation, you can prevent it from happening in a snap of a finger. Check out the four methods below on how to turn off Google location tracking on your Realme 12 Pro 5G smartphone.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Method 1: Turn off the location services on your Realme 12 Pro 5G mobile device
 
 “How to stop Google from tracking me?” Well, it’s actually very easy. You just need to deactivate the location service on your Realme 12 Pro 5G mobile device. After that, Google and other GPS-based applications on your smartphone will immediately lose access to your location data. Do you want to try it now? Check out the tutorial below on how to turn off Google location tracking by deactivating the location services on your phone.
@@ -75,6 +72,10 @@ There’s no denying that Google uses location information to give us the best e
 ![location services](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-4.jpg)
 
 **Step 4:** Lastly, click **Close** to confirm the changes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 2: Deactivate the Google App’s location access on your Realme 12 Pro 5G mobile device
 
@@ -90,16 +91,13 @@ Let’s say you don’t want to cut the entire location access across your smart
 
 ![google on app list](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 4:** Click **Permissions.**
 
 ![google app permissions](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-7.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 5:** Click **Location.**
 
@@ -125,19 +123,6 @@ Timeline is a special Google feature that keeps a record of your location check-
 
 ![google app account](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-11.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 4:** Click **Data Privacy.**
 
 ![data and privacy settings](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-12.jpg)
@@ -146,23 +131,9 @@ Timeline is a special Google feature that keeps a record of your location check-
 
 ![timeline settings](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-13.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 6:** Scroll down and then tap the **Turn Off** button.
 
 ![turn off timeline settings](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-14.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### For web users
 
@@ -218,9 +189,17 @@ Google surely understands that some users are uncomfortable sharing their wherea
 
 ![read location description](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 7:** The location registered on your Realme 12 Pro 5G mobile device will now be replaced with your modified whereabouts. Verify the changes applied on your smartphone by checking Google Maps and searching for your current location. One way or another, it must show the altered result.
 
 **NOTE:** If you want to restore your original location settings, simply disconnect your smartphone from the computer and restart it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -261,6 +240,10 @@ Their monitoring service works irrespective of the cellular carrier network or t
 
 - This product can't be used on an iPhone unless you jailbreak it.
 - It can show you the results you want only if the target device has got an Internet connection.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Mobile Number Locator
 
@@ -326,6 +309,10 @@ With this, you can search and pinpoint the location of any mobile number or a fi
 
 ![phone number locator-Caller ID and Number Locator](https://images.wondershare.com/drfone/article/2017/11/15099056309953.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Features**
 
 - This software works through a database of added information on more than 12,982 cities.
@@ -353,6 +340,10 @@ It is cited to be the best caller ID app and it even blocks danger-rangers, thei
 You don't have to worry about telemarketers calling you or robocalls anymore. Spammers can't make an appearance ever again and consider yourself safe for life.
 
 ![phone number locator-Truecaller](https://images.wondershare.com/drfone/article/2017/11/15099056551018.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Features**
 
@@ -451,6 +442,10 @@ IMEI information: This is information that can be tracked using data that is fou
 The apps that are used by people to track mobile devices will track one of these two features. If you do not want to be tracked, then you have to find ways in which to disable these functions.
 
 The sections below will show you how to stop someone from tracking your iPhone with ease.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: How to stop my iPhone from being tracked?
 
@@ -602,6 +597,10 @@ This is yet another tool that you can use to fake your GPS location and fool peo
 
 ![android pokemon go spoofing 8](https://images.wondershare.com/drfone/article/2019/09/android-pokemon-go-spoofing-8.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## In Conclusion
 
 If you want to stop Google from tracking your location, these are the methods that you should use to turn off your GPS location on both iOS and Android. You need to know that you are safe all the time and this is a step that you should take when you feel like you are being tracked for nefarious reasons. However, you should do this with caution as the information can also be used in a beneficial manner. The best option is to turn on the GPS when you need it and then turn it off when you do not, or use an iOS spoofing tool.
@@ -618,5 +617,18 @@ If you want to stop Google from tracking your location, these are the methods th
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-gifs-that-speak-volumes-unveiling-6-critical-strategies-for-memetic-design-for-2024/"><u>[New] GIFs That Speak Volumes Unveiling 6 Critical Strategies for Memetic Design for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-hold-whole-page-snapshot-image/"><u>[Updated] 2024 Approved Hold Whole Page Snapshot Image</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-virtual-venue-video-verifier/"><u>[Updated] 2024 Approved Virtual Venue Video Verifier</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-inspirational-movies-fuel-for-the-soul-and-spirit-for-2024/"><u>[Updated] Inspirational Movies Fuel for the Soul and Spirit for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-skyrocketing-subscribers-5-proven-strategies-for-igtv-success/"><u>2024 Approved Skyrocketing Subscribers 5 Proven Strategies for IGTV Success</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-zte-axon-40-lite-drfone-by-drfone-virtual-android/"><u>How to Detect and Remove Spyware on ZTE Axon 40 Lite? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-xiaomi-13t-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Xiaomi 13T Activity | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-realme-v30t-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your Realme V30T Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-exploring-the-depths-of-firefox-pip-feature/"><u>In 2024, Exploring the Depths of Firefox PIP Feature</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-oppo-reno-11-pro-5g-location-by-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Oppo Reno 11 Pro 5G Location by Number | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/preserving-your-periscope-content-a-detailed-process/"><u>Preserving Your Periscope Content A Detailed Process</u></a></li>
+</ul></div>
 

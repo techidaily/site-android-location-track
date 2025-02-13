@@ -1,7 +1,7 @@
 ---
 title: How to Check Distance and Radius on Google Maps For your Realme 12 Pro+ 5G | Dr.fone
-date: 2024-09-13T03:40:07.592Z
-updated: 2024-09-19T18:18:20.182Z
+date: 2025-02-10T18:48:54.231Z
+updated: 2025-02-12T20:51:16.803Z
 tags: 
   - virtual location change
   - location track
@@ -46,11 +46,19 @@ Consider the example of the circle tool of Map Developers that we have discussed
 
 ![google maps distance radius 4](https://images.wondershare.com/drfone/2023/virtuallocation/google-maps-distance-radius-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - _KML Circle Generator_
 
 If you know the exact longitude and latitude of the place, then you can also take the assistance of KML Circle Generator. In this, you would have to specify the exact coordinates of the place and the Google Maps distance radius value. After entering the relevant details, you can proceed and draw the radius distance on Google Maps.
 
 ![google maps distance radius 5](https://images.wondershare.com/drfone/2023/virtuallocation/google-maps-distance-radius-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: Determine the Distance between two Addresses on Google Maps
 
@@ -68,6 +76,10 @@ This is one of the most resourceful features of Google Maps that a lot of people
 
 ![google maps distance radius 8](https://images.wondershare.com/drfone/2023/virtuallocation/google-maps-distance-radius-8.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 1. If you want to continue, then just click anywhere else on the map and that will be considered as the next spot. Therefore, you can just click as many times as you want to let Google Maps calculate distance between multiple locations.
 
 ![google maps distance radius 9](https://images.wondershare.com/drfone/2023/virtuallocation/google-maps-distance-radius-9.jpg)
@@ -75,6 +87,10 @@ This is one of the most resourceful features of Google Maps that a lot of people
 This technique will let you measure distance between any addresses on Google Maps. It doesn’t matter if it is your present location or not. If you want to measure distance in some other location, then just enter its name in the search bar to load it. In this way, you can measure distance anywhere in the world by sitting in your home.
 
 This brings us to the end of this extensive guide on using Google Maps distance and radius features. As you can see, I have provided a smart and user-friendly solution to draw radius distance on Google Maps. Besides that, you can also follow the above guide to measure distance between two addresses on Google Maps. In the same way, you can also let Google Maps calculate distance between multiple locations as well. Go ahead and try these Google Maps distance and radius hacks and share your experience with us in the comments below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### [Dr.Fone - Virtual Location](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
 
@@ -87,13 +103,6 @@ This brings us to the end of this extensive guide on using Google Maps distance 
 - Work with location-based apps, like [Pokemon Go](https://drfone.wondershare.com/virtual-location/pokemon-go-spoofing-ios.html), [Snapchat](https://drfone.wondershare.com/virtual-location/fake-snapchat-location.html), [Instagram](https://drfone.wondershare.com/virtual-location/how-to-change-region-on-instagram.html), [Facebook](https://drfone.wondershare.com/virtual-location/fake-location-on-facebook.html), etc.
 
 **3981454** people have downloaded it
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## You Might Also Like
 
@@ -173,13 +182,6 @@ Costs $29.99 per month.
 
 Download it from <http://www.highstermobi.com>
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. [Flexispy](https://www.flexispy.com/)
 
 FlexiSPY is compatible with mobile platforms such as iPhone, Android, iPad, Nokia Symbian and Blackberry. Enables recording and monitoring of text messages, GPS locations, phone calls, Viber, Facebook, BBM, WhatsApp chats, iMessages, Skype messages, videos and photos, websites surfed and email.
@@ -237,6 +239,10 @@ This one is compatible with any iPhone, Android and Blackberry phone as also iPa
 
 ![telegram spy](https://images.wondershare.com/drfone/article/2016/11/14792926167438.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Pros
 
 • Enables blocking device access or phone calls during certain periods of the day.  
@@ -254,6 +260,10 @@ Cons
 Cost: $49 for six months (for individuals & families); $299 per year (Businesses). Business version offers 5 licenses, for tracking 5 different devices.
 
 Download it at <http://www.phonesheriff.com>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Spyera
 
@@ -274,13 +284,6 @@ Cons
 Cost: $189 for three months; $ 489 for 1 year
 
 Downloadable from <https://spyera.com>
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Teensafe
 
@@ -448,13 +451,6 @@ Let’s say you don’t want to cut the entire location access across your smart
 
 ![google app permissions](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 5:** Click **Location.**
 
 ![location access for google](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-8.jpg)
@@ -483,6 +479,10 @@ Timeline is a special Google feature that keeps a record of your location check-
 
 ![data and privacy settings](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-12.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 5:** Find and click **Timeline.**
 
 ![timeline settings](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-13.jpg)
@@ -503,6 +503,10 @@ Timeline is a special Google feature that keeps a record of your location check-
 
 ![turn off timeline](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-16.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 4: Remove visits on Google Maps
 
 If Timeline is previously activated on your Realme 12 Pro+ 5G, chances are Google Maps has recorded all your recent visits. Don’t worry. You can easily delete them and finally turn off Google location tracking once and for all. Here’s a short guide on how to do it in easy steps.
@@ -516,13 +520,6 @@ If Timeline is previously activated on your Realme 12 Pro+ 5G, chances are Googl
 **Step 3:** Then click **Your Timeline.**
 
 ![google maps your timeline](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-18.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 4:** Click **Places.** Scroll down and then click **Visited All Places** just below the map.
 
@@ -548,6 +545,10 @@ Google surely understands that some users are uncomfortable sharing their wherea
 
 ![enter your preferred location](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 6:** The description of your chosen location will be then flashed on the screen. Read the details and make sure they are accurate. After that, click **Move Here** to proceed.
 
 ![read location description](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
@@ -555,6 +556,10 @@ Google surely understands that some users are uncomfortable sharing their wherea
 **Step 7:** The location registered on your Realme 12 Pro+ 5G mobile device will now be replaced with your modified whereabouts. Verify the changes applied on your smartphone by checking Google Maps and searching for your current location. One way or another, it must show the altered result.
 
 **NOTE:** If you want to restore your original location settings, simply disconnect your smartphone from the computer and restart it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -572,5 +577,26 @@ At some point, we cannot deny that Google location services make our lives a lot
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-boosting-game-speed-optimizing-minecrafts-ram-usage/"><u>[New] 2024 Approved Boosting Game Speed Optimizing Minecraft's RAM Usage</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/he-essential-blueprint-to-compiling-youtube-soundscape/"><u>[New] The Essential Blueprint to Compiling YouTube Soundscape</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-game-on-with-more-space-topping-10-hddssds-for-2024/"><u>[Updated] Game On with More Space Topping 10 HDD/SSDs for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-ways-to-track-nubia-z50-ultra-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track Nubia Z50 Ultra without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/best-anti-tracker-software-for-infinix-gt-10-pro-drfone-by-drfone-virtual-android/"><u>Best Anti Tracker Software For Infinix GT 10 Pro | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/complete-guide-on-unlocking-apple-iphone-xr-with-a-broken-screen-drfone-by-drfone-ios/"><u>Complete Guide on Unlocking Apple iPhone XR with a Broken Screen? | Dr.fone</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/einfache-schritte-zur-installation-und-entfernung-von-anwendungen/"><u>Einfache Schritte Zur Installation Und Entfernung Von Anwendungen</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/embrace-the-pause-button-3-techniques-for-decelerating-youtube-video-playback-59-chars-slight-overage-with-rich-content-justification-for-2024/"><u>Embrace the Pause Button 3 Techniques for Decelerating YouTube Video Playback (59 Chars, Slight Overage with Rich Content Justification) for 2024</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/essential-high-tech-christmas-gifting-ideas-a-selection-curated-by-how-to-geek/"><u>Essential High-Tech Christmas Gifting Ideas - A Selection Curated by How-To Geek</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-tecno-pova-5-pro-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Tecno Pova 5 Pro Pattern Lock Screen</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-zte-nubia-flip-5g-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track ZTE Nubia Flip 5G Location by Number | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-meizu-21-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Meizu 21? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-realme-c55-for-free-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track a Lost Realme C55 for Free? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-nokia-c02-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Nokia C02 by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-oneplus-nord-3-5g-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track OnePlus Nord 3 5G Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-turn-off-google-location-to-stop-tracking-you-on-vivo-v27-drfone-by-drfone-virtual-android/"><u>In 2024, How to Turn Off Google Location to Stop Tracking You on Vivo V27 | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-9-xiaomi-redmi-a2-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>In 2024, Top 9 Xiaomi Redmi A2 Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-7-phone-number-locators-to-track-vivo-s17t-location-drfone-by-drfone-virtual-android/"><u>Top 7 Phone Number Locators To Track Vivo S17t Location | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/winxdvd-dvd-ripping-software-video-format-changer-and-ios-device-migration-utility/"><u>WinXDVD - Dvd Ripping Software, Video Format Changer, and iOS Device Migration Utility</u></a></li>
+</ul></div>
 

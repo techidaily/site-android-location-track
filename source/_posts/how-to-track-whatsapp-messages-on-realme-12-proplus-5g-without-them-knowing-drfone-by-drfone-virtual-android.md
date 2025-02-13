@@ -1,7 +1,7 @@
 ---
 title: How to Track WhatsApp Messages on Realme 12 Pro+ 5G Without Them Knowing? | Dr.fone
-date: 2024-09-16T19:15:38.759Z
-updated: 2024-09-20T01:46:25.752Z
+date: 2025-02-08T21:16:31.812Z
+updated: 2025-02-12T19:10:38.581Z
 tags: 
   - virtual location change
   - location track
@@ -29,6 +29,10 @@ That means it is unlikely that tracking could be done directly through the app's
 
 Nowadays, the demand for monitoring WhatsApp messages has increased significantly. It is mainly due to the rise of cybercrimes. However, it's important to note that the most reliable tracking solutions often come with a price tag. That being said, a few free methods are available to answer **how to spy on WhatsApp messages Android free**. In this section, we will explore these options and their limitation:
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 1. Use Online WhatsApp Web to Track WhatsApp Messages
 
 [WhatsApp Web](https://drfone.wondershare.com/whatsapp/whatsapp-web-not-working.html) is a feature provided by WhatsApp. It allows users to access their WhatsApp accounts on a web browser. That makes it a convenient way to track WhatsApp messages remotely. However, it is as long as you can access the target device for the initial setup. To set up WhatsApp Web, you will need physical access to the Realme 12 Pro+ 5G device on which the targeted WhatsApp account is active.
@@ -52,6 +56,10 @@ Launch WhatsApp on the Realme 12 Pro+ 5G device, go to the menu, and select "Lin
 WhatsApp provides the option to back up chats and media to cloud storage platforms like Google Drive. This feature is primarily designed for users to restore their data. However, It can be utilized to access and read someone else's WhatsApp messages. That is possible if you have access to their Google account.
 
 To use this method, you will need to physically access the Realme 12 Pro+ 5G device or need a device with the targeted Google account logged in. Here navigate to Google Drive and find the WhatsApp backup file. Download these files on your device and use a third-party tool to decrypt the files.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: How To Track WhatsApp Messages Without Them Knowing?
 
@@ -93,13 +101,6 @@ After purchasing the mSpy package of your choice, open the email to receive logi
 
 ![click on proceed](https://images.wondershare.com/drfone/article/2023/07/track-whatsapp-messages-7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 2:** Start by clicking “Proceed” in your mSpy account and inserting the Apple ID credentials of the targeted device. Now, press "Verify," and if 2FA is enabled, you will see an option to send the verification code. Use the code received on the targeted device to complete the verification process.
 
 ![verify the apple id](https://images.wondershare.com/drfone/article/2023/07/track-whatsapp-messages-8.jpg)
@@ -109,10 +110,7 @@ After purchasing the mSpy package of your choice, open the email to receive logi
 ![press the finish button](https://images.wondershare.com/drfone/article/2023/07/track-whatsapp-messages-9.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 4:** Once mSpy has accessed the data, select “WhatsApp” from the left side to access WhatsApp chats. Here you can track all the incoming and outgoing messages remotely.
@@ -145,6 +143,14 @@ It allows you to track the sequence and timing of conversations. The MaxxSpy app
 
 ![use maxxspy dashboard](https://images.wondershare.com/drfone/article/2023/07/track-whatsapp-messages-12.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 4: How To Fake Your WhatsApp Location To Avoid Being Tracked by Others?
 
 Maintaining privacy in the digital world has become increasingly important. If you wish to prevent WhatsApp trackers from tracking your actual location on WhatsApp, there are methods available to fake your location. One such method is using a location spoofing app. These apps allow you to set a fake GPS location, which WhatsApp and other apps on your device will use.
@@ -174,13 +180,6 @@ Now, use the search box on the top left to enter your desired location. Once the
 ![press the move here button](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 5: How To See Deleted Messages on WhatsApp?
 
@@ -240,13 +239,6 @@ Step 4. Click on the Find iPhone button located in the second row.
 
 ![track a cell phone-use Apple’s iCloud](https://images.wondershare.com/drfone/article/2017/10/15082095511390.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 5. From here, you will need to click the dropdown labeled All Devices and select the target device. Once you select the Realme 12 Pro+ 5G device you wish to locate, you can either erase your iPhone, send an audible alert or lock the Realme 12 Pro+ 5G device.
 
 ![track a cell phone-select the Realme 12 Pro+ 5G device you wish to locate](https://images.wondershare.com/drfone/article/2017/10/15082095893194.jpeg)
@@ -284,6 +276,10 @@ Billed as the ultimate software for parental control, [mSpy](http://mspy.go2clou
 Step 1. After selecting the right plan for your needs, you will have to register the software.
 
 ![track a cell phone via mSpy-register the software](https://images.wondershare.com/drfone/article/2017/10/15082100202731.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 2. Next, you will have to set up the app with information on your target device and that’s it! You can now access the mSpy dashboard and begin tracking your cell phone location.
 
@@ -327,9 +323,17 @@ The majority of online advertisements scattered all over the internet are run by
 
 The same thing goes for Google search results. This query engine uses location data to provide information relevant to the specific needs of the user. Let’s say you’re currently residing in Japan and looking for nearby coffee shops. Of course, it will be unhelpful if Google dispenses a list of coffee shops that aren’t located in your country. That’s why you shouldn’t turn off Google location tracking on your smartphone if you’re looking for precise and pertinent answers.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### It is used by Google to implement certain security protocols
 
 Google uses location data to keep your accounts safe from potential attacks and security breaches. How so? Well, Google immediately sends alerts whenever your account is used from an unusual location. Another thing is that strange activities on your account are promptly detected with the aid of location information. Simply put, allowing Google to access your whereabouts is the least you can do to protect your digital assets. Hence, don’t turn off Google location tracking on your Realme 12 Pro+ 5G smartphone if you need such assistance.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### It is utilized for research and further improvements of Google services
 
@@ -364,6 +368,10 @@ Let’s say you don’t want to cut the entire location access across your smart
 **Step 2:** Click **Apps.**
 
 ![app list](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 3:** Find and click **Google** on the list.
 
@@ -400,13 +408,6 @@ Timeline is a special Google feature that keeps a record of your location check-
 **Step 4:** Click **Data Privacy.**
 
 ![data and privacy settings](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-12.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 5:** Find and click **Timeline.**
 
@@ -470,6 +471,10 @@ Google surely understands that some users are uncomfortable sharing their wherea
 
 ![read location description](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 7:** The location registered on your Realme 12 Pro+ 5G mobile device will now be replaced with your modified whereabouts. Verify the changes applied on your smartphone by checking Google Maps and searching for your current location. One way or another, it must show the altered result.
 
 **NOTE:** If you want to restore your original location settings, simply disconnect your smartphone from the computer and restart it.
@@ -490,5 +495,23 @@ At some point, we cannot deny that Google location services make our lives a lot
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-good-to-great-videos-the-20-essential-shortcuts-for-success/"><u>[New] 2024 Approved From Good to Great Videos The 20 Essential Shortcuts for Success</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-quantum-hdr-everything-you-may-want-to-know-about-quantum-hdr/"><u>[New] In 2024, Quantum HDR Everything You May Want to Know About Quantum HDR</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-ultimate-mac-guide-to-saving-roblox-adventures/"><u>[New] Ultimate Mac Guide to Saving Roblox Adventures</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-no-cost-digital-revenue-prognosticator/"><u>[Updated] No-Cost Digital Revenue Prognosticator</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-motorola-defy-2-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Motorola Defy 2 Activity | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/effortless-workflow-microsoft-adds-an-ai-powered-assistant-to-the-windows-11-taskbar/"><u>Effortless Workflow: Microsoft Adds an AI-Powered Assistant to the Windows 11 Taskbar</u></a></li>
+<li><a href="https://win-superb.techidaily.com/essential-guide-configuring-vmware-vcenter-role-based-access-control/"><u>Essential Guide: Configuring VMware vCenter Role-Based Access Control</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-lava-blaze-2-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Lava Blaze 2 Location by Number | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-honor-magic-v2-online-without-jailbreak-by-drfone-android/"><u>How to Unlock SIM Card on Honor Magic V2 online without jailbreak</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-vivo-x90s-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On Vivo X90S for Parents | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-6-appsservices-to-trace-any-sony-xperia-5-v-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, Top 6 Apps/Services to Trace Any Sony Xperia 5 V Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/the-trap-of-tricksy-traffic-instagrams-hidden-hazard-for-2024/"><u>The Trap of Tricksy Traffic Instagram's Hidden Hazard for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-motorola-edge-40-neo-device-by-drfone-android/"><u>The Ultimate Guide How to Bypass Swipe Screen to Unlock on Motorola Edge 40 Neo Device</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-realme-12plus-5g-for-parents-drfone-by-drfone-virtual-android/"><u>Top 10 Telegram Spy Tools On Realme 12+ 5G for Parents | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-4-ways-to-trace-huawei-nova-y91-location-drfone-by-drfone-virtual-android/"><u>Top 4 Ways to Trace Huawei Nova Y91 Location | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-nokia-c22-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for Nokia C22 | Dr.fone</u></a></li>
+</ul></div>
 

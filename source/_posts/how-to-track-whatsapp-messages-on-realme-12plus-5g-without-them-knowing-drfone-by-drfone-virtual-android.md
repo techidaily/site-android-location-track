@@ -1,7 +1,7 @@
 ---
 title: How to Track WhatsApp Messages on Realme 12+ 5G Without Them Knowing? | Dr.fone
-date: 2024-09-13T16:05:04.881Z
-updated: 2024-09-20T00:37:16.479Z
+date: 2025-02-11T22:47:01.822Z
+updated: 2025-02-12T21:46:12.347Z
 tags: 
   - virtual location change
   - location track
@@ -29,6 +29,10 @@ That means it is unlikely that tracking could be done directly through the app's
 
 Nowadays, the demand for monitoring WhatsApp messages has increased significantly. It is mainly due to the rise of cybercrimes. However, it's important to note that the most reliable tracking solutions often come with a price tag. That being said, a few free methods are available to answer **how to spy on WhatsApp messages Android free**. In this section, we will explore these options and their limitation:
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 1. Use Online WhatsApp Web to Track WhatsApp Messages
 
 [WhatsApp Web](https://drfone.wondershare.com/whatsapp/whatsapp-web-not-working.html) is a feature provided by WhatsApp. It allows users to access their WhatsApp accounts on a web browser. That makes it a convenient way to track WhatsApp messages remotely. However, it is as long as you can access the target device for the initial setup. To set up WhatsApp Web, you will need physical access to the Realme 12+ 5G device on which the targeted WhatsApp account is active.
@@ -39,6 +43,10 @@ Finally, point the Realme 12+ 5G device's camera toward the QR code displayed on
 
 ![use whatsapp web](https://images.wondershare.com/drfone/article/2023/07/track-whatsapp-messages-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 2. Use WhatsApp Linked Devices to Track WhatsApp Messages
 
 WhatsApp Linked Devices is a feature introduced by WhatsApp. It allows users to connect their WhatsApp accounts to multiple devices simultaneously. This feature enables seamless synchronization of messages across devices. Thus, it can be used to track WhatsApp messages. To set up WhatsApp Linked Devices, you will need physical access to the targeted device.
@@ -46,13 +54,6 @@ WhatsApp Linked Devices is a feature introduced by WhatsApp. It allows users to 
 Launch WhatsApp on the Realme 12+ 5G device, go to the menu, and select "Linked Devices." Now tap "Link a device" and use the QR code scanner to scan the code on your device. Once devices are linked, it will allow you to track the WhatsApp messages of the targeted person. Using this method needs physical access to the targeted device along with stable internet.
 
 ![link whatsapp to another device](https://images.wondershare.com/drfone/article/2023/07/track-whatsapp-messages-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 3. Use Google Drive Backup to Read Someone’s WhatsApp Messages
 
@@ -90,9 +91,17 @@ After purchasing the mSpy package of your choice, open the email to receive logi
 
 ![press the finish button](https://images.wondershare.com/drfone/article/2023/07/track-whatsapp-messages-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 6:** Afterward, choose "WhatsApp" from the left sidebar, and you can track the WhatsApp messages. It will also allow you to track WhatsApp calls, including all incoming and outgoing calls.
 
 ![access the mspy dashboard](https://images.wondershare.com/drfone/article/2023/07/track-whatsapp-messages-6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### For iPhone
 
@@ -111,6 +120,10 @@ After purchasing the mSpy package of your choice, open the email to receive logi
 **Step 4:** Once mSpy has accessed the data, select “WhatsApp” from the left side to access WhatsApp chats. Here you can track all the incoming and outgoing messages remotely.
 
 ![use mspy iphone dashboard](https://images.wondershare.com/drfone/article/2023/07/track-whatsapp-messages-10.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 2. Track WhatsApp Messages with Spyera
 
@@ -139,10 +152,7 @@ It allows you to track the sequence and timing of conversations. The MaxxSpy app
 ![use maxxspy dashboard](https://images.wondershare.com/drfone/article/2023/07/track-whatsapp-messages-12.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 4: How To Fake Your WhatsApp Location To Avoid Being Tracked by Others?
@@ -172,13 +182,6 @@ Connect your device to the computer and launch the “Virtual Location” from t
 Now, use the search box on the top left to enter your desired location. Once the entered location appears on the map, tap "Move Here" to change your location.
 
 ![press the move here button](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
 
@@ -250,9 +253,17 @@ Since it runs in stealth mode, it allowed me to track my boyfriend’s phone wit
 
 ![track my boyfriend’s phone-sign up KidsGuard Pro ](https://images.wondershare.com/drfone/article/2022/03/create-an-account-for-clevguard.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2\. Secondly, after buying the product, you need to download the KidsGuard Pro app on your target device. Please go to the My Products and Orders Management page and click "Setup Guide" to follow the instructions carefully and complete all settings on the target device.
 
 ![complete the settings](https://images.wondershare.com/drfone/article/2022/03/click-android-setup-guide.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 <iframe allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/kXtNaHFBoXo" id="video-iframe-t"></iframe>
 
@@ -265,13 +276,6 @@ Since it runs in stealth mode, it allowed me to track my boyfriend’s phone wit
 After following these instructions, I was also able to track my boyfriend without much trouble. KidsGuard Pro also provides a seamless way to track the social media activity on the target device, record calls, listen to its surroundings, etc. Furthermore, you can enable its Keylogging feature as well to get a comprehensive record of everything typed on the Realme 12+ 5G device. By using these amazing features, I was able to track my boyfriend’s phone without getting detected.
 
 Since KidsGuard Pro is compatible with all the leading Android and iOS devices, you can take its assistance without facing any setbacks. I used it to track my boyfriend’s phone and so can you. Nevertheless, before you proceed, make sure that you are not doing anything illegal. You should either own the phone you are tracking or inform the other person beforehand. This will prevent you from any unforeseen situation. Now when you know better, you can easily use KidsGuard Pro to track any Android or iOS device. Go ahead and give KidsGuard Pro a try and let us know about your experience in the comments below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 9 Best Phone Monitoring Apps for Realme 12+ 5G
 
@@ -463,6 +467,10 @@ To know more, visit <https://screentimelabs.com/>
 
 ![Phone Monitoring Apps-Screen Time Parental Control](https://images.wondershare.com/drfone/article/2017/10/15081778326970.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Features:**
 
 - Set bedtime/school time restrictions.
@@ -479,6 +487,10 @@ To know more, visit <https://screentimelabs.com/>
 - Does not support blocking websites.
 - Does not support monitoring calls/ messages etc.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 9: Norton Family Premier
 
 This smartphone monitor App helps your family explore the web safely. It offers excellent filter tools and sends informative reports regarding whereabouts and kids’ activities. It also helps your kids balance time between studies and web browsing. It makes the web a safer place for your kids.
@@ -486,19 +498,6 @@ This smartphone monitor App helps your family explore the web safely. It offers 
 To know more, visit: <https://in.norton.com/norton-family-premier>
 
 ![Phone Monitoring Apps-Norton Family Premier](https://images.wondershare.com/drfone/article/2017/10/15082190365710.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Features:**
 
@@ -530,5 +529,17 @@ The 9 Apps/software listed above are the best to monitor Android and iPhones. Ev
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/updated-become-a-streaming-star-utilizing-obs-capabilities-for-2024/"><u>[Updated] Become a Streaming Star Utilizing OBS Capabilities for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-step-by-step-for-beginner-3d-lut-masters/"><u>2024 Approved Step-by-Step for Beginner 3D LUT Masters</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-use-classic-nintendo-controllers-on-steam/"><u>How to Use Classic Nintendo Controllers on Steam</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-ways-to-track-honor-80-pro-straight-screen-edition-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Track Honor 80 Pro Straight Screen Edition without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-ways-to-track-vivo-s17-pro-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Track Vivo S17 Pro without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/pro-video-illumination-top-strategies-for-immaculate-cinematography-for-2024/"><u>Pro Video Illumination Top Strategies for Immaculate Cinematography for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-tracking-apps-to-track-oneplus-12r-without-them-knowing-drfone-by-drfone-virtual-android/"><u>Top 5 Tracking Apps to Track OnePlus 12R without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-time-lapse-made-easy-two-proven-methods-for-creating-breathtaking-videos-for-2024/"><u>Updated Time Lapse Made Easy Two Proven Methods for Creating Breathtaking Videos for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-samsung-galaxy-a15-5g-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Samsung Galaxy A15 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/whats-next-for-apple-discovering-clues-about-its-revolutionary-game-feature-exclusive-reports/"><u>What's Next for Apple? Discovering Clues About Its Revolutionary Game Feature | Exclusive Reports</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Turn Off Google Location to Stop Tracking You on Itel S23 | Dr.fone
-date: 2025-01-26T01:41:39.416Z
-updated: 2025-01-31T04:48:57.156Z
+date: 2025-02-07T21:28:44.956Z
+updated: 2025-02-12T21:58:18.230Z
 tags: 
   - virtual location change
   - location track
@@ -25,6 +25,10 @@ In this article, we will discuss how Google employs location access on your mobi
 
 Location data generally helps us find reliable directions and pinpoint a particular place. But apart from that, this piece of information actually serves a bigger purpose. Google, in particular, employs location data to provide high-quality services tailored to specific preferences and necessities of the users. Each Google product relies heavily on location information and utilizes it for various reasons. To understand it better, check out the list below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### It is an essential component of most Google services
 
 ![google products](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-1.JPG)
@@ -39,7 +43,15 @@ The majority of online advertisements scattered all over the internet are run by
 
 ![google search results](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-2.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 The same thing goes for Google search results. This query engine uses location data to provide information relevant to the specific needs of the user. Let’s say you’re currently residing in Japan and looking for nearby coffee shops. Of course, it will be unhelpful if Google dispenses a list of coffee shops that aren’t located in your country. That’s why you shouldn’t turn off Google location tracking on your smartphone if you’re looking for precise and pertinent answers.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### It is used by Google to implement certain security protocols
 
@@ -83,10 +95,6 @@ Let’s say you don’t want to cut the entire location access across your smart
 
 ![google on app list](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-6.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 4:** Click **Permissions.**
 
 ![google app permissions](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-7.jpg)
@@ -95,13 +103,13 @@ Let’s say you don’t want to cut the entire location access across your smart
 
 ![location access for google](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-8.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 6:** Lastly, click **Don’t Allow.** Alternatively, you may instead select **Allow Only While Using the App** or **Ask Every Time** if you wish to grant Google conditional access to your location data.
 
 ![disallow location access on google](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-9.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 3: Toggle off the Timeline feature on your Google Account
 
@@ -123,10 +131,6 @@ Timeline is a special Google feature that keeps a record of your location check-
 
 ![data and privacy settings](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-12.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 5:** Find and click **Timeline.**
 
 ![timeline settings](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-13.jpg)
@@ -135,10 +139,6 @@ Timeline is a special Google feature that keeps a record of your location check-
 
 ![turn off timeline settings](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-14.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 #### For web users
 
 **Step 1:** Visit the [<u>official website</u>](https://myactivity.google.com/myactivity) of My Google Activity. Right after, log in to the Gmail account you particularly use on your Itel S23 mobile device.
@@ -146,6 +146,10 @@ Timeline is a special Google feature that keeps a record of your location check-
 **Step 2:** On the main dashboard, click **Timeline.**
 
 ![my google activity settings](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-15.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 3:** Scroll it down and then click the **Turn Off** button.
 
@@ -160,6 +164,10 @@ If Timeline is previously activated on your Itel S23, chances are Google Maps ha
 **Step 2:** Click the **Profile** icon at the top-right corner of the screen.
 
 ![google maps profile](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-17.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 3:** Then click **Your Timeline.**
 
@@ -193,17 +201,9 @@ Google surely understands that some users are uncomfortable sharing their wherea
 
 ![read location description](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 7:** The location registered on your Itel S23 mobile device will now be replaced with your modified whereabouts. Verify the changes applied on your smartphone by checking Google Maps and searching for your current location. One way or another, it must show the altered result.
 
 **NOTE:** If you want to restore your original location settings, simply disconnect your smartphone from the computer and restart it.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -218,6 +218,10 @@ As scary as it sounds, it is actually quite possible that someone is spying on y
 The biggest question most iPhone users have is; can someone spy on my iPhone? The truth is, it is actually quite easy to spy on an iPhone remotely thanks to the availability of many kinds of spy or monitoring programs. A hacker can also gain access to your device’s information through phishing websites. If you have ever seen those ads while browsing that tell you’ve won something spectacular even though you didn’t enter a competition, clicking on the ad often leads to a phishing website where your information could be severely compromised.
 
 It is important to note that this can happen to anyone partly due to the sophisticated ways that hackers can infiltrate a device. Thanks to spying software, the person spying on your iPhone doesn’t even need to be a sophisticated hacker. They can be your spouse or employer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: How to Detect Spyware on iPhone?
 
@@ -241,10 +245,6 @@ Do you notice that your iPhone is warm even when you are not using it? If this h
 
 ![Detect Spyware on iPhone-notice that your iPhone is warm](https://images.wondershare.com/drfone/article/2017/10/15079738897604.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 #### **4\. Background Noises**
 
 When you hear background noises during a call that have nothing to do with location, there may be active spyware on your device. This particularly happens when the spyware is there to monitor your phone calls.
@@ -267,15 +267,15 @@ To do it go to Settings > General > Software Update and tap “Download and Inst
 
 ![Remove Spyware from iPhone-Update your iOS](https://images.wondershare.com/drfone/article/2017/10/15074749074576.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 #### **3\. Restore your Device**
 
 Restoring your iPhone in iTunes can also be quite effective in getting rid of spyware. Like an update, a restore often eliminates the spyware by deleting all bugs affecting the system. Be advised however that a restore will often erase all data and contents on the Itel S23 device so be sure to have a backup handy before doing this.
 
 ![Remove Spyware from iPhone-Restore your Device](https://images.wondershare.com/drfone/article/2017/10/15074748849333.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Considering how easy it is for someone to spy on you, the best thing you can do is remain vigilant. If you notice some of the signs we’ve mentioned in Part 2 above, take the necessary steps to remove the spyware. It is also important to avoid clicking on suspicious links especially in emails from people you don’t know.
 
@@ -358,7 +358,11 @@ _Cons_
 ![Tracking Apps to Track Phone-flexispy](https://images.wondershare.com/drfone/article/2017/10/15082607195947.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 4: The One Spy
@@ -386,10 +390,6 @@ _Cons_
 • The app is quite pricey compared to other counterparts
 
 ![Tracking Apps to Track Phone-The One Spy](https://images.wondershare.com/drfone/article/2017/10/15082607535154.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 5: Hoverwatch
 
@@ -433,15 +433,21 @@ Now when you know about some of the best tracking apps out there, you can easily
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-win10s-elite-screen-recording-and-capture-software-selection/"><u>2024 Approved Win10's Elite Screen Recording & Capture Software Selection</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-tecno-spark-20-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost Tecno Spark 20 for Free? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-tecno-camon-30-pro-5g-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Tecno Camon 30 Pro 5G Location by Number | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-xiaomi-civi-3-disney-100th-anniversary-edition-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on Xiaomi Civi 3 Disney 100th Anniversary Edition Without Them Knowing? | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-11-window-wisdom-the-secret-techniques-youve-missed-out-on/"><u>In 2024, 11 Window Wisdom The Secret Techniques You've Missed Out On</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-infinix-note-30-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How can I get more stardust in pokemon go On Infinix Note 30 Pro? | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-the-issue-why-teredo-cant-meet-requirements/"><u>Resolving the Issue: Why Teredo Can't Meet Requirements</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/solutions-to-spy-on-oneplus-ace-3-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>Solutions to Spy on OnePlus Ace 3 with and without jailbreak | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/top-high-resolution-gaming-tools-for-uhd-enthusiasts/"><u>Top High Resolution Gaming Tools for UHD Enthusiasts</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-ranked-gaming-laptop-showdown-of-2024-including-razer-acer-msi-and-others-an-expert-review-by-zdnet/"><u>Top-Ranked Gaming Laptop Showdown of 2024: Including Razer, Acer, MSI & Others - An Expert Review by ZDNet</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-the-art-of-crafting-engaging-social-media-slideshows-on-fb/"><u>[New] 2024 Approved The Art of Crafting Engaging Social Media Slideshows on FB</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-elevate-your-content-the-secrets-to-increased-subscribers/"><u>[New] In 2024, Elevate Your Content The Secrets to Increased Subscribers</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-creators-vs-youtubes-profit-policies-for-2024/"><u>[Updated] Creators Vs. YouTube's Profit Policies for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-settled-silent-shorter-showcase-ended/"><u>[Updated] Settled Silent Shorter Showcase Ended</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-hilarious-threads-the-tweeter-treasury/"><u>2024 Approved Hilarious Threads The Tweeter Treasury</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-solutions-to-find-your-vivo-y27-4g-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>3 Solutions to Find Your Vivo Y27 4G Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-nokia-c32-drfone-by-drfone-virtual-android/"><u>How Do I Stop Someone From Tracking My Nokia C32? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-google-pixel-fold-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Google Pixel Fold Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-15-to-other-iphone-11-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 15 To Other iPhone 11 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-your-iphone-15-plus-passcode-4-easy-methods-with-or-without-itunes-by-drfone-ios/"><u>How to Unlock Your iPhone 15 Plus Passcode 4 Easy Methods (With or Without iTunes)</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-engage-with-creativity-top-9-websites-catering-to-artistic-3d-typography-needs/"><u>In 2024, Engage with Creativity Top 9 Websites Catering to Artistic 3D Typography Needs</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-enhancing-storytelling-with-jump-cuts-technique/"><u>In 2024, Enhancing Storytelling with Jump Cuts Technique</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-samsung-galaxy-f34-5g-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Samsung Galaxy F34 5G by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-4-ways-to-trace-oppo-a38-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 4 Ways to Trace Oppo A38 Location | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-zte-axon-40-lite-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Phone Number Locators To Track ZTE Axon 40 Lite Location | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-6-appsservices-to-trace-any-oppo-f23-5g-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>Top 6 Apps/Services to Trace Any Oppo F23 5G Location By Mobile Number | Dr.fone</u></a></li>
 </ul></div>
 

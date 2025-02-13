@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Turn Off Google Location to Stop Tracking You on Honor 90 GT | Dr.fone
-date: 2025-01-27T04:03:06.303Z
-updated: 2025-01-31T02:42:54.793Z
+date: 2025-02-11T21:42:32.360Z
+updated: 2025-02-12T20:14:35.044Z
 tags: 
   - virtual location change
   - location track
@@ -95,6 +95,10 @@ Let’s say you don’t want to cut the entire location access across your smart
 
 ![disallow location access on google](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-9.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 3: Toggle off the Timeline feature on your Google Account
 
 Timeline is a special Google feature that keeps a record of your location check-ins and routes taken for future reference. You can review it on the Google Maps app in case you need to visit the same place again. On the other hand, you can easily toggle it off if you don’t want Google tracking down your specific whereabouts. Here’s the guide on how to do it in easy steps.
@@ -119,13 +123,13 @@ Timeline is a special Google feature that keeps a record of your location check-
 
 ![timeline settings](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-13.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 6:** Scroll down and then tap the **Turn Off** button.
 
 ![turn off timeline settings](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-14.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### For web users
 
@@ -135,13 +139,13 @@ Timeline is a special Google feature that keeps a record of your location check-
 
 ![my google activity settings](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-15.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3:** Scroll it down and then click the **Turn Off** button.
 
 ![turn off timeline](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-16.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 4: Remove visits on Google Maps
 
@@ -160,10 +164,6 @@ If Timeline is previously activated on your Honor 90 GT, chances are Google Maps
 **Step 4:** Click **Places.** Scroll down and then click **Visited All Places** just below the map.
 
 ![google maps places](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-19.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 5:** Pick a location and click the **Three-dotted menu** button next to it. From there, select **Remove All Visits.**
 
@@ -185,10 +185,6 @@ Google surely understands that some users are uncomfortable sharing their wherea
 
 ![enter your preferred location](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 6:** The description of your chosen location will be then flashed on the screen. Read the details and make sure they are accurate. After that, click **Move Here** to proceed.
 
 ![read location description](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
@@ -204,6 +200,10 @@ At some point, we cannot deny that Google location services make our lives a lot
 ## 3 Ways to Track Honor 90 GT without Them Knowing
 
 Now the method to track a cell phone without them knowing has become an after one’s fancy. There are several apps that might help you in this case, with wide and advanced features. Hence, with the changes in technology, those days have gone for you with a flock of lies. There is no need to handle this synopsis as in this passage, I am going to share some of the best tracking apps and how to track a cell phone without them knowing.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: How to track Android or iPhone using mSpy?
 
@@ -223,6 +223,10 @@ Step 3: After that, you will be allowed to open Control Panel. From there you ca
 
 Following the above simple steps will enable you to track a Cell Phone without them Knowing.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: How to track Android or iPhone using FlexiSPY?
 
 [FlexiSPY](https://www.flexispy.com/) is a commonly used tracking system for cell phones. It assures one of the best ways to track a cell phone without them knowing. But you need to jailbreak iPhone before installing FlexiSPY. For android devices, the root service is required for certain advanced features.
@@ -230,6 +234,10 @@ Following the above simple steps will enable you to track a Cell Phone without t
 After installing the Flexispy on the Honor 90 GT device you want to monitor, all the relevant information you want to monitor (GPS location, calls, texts) will upload to its server without knowing. The only thing you need to do is log in to your Flexispy account and click "Location" if you would like to track a cell phone.
 
 ![track a cell phone without them knowing-the flexispy](https://images.wondershare.com/drfone/article/2022/02/track-cell-phone-with-flexispy-02.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Except for viewing the Honor 90 GT device location data, you can also export GPS data to use on the mapping application you like.
 
@@ -244,11 +252,7 @@ Step 2: Click the "Download" button on the pop-up window that appears.
 ![download gps datay](https://images.wondershare.com/drfone/article/2022/02/track-cell-phone-with-flexispy-04.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 3: How to secretly track someone
@@ -272,7 +276,7 @@ Step 5: The target device location will be shared with you. You will get a pop-u
 ![track a cell phone without them knowing-click Don’t share](https://images.wondershare.com/drfone/article/2017/11/15100183459135.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step 6: Now go to your device, open the “Find my friends” app and click the icon of the target device. You will get a notification, where they are now when they leave from the place etc.
@@ -280,16 +284,12 @@ Step 6: Now go to your device, open the “Find my friends” app and click the 
 ![track a cell phone without them knowing-get a notification](https://images.wondershare.com/drfone/article/2017/11/15100183691634.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Note: If you want to hide the “Find my friends” app from the target device you can use the dock method which will be easy but the folder method is very tough.
 
 ![track a cell phone without them knowing-hide the Find my friends app](https://images.wondershare.com/drfone/article/2017/11/15100183889994.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 4: Frequently Asked Questions
 
@@ -328,7 +328,7 @@ Most spyware will use up your data to work. That’s because they have to receiv
 ![Detect Spyware on iPhone-via Data Usage Spikes](https://images.wondershare.com/drfone/article/2017/10/15074739266945.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### **2\. The Cydia App**
@@ -387,24 +387,19 @@ Considering how easy it is for someone to spy on you, the best thing you can do 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-assessing-64128gbs-video-storing-potential/"><u>[New] In 2024, Assessing 64/128GB's Video-Storing Potential</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-innovative-vocal-alteration-apps-beyond-echo-magic/"><u>[Updated] In 2024, Innovative Vocal Alteration Apps Beyond Echo Magic</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/3-solutions-to-find-your-oppo-a56s-5g-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>3 Solutions to Find Your Oppo A56s 5G Current Location of a Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/3-ways-to-track-poco-f5-pro-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track Poco F5 Pro 5G without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-change-your-apple-id-password-on-your-apple-iphone-xs-drfone-by-drfone-ios/"><u>How To Change Your Apple ID Password On your Apple iPhone XS | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-sign-a-word-2003-document-online-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Sign a Word 2003 document online</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-honor-90-pro-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Honor 90 Pro Location by Number | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-asus-rog-phone-8-drfone-by-drfone-virtual-android/"><u>In 2024, Best Anti Tracker Software For Asus ROG Phone 8 | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-honor-play-8t-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from Honor Play 8T Phones with/without a PC</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-oneplus-nord-n30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on OnePlus Nord N30 5G | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-samsung-galaxy-a05-for-free-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track a Lost Samsung Galaxy A05 for Free? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-turn-off-google-location-to-stop-tracking-you-on-oppo-reno-9a-drfone-by-drfone-virtual-android/"><u>In 2024, How to Turn Off Google Location to Stop Tracking You on Oppo Reno 9A | Dr.fone</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/is-the-portable-gaming-experience-worth-it-steam-deck-review/"><u>Is the Portable Gaming Experience Worth It? - Steam Deck Review</u></a></li>
-<li><a href="https://some-tips.techidaily.com/navigating-your-initial-months-a-comprehensive-blueprint-for-new-telecommuters-zdnet/"><u>Navigating Your Initial Months: A Comprehensive Blueprint for New Telecommuters | ZDNet</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1723807969454-revive-your-chatgpt-experience-using-our-5-easy-fixes/"><u>Revive Your ChatGPT Experience Using Our 5 Easy Fixes</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-vivo-y200e-5g-drfone-by-drfone-virtual-android/"><u>Top 10 Best Spy Watches For your Vivo Y200e 5G | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-4-ways-to-trace-samsung-galaxy-f14-5g-location-drfone-by-drfone-virtual-android/"><u>Top 4 Ways to Trace Samsung Galaxy F14 5G Location | Dr.fone</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/transform-your-entertainment-space-with-samsung-qn55q6rafxza-the-smart-4k-uhd-hdr10plus-television/"><u>Transform Your Entertainment Space with Samsung QN55Q6#RAFXZA - The Smart, 4K UHD HDR10+ Television</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-mastering-sound-integration-adding-audio-to-your-ae-projects-for-2024/"><u>Updated Mastering Sound Integration Adding Audio to Your AE Projects for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-expertly-reviewed-7-top-voice-changer-applications/"><u>[New] Expertly Reviewed 7 Top Voice Changer Applications</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-essential-screen-recording-software-list-for-vloggers/"><u>[New] In 2024, Essential Screen Recording Software List for Vloggers</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-instagram-fraud-busters-efficient-and-economical-methods/"><u>[Updated] 2024 Approved Instagram Fraud Busters Efficient & Economical Methods</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-complete-unpacking-of-ricohs-theta-vr-solution/"><u>2024 Approved Complete Unpacking of Ricoh's Theta VR Solution</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-honor-v-purse-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost Honor V Purse for Free? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-honor-90-gt-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Honor 90 GT Location by Number | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-nokia-g310-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Nokia G310 | Dr.fone</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-channel-your-inner-narrative-impactful-life-stories-yt/"><u>In 2024, Channel Your Inner Narrative Impactful Life Stories YT</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-realme-note-50-drfone-by-drfone-virtual-android/"><u>In 2024, How Do I Stop Someone From Tracking My Realme Note 50? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-motorola-moto-g13-drfone-by-drfone-virtual-android/"><u>In 2024, How to Spy on Text Messages from Computer & Motorola Moto G13 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-honor-magic-5-lite-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Honor Magic 5 Lite to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-turn-off-google-location-to-stop-tracking-you-on-oneplus-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Turn Off Google Location to Stop Tracking You on OnePlus 11 5G | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tailoring-creation-and-modification-dates-on-windows-folders/"><u>Tailoring Creation & Modification Dates on Windows Folders</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-unlock-screen-recording-potential-tips-and-tricks-for-filmora-scrn-users-for-2024/"><u>Updated Unlock Screen Recording Potential Tips and Tricks for Filmora Scrn Users for 2024</u></a></li>
 </ul></div>
 
